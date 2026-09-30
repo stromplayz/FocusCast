@@ -1,0 +1,6 @@
+# TTS Beta FL — engines
+# torch/torchaudio are installed first from the CPU wheel index (see workflow / devcontainer)
+voxcpm==2.0.3
+kokoro>=0.7.16
+soundfile>=0.12.1
+numpy>=1.26
