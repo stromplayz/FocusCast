@@ -55,8 +55,13 @@ def read_paragraphs(path: Path) -> list[str]:
 
 
 def sentence_chunks(paragraph: str, max_chars: int = 220) -> list[str]:
-    """Split a paragraph into TTS-sized chunks (<= max_chars) on sentence bounds."""
-    sentences = [s.strip() for s in re.split(r"(?<=[.!?…])\s+", paragraph) if s.strip()]
+    """Split a paragraph into TTS-sized chunks (<= max_chars) on sentence bounds.
+    Common abbreviations (Dr., e.g., …) are protected so they don't split mid-name."""
+    protected = paragraph
+    for abbr in ("Dr.", "Mr.", "Mrs.", "Ms.", "Prof.", "St.", "vs.", "e.g.", "i.e.", "etc."):
+        protected = protected.replace(abbr, abbr.replace(".", "\x00"))
+    sentences = [s.strip().replace("\x00", ".")
+                 for s in re.split(r"(?<=[.!?…])\s+", protected) if s.strip()]
     chunks: list[str] = []
     buf = ""
     for s in sentences:
@@ -68,6 +73,42 @@ def sentence_chunks(paragraph: str, max_chars: int = 220) -> list[str]:
     if buf:
         chunks.append(buf)
     return chunks
+
+
+def parse_header(raw_text: str) -> dict:
+    """Parse '# Key: value' metadata lines from a script.
+    Known keys: Title, Series, Series No, Season, Season No, Episode No,
+    Engine, Narration, Host, Expert, Keywords, Description, Language."""
+    hdr: dict = {}
+    for ln in raw_text.splitlines():
+        s = ln.strip()
+        if not s.startswith("#"):
+            if s:
+                break  # first speakable line reached — header is over
+            continue
+        m = re.match(r"#\s*([A-Za-z][A-Za-z0-9 '&/.-]*?)\s*:\s*(.+)$", s)
+        if m:
+            key = m.group(1).strip().lower().replace(" ", "_")
+            hdr[key] = m.group(2).strip()
+    return hdr
+
+
+def split_speaker(paragraph: str, known_names: set[str]) -> tuple[str | None, str]:
+    """If a paragraph starts with 'Name:' and Name is a known character, split it off."""
+    for name in sorted(known_names, key=len, reverse=True):
+        if paragraph.lower().startswith(name.lower() + ":"):
+            return name, paragraph[len(name) + 1:].strip()
+    return None, paragraph
+
+
+def load_presets(path: str | None) -> dict:
+    if not path or not Path(path).exists():
+        return {}
+    try:
+        return json.loads(Path(path).read_text(encoding="utf-8"))
+    except Exception:
+        log(f"presets file unreadable: {path} — ignoring")
+        return {}
 
 
 def silence(seconds: float, sr: int) -> np.ndarray:
@@ -169,21 +210,66 @@ def synth_voxcpm(args: argparse.Namespace, paragraphs: list[str], out_wav: Path)
     return len(audio) / sr, sr
 
 
-def synth_kokoro(args: argparse.Namespace, paragraphs: list[str], out_wav: Path) -> tuple[float, int]:
+def synth_kokoro(args: argparse.Namespace, script: list[tuple[str | None, str]],
+                 out_wav: Path) -> tuple[float, int, dict]:
+    """Kokoro-82M renderer with voicepack presets and single/dual narration.
+
+    `script` is a list of (speaker_or_None, paragraph) turns. Voices come from
+    the presets file by character name; the default narrator speaks untagged text.
+    """
     from kokoro import KPipeline
 
-    sr = 24000
-    log("loading Kokoro-82M fallback engine…")
-    pipe = KPipeline(lang_code="a")  # 'a' = American English
-    pieces: list[np.ndarray] = []
+    presets = getattr(args, "_presets", {})
+    chars = presets.get("characters", {})
+    default_char = (getattr(args, "_hdr", {}).get("narrator")
+                    or presets.get("default_narrator", "Narrator"))
 
-    for pi, par in enumerate(paragraphs, 1):
-        for chunk in sentence_chunks(par, max_chars=280):
-            log(f"  [{pi}/{len(paragraphs)}] “{chunk[:46]}…”")
+    # names the splitter is allowed to match at the start of a paragraph
+    known = set(chars) | {default_char}
+    hdr = getattr(args, "_hdr", {})
+    for role in ("host", "expert"):
+        if hdr.get(role):
+            known.add(hdr[role])
+
+    turns: list[tuple[str, str]] = []
+    explicit = False
+    for par in script:
+        spk, txt = split_speaker(par, known - {default_char})
+        if spk:
+            explicit = True
+        else:
+            spk2, txt2 = split_speaker(par, {default_char})
+            spk, txt = (spk2 or default_char), txt2
+        turns.append((spk, txt))
+
+    narration = "dual" if explicit else "single"
+
+    def voice_of(speaker: str) -> tuple[str, str, float]:
+        c = chars.get(speaker, {})
+        return (c.get("voice", args.voice), c.get("lang_code", "a"),
+                float(c.get("speed", 1.0)))
+
+    log(f"loading Kokoro-82M ({narration} narration · voices: "
+        f"{', '.join(f'{s}={voice_of(s)[0]}' for s in dict.fromkeys(t[0] for t in turns))})…")
+    pipes: dict[str, KPipeline] = {}
+
+    def pipeline(lang: str) -> KPipeline:
+        if lang not in pipes:
+            pipes[lang] = KPipeline(lang_code=lang)
+        return pipes[lang]
+
+    sr = 24000
+    pieces: list[np.ndarray] = []
+    for ti, (speaker, text) in enumerate(turns):
+        voice, lang, speed = voice_of(speaker)
+        pipe = pipeline(lang)
+        chunks = sentence_chunks(text, max_chars=280)
+        for ci, chunk in enumerate(chunks):
+            log(f"  [{speaker}] “{chunk[:46]}…”")
             try:
-                gen = pipe(chunk, voice=args.voice, speed=float(args.speed))
+                gen = pipe(chunk, voice=voice, speed=speed)
             except TypeError:  # older kokoro without speed kwarg
-                gen = pipe(chunk, voice=args.voice)
+                gen = pipe(chunk, voice=voice)
             for result in gen:
                 audio = getattr(result, "audio", None)
                 if audio is None:
@@ -192,30 +278,43 @@ def synth_kokoro(args: argparse.Namespace, paragraphs: list[str], out_wav: Path)
                     audio = audio.detach().cpu().numpy()
                 pieces.append(fade(np.asarray(audio, dtype=np.float32).reshape(-1), sr))
                 pieces.append(silence(args.pause_sentence, sr))
-        pieces.append(silence(args.pause_paragraph, sr))
+        pieces.append(silence(args.pause_turn, sr))
+        if (ti + 1) % 8 == 0:
+            pieces.append(silence(args.pause_paragraph - args.pause_turn, sr))
 
+    if not pieces:
+        raise RuntimeError("kokoro produced no audio")
     audio = np.concatenate(pieces).astype(np.float32)
     np.clip(audio, -1.0, 1.0, out=audio)
     sf.write(out_wav, audio, sr, subtype="PCM_16")
-    return len(audio) / sr, sr
+    info = {"narration": narration,
+            "voices": {s: voice_of(s)[0] for s in dict.fromkeys(t[0] for t in turns)}}
+    return len(audio) / sr, sr, info
 
 
 # --------------------------------------------------------------------------- packaging
 
-def to_mp3(wav: Path, mp3: Path, af_filter: str | None = None) -> None:
+def to_mp3(wav: Path, mp3: Path, af_filter: str | None = None, bitrate: str = "q3") -> None:
     cmd = ["ffmpeg", "-y", "-hide_banner", "-loglevel", "error", "-i", str(wav)]
     if af_filter:
         cmd += ["-af", af_filter]
-    cmd += ["-codec:a", "libmp3lame", "-qscale:a", "3", str(mp3)]
+    if bitrate.startswith("q"):
+        cmd += ["-codec:a", "libmp3lame", "-qscale:a", bitrate[1:]]
+    else:
+        cmd += ["-codec:a", "libmp3lame", "-b:a", bitrate]
+    cmd.append(str(mp3))
     subprocess.run(cmd, check=True)
 
 
 def main() -> None:
-    ap = argparse.ArgumentParser(description="TTS Beta FL episode renderer")
+    ap = argparse.ArgumentParser(description="Focus Cast episode renderer (Kokoro primary · VoxCPM special)")
     ap.add_argument("--episode", required=True, help="path to the episode .txt script")
     ap.add_argument("--outdir", default="output")
-    ap.add_argument("--engine", default="voxcpm", choices=["voxcpm", "kokoro", "auto"],
-                    help="voxcpm = primary (kokoro auto-fallback) · kokoro = force fallback · auto = try voxcpm then kokoro")
+    ap.add_argument("--engine", default="auto", choices=["auto", "voxcpm", "kokoro"],
+                    help="auto = use the script's '# Engine:' tag (default kokoro); "
+                         "voxcpm/kokoro force an engine")
+    ap.add_argument("--presets", default="library/presets/voices.json",
+                    help="character→voice preset file (dual narrator)")
     ap.add_argument("--model-id", default="openbmb/VoxCPM-0.5B",
                     help="VoxCPM checkpoint: openbmb/VoxCPM-0.5B (fast) or openbmb/VoxCPM2 (48 kHz flagship)")
     ap.add_argument("--timesteps", default=8, type=int, help="VoxCPM inference timesteps (4 fast → 10 quality)")
@@ -230,10 +329,13 @@ def main() -> None:
     ap.add_argument("--no-anchor", dest="anchor", action="store_false")
     ap.add_argument("--mp3-filter", default="highpass=f=60,loudnorm=I=-16:TP=-1.5:LRA=11",
                     help="ffmpeg -af chain applied when exporting MP3 (empty string disables)")
-    ap.add_argument("--voice", default="af_heart", help="Kokoro voice id (fallback engine)")
-    ap.add_argument("--speed", default=1.0, type=float, help="Kokoro speed (fallback engine)")
-    ap.add_argument("--pause-sentence", default=0.18, type=float)
-    ap.add_argument("--pause-paragraph", default=0.55, type=float)
+    ap.add_argument("--mp3-bitrate", default="q3",
+                    help="'qN' = LAME VBR quality (q3 default) or a CBR rate like '96k' for library episodes")
+    ap.add_argument("--voice", default="af_heart", help="fallback Kokoro voice id (no preset match)")
+    ap.add_argument("--speed", default=1.0, type=float, help="Kokoro speed (fallback engine, no preset match)")
+    ap.add_argument("--pause-sentence", default=0.14, type=float)
+    ap.add_argument("--pause-turn", default=0.32, type=float, help="pause between speaker turns")
+    ap.add_argument("--pause-paragraph", default=0.62, type=float)
     args = ap.parse_args()
 
     episode_path = Path(args.episode)
@@ -241,36 +343,55 @@ def main() -> None:
     outdir.mkdir(parents=True, exist_ok=True)
     stem = episode_path.stem
 
+    raw_text = episode_path.read_text(encoding="utf-8")
+    hdr = parse_header(raw_text)
+    args._hdr = hdr
+    args._presets = load_presets(args.presets)
+
     paragraphs = read_paragraphs(episode_path)
     words = sum(len(p.split()) for p in paragraphs)
-    log(f"episode: {episode_path} · paragraphs={len(paragraphs)} · words={words} · "
-        f"est ≈{words / 150:.1f} min @150 wpm")
+    log(f"episode: {episode_path.name} · title={hdr.get('title', '?')} · paragraphs={len(paragraphs)} "
+        f"· words={words} · est ≈{words / 150:.1f} min @150 wpm")
 
-    engines = ["voxcpm", "kokoro"] if args.engine == "auto" else [args.engine]
-    if args.engine == "voxcpm":
-        engines.append("kokoro")  # automatic safety net
+    # engine resolution: script tag wins in auto mode (kokoro is the library default)
+    primary = args.engine if args.engine != "auto" else hdr.get("engine", "kokoro").lower()
+    engines = [primary] + ("kokoro" if primary == "voxcpm" else [])
     engines = list(dict.fromkeys(engines))
+    log(f"engine order: {' → '.join(engines)} (script tag: {hdr.get('engine', 'none')})")
+
+    # voxcpm is single-voice: strip 'Name:' prefixes so they aren't read aloud
+    if primary == "voxcpm":
+        known = set(args._presets.get("characters", {})) | {args._presets.get("default_narrator", "Narrator")}
+        for role in ("host", "expert"):
+            if hdr.get(role):
+                known.add(hdr[role])
+        paragraphs = [split_speaker(p, known)[1] for p in paragraphs]
 
     meta: dict = {
-        "episode": str(episode_path),
+        "episode_file": str(episode_path),
+        "stem": stem,
         "words": words,
         "generated_at_utc": datetime.now(timezone.utc).isoformat(),
     }
+    # every '# Key: value' tag lands in meta.json → master.json picks it up
+    meta.update(hdr)
+    if "keywords" in hdr:
+        meta["keywords"] = [k.strip() for k in hdr["keywords"].split(",") if k.strip()]
+
     duration, sr = 0.0, 0
     for engine in engines:
         out_wav = outdir / f"{stem}.wav"
         try:
             log(f"=== engine: {engine} ===")
             if engine == "voxcpm":
-                duration, sr = synth_voxcpm(args, paragraphs, out_wav)
+                duration, sr = synth_voxcpm(args, paragraphs, out_wav)[:2]
                 meta.update(engine=engine, model_id=args.model_id,
                             inference_timesteps=args.timesteps, cfg=args.cfg,
                             reference_wav=args.reference_wav or None,
                             anchor_voice=bool(getattr(args, "anchor_used", False)))
             else:
-                duration, sr = synth_kokoro(args, paragraphs, out_wav)
-                meta.update(engine=engine, model_id="hexgrad/Kokoro-82M",
-                            voice=args.voice, speed=args.speed)
+                duration, sr, info = synth_kokoro(args, paragraphs, out_wav)
+                meta.update(engine=engine, model_id="hexgrad/Kokoro-82M", **info)
             meta.update(sample_rate=sr, duration_sec=round(duration, 1),
                         duration_min=round(duration / 60, 2))
             break
@@ -284,7 +405,7 @@ def main() -> None:
 
     out_mp3 = outdir / f"{stem}.mp3"
     try:
-        to_mp3(out_wav, out_mp3, args.mp3_filter or None)
+        to_mp3(out_wav, out_mp3, args.mp3_filter or None, args.mp3_bitrate)
         meta["files"] = [out_wav.name, out_mp3.name]
     except Exception as exc:
         log(f"ffmpeg mp3 conversion skipped ({exc}); keeping WAV only")
@@ -293,7 +414,7 @@ def main() -> None:
     meta_path = outdir / f"{stem}.meta.json"
     meta_path.write_text(json.dumps(meta, indent=2) + "\n", encoding="utf-8")
 
-    log(f"DONE · duration {duration / 60:.2f} min ({duration:.1f}s) · sr={sr} Hz")
+    log(f"DONE · {meta.get('title', stem)} · duration {duration / 60:.2f} min ({duration:.1f}s) · sr={sr} Hz")
     log(f"files: {out_wav} · {out_mp3} · {meta_path}")
 
 

@@ -1,33 +1,40 @@
-name: Render Episode (Kaggle GPU)
+name: Focus Cast · Render Episodes (Kaggle GPU)
 
-# Full automation loop:
-#   1. Estimate render time (calibrated from real T4 runs)
-#   2. Push the render job to Kaggle's free GPU
-#   3. Poll until the kernel completes
-#   4. Pull the audio back and store it in rendered/
-#   5. Commit rendered/ to the repo + publish a timing report
+# Focus Cast by focuslinks.in — fully automated library factory:
+#   1. Estimate the render time for the batch (calibrated estimator)
+#   2. Push ONE Kaggle GPU kernel that renders every selected episode
+#      (each script's '# Engine:' tag picks kokoro or voxcpm, voices from presets)
+#   3. Pull the audio back into the library hierarchy:
+#      rendered/series-NN-slug/season-NN-slug/ep-NN-title-slug/
+#   4. Rebuild library/master.json (raw mp3 URLs + durations + all metadata)
+#   5. Commit both + upload artifact + publish timing report
 
 on:
   workflow_dispatch:
     inputs:
-      episode_file:
-        description: "Episode text file (repo path)"
+      episodes:
+        description: "Episode scripts (repo paths, comma-separated)"
         required: false
-        default: "scripts/episodes/cochlea.txt"
+        default: >-
+          library/series/series-01-optometry-foundations/season-01/S01E01-what-is-optometry.txt,
+          library/series/series-01-optometry-foundations/season-01/S01E02-what-does-an-optometrist-do.txt,
+          library/series/series-01-optometry-foundations/season-01/S01E03-the-scope-of-optometric-practice.txt,
+          library/series/series-01-optometry-foundations/season-01/S01E04-optometry-and-eye-care.txt,
+          library/series/series-01-optometry-foundations/season-01/S01E05-optometrist-ophthalmologist-and-optician.txt
       engine:
-        description: "Engine: voxcpm | kokoro"
+        description: "auto = each script's '# Engine:' tag (recommended) | kokoro | voxcpm"
         required: false
-        default: "voxcpm"
-      model_id:
-        description: "VoxCPM checkpoint (VoxCPM2 = 48kHz flagship, recommended on GPU)"
+        default: "auto"
+      mp3_bitrate:
+        description: "Library MP3 bitrate (96k mono recommended for spoken word)"
         required: false
-        default: "openbmb/VoxCPM2"
-      inference_timesteps:
-        description: "VoxCPM timesteps (GPU default 10 = quality)"
+        default: "96k"
+      timesteps:
+        description: "VoxCPM timesteps (only used if a script tags voxcpm)"
         required: false
         default: "10"
       cfg_value:
-        description: "Guidance scale (1.5–3.0)"
+        description: "VoxCPM guidance scale (only used if a script tags voxcpm)"
         required: false
         default: "2.0"
 
@@ -35,13 +42,13 @@ permissions:
   contents: write
 
 concurrency:
-  group: kaggle-render
+  group: focuscast-render
   cancel-in-progress: false
 
 jobs:
   render:
     runs-on: ubuntu-latest
-    timeout-minutes: 100
+    timeout-minutes: 120
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -65,43 +72,55 @@ jobs:
 
       - name: Estimate render time (no Kaggle call)
         run: |
-          EST=$(python scripts/kaggle_render_driver.py --estimate-only \
-                 --engine "${{ inputs.engine }}" \
-                 --episode "${{ inputs.episode_file }}" \
-               | python -c "import json,sys; d=json.load(sys.stdin); print(f\"{d['words']} words ≈ {d['chunks_est']} chunks → ~{d['eta_render_min']} min on GPU\")")
-          echo "EST=$EST" >> "$GITHUB_ENV"
+          EPISODES=$(echo "${{ inputs.episodes }}" | tr -d ' ')
+          ARGS=""
+          IFS=',' read -ra LIST <<< "$EPISODES"
+          for f in "${LIST[@]}"; do ARGS="$ARGS --episode $f"; done
+          python scripts/kaggle_render_driver.py --estimate-only \
+            --engine "${{ inputs.engine }}" $ARGS > estimate.json
+          cat estimate.json
           echo "### ⏱ Estimated before launch" >> "$GITHUB_STEP_SUMMARY"
-          echo "- **$EST** (+0–5 min Kaggle queue)" >> "$GITHUB_STEP_SUMMARY"
+          echo '```json' >> "$GITHUB_STEP_SUMMARY"
+          cat estimate.json >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          echo "(+0–5 min Kaggle queue)" >> "$GITHUB_STEP_SUMMARY"
 
       - name: Push kernel to Kaggle → wait for GPU render → pull audio into rendered/
         run: |
+          EPISODES=$(echo "${{ inputs.episodes }}" | tr -d ' ')
+          ARGS=""
+          IFS=',' read -ra LIST <<< "$EPISODES"
+          for f in "${LIST[@]}"; do ARGS="$ARGS --episode $f"; done
           python scripts/kaggle_render_driver.py \
-            --episode "${{ inputs.episode_file }}" \
             --engine "${{ inputs.engine }}" \
-            --model-id "${{ inputs.model_id }}" \
-            --timesteps "${{ inputs.inference_timesteps }}" \
+            --mp3-bitrate "${{ inputs.mp3_bitrate }}" \
+            --timesteps "${{ inputs.timesteps }}" \
             --cfg "${{ inputs.cfg_value }}" \
-            --out rendered
+            --slug focuscast-batch \
+            --out rendered --no-wav $ARGS
 
       - name: Show deliverables
-        run: ls -lh rendered/
+        run: find rendered -type f | sort
+
+      - name: Rebuild library/master.json (raw URLs + durations + metadata)
+        run: python scripts/update_master.py
 
       - name: Timing report (estimate vs actual)
         if: always()
         run: |
-          STEM=$(basename "${{ inputs.episode_file }}" .txt)
-          if [ -f "rendered/$STEM.timing.json" ]; then
-            python - "$STEM" >> "$GITHUB_STEP_SUMMARY" <<'PY'
-          import json, sys
-          stem = sys.argv[1]
-          t = json.load(open(f"rendered/{stem}.timing.json"))
+          if [ -f rendered/focuscast-batch.timing.json ]; then
+            python - >> "$GITHUB_STEP_SUMMARY" <<'PY'
+          import json
+          t = json.load(open("rendered/focuscast-batch.timing.json"))
           print("### ⏱ Actual render timing")
           print("| metric | value |")
           print("|---|---|")
-          print(f"| words | {t['words']} |")
+          print(f"| episodes | {t['episodes']} |")
+          print(f"| words total | {t['words_total']} |")
           print(f"| estimated render | {t['eta_render_min']} min |")
           print(f"| actual push→complete | {t['actual_push_to_complete_min']} min |")
           print(f"| total incl. download | {t['actual_total_min']} min |")
+          print(f"| delivered | {len(t.get('delivered', []))} episode(s) |")
           print(f"\nKernel: https://www.kaggle.com/code/{t['kernel']}")
           PY
           fi
@@ -109,23 +128,23 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: kaggle-episode-audio
+          name: focuscast-episodes
           path: |
-            rendered/*.mp3
-            rendered/*.wav
-            rendered/*.meta.json
+            rendered/**/*.mp3
+            rendered/**/*.meta.json
             rendered/*.timing.json
+            library/master.json
           retention-days: 30
           if-no-files-found: error
 
-      - name: Commit rendered audio back to repo
+      - name: Commit rendered audio + master.json back to repo
         run: |
-          git config user.name  "tts-beta-fl-bot"
+          git config user.name  "focuscast-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add rendered/
+          git add rendered/ library/master.json
           if git diff --cached --quiet; then
             echo "Nothing new to commit."
           else
-            git commit -m "feat(audio): Kaggle GPU render — ${{ inputs.episode_file }} [skip ci]"
+            git commit -m "feat(audio): Focus Cast render — ${{ inputs.episodes }} [skip ci]"
             git push
           fi

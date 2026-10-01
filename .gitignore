@@ -9,3 +9,4 @@ venv/
 .kaggle-probe/
 .kaggle-out-staging/
 __pycache__/
+rendered/**/*.wav

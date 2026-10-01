@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "library": "Focus Cast by focuslinks.in",
+  "notes": "Premade character presets — scripts reference characters by NAME (e.g. 'Dr. Meera:') and the renderer binds the voice here. Keep names stable across the whole library so narration stays consistent.",
+  "default_narrator": "Host",
+  "characters": {
+    "Host": {
+      "voice": "af_heart",
+      "lang_code": "a",
+      "speed": 1.0,
+      "style": "warm, curious host — asks what a first-year student would ask"
+    },
+    "Dr. Meera": {
+      "voice": "am_michael",
+      "lang_code": "a",
+      "speed": 0.97,
+      "style": "calm optometry professor — clear, patient, clinically precise"
+    },
+    "Dr. Arjun": {
+      "voice": "bm_george",
+      "lang_code": "b",
+      "speed": 0.97,
+      "style": "British-trained clinical lecturer — reserved, thorough (case discussions)"
+    },
+    "Narrator": {
+      "voice": "af_nova",
+      "lang_code": "a",
+      "speed": 1.0,
+      "style": "neutral documentary narrator — single-narrator episodes and intros"
+    }
+  },
+  "voicepacks": {
+    "_comment": "Raw Kokoro-82M voice ids available for custom presets (a=American en, b=British en)",
+    "american_female": ["af_heart", "af_bella", "af_nicole", "af_nova", "af_sky", "af_kore", "af_sarah", "af_river", "af_aoede", "af_jessica"],
+    "american_male": ["am_michael", "am_adam", "am_echo", "am_eric", "am_fenrir", "am_liam", "am_onyx", "am_puck"],
+    "british_female": ["bf_emma", "bf_isabella", "bf_alice", "bf_lily"],
+    "british_male": ["bm_george", "bm_lewis", "bm_daniel", "bm_fable"]
+  }
+}
