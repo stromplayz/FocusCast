@@ -2,9 +2,9 @@
 
 > Realistic, emotional, open-source text-to-speech — rendered entirely on **free GitHub compute**.
 
-![engine](https://img.shields.io/badge/engine-VoxCPM--0.5B-8A2BE2)
+![engine](https://img.shields.io/badge/engine-VoxCPM2_48kHz-8A2BE2)
 ![fallback](https://img.shields.io/badge/fallback-Kokoro--82M-00B4D8)
-![compute](https://img.shields.io/badge/compute-GitHub_Actions_%2B_Codespaces-181717)
+![compute](https://img.shields.io/badge/compute-GitHub_Actions_%E2%86%92_Kaggle_T4-181717)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 **TTS Beta FL** turns a plain-text episode script into a fully narrated audio file using
@@ -14,36 +14,50 @@ finished audio back to this repo, and uploads it as a downloadable artifact. The
 pipeline runs one-command inside GitHub Codespaces.
 
 ```
- episode .txt ──►  VoxCPM-0.5B (tokenizer-free TTS)  ──►  WAV ──►  MP3 ──┬──► committed to output/
- (script w/ emotion)     sentence chunks · cfg jitter                    ├──► Actions artifact
-                         paragraph pauses · 16 kHz                       └──► downloadable in 1 click
+ episode .txt ──► GitHub Actions workflow ──► Kaggle free GPU (Tesla T4)
+ (script w/         estimates the time          VoxCPM2 · 48 kHz · voice anchor
+  emotion)          (calibrated ETA)                │
+                        ▲                          ▼
+ rendered/ ◄── commit + artifact ◄── download ◄── render ~20 min
 ```
 
 ## 📻 Episodes
 
 | # | Title | Script | Audio | Rendered on |
 |---|-------|--------|-------|-------------|
-| 01 | *The Retina — The Camera That Thinks* | `scripts/episodes/retina.txt` | `output/retina.mp3` | GitHub Actions CPU (VoxCPM-0.5B) · re-rendered on Kaggle GPU (VoxCPM2) |
-| 02 | *The Cochlea — The Piano Inside Your Head* | `scripts/episodes/cochlea.txt` | `output/cochlea.mp3` | Kaggle GPU (VoxCPM2) |
+| 01 | *The Retina — The Camera That Thinks* | `scripts/episodes/retina.txt` | `output/retina.mp3` | GitHub Actions CPU (VoxCPM-0.5B) |
+| 02 | *The Cochlea — The Piano Inside Your Head* | `scripts/episodes/cochlea.txt` | `rendered/cochlea.mp3` | Kaggle T4 GPU (VoxCPM2, 48 kHz) · **21.7 min render** |
 
 The `scripts/episodes/` folder is the **Script folder** — drop any `.txt` there (blank line
 between paragraphs, `#` lines are comments) and it becomes a renderable episode.
 
-## ⚡ Fast path — render on Kaggle's free GPU (10-15× faster than Actions CPU)
+## ⚡ Full automation — GitHub Actions → Kaggle free GPU → `rendered/`
 
 GitHub Actions CPU needs ~75-90 min for a 10-minute episode. Kaggle hands out **free GPU
-sessions** (P100/T4, ~30 h/week), so this repo ships a pipeline where **GitHub sends the job
-to Kaggle, Kaggle renders on GPU, GitHub pulls the audio back and commits it**:
+sessions** (Tesla T4, ~30 h/week), so the **Render Episode (Kaggle GPU)** workflow does the
+whole loop with zero clicks after launch:
 
-1. Repo **Settings → Secrets and variables → Actions** must contain `KAGGLE_USERNAME` and
-   `KAGGLE_KEY` (from kaggle.com → Settings → API → Create New Token). Already configured ✓.
-   ⚠️ Kaggle requires a **phone-verified account** for GPU accelerators.
-2. Actions tab → **Render Episode (Kaggle GPU)** → Run workflow.
-3. The workflow pushes a private kernel that pins this repo's exact commit SHA, renders with
-   **VoxCPM2 (48 kHz)** + voice anchor, then downloads the audio and commits it to `output/`.
-4. Typical wall time: **~10-25 min** including queue (vs ~75-90 min on Actions CPU).
+1. **Estimates the render time** before launching (estimator calibrated on real T4 runs:
+   `words/26.5 chunks × 20.7 s + 2.4 min` — predicted 21.7 min, measured 21.7 min).
+2. **Pushes a private kernel** pinned to this repo's exact commit SHA (GitHub → Kaggle).
+3. **Polls** until the kernel finishes (Kaggle renders on GPU: VoxCPM2, 48 kHz, voice anchor,
+   timesteps=10).
+4. **Pulls the audio back** into `rendered/` (GitHub ← Kaggle), keeping only the
+   deliverables: `<name>.wav`, `<name>.mp3`, `<name>.meta.json`, `<name>.timing.json`.
+5. **Commits `rendered/` to the repo**, uploads a 30-day artifact, and posts a
+   **timing report** (estimated vs actual) to the run's summary page.
 
-Monitor progress any time at `kaggle.com/code` — the kernel appears as `tts-fl-<episode>`.
+To use it: **Actions tab → Render Episode (Kaggle GPU) → Run workflow** → pick the episode.
+Repo **Settings → Secrets → Actions** must contain `KAGGLE_USERNAME` / `KAGGLE_KEY`
+(configured ✓). Typical wall time: **~22-27 min** total (render ~20 min + queue + download).
+
+CLI equivalent (works anywhere with `~/.kaggle/kaggle.json`):
+
+```bash
+pip install kaggle
+python scripts/kaggle_render_driver.py --estimate-only --episode scripts/episodes/retina.txt
+python scripts/kaggle_render_driver.py --episode scripts/episodes/retina.txt --out rendered
+```
 
 > ⚠️ **Kaggle requirement — phone verification.** Kaggle silently denies GPU *and*
 > internet to accounts without a verified phone number (kernels run CPU-only and offline).
@@ -132,17 +146,18 @@ python scripts/generate_tts.py --episode scripts/episodes/retina.txt --outdir ou
 ## 📁 Repo layout
 
 ```
-├── .github/workflows/generate.yml   # Actions CPU factory: install → synthesize → commit
-├── .github/workflows/kaggle.yml     # Kaggle GPU factory: push kernel → wait → pull audio
+├── .github/workflows/generate.yml   # legacy CPU factory: install → synthesize → commit
+├── .github/workflows/kaggle.yml     # ⚡ GitHub→Kaggle GPU loop: estimate → push → wait → pull → commit
 ├── .devcontainer/devcontainer.json  # one-click Codespaces environment (4-core)
 ├── scripts/
 │   ├── generate_tts.py              # engines, voice anchor, chunking, fades, mp3, meta
-│   ├── kaggle_render_driver.py      # pushes kernel to Kaggle, polls, downloads audio
+│   ├── kaggle_render_driver.py      # ETA estimator + push/poll/pull + timing.json
 │   ├── run_codespace.sh             # one-command Codespaces renderer
 │   └── episodes/                    # 📜 the Script folder
 │       ├── retina.txt               #   Episode 01 (~1,550 words ≈ 10 min)
 │       └── cochlea.txt              #   Episode 02 (~1,490 words ≈ 10 min)
-├── output/                          # generated audio (committed by Actions / Kaggle loop)
+├── rendered/                        # 🎧 final GPU renders + timing reports (committed)
+├── output/                          # legacy CPU renders (retina)
 ├── requirements.txt
 └── LICENSE
 ```

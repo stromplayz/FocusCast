@@ -1,5 +1,12 @@
 name: Render Episode (Kaggle GPU)
 
+# Full automation loop:
+#   1. Estimate render time (calibrated from real T4 runs)
+#   2. Push the render job to Kaggle's free GPU
+#   3. Poll until the kernel completes
+#   4. Pull the audio back and store it in rendered/
+#   5. Commit rendered/ to the repo + publish a timing report
+
 on:
   workflow_dispatch:
     inputs:
@@ -56,7 +63,17 @@ jobs:
           KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
           KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
 
-      - name: Push kernel to Kaggle → wait for GPU render → pull audio back
+      - name: Estimate render time (no Kaggle call)
+        run: |
+          EST=$(python scripts/kaggle_render_driver.py --estimate-only \
+                 --engine "${{ inputs.engine }}" \
+                 --episode "${{ inputs.episode_file }}" \
+               | python -c "import json,sys; d=json.load(sys.stdin); print(f\"{d['words']} words ≈ {d['chunks_est']} chunks → ~{d['eta_render_min']} min on GPU\")")
+          echo "EST=$EST" >> "$GITHUB_ENV"
+          echo "### ⏱ Estimated before launch" >> "$GITHUB_STEP_SUMMARY"
+          echo "- **$EST** (+0–5 min Kaggle queue)" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Push kernel to Kaggle → wait for GPU render → pull audio into rendered/
         run: |
           python scripts/kaggle_render_driver.py \
             --episode "${{ inputs.episode_file }}" \
@@ -64,27 +81,48 @@ jobs:
             --model-id "${{ inputs.model_id }}" \
             --timesteps "${{ inputs.inference_timesteps }}" \
             --cfg "${{ inputs.cfg_value }}" \
-            --out output
+            --out rendered
 
-      - name: Show outputs
-        run: ls -lh output/
+      - name: Show deliverables
+        run: ls -lh rendered/
+
+      - name: Timing report (estimate vs actual)
+        if: always()
+        run: |
+          STEM=$(basename "${{ inputs.episode_file }}" .txt)
+          if [ -f "rendered/$STEM.timing.json" ]; then
+            python - "$STEM" >> "$GITHUB_STEP_SUMMARY" <<'PY'
+          import json, sys
+          stem = sys.argv[1]
+          t = json.load(open(f"rendered/{stem}.timing.json"))
+          print("### ⏱ Actual render timing")
+          print("| metric | value |")
+          print("|---|---|")
+          print(f"| words | {t['words']} |")
+          print(f"| estimated render | {t['eta_render_min']} min |")
+          print(f"| actual push→complete | {t['actual_push_to_complete_min']} min |")
+          print(f"| total incl. download | {t['actual_total_min']} min |")
+          print(f"\nKernel: https://www.kaggle.com/code/{t['kernel']}")
+          PY
+          fi
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: kaggle-episode-audio
           path: |
-            output/*.mp3
-            output/*.wav
-            output/*.meta.json
+            rendered/*.mp3
+            rendered/*.wav
+            rendered/*.meta.json
+            rendered/*.timing.json
           retention-days: 30
           if-no-files-found: error
 
-      - name: Commit audio back to repo
+      - name: Commit rendered audio back to repo
         run: |
           git config user.name  "tts-beta-fl-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
+          git add rendered/
           if git diff --cached --quiet; then
             echo "Nothing new to commit."
           else
