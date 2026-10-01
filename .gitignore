@@ -5,3 +5,7 @@ venv/
 .DS_Store
 .hf-cache/
 *.log
+.kaggle-kernel/
+.kaggle-probe/
+.kaggle-out-staging/
+__pycache__/
