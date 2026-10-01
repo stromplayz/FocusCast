@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S01E05-optometrist-ophthalmologist-and-optician.txt",
+  "stem": "S01E05-optometrist-ophthalmologist-and-optician",
+  "words": 3406,
+  "generated_at_utc": "2026-10-01T23:34:36.283121+00:00",
+  "title": "Optometrist, Ophthalmologist and Optician",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometry",
+  "season_no": "1",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "host": "Host",
+  "expert": "Dr. Meera",
+  "language": "en",
+  "keywords": [
+    "optometrist vs ophthalmologist",
+    "optometrist vs optician",
+    "difference between eye doctors",
+    "three os of eye care",
+    "who is an optician",
+    "eye care team",
+    "which eye doctor to see",
+    "focus cast",
+    "focuslinks.in"
+  ],
+  "description": "Optometrist, ophthalmologist, optician, three professions everyone confuses. In this episode of Focus Cast by focuslinks.in, our host and Dr. Meera finally untangle the three O's of eye care. Learn exactly what each professional studied, what each one can and cannot do for your eyes, how they work as one team, and which one you should see first for every situation, from blurry vision to surgery.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Dr. Meera": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1509.6,
+  "duration_min": 25.16,
+  "files": [
+    "S01E05-optometrist-ophthalmologist-and-optician.wav",
+    "S01E05-optometrist-ophthalmologist-and-optician.mp3"
+  ]
+}
