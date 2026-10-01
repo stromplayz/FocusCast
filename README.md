@@ -19,22 +19,33 @@ pipeline runs one-command inside GitHub Codespaces.
                          paragraph pauses · 16 kHz                       └──► downloadable in 1 click
 ```
 
-## 📻 Episode 01 — *The Retina: The Camera That Thinks*
+## 📻 Episodes
 
-The first fully-on-GitHub production: a **~10 minute** narrated deep-dive into the human
-retina — brain tissue hanging outside your skull, the backwards wiring of the eye, rods and
-cones, the blind-spot illusion, retinal computing, melanopsin and your body clock, and
-bionic retinas.
+| # | Title | Script | Audio | Rendered on |
+|---|-------|--------|-------|-------------|
+| 01 | *The Retina — The Camera That Thinks* | `scripts/episodes/retina.txt` | `output/retina.mp3` | GitHub Actions CPU (VoxCPM-0.5B) · re-rendered on Kaggle GPU (VoxCPM2) |
+| 02 | *The Cochlea — The Piano Inside Your Head* | `scripts/episodes/cochlea.txt` | `output/cochlea.mp3` | Kaggle GPU (VoxCPM2) |
 
-Generated files (produced by the Actions run):
+The `scripts/episodes/` folder is the **Script folder** — drop any `.txt` there (blank line
+between paragraphs, `#` lines are comments) and it becomes a renderable episode.
 
-| File | Purpose |
-|------|---------|
-| `output/retina.mp3` | The episode — ready for any player |
-| `output/retina.wav` | Lossless master (16 kHz PCM) |
-| `output/retina.meta.json` | Generation stats: engine, duration, params |
+## ⚡ Fast path — render on Kaggle's free GPU (10-15× faster than Actions CPU)
 
-## 🚀 Run it on GitHub Actions (no computer involved)
+GitHub Actions CPU needs ~75-90 min for a 10-minute episode. Kaggle hands out **free GPU
+sessions** (P100/T4, ~30 h/week), so this repo ships a pipeline where **GitHub sends the job
+to Kaggle, Kaggle renders on GPU, GitHub pulls the audio back and commits it**:
+
+1. Repo **Settings → Secrets and variables → Actions** must contain `KAGGLE_USERNAME` and
+   `KAGGLE_KEY` (from kaggle.com → Settings → API → Create New Token). Already configured ✓.
+   ⚠️ Kaggle requires a **phone-verified account** for GPU accelerators.
+2. Actions tab → **Render Episode (Kaggle GPU)** → Run workflow.
+3. The workflow pushes a private kernel that pins this repo's exact commit SHA, renders with
+   **VoxCPM2 (48 kHz)** + voice anchor, then downloads the audio and commits it to `output/`.
+4. Typical wall time: **~10-25 min** including queue (vs ~75-90 min on Actions CPU).
+
+Monitor progress any time at `kaggle.com/code` — the kernel appears as `tts-fl-<episode>`.
+
+## 🚀 Run it on GitHub Actions (CPU fallback — no computer involved)
 
 1. Open the **Actions** tab → **Generate Episode (TTS)**.
 2. Click **Run workflow**, optionally tweak the inputs:
@@ -48,7 +59,8 @@ Generated files (produced by the Actions run):
 | `cfg_value` | `2.0` | guidance scale — higher clings harder to the text |
 | `kokoro_voice` | `af_heart` | fallback voice id |
 
-3. Wait ~20–45 min (CPU synthesis of a 10-minute episode + model download).
+3. Wait ~30–90 min (CPU synthesis of a 10-minute episode + model download). For the fast
+   path use the **Kaggle GPU workflow** above instead.
 4. Grab the audio from the run's **Artifacts** or straight from `output/` in the repo.
 
 The Hugging Face model cache is persisted with `actions/cache`, so re-runs are much faster.
@@ -76,28 +88,27 @@ so you can render episodes on Microsoft's dime instead of your laptop:
 A 4-core codespace typically renders a 10-minute episode in ~15–30 min ≈ **1–2 core-hours**
 of your free allowance. ~60 episodes per month, free.
 
-## 😡🎭 Emotion & voice control
+## 😡🎭 Emotion & voice control (v2 — consistent narrator)
 
-VoxCPM conveys emotion through the text itself (punctuation, dashes, questions) and through
-**zero-shot voice/style cloning**. To narrate with any voice you like:
+Three layers of control, all live in `scripts/generate_tts.py`:
 
-1. Drop a **5–20 second expressive sample** into the repo, e.g. `scripts/prompts/narrator.wav`
-2. Render with cloning:
+1. **Voice anchor (new)** — one chunk is synthesised first, saved, and then cloned for
+   *every* other chunk, so the whole episode keeps a single narrator timbre. This removes
+   the chunk-to-chunk voice drift of zero-voice generation. Disable with `--no-anchor`.
+2. **Zero-shot voice/style cloning** — drop a 5-20 s expressive sample into
+   `scripts/prompts/` and pass `--reference-wav` (overrides the anchor; timbre *and* emotion
+   transfer from the clip).
+3. **Guidance jitter** — per-sentence cfg ±0.15 keeps long narrations from sounding metronomic.
 
-   ```bash
-   python scripts/generate_tts.py --episode scripts/episodes/retina.txt \
-       --reference-wav scripts/prompts/narrator.wav --outdir output
-   ```
-
-The model transfers the timbre *and the emotional colouring* of the reference clip. Also
-built in: per-sentence guidance jitter (cfg ±0.15) so long narrations never sound metronomic.
+Cleanup is baked in too: 6 ms cosine fades at every chunk boundary (no clicks) and an ffmpeg
+chain (`highpass + loudnorm`) on the MP3 export (tune with `--mp3-filter`).
 
 ## 🧠 Engines
 
 | Engine | Model | Params | SR | License | Role |
 |--------|-------|--------|----|---------|------|
 | [VoxCPM](https://github.com/OpenBMB/VoxCPM) | `openbmb/VoxCPM-0.5B` | 0.5 B | 16 kHz | Apache-2.0 | primary — context-aware, tokenizer-free, cloneable |
-| [VoxCPM2](https://huggingface.co/openbmb/VoxCPM2) | `openbmb/VoxCPM2` | ~1.5 B | 48 kHz | Apache-2.0 | flagship option (`--model-id`) |
+| [VoxCPM2](https://huggingface.co/openbmb/VoxCPM2) | `openbmb/VoxCPM2` | ~1.5 B | 48 kHz | Apache-2.0 | flagship option (`--model-id`) — cleaner, default on Kaggle GPU |
 | [Kokoro](https://huggingface.co/hexgrad/Kokoro-82M) | Kokoro-82M | 82 M | 24 kHz | Apache-2.0 | automatic fallback if VoxCPM hiccups |
 
 ## 💻 Local run (optional)
@@ -112,13 +123,17 @@ python scripts/generate_tts.py --episode scripts/episodes/retina.txt --outdir ou
 ## 📁 Repo layout
 
 ```
-├── .github/workflows/generate.yml   # the whole factory: install → synthesize → commit
+├── .github/workflows/generate.yml   # Actions CPU factory: install → synthesize → commit
+├── .github/workflows/kaggle.yml     # Kaggle GPU factory: push kernel → wait → pull audio
 ├── .devcontainer/devcontainer.json  # one-click Codespaces environment (4-core)
 ├── scripts/
-│   ├── generate_tts.py              # engine wrapper: chunking, cfg jitter, pauses, mp3, meta
+│   ├── generate_tts.py              # engines, voice anchor, chunking, fades, mp3, meta
+│   ├── kaggle_render_driver.py      # pushes kernel to Kaggle, polls, downloads audio
 │   ├── run_codespace.sh             # one-command Codespaces renderer
-│   └── episodes/retina.txt          # Episode 01 script (~1,470 words ≈ 10 min)
-├── output/                          # generated audio (committed by Actions / Codespaces)
+│   └── episodes/                    # 📜 the Script folder
+│       ├── retina.txt               #   Episode 01 (~1,550 words ≈ 10 min)
+│       └── cochlea.txt              #   Episode 02 (~1,490 words ≈ 10 min)
+├── output/                          # generated audio (committed by Actions / Kaggle loop)
 ├── requirements.txt
 └── LICENSE
 ```

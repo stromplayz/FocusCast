@@ -22,9 +22,11 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import subprocess
 import sys
+import tempfile
 import time
 import traceback
 import zlib
@@ -72,6 +74,18 @@ def silence(seconds: float, sr: int) -> np.ndarray:
     return np.zeros(int(seconds * sr), dtype=np.float32)
 
 
+def fade(audio: np.ndarray, sr: int, ms: float = 6.0) -> np.ndarray:
+    """Tiny cosine fade in/out — removes clicks at chunk boundaries."""
+    n = min(len(audio), int(sr * ms / 1000))
+    if n <= 1:
+        return audio
+    ramp = 0.5 * (1.0 - np.cos(np.linspace(0.0, np.pi, n, dtype=np.float32)))
+    out = audio.copy()
+    out[:n] *= ramp
+    out[-n:] *= ramp[::-1]
+    return out
+
+
 # --------------------------------------------------------------------------- engines
 
 def synth_voxcpm(args: argparse.Namespace, paragraphs: list[str], out_wav: Path) -> tuple[float, int]:
@@ -93,6 +107,30 @@ def synth_voxcpm(args: argparse.Namespace, paragraphs: list[str], out_wav: Path)
         raise SystemExit(f"--reference-wav not found: {ref_path}")
     if ref_path:
         log(f"voice/style cloning enabled via reference: {ref_path.name}")
+        args.anchor_used = False
+
+    # ---- voice anchor: lock ONE narrator voice and clone it for every chunk.
+    # Without an anchor, each zero-voice chunk invents its own timbre -> the
+    # "inconsistent voice" effect. The anchor fixes identity across the episode.
+    anchor_path = None
+    if ref_path is None and getattr(args, "anchor", True):
+        anchor_text = sentence_chunks(paragraphs[0])[0]
+        log(f"locking narrator voice with anchor line: \u201c{anchor_text[:60]}\u2026\u201d")
+        awav = model.generate(
+            text=anchor_text,
+            prompt_wav_path=None,
+            prompt_text=None,
+            cfg_value=float(args.cfg),
+            inference_timesteps=int(args.timesteps),
+            max_len=4096,
+            normalize=bool(args.normalize),
+            retry_badcase=True,
+        )
+        awav = np.clip(np.asarray(awav, dtype=np.float32).reshape(-1), -1.0, 1.0)
+        anchor_path = os.path.join(tempfile.gettempdir(), f"ttsfl_anchor_{os.getpid()}.wav")
+        sf.write(anchor_path, fade(awav, sr), sr, subtype="PCM_16")
+        args.anchor_used = True
+        log("anchor voice saved — every chunk now clones this narrator")
 
     n_total = sum(len(sentence_chunks(p)) for p in paragraphs)
     pieces: list[np.ndarray] = []
@@ -109,7 +147,7 @@ def synth_voxcpm(args: argparse.Namespace, paragraphs: list[str], out_wav: Path)
                 text=chunk,
                 prompt_wav_path=None,
                 prompt_text=None,
-                reference_wav_path=str(ref_path) if ref_path else None,
+                reference_wav_path=str(ref_path) if ref_path else anchor_path,
                 cfg_value=float(cfg),
                 inference_timesteps=int(args.timesteps),
                 max_len=4096,
@@ -117,7 +155,7 @@ def synth_voxcpm(args: argparse.Namespace, paragraphs: list[str], out_wav: Path)
                 retry_badcase=True,
             )
             wav = np.asarray(wav, dtype=np.float32).reshape(-1)
-            pieces.append(wav)
+            pieces.append(fade(wav, sr))
             pieces.append(silence(args.pause_sentence, sr))
         pieces.append(silence(args.pause_paragraph, sr))
 
@@ -148,7 +186,7 @@ def synth_kokoro(args: argparse.Namespace, paragraphs: list[str], out_wav: Path)
                     continue
                 if hasattr(audio, "detach"):
                     audio = audio.detach().cpu().numpy()
-                pieces.append(np.asarray(audio, dtype=np.float32).reshape(-1))
+                pieces.append(fade(np.asarray(audio, dtype=np.float32).reshape(-1), sr))
                 pieces.append(silence(args.pause_sentence, sr))
         pieces.append(silence(args.pause_paragraph, sr))
 
@@ -160,12 +198,12 @@ def synth_kokoro(args: argparse.Namespace, paragraphs: list[str], out_wav: Path)
 
 # --------------------------------------------------------------------------- packaging
 
-def to_mp3(wav: Path, mp3: Path) -> None:
-    subprocess.run(
-        ["ffmpeg", "-y", "-hide_banner", "-loglevel", "error",
-         "-i", str(wav), "-codec:a", "libmp3lame", "-qscale:a", "3", str(mp3)],
-        check=True,
-    )
+def to_mp3(wav: Path, mp3: Path, af_filter: str | None = None) -> None:
+    cmd = ["ffmpeg", "-y", "-hide_banner", "-loglevel", "error", "-i", str(wav)]
+    if af_filter:
+        cmd += ["-af", af_filter]
+    cmd += ["-codec:a", "libmp3lame", "-qscale:a", "3", str(mp3)]
+    subprocess.run(cmd, check=True)
 
 
 def main() -> None:
@@ -183,6 +221,11 @@ def main() -> None:
     ap.add_argument("--no-normalize", dest="normalize", action="store_false")
     ap.add_argument("--reference-wav", default=None,
                     help="optional 5-20 s voice/style sample for zero-shot cloning")
+    ap.add_argument("--anchor", dest="anchor", action="store_true", default=True,
+                    help="lock one narrator voice and clone it for every chunk (default: on)")
+    ap.add_argument("--no-anchor", dest="anchor", action="store_false")
+    ap.add_argument("--mp3-filter", default="highpass=f=60,loudnorm=I=-16:TP=-1.5:LRA=11",
+                    help="ffmpeg -af chain applied when exporting MP3 (empty string disables)")
     ap.add_argument("--voice", default="af_heart", help="Kokoro voice id (fallback engine)")
     ap.add_argument("--speed", default=1.0, type=float, help="Kokoro speed (fallback engine)")
     ap.add_argument("--pause-sentence", default=0.18, type=float)
@@ -218,7 +261,8 @@ def main() -> None:
                 duration, sr = synth_voxcpm(args, paragraphs, out_wav)
                 meta.update(engine=engine, model_id=args.model_id,
                             inference_timesteps=args.timesteps, cfg=args.cfg,
-                            reference_wav=args.reference_wav or None)
+                            reference_wav=args.reference_wav or None,
+                            anchor_voice=bool(getattr(args, "anchor_used", False)))
             else:
                 duration, sr = synth_kokoro(args, paragraphs, out_wav)
                 meta.update(engine=engine, model_id="hexgrad/Kokoro-82M",
@@ -236,7 +280,7 @@ def main() -> None:
 
     out_mp3 = outdir / f"{stem}.mp3"
     try:
-        to_mp3(out_wav, out_mp3)
+        to_mp3(out_wav, out_mp3, args.mp3_filter or None)
         meta["files"] = [out_wav.name, out_mp3.name]
     except Exception as exc:
         log(f"ffmpeg mp3 conversion skipped ({exc}); keeping WAV only")
