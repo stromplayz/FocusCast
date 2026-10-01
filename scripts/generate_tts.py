@@ -89,16 +89,20 @@ def fade(audio: np.ndarray, sr: int, ms: float = 6.0) -> np.ndarray:
 # --------------------------------------------------------------------------- engines
 
 def synth_voxcpm(args: argparse.Namespace, paragraphs: list[str], out_wav: Path) -> tuple[float, int]:
+    import torch
     from voxcpm import VoxCPM
 
+    device = "cuda" if torch.cuda.is_available() else "cpu"
     log(f"loading {args.model_id} (first run downloads the checkpoint from Hugging Face)…")
     t0 = time.time()
     model = VoxCPM.from_pretrained(
         hf_model_id=args.model_id,
         load_denoiser=False,   # skip the ModelScope denoiser download (not needed for synthesis)
-        optimize=False,        # no torch.compile on CPU runners (slow warm-up, memory heavy)
-        device="cpu",
+        optimize=False,        # no torch.compile (slow warm-up; device autodetect already gives GPU speed)
+        device=device,
     )
+    if device == "cuda":
+        log(f"GPU detected: {torch.cuda.get_device_name(0)}")
     sr = int(getattr(model.tts_model, "sample_rate", 16000))
     log(f"model ready in {time.time() - t0:.1f}s · sample_rate={sr} Hz")
 
