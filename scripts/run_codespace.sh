@@ -18,6 +18,11 @@ EPISODE="${1:-scripts/episodes/retina.txt}"
 [ $# -gt 0 ] && shift
 EXTRA=("$@")
 
+# Use every core the Codespace has — pick a 16-core machine at Codespace
+# creation (dropdown: 4-core → 16-core) for ~4-6x faster renders.
+export OMP_NUM_THREADS="$(nproc)"
+export MKL_NUM_THREADS="$(nproc)"
+
 mkdir -p output
 
 echo "==> TTS Beta FL · Codespace renderer"

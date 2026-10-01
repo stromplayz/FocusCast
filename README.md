@@ -45,6 +45,12 @@ to Kaggle, Kaggle renders on GPU, GitHub pulls the audio back and commits it**:
 
 Monitor progress any time at `kaggle.com/code` — the kernel appears as `tts-fl-<episode>`.
 
+> ⚠️ **Kaggle requirement — phone verification.** Kaggle silently denies GPU *and*
+> internet to accounts without a verified phone number (kernels run CPU-only and offline).
+> Verify at **kaggle.com → Settings → Phone Verification**; the GPU + internet flags of this
+> workflow unlock immediately after — no code changes needed. (Diagnosed empirically:
+> probe kernels with `enable_gpu/internet: true` received CPU-only, no-DNS sessions.)
+
 ## 🚀 Run it on GitHub Actions (CPU fallback — no computer involved)
 
 1. Open the **Actions** tab → **Generate Episode (TTS)**.
@@ -65,18 +71,21 @@ Monitor progress any time at `kaggle.com/code` — the kernel appears as `tts-fl
 
 The Hugging Face model cache is persisted with `actions/cache`, so re-runs are much faster.
 
-## 🔓 The Codespaces loophole (free 4-core compute)
+## 🔓 The Codespaces loophole (fastest path available today: 16-core)
 
-GitHub gives personal accounts **120 core-hours/month free**. This repo ships a devcontainer,
-so you can render episodes on Microsoft's dime instead of your laptop:
+GitHub gives personal accounts **120 core-hours/month free** — and you can pick a
+**16-core machine** when creating the Codespace, which renders a 10-minute episode in
+**~15-25 min** (the runner script automatically uses every core):
 
-1. On the repo home, press **`.`** (or **Code → Codespaces → Create codespace**).
+1. Repo home → **Code → Codespaces → Create codespace on main** → machine size dropdown →
+   **16-core** (costs 16 core-hours/hour of your free allowance).
 2. The devcontainer auto-installs Python 3.11, torch (CPU), espeak-ng, ffmpeg and all deps.
 3. In the terminal:
 
    ```bash
-   bash scripts/run_codespace.sh                      # default: retina episode
-   TTS_MODEL_ID=openbmb/VoxCPM2 bash scripts/run_codespace.sh   # 48 kHz flagship
+   bash scripts/run_codespace.sh                                    # retina episode
+   bash scripts/run_codespace.sh scripts/episodes/cochlea.txt       # Episode 02
+   TTS_MODEL_ID=openbmb/VoxCPM2 bash scripts/run_codespace.sh       # 48 kHz flagship
    ```
 
 4. When it finishes, commit the audio back:
@@ -85,8 +94,8 @@ so you can render episodes on Microsoft's dime instead of your laptop:
    git add output/ && git commit -m "feat(audio): episode rendered in Codespaces" && git push
    ```
 
-A 4-core codespace typically renders a 10-minute episode in ~15–30 min ≈ **1–2 core-hours**
-of your free allowance. ~60 episodes per month, free.
+16 core-hours per hour means your free 120 core-hours buy **~7 hours of 16-core rendering
+per month ≈ 15-20 episodes** — or stick to 4-core machines for ~60 slower renders.
 
 ## 😡🎭 Emotion & voice control (v2 — consistent narrator)
 

@@ -61,6 +61,17 @@ def sh(cmd: list[str], **kw) -> subprocess.CompletedProcess:
     return subprocess.run(cmd, check=kw.pop("check", True), **kw)
 
 
+def kaggle_username() -> str:
+    """Kaggle username from env, or from ~/.kaggle/kaggle.json (how the CLI reads it)."""
+    user = os.environ.get("KAGGLE_USERNAME")
+    if user:
+        return user
+    cfg = Path.home() / ".kaggle" / "kaggle.json"
+    if cfg.exists():
+        return json.loads(cfg.read_text(encoding="utf-8"))["username"]
+    sys.exit("KAGGLE_USERNAME env or ~/.kaggle/kaggle.json required")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description="TTS Beta FL Kaggle GPU driver")
     ap.add_argument("--episode", required=True, help="episode .txt path inside the repo")
@@ -79,7 +90,7 @@ def main() -> None:
 
     stem = Path(args.episode).stem
     slug = (args.slug or f"tts-fl-{stem}")[:50].lower()
-    kernel_id = f"{os.environ['KAGGLE_USERNAME']}/{slug}"
+    kernel_id = f"{kaggle_username()}/{slug}"
 
     # ---- build the kernel payload -------------------------------------------------
     kdir = Path(".kaggle-kernel")
