@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E02-asking-the-right-questions.txt",
+  "stem": "S08E02-asking-the-right-questions",
+  "words": 4232,
+  "generated_at_utc": "2026-10-02T20:04:55.400204+00:00",
+  "title": "Asking the Right Questions",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Clinical Communication and Reasoning",
+  "season_no": "8",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "clinical questions",
+    "patient history",
+    "open questions",
+    "closed questions",
+    "leading questions",
+    "clinical communication",
+    "optometry education",
+    "patient care"
+  ],
+  "description": "Season eight of Focus Cast by focuslinks continues with the craft of the question. The Host and the Guide explore how optometrists build a patient history, from wide open openers to precise follow ups. You will hear why one question at a time beats a double barrel, how leading questions quietly plant answers, and how a funnel shape turns chatter into clinical clarity. One stubborn myth about long checklists gets taken apart along the way.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1603.3,
+  "duration_min": 26.72,
+  "files": [
+    "S08E02-asking-the-right-questions.wav",
+    "S08E02-asking-the-right-questions.mp3"
+  ]
+}

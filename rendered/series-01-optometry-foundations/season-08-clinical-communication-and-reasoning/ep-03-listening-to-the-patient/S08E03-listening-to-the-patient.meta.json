@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E03-listening-to-the-patient.txt",
+  "stem": "S08E03-listening-to-the-patient",
+  "words": 4118,
+  "generated_at_utc": "2026-10-02T20:06:55.744185+00:00",
+  "title": "Listening to the Patient",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Clinical Communication and Reasoning",
+  "season_no": "8",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "active listening",
+    "patient voice",
+    "clinical communication",
+    "silence",
+    "empathy",
+    "reflection",
+    "optometry education",
+    "patient care"
+  ],
+  "description": "Season eight of Focus Cast by focuslinks turns to the quiet half of the conversation. The Host and the Guide explore how optometrists listen, from the first uninterrupted story to the power of a well placed pause. You will hear how reflecting back proves you heard, how to catch what is not being said, and how to stay present while the notes keep growing. One stubborn myth about listening as passivity gets taken apart along the way.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1581.3,
+  "duration_min": 26.35,
+  "files": [
+    "S08E03-listening-to-the-patient.wav",
+    "S08E03-listening-to-the-patient.mp3"
+  ]
+}

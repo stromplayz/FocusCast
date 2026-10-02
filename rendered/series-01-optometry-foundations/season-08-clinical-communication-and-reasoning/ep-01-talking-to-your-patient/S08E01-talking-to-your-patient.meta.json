@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E01-talking-to-your-patient.txt",
+  "stem": "S08E01-talking-to-your-patient",
+  "words": 4275,
+  "generated_at_utc": "2026-10-02T20:02:10.429522+00:00",
+  "title": "Talking to Your Patient",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Clinical Communication and Reasoning",
+  "season_no": "8",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "clinical communication",
+    "patient conversation",
+    "plain language",
+    "chairside manner",
+    "optometry education",
+    "patient care",
+    "talking with patients",
+    "season eight"
+  ],
+  "description": "Season eight of Focus Cast by focuslinks opens the human side of optometry. In this episode the Host and the Guide explore how optometrists talk with patients, from the first hello to the final summary. You will hear why plain language beats jargon, how a one sentence map calms the chair, and why tone is the music under the lyrics. One stubborn myth about small talk gets taken apart along the way.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1665.3,
+  "duration_min": 27.76,
+  "files": [
+    "S08E01-talking-to-your-patient.wav",
+    "S08E01-talking-to-your-patient.mp3"
+  ]
+}

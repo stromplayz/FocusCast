@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-02T19:56:21.882542+00:00",
-  "episode_count": 70,
+  "updated_at": "2026-10-02T20:25:08.153876+00:00",
+  "episode_count": 80,
   "episodes": [
     {
       "id": "S01E01",
@@ -2780,6 +2780,396 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-02T19:53:02.725700+00:00"
+    },
+    {
+      "id": "S08E01",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 8,
+      "season": "Clinical Communication and Reasoning",
+      "episode_no": 1,
+      "title": "Talking to Your Patient",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "clinical communication",
+        "patient conversation",
+        "plain language",
+        "chairside manner",
+        "optometry education",
+        "patient care",
+        "talking with patients",
+        "season eight"
+      ],
+      "description": "Season eight of Focus Cast by focuslinks opens the human side of optometry. In this episode the Host and the Guide explore how optometrists talk with patients, from the first hello to the final summary. You will hear why plain language beats jargon, how a one sentence map calms the chair, and why tone is the music under the lyrics. One stubborn myth about small talk gets taken apart along the way.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-08/S08E01-talking-to-your-patient.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-01-talking-to-your-patient/S08E01-talking-to-your-patient.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-01-talking-to-your-patient/S08E01-talking-to-your-patient.mp3",
+        "bytes": 19984653,
+        "duration_sec": 1665.3,
+        "duration_min": 27.76,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:02:10.429522+00:00"
+    },
+    {
+      "id": "S08E02",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 8,
+      "season": "Clinical Communication and Reasoning",
+      "episode_no": 2,
+      "title": "Asking the Right Questions",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "clinical questions",
+        "patient history",
+        "open questions",
+        "closed questions",
+        "leading questions",
+        "clinical communication",
+        "optometry education",
+        "patient care"
+      ],
+      "description": "Season eight of Focus Cast by focuslinks continues with the craft of the question. The Host and the Guide explore how optometrists build a patient history, from wide open openers to precise follow ups. You will hear why one question at a time beats a double barrel, how leading questions quietly plant answers, and how a funnel shape turns chatter into clinical clarity. One stubborn myth about long checklists gets taken apart along the way.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-08/S08E02-asking-the-right-questions.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-02-asking-the-right-questions/S08E02-asking-the-right-questions.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-02-asking-the-right-questions/S08E02-asking-the-right-questions.mp3",
+        "bytes": 19240461,
+        "duration_sec": 1603.3,
+        "duration_min": 26.72,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:04:55.400204+00:00"
+    },
+    {
+      "id": "S08E03",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 8,
+      "season": "Clinical Communication and Reasoning",
+      "episode_no": 3,
+      "title": "Listening to the Patient",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "active listening",
+        "patient voice",
+        "clinical communication",
+        "silence",
+        "empathy",
+        "reflection",
+        "optometry education",
+        "patient care"
+      ],
+      "description": "Season eight of Focus Cast by focuslinks turns to the quiet half of the conversation. The Host and the Guide explore how optometrists listen, from the first uninterrupted story to the power of a well placed pause. You will hear how reflecting back proves you heard, how to catch what is not being said, and how to stay present while the notes keep growing. One stubborn myth about listening as passivity gets taken apart along the way.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-08/S08E03-listening-to-the-patient.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-03-listening-to-the-patient/S08E03-listening-to-the-patient.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-03-listening-to-the-patient/S08E03-listening-to-the-patient.mp3",
+        "bytes": 18976077,
+        "duration_sec": 1581.3,
+        "duration_min": 26.35,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:06:55.744185+00:00"
+    },
+    {
+      "id": "S08E04",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 8,
+      "season": "Clinical Communication and Reasoning",
+      "episode_no": 4,
+      "title": "Signs and Symptoms",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "signs",
+        "symptoms",
+        "clinical observation",
+        "patient reports",
+        "clinical evidence",
+        "optometry education",
+        "clinical communication",
+        "patient care"
+      ],
+      "description": "Season eight of Focus Cast by focuslinks reaches one of the cleanest distinctions in clinical work. The Host and the Guide separate symptoms, what the patient feels and reports, from signs, what the clinician observes and measures. You will hear why each stream of evidence has its own job, how the two streams correct and confirm each other, and what it means when they disagree. One stubborn myth about symptoms being mere complaints gets taken apart along the way.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-08/S08E04-signs-and-symptoms.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-04-signs-and-symptoms/S08E04-signs-and-symptoms.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-04-signs-and-symptoms/S08E04-signs-and-symptoms.mp3",
+        "bytes": 19610541,
+        "duration_sec": 1634.2,
+        "duration_min": 27.24,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:08:55.746535+00:00"
+    },
+    {
+      "id": "S08E05",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 8,
+      "season": "Clinical Communication and Reasoning",
+      "episode_no": 5,
+      "title": "Normal and Abnormal Findings",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "normal findings",
+        "abnormal findings",
+        "reference range",
+        "variation",
+        "baseline",
+        "gray zone",
+        "clinical judgment",
+        "optometry education"
+      ],
+      "description": "Season eight of Focus Cast by focuslinks asks a question that sounds simple and is anything but. The Host and the Guide explore what normal actually means in clinical work, where reference ranges come from, and why healthy people spread widely around any average. You will hear how the gray zone gets handled, why patterns beat single readings, and which two classic errors every clinician learns to avoid. One stubborn myth about averages gets taken apart along the way.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-08/S08E05-normal-and-abnormal-findings.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-05-normal-and-abnormal-findings/S08E05-normal-and-abnormal-findings.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-05-normal-and-abnormal-findings/S08E05-normal-and-abnormal-findings.mp3",
+        "bytes": 19904013,
+        "duration_sec": 1658.6,
+        "duration_min": 27.64,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:10:59.533966+00:00"
+    },
+    {
+      "id": "S08E06",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 8,
+      "season": "Clinical Communication and Reasoning",
+      "episode_no": 6,
+      "title": "Screening and Diagnosis",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "vision screening",
+        "diagnosis",
+        "false alarm",
+        "false comfort",
+        "referral",
+        "eye examination",
+        "early detection",
+        "community eye camp"
+      ],
+      "description": "A wide net and a careful name are two different tools, and this episode of Focus Cast by focuslinks explains both. The Guide defines screening as a broad first look that says look closer, and diagnosis as a named conclusion reached with full information. Listeners learn why a screening can never diagnose, and how false comfort and false alarm shape the design of every screening program. The road from a flag at a vision camp to a name at the clinic comes alive in plain language.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-08/S08E06-screening-and-diagnosis.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-06-screening-and-diagnosis/S08E06-screening-and-diagnosis.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-06-screening-and-diagnosis/S08E06-screening-and-diagnosis.mp3",
+        "bytes": 19316493,
+        "duration_sec": 1609.6,
+        "duration_min": 26.83,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:13:04.446588+00:00"
+    },
+    {
+      "id": "S08E07",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 8,
+      "season": "Clinical Communication and Reasoning",
+      "episode_no": 7,
+      "title": "Clinical Decision-Making",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "clinical decision making",
+        "decision tree",
+        "uncertainty",
+        "treatment plan",
+        "patient history",
+        "clinical findings",
+        "watchful review",
+        "clinical judgment"
+      ],
+      "description": "How does an examination become a plan? This episode of Focus Cast by focuslinks follows the optometrist as history, clinical findings, and the realities of a patient's life are weighed into one decision. The Guide introduces decision trees as a gentle organising idea, explains why watchful review is itself a real decision, and shows how plans are shared in honest language. Listeners finish the hour able to hear any treatment conversation as a story of balanced judgment.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-08/S08E07-clinical-decision-making.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-07-clinical-decision-making/S08E07-clinical-decision-making.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-07-clinical-decision-making/S08E07-clinical-decision-making.mp3",
+        "bytes": 19303245,
+        "duration_sec": 1608.5,
+        "duration_min": 26.81,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:15:06.384934+00:00"
+    },
+    {
+      "id": "S08E08",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 8,
+      "season": "Clinical Communication and Reasoning",
+      "episode_no": 8,
+      "title": "Recognising Red Flags",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "red flags",
+        "urgent eye findings",
+        "sudden vision change",
+        "triage mindset",
+        "clinical communication",
+        "optometry students",
+        "eye care",
+        "patient safety"
+      ],
+      "description": "This episode explains what makes an eye finding urgent and how students learn to recognise red flags with a calm mind. It covers suddenness, one eye involvement, pain with light sensitivity, and new symptoms arriving as a crowd. The message throughout is that urgency is about time, not drama. Join Focus Cast by focuslinks for a steady, practical walk through the skill.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-08/S08E08-recognising-red-flags.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-08-recognising-red-flags/S08E08-recognising-red-flags.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-08-recognising-red-flags/S08E08-recognising-red-flags.mp3",
+        "bytes": 19857357,
+        "duration_sec": 1654.7,
+        "duration_min": 27.58,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:17:08.454372+00:00"
+    },
+    {
+      "id": "S08E09",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 8,
+      "season": "Clinical Communication and Reasoning",
+      "episode_no": 9,
+      "title": "When to Refer",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "referral",
+        "co-management",
+        "teamwork",
+        "referral letter",
+        "patient handover",
+        "clinical communication",
+        "optometry students",
+        "shared care"
+      ],
+      "description": "This episode reframes referral as teamwork rather than failure for the optometry student. It covers when to refer, what a strong referral letter carries, and how co-managing with other professionals works in daily practice. It also looks at the experience of being handed on from the patient's point of view. Listen to Focus Cast by focuslinks for a calm, practical walk through the skill.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-08/S08E09-when-to-refer.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-09-when-to-refer/S08E09-when-to-refer.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-09-when-to-refer/S08E09-when-to-refer.mp3",
+        "bytes": 19662093,
+        "duration_sec": 1638.4,
+        "duration_min": 27.31,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:19:13.729451+00:00"
+    },
+    {
+      "id": "S08E10",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 8,
+      "season": "Clinical Communication and Reasoning",
+      "episode_no": 10,
+      "title": "Thinking Like an Optometrist",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "clinical reasoning",
+        "clinical communication",
+        "optometry students",
+        "curiosity",
+        "decision making",
+        "red flags",
+        "referral",
+        "patient journey"
+      ],
+      "description": "The season finale brings the whole of season eight together as one way of thinking. Curiosity, structured questions, honest listening, careful weighing, calm recognition of red flags, and humble referral are joined into a single habit loop. No new ideas, just the season made usable in one hour. Join Focus Cast by focuslinks for a finale that ties the season into one portable skill.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-08/S08E10-thinking-like-an-optometrist.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-10-thinking-like-an-optometrist/S08E10-thinking-like-an-optometrist.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-10-thinking-like-an-optometrist/S08E10-thinking-like-an-optometrist.mp3",
+        "bytes": 19337517,
+        "duration_sec": 1611.4,
+        "duration_min": 26.86,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:21:17.796213+00:00"
     }
   ]
 }

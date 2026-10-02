@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E10-thinking-like-an-optometrist.txt",
+  "stem": "S08E10-thinking-like-an-optometrist",
+  "words": 4232,
+  "generated_at_utc": "2026-10-02T20:21:17.796213+00:00",
+  "title": "Thinking Like an Optometrist",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Clinical Communication and Reasoning",
+  "season_no": "8",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "clinical reasoning",
+    "clinical communication",
+    "optometry students",
+    "curiosity",
+    "decision making",
+    "red flags",
+    "referral",
+    "patient journey"
+  ],
+  "description": "The season finale brings the whole of season eight together as one way of thinking. Curiosity, structured questions, honest listening, careful weighing, calm recognition of red flags, and humble referral are joined into a single habit loop. No new ideas, just the season made usable in one hour. Join Focus Cast by focuslinks for a finale that ties the season into one portable skill.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1611.4,
+  "duration_min": 26.86,
+  "files": [
+    "S08E10-thinking-like-an-optometrist.wav",
+    "S08E10-thinking-like-an-optometrist.mp3"
+  ]
+}

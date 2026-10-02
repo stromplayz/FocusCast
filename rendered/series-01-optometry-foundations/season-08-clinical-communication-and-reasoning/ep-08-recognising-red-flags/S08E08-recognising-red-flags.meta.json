@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E08-recognising-red-flags.txt",
+  "stem": "S08E08-recognising-red-flags",
+  "words": 4400,
+  "generated_at_utc": "2026-10-02T20:17:08.454372+00:00",
+  "title": "Recognising Red Flags",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Clinical Communication and Reasoning",
+  "season_no": "8",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "red flags",
+    "urgent eye findings",
+    "sudden vision change",
+    "triage mindset",
+    "clinical communication",
+    "optometry students",
+    "eye care",
+    "patient safety"
+  ],
+  "description": "This episode explains what makes an eye finding urgent and how students learn to recognise red flags with a calm mind. It covers suddenness, one eye involvement, pain with light sensitivity, and new symptoms arriving as a crowd. The message throughout is that urgency is about time, not drama. Join Focus Cast by focuslinks for a steady, practical walk through the skill.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1654.7,
+  "duration_min": 27.58,
+  "files": [
+    "S08E08-recognising-red-flags.wav",
+    "S08E08-recognising-red-flags.mp3"
+  ]
+}

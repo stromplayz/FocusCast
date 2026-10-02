@@ -1,21 +1,21 @@
 {
   "episodes": 10,
-  "words_total": 41624,
-  "eta_render_min": 23.6,
-  "actual_push_to_complete_min": 20.5,
-  "actual_total_min": 21.3,
+  "words_total": 42333,
+  "eta_render_min": 23.9,
+  "actual_push_to_complete_min": 23.5,
+  "actual_total_min": 24.4,
   "kernel": "phantoz/focuscast-batch",
   "delivered": [
-    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-01-what-is-a-spectacle-prescription/S07E01-what-is-a-spectacle-prescription.mp3",
-    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-02-sphere/S07E02-sphere.mp3",
-    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-03-cylinder/S07E03-cylinder.mp3",
-    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-04-axis/S07E04-axis.mp3",
-    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-05-add-power/S07E05-add-power.mp3",
-    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-06-prism/S07E06-prism.mp3",
-    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-07-plus-and-minus-lenses/S07E07-plus-and-minus-lenses.mp3",
-    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-08-right-eye-and-left-eye/S07E08-right-eye-and-left-eye.mp3",
-    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-09-reading-a-prescription/S07E09-reading-a-prescription.mp3",
-    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-10-understanding-a-complete-prescription/S07E10-understanding-a-complete-prescription.mp3"
+    "series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-01-talking-to-your-patient/S08E01-talking-to-your-patient.mp3",
+    "series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-02-asking-the-right-questions/S08E02-asking-the-right-questions.mp3",
+    "series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-03-listening-to-the-patient/S08E03-listening-to-the-patient.mp3",
+    "series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-04-signs-and-symptoms/S08E04-signs-and-symptoms.mp3",
+    "series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-05-normal-and-abnormal-findings/S08E05-normal-and-abnormal-findings.mp3",
+    "series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-06-screening-and-diagnosis/S08E06-screening-and-diagnosis.mp3",
+    "series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-07-clinical-decision-making/S08E07-clinical-decision-making.mp3",
+    "series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-08-recognising-red-flags/S08E08-recognising-red-flags.mp3",
+    "series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-09-when-to-refer/S08E09-when-to-refer.mp3",
+    "series-01-optometry-foundations/season-08-clinical-communication-and-reasoning/ep-10-thinking-like-an-optometrist/S08E10-thinking-like-an-optometrist.mp3"
   ],
-  "started_at_utc": "2026-10-02T19:56:21.795164+00:00"
+  "started_at_utc": "2026-10-02T20:25:08.083581+00:00"
 }

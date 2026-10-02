@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E04-signs-and-symptoms.txt",
+  "stem": "S08E04-signs-and-symptoms",
+  "words": 4152,
+  "generated_at_utc": "2026-10-02T20:08:55.746535+00:00",
+  "title": "Signs and Symptoms",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Clinical Communication and Reasoning",
+  "season_no": "8",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "signs",
+    "symptoms",
+    "clinical observation",
+    "patient reports",
+    "clinical evidence",
+    "optometry education",
+    "clinical communication",
+    "patient care"
+  ],
+  "description": "Season eight of Focus Cast by focuslinks reaches one of the cleanest distinctions in clinical work. The Host and the Guide separate symptoms, what the patient feels and reports, from signs, what the clinician observes and measures. You will hear why each stream of evidence has its own job, how the two streams correct and confirm each other, and what it means when they disagree. One stubborn myth about symptoms being mere complaints gets taken apart along the way.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1634.2,
+  "duration_min": 27.24,
+  "files": [
+    "S08E04-signs-and-symptoms.wav",
+    "S08E04-signs-and-symptoms.mp3"
+  ]
+}

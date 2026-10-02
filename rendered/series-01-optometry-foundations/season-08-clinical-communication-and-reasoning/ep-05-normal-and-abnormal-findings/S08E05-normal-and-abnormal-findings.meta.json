@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E05-normal-and-abnormal-findings.txt",
+  "stem": "S08E05-normal-and-abnormal-findings",
+  "words": 4226,
+  "generated_at_utc": "2026-10-02T20:10:59.533966+00:00",
+  "title": "Normal and Abnormal Findings",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Clinical Communication and Reasoning",
+  "season_no": "8",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "normal findings",
+    "abnormal findings",
+    "reference range",
+    "variation",
+    "baseline",
+    "gray zone",
+    "clinical judgment",
+    "optometry education"
+  ],
+  "description": "Season eight of Focus Cast by focuslinks asks a question that sounds simple and is anything but. The Host and the Guide explore what normal actually means in clinical work, where reference ranges come from, and why healthy people spread widely around any average. You will hear how the gray zone gets handled, why patterns beat single readings, and which two classic errors every clinician learns to avoid. One stubborn myth about averages gets taken apart along the way.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1658.6,
+  "duration_min": 27.64,
+  "files": [
+    "S08E05-normal-and-abnormal-findings.wav",
+    "S08E05-normal-and-abnormal-findings.mp3"
+  ]
+}

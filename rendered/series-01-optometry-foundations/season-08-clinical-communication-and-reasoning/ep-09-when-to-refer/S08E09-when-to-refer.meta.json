@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E09-when-to-refer.txt",
+  "stem": "S08E09-when-to-refer",
+  "words": 4400,
+  "generated_at_utc": "2026-10-02T20:19:13.729451+00:00",
+  "title": "When to Refer",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Clinical Communication and Reasoning",
+  "season_no": "8",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "referral",
+    "co-management",
+    "teamwork",
+    "referral letter",
+    "patient handover",
+    "clinical communication",
+    "optometry students",
+    "shared care"
+  ],
+  "description": "This episode reframes referral as teamwork rather than failure for the optometry student. It covers when to refer, what a strong referral letter carries, and how co-managing with other professionals works in daily practice. It also looks at the experience of being handed on from the patient's point of view. Listen to Focus Cast by focuslinks for a calm, practical walk through the skill.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1638.4,
+  "duration_min": 27.31,
+  "files": [
+    "S08E09-when-to-refer.wav",
+    "S08E09-when-to-refer.mp3"
+  ]
+}

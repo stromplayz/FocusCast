@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E06-screening-and-diagnosis.txt",
+  "stem": "S08E06-screening-and-diagnosis",
+  "words": 4175,
+  "generated_at_utc": "2026-10-02T20:13:04.446588+00:00",
+  "title": "Screening and Diagnosis",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Clinical Communication and Reasoning",
+  "season_no": "8",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "vision screening",
+    "diagnosis",
+    "false alarm",
+    "false comfort",
+    "referral",
+    "eye examination",
+    "early detection",
+    "community eye camp"
+  ],
+  "description": "A wide net and a careful name are two different tools, and this episode of Focus Cast by focuslinks explains both. The Guide defines screening as a broad first look that says look closer, and diagnosis as a named conclusion reached with full information. Listeners learn why a screening can never diagnose, and how false comfort and false alarm shape the design of every screening program. The road from a flag at a vision camp to a name at the clinic comes alive in plain language.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1609.6,
+  "duration_min": 26.83,
+  "files": [
+    "S08E06-screening-and-diagnosis.wav",
+    "S08E06-screening-and-diagnosis.mp3"
+  ]
+}

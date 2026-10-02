@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E07-clinical-decision-making.txt",
+  "stem": "S08E07-clinical-decision-making",
+  "words": 4123,
+  "generated_at_utc": "2026-10-02T20:15:06.384934+00:00",
+  "title": "Clinical Decision-Making",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Clinical Communication and Reasoning",
+  "season_no": "8",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "clinical decision making",
+    "decision tree",
+    "uncertainty",
+    "treatment plan",
+    "patient history",
+    "clinical findings",
+    "watchful review",
+    "clinical judgment"
+  ],
+  "description": "How does an examination become a plan? This episode of Focus Cast by focuslinks follows the optometrist as history, clinical findings, and the realities of a patient's life are weighed into one decision. The Guide introduces decision trees as a gentle organising idea, explains why watchful review is itself a real decision, and shows how plans are shared in honest language. Listeners finish the hour able to hear any treatment conversation as a story of balanced judgment.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1608.5,
+  "duration_min": 26.81,
+  "files": [
+    "S08E07-clinical-decision-making.wav",
+    "S08E07-clinical-decision-making.mp3"
+  ]
+}
