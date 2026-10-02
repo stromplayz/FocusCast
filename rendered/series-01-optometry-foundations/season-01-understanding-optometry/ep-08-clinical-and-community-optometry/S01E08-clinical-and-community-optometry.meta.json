@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E08-clinical-and-community-optometry.txt",
+  "stem": "S01E08-clinical-and-community-optometry",
+  "words": 4458,
+  "generated_at_utc": "2026-10-02T13:22:54.751581+00:00",
+  "title": "Clinical and Community Optometry",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometry",
+  "season_no": "1",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "clinical optometry",
+    "community optometry",
+    "vision screening",
+    "school vision programs",
+    "tele-optometry",
+    "optometry practice settings",
+    "outreach eye care",
+    "public eye health",
+    "referral pathway",
+    "optometry podcast"
+  ],
+  "description": "Where does an optometrist actually work, and how does eye care reach people who never walk into a clinic? This episode of Focus Cast by focuslinks compares the private clinic, the retail optical, the hospital, and the teaching clinic, then steps outside the walls to explore school vision programs, screening camps, workplace eye wellness, rural outreach, and tele-optometry. You will learn what changes between settings, why a screening without a referral path is a broken promise, and how documentation and partnership turn good intentions into public health. A story about one child's school year brings the lesson home.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1880.3,
+  "duration_min": 31.34,
+  "files": [
+    "S01E08-clinical-and-community-optometry.wav",
+    "S01E08-clinical-and-community-optometry.mp3"
+  ]
+}

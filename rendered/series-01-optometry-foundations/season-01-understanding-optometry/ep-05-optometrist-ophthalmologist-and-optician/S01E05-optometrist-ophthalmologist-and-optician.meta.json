@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E05-optometrist-ophthalmologist-and-optician.txt",
+  "stem": "S01E05-optometrist-ophthalmologist-and-optician",
+  "words": 4484,
+  "generated_at_utc": "2026-10-02T13:16:57.693180+00:00",
+  "title": "Optometrist, Ophthalmologist and Optician",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometry",
+  "season_no": "1",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optometrist",
+    "ophthalmologist",
+    "optician",
+    "eye doctor",
+    "eye care",
+    "who to see for eye problems",
+    "eye exam",
+    "glasses",
+    "contact lenses",
+    "optometry basics"
+  ],
+  "description": "Ever stood in a clinic hallway wondering which eye care door to open? In this episode of Focus Cast by focuslinks, our guide maps the three core professions of eye care, comparing their training paths, their daily work, and their centers of gravity. Learn who to see for blurry vision, a red painful eye, sudden floaters and flashes, cataract surgery, a crooked frame, and a child's first exam. Two patient stories, a diabetic retina case and a cataract co-management journey, show how three professions collaborate on one seamless circle of care. A calm, clear listen for optometry students, aspiring clinicians, and curious patients alike.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1898.4,
+  "duration_min": 31.64,
+  "files": [
+    "S01E05-optometrist-ophthalmologist-and-optician.wav",
+    "S01E05-optometrist-ophthalmologist-and-optician.mp3"
+  ]
+}

@@ -1,8 +1,828 @@
 {
-  "library": "FocusLinks Listen · Focus Cast",
+  "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "notes": "Auto-rebuilt by scripts/update_master.py after every render. Series 1 = Season 1 (Understanding Optometry) + Season 2 (The Eye as a Visual Organ).",
-  "updated_at": "2026-10-02T00:00:00+00:00",
-  "episode_count": 0,
-  "episodes": []
+  "updated_at": "2026-10-02T13:48:49.313914+00:00",
+  "episode_count": 20,
+  "episodes": [
+    {
+      "id": "S01E01",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 1,
+      "season": "Understanding Optometry",
+      "episode_no": 1,
+      "title": "What Is Optometry?",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "what is optometry",
+        "optometry meaning",
+        "optometry basics",
+        "eye care profession",
+        "primary eye care",
+        "optometry history",
+        "optometry education",
+        "vision correction",
+        "eye health",
+        "optometry for beginners"
+      ],
+      "description": "What is optometry, really? In this opening episode of Optometry Foundations, Focus Cast by focuslinks unpacks the word itself, traces the profession from thirteenth century spectacles to modern university degrees, and lays out the three pillars of eye care work. Learn why optometry is an autonomous, primary healthcare profession, and what really happens behind the frame racks. Made for students, optical shop teams, and curious patients who want a clear starting point.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-01/S01E01-what-is-optometry.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-01-what-is-optometry/S01E01-what-is-optometry.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-01-what-is-optometry/S01E01-what-is-optometry.mp3",
+        "bytes": 21744045,
+        "duration_sec": 1811.9,
+        "duration_min": 30.2,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:08:15.496043+00:00"
+    },
+    {
+      "id": "S01E02",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 1,
+      "season": "Understanding Optometry",
+      "episode_no": 2,
+      "title": "What Does an Optometrist Do?",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optometry",
+        "optometrist",
+        "eye exam",
+        "eye health",
+        "vision test",
+        "refraction",
+        "eye pressure test",
+        "slit lamp exam",
+        "glaucoma screening",
+        "optical care"
+      ],
+      "description": "What actually happens inside a full eye exam, from the first case history question to the final prescription? In this episode of Focus Cast by focuslinks, a patient optometry teacher walks you through an entire working day, step by step: visual acuity, refraction and the famous better one or two, binocular teamwork checks, the slit lamp tour of the front of the eye, honest talk about the air puff and eye pressure, and a close look at the back of the eye. You will hear how the day changes between a retail optical, a hospital clinic, and a pediatric practice, and how a routine exam can catch silent disease in a patient who feels perfectly fine. Two popular myths are gently demolished along the way, including whether the whole exam is just better one or two and whether the air puff is a scam. A calm, beginner friendly listen for anyone curious about optometry and eye care.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-01/S01E02-what-does-an-optometrist-do.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-02-what-does-an-optometrist-do/S01E02-what-does-an-optometrist-do.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-02-what-does-an-optometrist-do/S01E02-what-does-an-optometrist-do.mp3",
+        "bytes": 20676141,
+        "duration_sec": 1723.0,
+        "duration_min": 28.72,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:11:19.190286+00:00"
+    },
+    {
+      "id": "S01E03",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 1,
+      "season": "Understanding Optometry",
+      "episode_no": 3,
+      "title": "The Scope of Optometric Practice",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optometry",
+        "scope of practice",
+        "optometrist",
+        "eye exam",
+        "contact lenses",
+        "spectacles",
+        "licensure",
+        "eye health",
+        "co-management",
+        "optometry education"
+      ],
+      "description": "What exactly is an optometrist trained and licensed to do, and why does the answer change the moment you cross a border? In this episode of Focus Cast by focuslinks, we unpack the scope of optometric practice through its three layers: education, licensure, and the law of the land. We walk the universal core of eye examinations, spectacles, contact lenses, disease detection, and referral, then explore the extended areas many regions allow, from specialty contact lenses and vision therapy to low vision rehabilitation and co-management around eye surgery. We compare how scopes differ across countries and why, examine the honest boundaries with eye surgery, and bust two stubborn myths about the profession. Three memorable takeaways close the episode for students, career changers, and the simply curious.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-01/S01E03-the-scope-of-optometric-practice.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-03-the-scope-of-optometric-practice/S01E03-the-scope-of-optometric-practice.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-03-the-scope-of-optometric-practice/S01E03-the-scope-of-optometric-practice.mp3",
+        "bytes": 22012461,
+        "duration_sec": 1834.3,
+        "duration_min": 30.57,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:13:09.810673+00:00"
+    },
+    {
+      "id": "S01E04",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 1,
+      "season": "Understanding Optometry",
+      "episode_no": 4,
+      "title": "Optometry and Eye Care",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optometry",
+        "eye care system",
+        "primary eye care",
+        "vision screening",
+        "uncorrected refractive error",
+        "routine eye exam",
+        "glaucoma awareness",
+        "diabetic eye disease",
+        "eye care team",
+        "public health"
+      ],
+      "description": "In this episode of Focus Cast by focuslinks, the conversation zooms out from the exam chair to the whole eye care system. Learn how primary, secondary, and tertiary eye care work together, why the front door of the system matters, and how silent conditions like glaucoma and diabetic eye disease are caught early. The episode also explores the global burden of uncorrected refractive error, the screening programs that bring vision checks to schools, communities, and workplaces, and the referral pathways that connect the full eye care team. Beginners in optometry and curious listeners alike will finish with a clear answer to one question: why routine eye exams matter even when your vision seems perfectly fine.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-01/S01E04-optometry-and-eye-care.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-04-optometry-and-eye-care/S01E04-optometry-and-eye-care.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-04-optometry-and-eye-care/S01E04-optometry-and-eye-care.mp3",
+        "bytes": 20559213,
+        "duration_sec": 1713.2,
+        "duration_min": 28.55,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:15:07.185225+00:00"
+    },
+    {
+      "id": "S01E05",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 1,
+      "season": "Understanding Optometry",
+      "episode_no": 5,
+      "title": "Optometrist, Ophthalmologist and Optician",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optometrist",
+        "ophthalmologist",
+        "optician",
+        "eye doctor",
+        "eye care",
+        "who to see for eye problems",
+        "eye exam",
+        "glasses",
+        "contact lenses",
+        "optometry basics"
+      ],
+      "description": "Ever stood in a clinic hallway wondering which eye care door to open? In this episode of Focus Cast by focuslinks, our guide maps the three core professions of eye care, comparing their training paths, their daily work, and their centers of gravity. Learn who to see for blurry vision, a red painful eye, sudden floaters and flashes, cataract surgery, a crooked frame, and a child's first exam. Two patient stories, a diabetic retina case and a cataract co-management journey, show how three professions collaborate on one seamless circle of care. A calm, clear listen for optometry students, aspiring clinicians, and curious patients alike.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-01/S01E05-optometrist-ophthalmologist-and-optician.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-05-optometrist-ophthalmologist-and-optician/S01E05-optometrist-ophthalmologist-and-optician.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-05-optometrist-ophthalmologist-and-optician/S01E05-optometrist-ophthalmologist-and-optician.mp3",
+        "bytes": 22781709,
+        "duration_sec": 1898.4,
+        "duration_min": 31.64,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:16:57.693180+00:00"
+    },
+    {
+      "id": "S01E06",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 1,
+      "season": "Understanding Optometry",
+      "episode_no": 6,
+      "title": "The Optometrist's Role in Patient Care",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optometry",
+        "patient care",
+        "patient communication",
+        "case history",
+        "informed consent",
+        "continuity of care",
+        "referral letters",
+        "eye exam experience",
+        "optometry students",
+        "eye care podcast"
+      ],
+      "description": "A warm, practical conversation about the human side of eye care on Focus Cast by focuslinks. This episode follows the patient journey from the first phone call to years of follow up, explores the diagnostic power of careful listening, and shows how clear, jargon free communication builds real trust. Learn how optometrists manage expectations about what glasses can and cannot fix, guide anxious adults and frightened children, share decisions honestly, and keep records and referrals that protect sight. Ideal for students and the simply curious, it reveals why the relationship is as clinical as any measurement.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-01/S01E06-the-optometrists-role-in-patient-care.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-06-the-optometrist-s-role-in-patient-care/S01E06-the-optometrists-role-in-patient-care.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-06-the-optometrist-s-role-in-patient-care/S01E06-the-optometrists-role-in-patient-care.mp3",
+        "bytes": 21747789,
+        "duration_sec": 1812.2,
+        "duration_min": 30.2,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:19:00.211637+00:00"
+    },
+    {
+      "id": "S01E07",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 1,
+      "season": "Understanding Optometry",
+      "episode_no": 7,
+      "title": "Major Areas of Optometry",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optometry specialties",
+        "primary eye care",
+        "contact lens practice",
+        "pediatric optometry",
+        "myopia control",
+        "vision therapy",
+        "low vision rehabilitation",
+        "ocular disease",
+        "geriatric optometry",
+        "sports vision"
+      ],
+      "description": "Explore the major areas of optometry in this episode of Focus Cast by focuslinks, from primary eye care and contact lens practice to pediatric myopia control, vision therapy, low vision rehabilitation, ocular disease care, and geriatric optometry. Learn how each specialty serves a different stage of life, why primary care is the home base every clinician shares, and how students find their own direction during clinical rotations. A clear, friendly map of the profession for students, patients, and anyone curious about eye care.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-01/S01E07-major-areas-of-optometry.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-07-major-areas-of-optometry/S01E07-major-areas-of-optometry.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-07-major-areas-of-optometry/S01E07-major-areas-of-optometry.mp3",
+        "bytes": 21780333,
+        "duration_sec": 1815.0,
+        "duration_min": 30.25,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:20:57.597001+00:00"
+    },
+    {
+      "id": "S01E08",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 1,
+      "season": "Understanding Optometry",
+      "episode_no": 8,
+      "title": "Clinical and Community Optometry",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "clinical optometry",
+        "community optometry",
+        "vision screening",
+        "school vision programs",
+        "tele-optometry",
+        "optometry practice settings",
+        "outreach eye care",
+        "public eye health",
+        "referral pathway",
+        "optometry podcast"
+      ],
+      "description": "Where does an optometrist actually work, and how does eye care reach people who never walk into a clinic? This episode of Focus Cast by focuslinks compares the private clinic, the retail optical, the hospital, and the teaching clinic, then steps outside the walls to explore school vision programs, screening camps, workplace eye wellness, rural outreach, and tele-optometry. You will learn what changes between settings, why a screening without a referral path is a broken promise, and how documentation and partnership turn good intentions into public health. A story about one child's school year brings the lesson home.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-01/S01E08-clinical-and-community-optometry.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-08-clinical-and-community-optometry/S01E08-clinical-and-community-optometry.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-08-clinical-and-community-optometry/S01E08-clinical-and-community-optometry.mp3",
+        "bytes": 22564845,
+        "duration_sec": 1880.3,
+        "duration_min": 31.34,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:22:54.751581+00:00"
+    },
+    {
+      "id": "S01E09",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 1,
+      "season": "Understanding Optometry",
+      "episode_no": 9,
+      "title": "The Modern Optometry Practice",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "modern optometry practice",
+        "eye exam equipment",
+        "autorefractor",
+        "phoropter",
+        "slit lamp",
+        "tonometry",
+        "optical coherence tomography",
+        "visual field test",
+        "eye care team",
+        "optometry podcast"
+      ],
+      "description": "Take a guided, room by room tour of a modern optometry practice in this episode of Focus Cast by focuslinks. Meet the machines that measure your eyes, from the autorefractor and phoropter to the slit lamp, the pressure checker, the retinal scanner, and the visual field analyzer. Learn what each instrument actually does, why the clinician's judgment still leads, and how the whole team designs a calm, unhurried visit. A friendly foundation for students, new staff, and curious patients.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-01/S01E09-the-modern-optometry-practice.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-09-the-modern-optometry-practice/S01E09-the-modern-optometry-practice.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-09-the-modern-optometry-practice/S01E09-the-modern-optometry-practice.mp3",
+        "bytes": 21123117,
+        "duration_sec": 1760.2,
+        "duration_min": 29.34,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:24:55.637967+00:00"
+    },
+    {
+      "id": "S01E10",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 1,
+      "season": "Understanding Optometry",
+      "episode_no": 10,
+      "title": "Your Journey Through Optometry",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optometry career path",
+        "how to become an optometrist",
+        "optometry education",
+        "optometry school prerequisites",
+        "optometry licensure exam",
+        "optometry residency",
+        "optometry internships",
+        "lifelong learning",
+        "season finale",
+        "optometry foundations"
+      ],
+      "description": "Where does the journey into optometry begin, and where can it lead? In this season finale, Focus Cast by focuslinks walks the learner's path from the outside in: prerequisites and what admission teams look for, the optometry degree year by year in plain words, licensure as the professional gate, what internships reveal, residency and specialization, and the many directions a career can grow. The episode closes with the qualities that make a great optometrist and a one minute walk back through all ten episodes of the season. Then the road ahead: season two opens with the eye as a visual organ, moving through understanding vision, terminology, the eye examination, lenses, contact lenses, clinical refraction, and practice management. Two beloved myths, including whether learning stops at graduation, are gently busted along the way.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-01/S01E10-your-journey-through-optometry.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-10-your-journey-through-optometry/S01E10-your-journey-through-optometry.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-01-understanding-optometry/ep-10-your-journey-through-optometry/S01E10-your-journey-through-optometry.mp3",
+        "bytes": 20470509,
+        "duration_sec": 1705.8,
+        "duration_min": 28.43,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:26:49.022413+00:00"
+    },
+    {
+      "id": "S02E01",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 2,
+      "season": "The Eye as a Visual Organ",
+      "episode_no": 1,
+      "title": "Why Do We Have Eyes?",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "why do we have eyes",
+        "eye evolution",
+        "visual system",
+        "depth perception",
+        "two eyes",
+        "eye brain connection",
+        "optometry basics",
+        "vision science",
+        "how vision works",
+        "optometry podcast"
+      ],
+      "description": "Why do we have eyes at all? This season two opener of Focus Cast by focuslinks explores the eye as a visual organ, from its surprising evolutionary story to the deep partnership between the eyes and the brain. Learn why vision became the dominant human sense, why two eyes beat one, and why the brain must learn to see while we are young. A friendly optometry conversation for students, curious listeners, and anyone who has ever wondered how seeing really works.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-02/S02E01-why-do-we-have-eyes.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-01-why-do-we-have-eyes/S02E01-why-do-we-have-eyes.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-01-why-do-we-have-eyes/S02E01-why-do-we-have-eyes.mp3",
+        "bytes": 19282221,
+        "duration_sec": 1606.8,
+        "duration_min": 26.78,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:28:39.299763+00:00"
+    },
+    {
+      "id": "S02E02",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 2,
+      "season": "The Eye as a Visual Organ",
+      "episode_no": 2,
+      "title": "From Light to Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "from light to vision",
+        "how vision works",
+        "visual pathway",
+        "phototransduction",
+        "retina explained",
+        "optic nerve",
+        "brain and vision",
+        "eye anatomy basics",
+        "vision science",
+        "optometry foundations"
+      ],
+      "description": "Follow a single ray of light on its complete journey from the page to the experience of seeing. In this episode of Optometry Foundations, Focus Cast by focuslinks traces what light really is, how the tear film, cornea, pupil, lens, and vitreous prepare it, and how the retina turns photons into electricity. Learn why the image on the retina is upside down yet the world never looks wrong, how the brain edits and sharpens what the eyes deliver, and why we truly see with our brains. A clear, plain language tour of the visual pathway for students, optical teams, and curious listeners.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-02/S02E02-from-light-to-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-02-from-light-to-vision/S02E02-from-light-to-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-02-from-light-to-vision/S02E02-from-light-to-vision.mp3",
+        "bytes": 18790605,
+        "duration_sec": 1565.8,
+        "duration_min": 26.1,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:30:23.825569+00:00"
+    },
+    {
+      "id": "S02E03",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 2,
+      "season": "The Eye as a Visual Organ",
+      "episode_no": 3,
+      "title": "The Eye as an Optical System",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "eye as an optical system",
+        "cornea focusing power",
+        "lens accommodation",
+        "pupil aperture",
+        "myopia",
+        "hyperopia",
+        "astigmatism",
+        "tear film optics",
+        "presbyopia",
+        "refractive errors"
+      ],
+      "description": "How does the eye turn light into a sharp picture? In this episode of Focus Cast by focuslinks, the focusing machinery of the human eye is opened piece by piece and compared with a camera. Learn how the cornea supplies most of the focusing power, how the lens changes shape to focus near and far, and how the pupil works as an aperture. Myopia, hyperopia, and astigmatism are explained as focus placement problems, the tear film is revealed as the first optical surface, and two stubborn myths about glasses are busted. A clear, friendly guide for optometry students and anyone curious about how vision really works.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-02/S02E03-the-eye-as-an-optical-system.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-03-the-eye-as-an-optical-system/S02E03-the-eye-as-an-optical-system.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-03-the-eye-as-an-optical-system/S02E03-the-eye-as-an-optical-system.mp3",
+        "bytes": 20033901,
+        "duration_sec": 1669.4,
+        "duration_min": 27.82,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:32:06.438111+00:00"
+    },
+    {
+      "id": "S02E04",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 2,
+      "season": "The Eye as a Visual Organ",
+      "episode_no": 4,
+      "title": "The Front of the Eye",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "eye anatomy",
+        "cornea",
+        "tear film",
+        "dry eye",
+        "iris and pupil",
+        "aqueous humor",
+        "glaucoma basics",
+        "sclera",
+        "conjunctiva",
+        "optometry education"
+      ],
+      "description": "Take a guided tour of the front of the eye in this episode of Focus Cast by focuslinks. Learn how the three-layer tear film fights dry eye, why the cornea is the most sensitive and most precisely clear surface of the body, and how the iris and pupil work like a camera aperture. Explore the sclera, the limbus where repair stem cells live, and the drainage angle where glaucoma quietly begins. A beginner-friendly anatomy conversation for optometry students and curious listeners alike.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-02/S02E04-the-front-of-the-eye.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-04-the-front-of-the-eye/S02E04-the-front-of-the-eye.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-04-the-front-of-the-eye/S02E04-the-front-of-the-eye.mp3",
+        "bytes": 20423565,
+        "duration_sec": 1701.9,
+        "duration_min": 28.37,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:33:54.701584+00:00"
+    },
+    {
+      "id": "S02E05",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 2,
+      "season": "The Eye as a Visual Organ",
+      "episode_no": 5,
+      "title": "The Back of the Eye",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "back of the eye",
+        "vitreous humor",
+        "floaters",
+        "retina",
+        "optic disc",
+        "blind spot",
+        "choroid",
+        "retinal pigment epithelium",
+        "retinal detachment",
+        "eye exam"
+      ],
+      "description": "Take a guided audio tour of the back of the eye in this episode of Focus Cast by focuslinks. Explore the vitreous gel, the retina, the macula, the optic disc, the choroid, and the retinal pigment epithelium in plain, listener friendly language. Learn what floaters really are, why a sudden shower of new floaters with flashes demands urgent attention, and why the retina is best described as brain tissue pressed against the wall of the eye. Discover how the eye exam works as a health window, revealing early fingerprints of diabetes and high blood pressure. Perfect for optometry students, future clinicians, and curious minds who want the anatomy of the fundus explained clearly.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-02/S02E05-the-back-of-the-eye.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-05-the-back-of-the-eye/S02E05-the-back-of-the-eye.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-05-the-back-of-the-eye/S02E05-the-back-of-the-eye.mp3",
+        "bytes": 20783853,
+        "duration_sec": 1731.9,
+        "duration_min": 28.87,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:35:45.158253+00:00"
+    },
+    {
+      "id": "S02E06",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 2,
+      "season": "The Eye as a Visual Organ",
+      "episode_no": 6,
+      "title": "The Retina as the Sensory Layer",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "retina",
+        "rods and cones",
+        "photoreceptors",
+        "dark adaptation",
+        "color vision",
+        "color blindness",
+        "night vision",
+        "phototransduction",
+        "retina function",
+        "eye health"
+      ],
+      "description": "How does the eye turn light into vision? In this episode of Focus Cast by focuslinks, we zoom onto the retina, the sensory layer where seeing truly begins. Meet the two photoreceptor families, about one hundred and twenty million rods for dim light and motion and about six million cones for detail and color, and follow the chemistry that converts a single particle of light into an electrical signal. Experience dark adaptation the way a moviegoer does, learn why three cone types give the brain its color votes, and discover why the retina computes edges and change before the brain ever sees them. Perfect for optometry students and curious minds who want the sensor of the eye explained clearly for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-02/S02E06-the-retina-as-the-sensory-layer.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-06-the-retina-as-the-sensory-layer/S02E06-the-retina-as-the-sensory-layer.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-06-the-retina-as-the-sensory-layer/S02E06-the-retina-as-the-sensory-layer.mp3",
+        "bytes": 21174381,
+        "duration_sec": 1764.5,
+        "duration_min": 29.41,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:37:37.204054+00:00"
+    },
+    {
+      "id": "S02E07",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 2,
+      "season": "The Eye as a Visual Organ",
+      "episode_no": 7,
+      "title": "The Optic Nerve and Visual Information",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optic nerve",
+        "optic chiasm",
+        "blind spot",
+        "visual cortex",
+        "ganglion cells",
+        "visual pathway",
+        "glaucoma",
+        "pupil reflex",
+        "visual field",
+        "optometry education"
+      ],
+      "description": "Follow the finished signal out of the eye and into the brain in this episode of Focus Cast by focuslinks. Learn how ganglion cell fibers bundle into the optic nerve, why the optic disc creates a natural blind spot, and how the brain paints over the gap without ever telling you. Trace the great crossing at the optic chiasm, the relay station deep in the brain, and the visual cortex at the very back of the head, where damage writes readable patterns into the visual field. See why glaucoma is called the silent thief of sight, why optic nerve fibers never grow back, and how a simple pupil test helps clinicians check the wiring.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-02/S02E07-the-optic-nerve-and-visual-information.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-07-the-optic-nerve-and-visual-information/S02E07-the-optic-nerve-and-visual-information.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-07-the-optic-nerve-and-visual-information/S02E07-the-optic-nerve-and-visual-information.mp3",
+        "bytes": 20443725,
+        "duration_sec": 1703.6,
+        "duration_min": 28.39,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:39:31.118839+00:00"
+    },
+    {
+      "id": "S02E08",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 2,
+      "season": "The Eye as a Visual Organ",
+      "episode_no": 8,
+      "title": "The Macula and Central Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "macula",
+        "central vision",
+        "fovea",
+        "macular degeneration",
+        "dry macular degeneration",
+        "wet macular degeneration",
+        "amsler grid",
+        "cones",
+        "low vision",
+        "eye health"
+      ],
+      "description": "Meet the macula and central vision in plain language in this episode of Focus Cast by focuslinks. Discover the fovea, a pinhead sized pit packed with cones, and learn why reading, faces, and fine handiwork all depend on this tiny patch of retina. Explore how the eye aims its detail machine with tiny jumps, what a blur or a wavy line dead ahead can warn about, and how a simple home grid test works, one eye at a time. Understand dry and wet macular degeneration, the risk factors that matter such as age, smoking, family history, and ultraviolet exposure, and the protective habits that help, from leafy greens to sunglasses to regular dilated exams. Ideal for students, patients, and curious listeners who want central vision explained clearly.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-02/S02E08-the-macula-and-central-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-08-the-macula-and-central-vision/S02E08-the-macula-and-central-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-08-the-macula-and-central-vision/S02E08-the-macula-and-central-vision.mp3",
+        "bytes": 20077965,
+        "duration_sec": 1673.1,
+        "duration_min": 27.88,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:41:21.627589+00:00"
+    },
+    {
+      "id": "S02E09",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 2,
+      "season": "The Eye as a Visual Organ",
+      "episode_no": 9,
+      "title": "Peripheral Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "peripheral vision",
+        "visual field",
+        "side vision",
+        "rod cells",
+        "tunnel vision",
+        "glaucoma",
+        "visual field test",
+        "blind spot",
+        "optometry basics",
+        "eye health"
+      ],
+      "description": "How much of the world can you see without moving your eyes? In this episode of Focus Cast by focuslinks, we explore peripheral vision, the wide rod rich edges of sight that watch for motion, steady your balance, and keep you safe in traffic and in crowds. Learn why side vision is blurry but brilliant, how glaucoma quietly closes the sides of the visual field while the center still reads, and what really happens during a visual field test. A calm optometry lesson for curious beginners, with practical safety habits and two stubborn myths gently busted.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-02/S02E09-peripheral-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-09-peripheral-vision/S02E09-peripheral-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-09-peripheral-vision/S02E09-peripheral-vision.mp3",
+        "bytes": 20132397,
+        "duration_sec": 1677.6,
+        "duration_min": 27.96,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:43:10.123853+00:00"
+    },
+    {
+      "id": "S02E10",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 2,
+      "season": "The Eye as a Visual Organ",
+      "episode_no": 10,
+      "title": "Following the Path of Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "visual pathway",
+        "how vision works",
+        "eye anatomy",
+        "retina",
+        "optic nerve",
+        "visual cortex",
+        "optic chiasm",
+        "optometry basics",
+        "vision science",
+        "optometry podcast"
+      ],
+      "description": "One walk, no stops. The season two finale of Focus Cast by focuslinks traces the complete journey of vision, from light leaving a printed page, through the tear film, cornea, pupil, lens, and vitreous, to the retina where chemistry becomes electricity. Follow the signal out of the eye along the optic nerve, through the great crossing and the relay station, into the visual cortex where reading happens. Then meet the living part of sight, the tiny saccadic jumps your eyes make three or four times a second, the stitching of stills into a smooth movie, and the fusion of two eyes into one world with depth. A gentle season recap and two myth busts close out the season, with a preview of season three, Understanding Vision, where every way of measuring sight gets its moment.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-02/S02E10-following-the-path-of-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-10-following-the-path-of-vision/S02E10-following-the-path-of-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-02-the-eye-as-a-visual-organ/ep-10-following-the-path-of-vision/S02E10-following-the-path-of-vision.mp3",
+        "bytes": 18309069,
+        "duration_sec": 1525.7,
+        "duration_min": 25.43,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T13:44:58.982024+00:00"
+    }
+  ]
 }

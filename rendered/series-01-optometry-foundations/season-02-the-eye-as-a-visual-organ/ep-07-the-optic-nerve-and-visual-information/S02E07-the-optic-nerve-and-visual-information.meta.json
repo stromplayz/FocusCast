@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E07-the-optic-nerve-and-visual-information.txt",
+  "stem": "S02E07-the-optic-nerve-and-visual-information",
+  "words": 4465,
+  "generated_at_utc": "2026-10-02T13:39:31.118839+00:00",
+  "title": "The Optic Nerve and Visual Information",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Eye as a Visual Organ",
+  "season_no": "2",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optic nerve",
+    "optic chiasm",
+    "blind spot",
+    "visual cortex",
+    "ganglion cells",
+    "visual pathway",
+    "glaucoma",
+    "pupil reflex",
+    "visual field",
+    "optometry education"
+  ],
+  "description": "Follow the finished signal out of the eye and into the brain in this episode of Focus Cast by focuslinks. Learn how ganglion cell fibers bundle into the optic nerve, why the optic disc creates a natural blind spot, and how the brain paints over the gap without ever telling you. Trace the great crossing at the optic chiasm, the relay station deep in the brain, and the visual cortex at the very back of the head, where damage writes readable patterns into the visual field. See why glaucoma is called the silent thief of sight, why optic nerve fibers never grow back, and how a simple pupil test helps clinicians check the wiring.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1703.6,
+  "duration_min": 28.39,
+  "files": [
+    "S02E07-the-optic-nerve-and-visual-information.wav",
+    "S02E07-the-optic-nerve-and-visual-information.mp3"
+  ]
+}

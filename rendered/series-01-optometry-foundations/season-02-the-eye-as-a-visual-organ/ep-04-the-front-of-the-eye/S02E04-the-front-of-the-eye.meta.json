@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E04-the-front-of-the-eye.txt",
+  "stem": "S02E04-the-front-of-the-eye",
+  "words": 4480,
+  "generated_at_utc": "2026-10-02T13:33:54.701584+00:00",
+  "title": "The Front of the Eye",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Eye as a Visual Organ",
+  "season_no": "2",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "eye anatomy",
+    "cornea",
+    "tear film",
+    "dry eye",
+    "iris and pupil",
+    "aqueous humor",
+    "glaucoma basics",
+    "sclera",
+    "conjunctiva",
+    "optometry education"
+  ],
+  "description": "Take a guided tour of the front of the eye in this episode of Focus Cast by focuslinks. Learn how the three-layer tear film fights dry eye, why the cornea is the most sensitive and most precisely clear surface of the body, and how the iris and pupil work like a camera aperture. Explore the sclera, the limbus where repair stem cells live, and the drainage angle where glaucoma quietly begins. A beginner-friendly anatomy conversation for optometry students and curious listeners alike.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1701.9,
+  "duration_min": 28.37,
+  "files": [
+    "S02E04-the-front-of-the-eye.wav",
+    "S02E04-the-front-of-the-eye.mp3"
+  ]
+}

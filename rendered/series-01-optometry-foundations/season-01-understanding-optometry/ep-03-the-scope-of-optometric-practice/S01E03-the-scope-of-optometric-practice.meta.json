@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E03-the-scope-of-optometric-practice.txt",
+  "stem": "S01E03-the-scope-of-optometric-practice",
+  "words": 4359,
+  "generated_at_utc": "2026-10-02T13:13:09.810673+00:00",
+  "title": "The Scope of Optometric Practice",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometry",
+  "season_no": "1",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optometry",
+    "scope of practice",
+    "optometrist",
+    "eye exam",
+    "contact lenses",
+    "spectacles",
+    "licensure",
+    "eye health",
+    "co-management",
+    "optometry education"
+  ],
+  "description": "What exactly is an optometrist trained and licensed to do, and why does the answer change the moment you cross a border? In this episode of Focus Cast by focuslinks, we unpack the scope of optometric practice through its three layers: education, licensure, and the law of the land. We walk the universal core of eye examinations, spectacles, contact lenses, disease detection, and referral, then explore the extended areas many regions allow, from specialty contact lenses and vision therapy to low vision rehabilitation and co-management around eye surgery. We compare how scopes differ across countries and why, examine the honest boundaries with eye surgery, and bust two stubborn myths about the profession. Three memorable takeaways close the episode for students, career changers, and the simply curious.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1834.3,
+  "duration_min": 30.57,
+  "files": [
+    "S01E03-the-scope-of-optometric-practice.wav",
+    "S01E03-the-scope-of-optometric-practice.mp3"
+  ]
+}

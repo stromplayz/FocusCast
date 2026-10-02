@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E01-why-do-we-have-eyes.txt",
+  "stem": "S02E01-why-do-we-have-eyes",
+  "words": 4278,
+  "generated_at_utc": "2026-10-02T13:28:39.299763+00:00",
+  "title": "Why Do We Have Eyes?",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Eye as a Visual Organ",
+  "season_no": "2",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "why do we have eyes",
+    "eye evolution",
+    "visual system",
+    "depth perception",
+    "two eyes",
+    "eye brain connection",
+    "optometry basics",
+    "vision science",
+    "how vision works",
+    "optometry podcast"
+  ],
+  "description": "Why do we have eyes at all? This season two opener of Focus Cast by focuslinks explores the eye as a visual organ, from its surprising evolutionary story to the deep partnership between the eyes and the brain. Learn why vision became the dominant human sense, why two eyes beat one, and why the brain must learn to see while we are young. A friendly optometry conversation for students, curious listeners, and anyone who has ever wondered how seeing really works.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1606.8,
+  "duration_min": 26.78,
+  "files": [
+    "S02E01-why-do-we-have-eyes.wav",
+    "S02E01-why-do-we-have-eyes.mp3"
+  ]
+}

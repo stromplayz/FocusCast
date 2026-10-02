@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E10-your-journey-through-optometry.txt",
+  "stem": "S01E10-your-journey-through-optometry",
+  "words": 4211,
+  "generated_at_utc": "2026-10-02T13:26:49.022413+00:00",
+  "title": "Your Journey Through Optometry",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometry",
+  "season_no": "1",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optometry career path",
+    "how to become an optometrist",
+    "optometry education",
+    "optometry school prerequisites",
+    "optometry licensure exam",
+    "optometry residency",
+    "optometry internships",
+    "lifelong learning",
+    "season finale",
+    "optometry foundations"
+  ],
+  "description": "Where does the journey into optometry begin, and where can it lead? In this season finale, Focus Cast by focuslinks walks the learner's path from the outside in: prerequisites and what admission teams look for, the optometry degree year by year in plain words, licensure as the professional gate, what internships reveal, residency and specialization, and the many directions a career can grow. The episode closes with the qualities that make a great optometrist and a one minute walk back through all ten episodes of the season. Then the road ahead: season two opens with the eye as a visual organ, moving through understanding vision, terminology, the eye examination, lenses, contact lenses, clinical refraction, and practice management. Two beloved myths, including whether learning stops at graduation, are gently busted along the way.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1705.8,
+  "duration_min": 28.43,
+  "files": [
+    "S01E10-your-journey-through-optometry.wav",
+    "S01E10-your-journey-through-optometry.mp3"
+  ]
+}

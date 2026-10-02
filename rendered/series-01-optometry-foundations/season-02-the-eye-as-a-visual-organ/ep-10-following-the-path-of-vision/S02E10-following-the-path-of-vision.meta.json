@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E10-following-the-path-of-vision.txt",
+  "stem": "S02E10-following-the-path-of-vision",
+  "words": 4086,
+  "generated_at_utc": "2026-10-02T13:44:58.982024+00:00",
+  "title": "Following the Path of Vision",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Eye as a Visual Organ",
+  "season_no": "2",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "visual pathway",
+    "how vision works",
+    "eye anatomy",
+    "retina",
+    "optic nerve",
+    "visual cortex",
+    "optic chiasm",
+    "optometry basics",
+    "vision science",
+    "optometry podcast"
+  ],
+  "description": "One walk, no stops. The season two finale of Focus Cast by focuslinks traces the complete journey of vision, from light leaving a printed page, through the tear film, cornea, pupil, lens, and vitreous, to the retina where chemistry becomes electricity. Follow the signal out of the eye along the optic nerve, through the great crossing and the relay station, into the visual cortex where reading happens. Then meet the living part of sight, the tiny saccadic jumps your eyes make three or four times a second, the stitching of stills into a smooth movie, and the fusion of two eyes into one world with depth. A gentle season recap and two myth busts close out the season, with a preview of season three, Understanding Vision, where every way of measuring sight gets its moment.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1525.7,
+  "duration_min": 25.43,
+  "files": [
+    "S02E10-following-the-path-of-vision.wav",
+    "S02E10-following-the-path-of-vision.mp3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E02-from-light-to-vision.txt",
+  "stem": "S02E02-from-light-to-vision",
+  "words": 4079,
+  "generated_at_utc": "2026-10-02T13:30:23.825569+00:00",
+  "title": "From Light to Vision",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Eye as a Visual Organ",
+  "season_no": "2",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "from light to vision",
+    "how vision works",
+    "visual pathway",
+    "phototransduction",
+    "retina explained",
+    "optic nerve",
+    "brain and vision",
+    "eye anatomy basics",
+    "vision science",
+    "optometry foundations"
+  ],
+  "description": "Follow a single ray of light on its complete journey from the page to the experience of seeing. In this episode of Optometry Foundations, Focus Cast by focuslinks traces what light really is, how the tear film, cornea, pupil, lens, and vitreous prepare it, and how the retina turns photons into electricity. Learn why the image on the retina is upside down yet the world never looks wrong, how the brain edits and sharpens what the eyes deliver, and why we truly see with our brains. A clear, plain language tour of the visual pathway for students, optical teams, and curious listeners.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1565.8,
+  "duration_min": 26.1,
+  "files": [
+    "S02E02-from-light-to-vision.wav",
+    "S02E02-from-light-to-vision.mp3"
+  ]
+}

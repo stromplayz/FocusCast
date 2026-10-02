@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E08-the-macula-and-central-vision.txt",
+  "stem": "S02E08-the-macula-and-central-vision",
+  "words": 4187,
+  "generated_at_utc": "2026-10-02T13:41:21.627589+00:00",
+  "title": "The Macula and Central Vision",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Eye as a Visual Organ",
+  "season_no": "2",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "macula",
+    "central vision",
+    "fovea",
+    "macular degeneration",
+    "dry macular degeneration",
+    "wet macular degeneration",
+    "amsler grid",
+    "cones",
+    "low vision",
+    "eye health"
+  ],
+  "description": "Meet the macula and central vision in plain language in this episode of Focus Cast by focuslinks. Discover the fovea, a pinhead sized pit packed with cones, and learn why reading, faces, and fine handiwork all depend on this tiny patch of retina. Explore how the eye aims its detail machine with tiny jumps, what a blur or a wavy line dead ahead can warn about, and how a simple home grid test works, one eye at a time. Understand dry and wet macular degeneration, the risk factors that matter such as age, smoking, family history, and ultraviolet exposure, and the protective habits that help, from leafy greens to sunglasses to regular dilated exams. Ideal for students, patients, and curious listeners who want central vision explained clearly.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1673.1,
+  "duration_min": 27.88,
+  "files": [
+    "S02E08-the-macula-and-central-vision.wav",
+    "S02E08-the-macula-and-central-vision.mp3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E06-the-retina-as-the-sensory-layer.txt",
+  "stem": "S02E06-the-retina-as-the-sensory-layer",
+  "words": 4439,
+  "generated_at_utc": "2026-10-02T13:37:37.204054+00:00",
+  "title": "The Retina as the Sensory Layer",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Eye as a Visual Organ",
+  "season_no": "2",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "retina",
+    "rods and cones",
+    "photoreceptors",
+    "dark adaptation",
+    "color vision",
+    "color blindness",
+    "night vision",
+    "phototransduction",
+    "retina function",
+    "eye health"
+  ],
+  "description": "How does the eye turn light into vision? In this episode of Focus Cast by focuslinks, we zoom onto the retina, the sensory layer where seeing truly begins. Meet the two photoreceptor families, about one hundred and twenty million rods for dim light and motion and about six million cones for detail and color, and follow the chemistry that converts a single particle of light into an electrical signal. Experience dark adaptation the way a moviegoer does, learn why three cone types give the brain its color votes, and discover why the retina computes edges and change before the brain ever sees them. Perfect for optometry students and curious minds who want the sensor of the eye explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1764.5,
+  "duration_min": 29.41,
+  "files": [
+    "S02E06-the-retina-as-the-sensory-layer.wav",
+    "S02E06-the-retina-as-the-sensory-layer.mp3"
+  ]
+}

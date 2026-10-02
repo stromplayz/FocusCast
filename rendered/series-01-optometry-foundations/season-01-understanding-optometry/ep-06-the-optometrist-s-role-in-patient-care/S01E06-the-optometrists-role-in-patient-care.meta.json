@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E06-the-optometrists-role-in-patient-care.txt",
+  "stem": "S01E06-the-optometrists-role-in-patient-care",
+  "words": 4496,
+  "generated_at_utc": "2026-10-02T13:19:00.211637+00:00",
+  "title": "The Optometrist's Role in Patient Care",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometry",
+  "season_no": "1",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optometry",
+    "patient care",
+    "patient communication",
+    "case history",
+    "informed consent",
+    "continuity of care",
+    "referral letters",
+    "eye exam experience",
+    "optometry students",
+    "eye care podcast"
+  ],
+  "description": "A warm, practical conversation about the human side of eye care on Focus Cast by focuslinks. This episode follows the patient journey from the first phone call to years of follow up, explores the diagnostic power of careful listening, and shows how clear, jargon free communication builds real trust. Learn how optometrists manage expectations about what glasses can and cannot fix, guide anxious adults and frightened children, share decisions honestly, and keep records and referrals that protect sight. Ideal for students and the simply curious, it reveals why the relationship is as clinical as any measurement.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1812.2,
+  "duration_min": 30.2,
+  "files": [
+    "S01E06-the-optometrists-role-in-patient-care.wav",
+    "S01E06-the-optometrists-role-in-patient-care.mp3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E05-the-back-of-the-eye.txt",
+  "stem": "S02E05-the-back-of-the-eye",
+  "words": 4442,
+  "generated_at_utc": "2026-10-02T13:35:45.158253+00:00",
+  "title": "The Back of the Eye",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Eye as a Visual Organ",
+  "season_no": "2",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "back of the eye",
+    "vitreous humor",
+    "floaters",
+    "retina",
+    "optic disc",
+    "blind spot",
+    "choroid",
+    "retinal pigment epithelium",
+    "retinal detachment",
+    "eye exam"
+  ],
+  "description": "Take a guided audio tour of the back of the eye in this episode of Focus Cast by focuslinks. Explore the vitreous gel, the retina, the macula, the optic disc, the choroid, and the retinal pigment epithelium in plain, listener friendly language. Learn what floaters really are, why a sudden shower of new floaters with flashes demands urgent attention, and why the retina is best described as brain tissue pressed against the wall of the eye. Discover how the eye exam works as a health window, revealing early fingerprints of diabetes and high blood pressure. Perfect for optometry students, future clinicians, and curious minds who want the anatomy of the fundus explained clearly.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1731.9,
+  "duration_min": 28.87,
+  "files": [
+    "S02E05-the-back-of-the-eye.wav",
+    "S02E05-the-back-of-the-eye.mp3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E07-major-areas-of-optometry.txt",
+  "stem": "S01E07-major-areas-of-optometry",
+  "words": 4365,
+  "generated_at_utc": "2026-10-02T13:20:57.597001+00:00",
+  "title": "Major Areas of Optometry",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometry",
+  "season_no": "1",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optometry specialties",
+    "primary eye care",
+    "contact lens practice",
+    "pediatric optometry",
+    "myopia control",
+    "vision therapy",
+    "low vision rehabilitation",
+    "ocular disease",
+    "geriatric optometry",
+    "sports vision"
+  ],
+  "description": "Explore the major areas of optometry in this episode of Focus Cast by focuslinks, from primary eye care and contact lens practice to pediatric myopia control, vision therapy, low vision rehabilitation, ocular disease care, and geriatric optometry. Learn how each specialty serves a different stage of life, why primary care is the home base every clinician shares, and how students find their own direction during clinical rotations. A clear, friendly map of the profession for students, patients, and anyone curious about eye care.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1815.0,
+  "duration_min": 30.25,
+  "files": [
+    "S01E07-major-areas-of-optometry.wav",
+    "S01E07-major-areas-of-optometry.mp3"
+  ]
+}
