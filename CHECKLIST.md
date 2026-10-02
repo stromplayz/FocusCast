@@ -71,18 +71,37 @@ Scripts live in `library/series/series-01-optometry-foundations/season-01/` as `
 
 Scripts live in `library/series/series-01-optometry-foundations/season-02/` as `S02E01-<slug>.txt` … `S02E10-<slug>.txt`.
 
+## 5a · Series 1 · Seasons 3–10 — scripted (80 episodes, 100/100 series total)
+
+All eight seasons written by the 8-agent sprint, every script PASS (`scripts/verify_ep.py`), every season E01 opener + E10 finale with next-season tease chain intact.
+
+| Season | Title | Script | Rendered | In master.json |
+|--------|-------|--------|----------|----------------|
+| 03 | Understanding Vision | [x] 10/10 | [ ] | [ ] |
+| 04 | Optometric Terminology | [x] 10/10 | [ ] | [ ] |
+| 05 | The Optometry Examination | [x] 10/10 | [ ] | [ ] |
+| 06 | Basic Clinical Measurements | [x] 10/10 | [ ] | [ ] |
+| 07 | Understanding Optometric Prescriptions | [x] 10/10 | [ ] | [ ] |
+| 08 | Clinical Communication and Reasoning | [x] 10/10 | [ ] | [ ] |
+| 09 | The Patient Journey | [x] 10/10 | [ ] | [ ] |
+| 10 | Foundation Cases | [x] 10/10 | [ ] | [ ] |
+
+Scripts live in `library/series/series-01-optometry-foundations/season-03/` … `season-10/` as `SNNENN-<slug>.txt`. Season 8 header name spelled "Clinical Communication and Reasoning" (ampersand banned).
+
 ## 6 · Release tasks
 
 - [x] Old 5-episode test batch deleted (scripts + rendered audio + catalog entries)
-- [x] 20/20 scripts written and validated
-- [ ] Render Season 1 batch via workflow (kokoro, ~ETA shown in run summary)
-- [ ] Render Season 2 batch via workflow
-- [ ] master.json shows 20 episodes with raw mp3 URLs
-- [ ] Demo renders (`rendered/demos/`) kept as engine samples only
+- [x] 20/20 scripts written and validated (Seasons 1-2)
+- [x] Render Season 1 batch via workflow (run 37010813929, kokoro, all 10 episodes 28.4-31.6 min)
+- [x] Render Season 2 batch via workflow (same run, all 10 episodes 25.4-29.4 min)
+- [x] master.json shows 20 episodes with raw mp3 URLs (9.60 hours total, 24 kHz)
+- [x] Demo renders (`rendered/demos/`) kept as engine samples only
+- [x] 80/80 new scripts written and validated (Seasons 3-10) — 100/100 series total, all PASS
+- [ ] Render Seasons 3-10 via workflow (8 season batches, kokoro)
 
 ## 7 · Series 1 roadmap (Seasons 3–10, planned — do NOT script before S1–S2 are rendered & locked)
 
-- [ ] Season 3 — Understanding Vision
-- [ ] Season 4 — Optometric Terminology
-- [ ] Season 5 — The Optometry Examination
-- [ ] Seasons 6–10 — see `series.json` (single source of truth)
+- [x] Season 3 — Understanding Vision (scripted)
+- [x] Season 4 — Optometric Terminology (scripted)
+- [x] Season 5 — The Optometry Examination (scripted)
+- [x] Seasons 6–10 — scripted (Basic Clinical Measurements, Prescriptions, Communication and Reasoning, Patient Journey, Foundation Cases)

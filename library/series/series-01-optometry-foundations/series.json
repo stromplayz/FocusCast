@@ -7,7 +7,7 @@
   "id": "series-01",
   "slug": "series-01-optometry-foundations",
   "title": "Optometry Foundations",
-  "status": "locked-draft",
+  "status": "Series 1 fully scripted: 10 seasons, 100 episodes (seasons 1-2 rendered)",
   "purpose": "Give a learner the fundamental optometry knowledge needed to understand all later Focus Cast series.",
   "audience": "First-year optometry students, optical retail staff, and curious patients",
   "language": "English (EN)",
@@ -24,14 +24,14 @@
     "seasons": 10,
     "episodes_per_season": 10
   },
-  "master_rule": "One concept \u2192 one primary teaching home. Later appearances must add a different learning purpose (new depth, technique, interpretation, clinical application, or cases) \u2014 never a re-record of the same topic.",
+  "master_rule": "One concept → one primary teaching home. Later appearances must add a different learning purpose (new depth, technique, interpretation, clinical application, or cases) — never a re-record of the same topic.",
   "anti_repetition": {
     "rule": "Once Series 01 is locked, these 100 episodes are the foundation database. Later series must NOT recreate or rename these topics as new content. Foundation concepts may only be briefly recapped/referenced.",
-    "example_old": "Series 01 \u00b7 Episode 33 \u2014 Myopia: what it means",
+    "example_old": "Series 01 · Episode 33 — Myopia: what it means",
     "example_new_ok": [
-      "Series 06 \u00b7 Clinical Refraction \u2014 Myopic Refraction: full clinical management",
-      "Series 27 \u00b7 Clinical Case Files \u2014 Case: young adult with progressive myopia",
-      "Series 28 \u00b7 Viva \u2014 Myopia-related clinical questions"
+      "Series 06 · Clinical Refraction — Myopic Refraction: full clinical management",
+      "Series 27 · Clinical Case Files — Case: young adult with progressive myopia",
+      "Series 28 · Viva — Myopia-related clinical questions"
     ],
     "scope_note": "Do not start Series 02 until Series 01's scope is locked. Series 02 must explicitly exclude everything already covered here."
   },
@@ -39,7 +39,7 @@
     {
       "no": 1,
       "name": "Understanding Optometry",
-      "status": "scripted — awaiting render",
+      "status": "rendered — published to library",
       "episodes": [
         "What Is Optometry?",
         "What Does an Optometrist Do?",
@@ -56,7 +56,7 @@
     {
       "no": 2,
       "name": "The Eye as a Visual Organ",
-      "status": "scripted — awaiting render",
+      "status": "rendered — published to library",
       "episodes": [
         "Why Do We Have Eyes?",
         "From Light to Vision",
@@ -84,7 +84,8 @@
         "Contrast Sensitivity",
         "Colour Vision",
         "Visual Field"
-      ]
+      ],
+      "status": "scripted — awaiting render"
     },
     {
       "no": 4,
@@ -100,7 +101,8 @@
         "Convergence",
         "Vergence",
         "Refractive Error"
-      ]
+      ],
+      "status": "scripted — awaiting render"
     },
     {
       "no": 5,
@@ -116,7 +118,8 @@
         "Preliminary Examination",
         "Clinical Findings",
         "Recording the Examination"
-      ]
+      ],
+      "status": "scripted — awaiting render"
     },
     {
       "no": 6,
@@ -132,7 +135,8 @@
         "Basic Visual Field Testing",
         "Colour Vision Testing",
         "Stereopsis Testing"
-      ]
+      ],
+      "status": "scripted — awaiting render"
     },
     {
       "no": 7,
@@ -148,7 +152,8 @@
         "Right Eye and Left Eye",
         "Reading a Prescription",
         "Understanding a Complete Prescription"
-      ]
+      ],
+      "status": "scripted — awaiting render"
     },
     {
       "no": 8,
@@ -164,7 +169,8 @@
         "Recognising Red Flags",
         "When to Refer",
         "Thinking Like an Optometrist"
-      ]
+      ],
+      "status": "scripted — awaiting render"
     },
     {
       "no": 9,
@@ -180,7 +186,8 @@
         "Explaining Findings",
         "Giving the Prescription",
         "Finishing the Consultation"
-      ]
+      ],
+      "status": "scripted — awaiting render"
     },
     {
       "no": 10,
@@ -195,8 +202,9 @@
         "Patient With Sudden Vision Change",
         "Child With Poor Vision",
         "Older Patient With Reduced Vision",
-        "The Complete Optometry Examination \u2014 Grand Case"
-      ]
+        "The Complete Optometry Examination — Grand Case"
+      ],
+      "status": "scripted — awaiting render"
     }
   ],
   "episodes": [
@@ -1097,7 +1105,7 @@
       "season_name": "Foundation Cases",
       "episode_in_season": 10,
       "id": "S10E10",
-      "title": "The Complete Optometry Examination \u2014 Grand Case",
+      "title": "The Complete Optometry Examination — Grand Case",
       "status": "planned"
     }
   ]
