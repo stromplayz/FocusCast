@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-02T18:41:53.787369+00:00",
-  "episode_count": 40,
+  "updated_at": "2026-10-02T19:05:56.274335+00:00",
+  "episode_count": 50,
   "episodes": [
     {
       "id": "S01E01",
@@ -1610,6 +1610,396 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-02T18:38:52.983733+00:00"
+    },
+    {
+      "id": "S05E01",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 5,
+      "season": "The Optometry Examination",
+      "episode_no": 1,
+      "title": "Why Do We Examine the Eye?",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "eye examination",
+        "optometry",
+        "eye health",
+        "silent disease",
+        "glaucoma",
+        "baseline",
+        "early detection",
+        "consultation"
+      ],
+      "description": "Season five of Focus Cast by focuslinks opens the door to the examination room and asks why eye care begins with questions, not machines. This episode explores what an examination protects, what it can uncover before any symptom appears, and why seeing clearly is not the same as being healthy. It also introduces the shape of a consultation that the rest of the season will follow. A quiet, practical hour about the value of looking closely.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-05/S05E01-why-do-we-examine-the-eye.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-01-why-do-we-examine-the-eye/S05E01-why-do-we-examine-the-eye.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-01-why-do-we-examine-the-eye/S05E01-why-do-we-examine-the-eye.mp3",
+        "bytes": 19225197,
+        "duration_sec": 1602.0,
+        "duration_min": 26.7,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:46:17.338013+00:00"
+    },
+    {
+      "id": "S05E02",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 5,
+      "season": "The Optometry Examination",
+      "episode_no": 2,
+      "title": "The Complete Eye Examination",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "eye examination",
+        "optometry",
+        "consultation stages",
+        "case history",
+        "preliminary checks",
+        "ocular health",
+        "refraction",
+        "patient journey"
+      ],
+      "description": "Focus Cast by focuslinks continues season five with a walk through the complete eye examination, from the front door to the goodbye. This episode maps the five movements of a consultation and shows why each stage exists and why the order matters. It also asks how long a thorough examination should take, and why the quietest stage is the one people remember least. By the end, the exam room will feel familiar rather than mysterious.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-05/S05E02-the-complete-eye-examination.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-02-the-complete-eye-examination/S05E02-the-complete-eye-examination.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-02-the-complete-eye-examination/S05E02-the-complete-eye-examination.mp3",
+        "bytes": 20606157,
+        "duration_sec": 1717.1,
+        "duration_min": 28.62,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:48:38.686071+00:00"
+    },
+    {
+      "id": "S05E03",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 5,
+      "season": "The Optometry Examination",
+      "episode_no": 3,
+      "title": "Patient History",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "patient history",
+        "case history",
+        "optometry",
+        "clinical communication",
+        "listening skills",
+        "open questions",
+        "eye examination",
+        "patient care"
+      ],
+      "description": "Focus Cast by focuslinks dedicates this episode to the opening conversation of every eye examination: the patient history. It explains what the history covers, why clinicians ask before they measure, and how skilled listening turns everyday words into clinical clues. Listeners will hear why the history is called the foundation of the consultation, and why no machine has replaced it yet.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-05/S05E03-patient-history.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-03-patient-history/S05E03-patient-history.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-03-patient-history/S05E03-patient-history.mp3",
+        "bytes": 19852461,
+        "duration_sec": 1654.3,
+        "duration_min": 27.57,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:50:30.458155+00:00"
+    },
+    {
+      "id": "S05E04",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 5,
+      "season": "The Optometry Examination",
+      "episode_no": 4,
+      "title": "Chief Complaint",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "chief complaint",
+        "patient history",
+        "symptoms",
+        "optometry",
+        "eye examination",
+        "red flags",
+        "clinical communication",
+        "patient care"
+      ],
+      "description": "Focus Cast by focuslinks zooms into the first territory of the case history: the chief complaint, the reason a patient came today. This episode shows why clinicians record the complaint in the patient's own words, how a vague symptom becomes a usable description, and which complaints refuse to wait. It also uncovers the complaint that patients sometimes never say out loud at all.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-05/S05E04-chief-complaint.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-04-chief-complaint/S05E04-chief-complaint.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-04-chief-complaint/S05E04-chief-complaint.mp3",
+        "bytes": 20405997,
+        "duration_sec": 1700.4,
+        "duration_min": 28.34,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:52:19.037213+00:00"
+    },
+    {
+      "id": "S05E05",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 5,
+      "season": "The Optometry Examination",
+      "episode_no": 5,
+      "title": "Ocular History",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "ocular history",
+        "eye examination",
+        "optometry",
+        "patient history",
+        "eye injury",
+        "eye surgery",
+        "childhood vision",
+        "clinical communication"
+      ],
+      "description": "Focus Cast by focuslinks opens the second territory of the case history: the ocular biography, everything the eyes have lived through. This episode explains what counts as ocular history, why a childhood story can matter decades later, and how old records quietly sharpen a new examination. It is an hour about the idea that no eye arrives in the chair without a past.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-05/S05E05-ocular-history.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-05-ocular-history/S05E05-ocular-history.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-05-ocular-history/S05E05-ocular-history.mp3",
+        "bytes": 20658861,
+        "duration_sec": 1721.5,
+        "duration_min": 28.69,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:54:10.135453+00:00"
+    },
+    {
+      "id": "S05E06",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 5,
+      "season": "The Optometry Examination",
+      "episode_no": 6,
+      "title": "Medical and Medication History",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "medical history",
+        "medication history",
+        "systemic health",
+        "blood pressure",
+        "diabetes",
+        "thyroid",
+        "eye drops",
+        "patient privacy"
+      ],
+      "description": "Episode six of season five on Focus Cast by focuslinks asks why the eye examination reaches beyond the eyes into the whole body and the medicine cupboard. The host and the guide use blood pressure, diabetes, and the thyroid as gentle examples, then explain why tablets and drops belong in the conversation. It closes with the trust talk about privacy that every patient deserves.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-05/S05E06-medical-and-medication-history.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-06-medical-and-medication-history/S05E06-medical-and-medication-history.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-06-medical-and-medication-history/S05E06-medical-and-medication-history.mp3",
+        "bytes": 19062765,
+        "duration_sec": 1588.5,
+        "duration_min": 26.47,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:56:02.168352+00:00"
+    },
+    {
+      "id": "S05E07",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 5,
+      "season": "The Optometry Examination",
+      "episode_no": 7,
+      "title": "Family History",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "family history",
+        "inherited",
+        "glaucoma",
+        "genetics",
+        "relatives",
+        "eye examination",
+        "risk",
+        "health stories"
+      ],
+      "description": "Episode seven of season five on Focus Cast by focuslinks follows the inherited threads that run through eye health. The host and the guide explore what a family history of glaucoma means, why parents who wore glasses young can matter, and how family stories guide the examination. It ends with kind and practical ways to ask relatives what they remember.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-05/S05E07-family-history.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-07-family-history/S05E07-family-history.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-07-family-history/S05E07-family-history.mp3",
+        "bytes": 18923373,
+        "duration_sec": 1576.9,
+        "duration_min": 26.28,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:57:47.265669+00:00"
+    },
+    {
+      "id": "S05E08",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 5,
+      "season": "The Optometry Examination",
+      "episode_no": 8,
+      "title": "Preliminary Examination",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optometry",
+        "eye examination",
+        "preliminary examination",
+        "case history",
+        "pupil checks",
+        "eye movements",
+        "refraction",
+        "eye care"
+      ],
+      "description": "Before any lens is dialed into place, the optometrist sets the table. In this episode of Focus Cast by focuslinks, the Guide walks through the preliminary examination, the opening checks that prepare everything which follows. We cover the case history recap, the outside look at the eyes, quick pupil checks, and basic eye movements. Every check stays a preview, since the mechanics belong to the next season.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-05/S05E08-preliminary-examination.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-08-preliminary-examination/S05E08-preliminary-examination.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-08-preliminary-examination/S05E08-preliminary-examination.mp3",
+        "bytes": 19030509,
+        "duration_sec": 1585.8,
+        "duration_min": 26.43,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:59:32.362955+00:00"
+    },
+    {
+      "id": "S05E09",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 5,
+      "season": "The Optometry Examination",
+      "episode_no": 9,
+      "title": "Clinical Findings",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optometry",
+        "clinical findings",
+        "symptoms",
+        "observation",
+        "eye examination",
+        "context",
+        "eye care",
+        "patient history"
+      ],
+      "description": "Every examination produces two kinds of truth: what the patient feels and what the optometrist finds. In this episode of Focus Cast by focuslinks, the Guide defines the clinical finding and separates it from the symptom. We sort findings into the ones made by observation and the ones made with instruments, and we show why context turns a fact into meaning. The episode closes by taking apart the myth that a clean set of findings means a wasted visit.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-05/S05E09-clinical-findings.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-09-clinical-findings/S05E09-clinical-findings.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-09-clinical-findings/S05E09-clinical-findings.mp3",
+        "bytes": 19452717,
+        "duration_sec": 1621.0,
+        "duration_min": 27.02,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:01:17.867001+00:00"
+    },
+    {
+      "id": "S05E10",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 5,
+      "season": "The Optometry Examination",
+      "episode_no": 10,
+      "title": "Recording the Examination",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optometry",
+        "medical records",
+        "clinical notes",
+        "continuity of care",
+        "documentation",
+        "eye examination",
+        "patient care",
+        "season finale"
+      ],
+      "description": "An examination that is not written down is an examination that fades. In the season finale of Focus Cast by focuslinks, the Guide explains why records matter, from continuity of care to comparison over time to the legal weight of the chart. We walk through what gets written, why clear notes protect the patient, and how the whole season fits into one record. The episode closes with a wrap of the season and a look ahead to the hands on measurement season.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-05/S05E10-recording-the-examination.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-10-recording-the-examination/S05E10-recording-the-examination.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-05-the-optometry-examination/ep-10-recording-the-examination/S05E10-recording-the-examination.mp3",
+        "bytes": 18857997,
+        "duration_sec": 1571.4,
+        "duration_min": 26.19,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:03:05.049534+00:00"
     }
   ]
 }

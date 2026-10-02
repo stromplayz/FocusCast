@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E10-recording-the-examination.txt",
+  "stem": "S05E10-recording-the-examination",
+  "words": 4134,
+  "generated_at_utc": "2026-10-02T19:03:05.049534+00:00",
+  "title": "Recording the Examination",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Optometry Examination",
+  "season_no": "5",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optometry",
+    "medical records",
+    "clinical notes",
+    "continuity of care",
+    "documentation",
+    "eye examination",
+    "patient care",
+    "season finale"
+  ],
+  "description": "An examination that is not written down is an examination that fades. In the season finale of Focus Cast by focuslinks, the Guide explains why records matter, from continuity of care to comparison over time to the legal weight of the chart. We walk through what gets written, why clear notes protect the patient, and how the whole season fits into one record. The episode closes with a wrap of the season and a look ahead to the hands on measurement season.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1571.4,
+  "duration_min": 26.19,
+  "files": [
+    "S05E10-recording-the-examination.wav",
+    "S05E10-recording-the-examination.mp3"
+  ]
+}

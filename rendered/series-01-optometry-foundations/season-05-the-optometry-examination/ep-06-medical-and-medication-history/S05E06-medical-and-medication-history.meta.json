@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E06-medical-and-medication-history.txt",
+  "stem": "S05E06-medical-and-medication-history",
+  "words": 4224,
+  "generated_at_utc": "2026-10-02T18:56:02.168352+00:00",
+  "title": "Medical and Medication History",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Optometry Examination",
+  "season_no": "5",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "medical history",
+    "medication history",
+    "systemic health",
+    "blood pressure",
+    "diabetes",
+    "thyroid",
+    "eye drops",
+    "patient privacy"
+  ],
+  "description": "Episode six of season five on Focus Cast by focuslinks asks why the eye examination reaches beyond the eyes into the whole body and the medicine cupboard. The host and the guide use blood pressure, diabetes, and the thyroid as gentle examples, then explain why tablets and drops belong in the conversation. It closes with the trust talk about privacy that every patient deserves.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1588.5,
+  "duration_min": 26.47,
+  "files": [
+    "S05E06-medical-and-medication-history.wav",
+    "S05E06-medical-and-medication-history.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E04-chief-complaint.txt",
+  "stem": "S05E04-chief-complaint",
+  "words": 4202,
+  "generated_at_utc": "2026-10-02T18:52:19.037213+00:00",
+  "title": "Chief Complaint",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Optometry Examination",
+  "season_no": "5",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "chief complaint",
+    "patient history",
+    "symptoms",
+    "optometry",
+    "eye examination",
+    "red flags",
+    "clinical communication",
+    "patient care"
+  ],
+  "description": "Focus Cast by focuslinks zooms into the first territory of the case history: the chief complaint, the reason a patient came today. This episode shows why clinicians record the complaint in the patient's own words, how a vague symptom becomes a usable description, and which complaints refuse to wait. It also uncovers the complaint that patients sometimes never say out loud at all.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1700.4,
+  "duration_min": 28.34,
+  "files": [
+    "S05E04-chief-complaint.wav",
+    "S05E04-chief-complaint.mp3"
+  ]
+}

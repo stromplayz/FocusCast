@@ -1,21 +1,21 @@
 {
   "episodes": 10,
-  "words_total": 42353,
-  "eta_render_min": 23.9,
+  "words_total": 41892,
+  "eta_render_min": 23.8,
   "actual_push_to_complete_min": 20.5,
-  "actual_total_min": 21.1,
+  "actual_total_min": 20.9,
   "kernel": "phantoz/focuscast-batch",
   "delivered": [
-    "series-01-optometry-foundations/season-04-optometric-terminology/ep-01-emmetropia/S04E01-emmetropia.mp3",
-    "series-01-optometry-foundations/season-04-optometric-terminology/ep-02-ametropia/S04E02-ametropia.mp3",
-    "series-01-optometry-foundations/season-04-optometric-terminology/ep-03-myopia/S04E03-myopia.mp3",
-    "series-01-optometry-foundations/season-04-optometric-terminology/ep-04-hyperopia/S04E04-hyperopia.mp3",
-    "series-01-optometry-foundations/season-04-optometric-terminology/ep-05-astigmatism/S04E05-astigmatism.mp3",
-    "series-01-optometry-foundations/season-04-optometric-terminology/ep-06-presbyopia/S04E06-presbyopia.mp3",
-    "series-01-optometry-foundations/season-04-optometric-terminology/ep-07-accommodation/S04E07-accommodation.mp3",
-    "series-01-optometry-foundations/season-04-optometric-terminology/ep-08-convergence/S04E08-convergence.mp3",
-    "series-01-optometry-foundations/season-04-optometric-terminology/ep-09-vergence/S04E09-vergence.mp3",
-    "series-01-optometry-foundations/season-04-optometric-terminology/ep-10-refractive-error/S04E10-refractive-error.mp3"
+    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-01-why-do-we-examine-the-eye/S05E01-why-do-we-examine-the-eye.mp3",
+    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-02-the-complete-eye-examination/S05E02-the-complete-eye-examination.mp3",
+    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-03-patient-history/S05E03-patient-history.mp3",
+    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-04-chief-complaint/S05E04-chief-complaint.mp3",
+    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-05-ocular-history/S05E05-ocular-history.mp3",
+    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-06-medical-and-medication-history/S05E06-medical-and-medication-history.mp3",
+    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-07-family-history/S05E07-family-history.mp3",
+    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-08-preliminary-examination/S05E08-preliminary-examination.mp3",
+    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-09-clinical-findings/S05E09-clinical-findings.mp3",
+    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-10-recording-the-examination/S05E10-recording-the-examination.mp3"
   ],
-  "started_at_utc": "2026-10-02T18:41:53.701465+00:00"
+  "started_at_utc": "2026-10-02T19:05:56.176322+00:00"
 }

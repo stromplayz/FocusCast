@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E01-why-do-we-examine-the-eye.txt",
+  "stem": "S05E01-why-do-we-examine-the-eye",
+  "words": 4179,
+  "generated_at_utc": "2026-10-02T18:46:17.338013+00:00",
+  "title": "Why Do We Examine the Eye?",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Optometry Examination",
+  "season_no": "5",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "eye examination",
+    "optometry",
+    "eye health",
+    "silent disease",
+    "glaucoma",
+    "baseline",
+    "early detection",
+    "consultation"
+  ],
+  "description": "Season five of Focus Cast by focuslinks opens the door to the examination room and asks why eye care begins with questions, not machines. This episode explores what an examination protects, what it can uncover before any symptom appears, and why seeing clearly is not the same as being healthy. It also introduces the shape of a consultation that the rest of the season will follow. A quiet, practical hour about the value of looking closely.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1602.0,
+  "duration_min": 26.7,
+  "files": [
+    "S05E01-why-do-we-examine-the-eye.wav",
+    "S05E01-why-do-we-examine-the-eye.mp3"
+  ]
+}

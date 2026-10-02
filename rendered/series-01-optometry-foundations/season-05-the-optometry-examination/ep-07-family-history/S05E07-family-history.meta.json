@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E07-family-history.txt",
+  "stem": "S05E07-family-history",
+  "words": 4116,
+  "generated_at_utc": "2026-10-02T18:57:47.265669+00:00",
+  "title": "Family History",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Optometry Examination",
+  "season_no": "5",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "family history",
+    "inherited",
+    "glaucoma",
+    "genetics",
+    "relatives",
+    "eye examination",
+    "risk",
+    "health stories"
+  ],
+  "description": "Episode seven of season five on Focus Cast by focuslinks follows the inherited threads that run through eye health. The host and the guide explore what a family history of glaucoma means, why parents who wore glasses young can matter, and how family stories guide the examination. It ends with kind and practical ways to ask relatives what they remember.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1576.9,
+  "duration_min": 26.28,
+  "files": [
+    "S05E07-family-history.wav",
+    "S05E07-family-history.mp3"
+  ]
+}

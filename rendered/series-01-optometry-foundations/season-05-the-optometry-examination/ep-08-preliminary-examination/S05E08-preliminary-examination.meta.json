@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E08-preliminary-examination.txt",
+  "stem": "S05E08-preliminary-examination",
+  "words": 4179,
+  "generated_at_utc": "2026-10-02T18:59:32.362955+00:00",
+  "title": "Preliminary Examination",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Optometry Examination",
+  "season_no": "5",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optometry",
+    "eye examination",
+    "preliminary examination",
+    "case history",
+    "pupil checks",
+    "eye movements",
+    "refraction",
+    "eye care"
+  ],
+  "description": "Before any lens is dialed into place, the optometrist sets the table. In this episode of Focus Cast by focuslinks, the Guide walks through the preliminary examination, the opening checks that prepare everything which follows. We cover the case history recap, the outside look at the eyes, quick pupil checks, and basic eye movements. Every check stays a preview, since the mechanics belong to the next season.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1585.8,
+  "duration_min": 26.43,
+  "files": [
+    "S05E08-preliminary-examination.wav",
+    "S05E08-preliminary-examination.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E02-the-complete-eye-examination.txt",
+  "stem": "S05E02-the-complete-eye-examination",
+  "words": 4390,
+  "generated_at_utc": "2026-10-02T18:48:38.686071+00:00",
+  "title": "The Complete Eye Examination",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Optometry Examination",
+  "season_no": "5",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "eye examination",
+    "optometry",
+    "consultation stages",
+    "case history",
+    "preliminary checks",
+    "ocular health",
+    "refraction",
+    "patient journey"
+  ],
+  "description": "Focus Cast by focuslinks continues season five with a walk through the complete eye examination, from the front door to the goodbye. This episode maps the five movements of a consultation and shows why each stage exists and why the order matters. It also asks how long a thorough examination should take, and why the quietest stage is the one people remember least. By the end, the exam room will feel familiar rather than mysterious.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1717.1,
+  "duration_min": 28.62,
+  "files": [
+    "S05E02-the-complete-eye-examination.wav",
+    "S05E02-the-complete-eye-examination.mp3"
+  ]
+}

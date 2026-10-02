@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E03-patient-history.txt",
+  "stem": "S05E03-patient-history",
+  "words": 4147,
+  "generated_at_utc": "2026-10-02T18:50:30.458155+00:00",
+  "title": "Patient History",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Optometry Examination",
+  "season_no": "5",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "patient history",
+    "case history",
+    "optometry",
+    "clinical communication",
+    "listening skills",
+    "open questions",
+    "eye examination",
+    "patient care"
+  ],
+  "description": "Focus Cast by focuslinks dedicates this episode to the opening conversation of every eye examination: the patient history. It explains what the history covers, why clinicians ask before they measure, and how skilled listening turns everyday words into clinical clues. Listeners will hear why the history is called the foundation of the consultation, and why no machine has replaced it yet.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1654.3,
+  "duration_min": 27.57,
+  "files": [
+    "S05E03-patient-history.wav",
+    "S05E03-patient-history.mp3"
+  ]
+}

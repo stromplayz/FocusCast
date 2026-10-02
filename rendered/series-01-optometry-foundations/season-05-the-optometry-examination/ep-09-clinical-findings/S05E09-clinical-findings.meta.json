@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E09-clinical-findings.txt",
+  "stem": "S05E09-clinical-findings",
+  "words": 4135,
+  "generated_at_utc": "2026-10-02T19:01:17.867001+00:00",
+  "title": "Clinical Findings",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Optometry Examination",
+  "season_no": "5",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optometry",
+    "clinical findings",
+    "symptoms",
+    "observation",
+    "eye examination",
+    "context",
+    "eye care",
+    "patient history"
+  ],
+  "description": "Every examination produces two kinds of truth: what the patient feels and what the optometrist finds. In this episode of Focus Cast by focuslinks, the Guide defines the clinical finding and separates it from the symptom. We sort findings into the ones made by observation and the ones made with instruments, and we show why context turns a fact into meaning. The episode closes by taking apart the myth that a clean set of findings means a wasted visit.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1621.0,
+  "duration_min": 27.02,
+  "files": [
+    "S05E09-clinical-findings.wav",
+    "S05E09-clinical-findings.mp3"
+  ]
+}

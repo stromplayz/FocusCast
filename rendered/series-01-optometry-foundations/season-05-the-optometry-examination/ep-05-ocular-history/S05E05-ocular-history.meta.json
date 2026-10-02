@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E05-ocular-history.txt",
+  "stem": "S05E05-ocular-history",
+  "words": 4186,
+  "generated_at_utc": "2026-10-02T18:54:10.135453+00:00",
+  "title": "Ocular History",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Optometry Examination",
+  "season_no": "5",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "ocular history",
+    "eye examination",
+    "optometry",
+    "patient history",
+    "eye injury",
+    "eye surgery",
+    "childhood vision",
+    "clinical communication"
+  ],
+  "description": "Focus Cast by focuslinks opens the second territory of the case history: the ocular biography, everything the eyes have lived through. This episode explains what counts as ocular history, why a childhood story can matter decades later, and how old records quietly sharpen a new examination. It is an hour about the idea that no eye arrives in the chair without a past.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1721.5,
+  "duration_min": 28.69,
+  "files": [
+    "S05E05-ocular-history.wav",
+    "S05E05-ocular-history.mp3"
+  ]
+}
