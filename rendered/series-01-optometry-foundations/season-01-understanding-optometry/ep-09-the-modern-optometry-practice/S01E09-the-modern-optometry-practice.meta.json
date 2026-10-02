@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E09-the-modern-optometry-practice.txt",
+  "stem": "S01E09-the-modern-optometry-practice",
+  "words": 4419,
+  "generated_at_utc": "2026-10-02T13:24:55.637967+00:00",
+  "title": "The Modern Optometry Practice",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometry",
+  "season_no": "1",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "modern optometry practice",
+    "eye exam equipment",
+    "autorefractor",
+    "phoropter",
+    "slit lamp",
+    "tonometry",
+    "optical coherence tomography",
+    "visual field test",
+    "eye care team",
+    "optometry podcast"
+  ],
+  "description": "Take a guided, room by room tour of a modern optometry practice in this episode of Focus Cast by focuslinks. Meet the machines that measure your eyes, from the autorefractor and phoropter to the slit lamp, the pressure checker, the retinal scanner, and the visual field analyzer. Learn what each instrument actually does, why the clinician's judgment still leads, and how the whole team designs a calm, unhurried visit. A friendly foundation for students, new staff, and curious patients.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1760.2,
+  "duration_min": 29.34,
+  "files": [
+    "S01E09-the-modern-optometry-practice.wav",
+    "S01E09-the-modern-optometry-practice.mp3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E03-the-eye-as-an-optical-system.txt",
+  "stem": "S02E03-the-eye-as-an-optical-system",
+  "words": 4191,
+  "generated_at_utc": "2026-10-02T13:32:06.438111+00:00",
+  "title": "The Eye as an Optical System",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Eye as a Visual Organ",
+  "season_no": "2",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "eye as an optical system",
+    "cornea focusing power",
+    "lens accommodation",
+    "pupil aperture",
+    "myopia",
+    "hyperopia",
+    "astigmatism",
+    "tear film optics",
+    "presbyopia",
+    "refractive errors"
+  ],
+  "description": "How does the eye turn light into a sharp picture? In this episode of Focus Cast by focuslinks, the focusing machinery of the human eye is opened piece by piece and compared with a camera. Learn how the cornea supplies most of the focusing power, how the lens changes shape to focus near and far, and how the pupil works as an aperture. Myopia, hyperopia, and astigmatism are explained as focus placement problems, the tear film is revealed as the first optical surface, and two stubborn myths about glasses are busted. A clear, friendly guide for optometry students and anyone curious about how vision really works.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1669.4,
+  "duration_min": 27.82,
+  "files": [
+    "S02E03-the-eye-as-an-optical-system.wav",
+    "S02E03-the-eye-as-an-optical-system.mp3"
+  ]
+}

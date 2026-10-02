@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E04-optometry-and-eye-care.txt",
+  "stem": "S01E04-optometry-and-eye-care",
+  "words": 4220,
+  "generated_at_utc": "2026-10-02T13:15:07.185225+00:00",
+  "title": "Optometry and Eye Care",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometry",
+  "season_no": "1",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optometry",
+    "eye care system",
+    "primary eye care",
+    "vision screening",
+    "uncorrected refractive error",
+    "routine eye exam",
+    "glaucoma awareness",
+    "diabetic eye disease",
+    "eye care team",
+    "public health"
+  ],
+  "description": "In this episode of Focus Cast by focuslinks, the conversation zooms out from the exam chair to the whole eye care system. Learn how primary, secondary, and tertiary eye care work together, why the front door of the system matters, and how silent conditions like glaucoma and diabetic eye disease are caught early. The episode also explores the global burden of uncorrected refractive error, the screening programs that bring vision checks to schools, communities, and workplaces, and the referral pathways that connect the full eye care team. Beginners in optometry and curious listeners alike will finish with a clear answer to one question: why routine eye exams matter even when your vision seems perfectly fine.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1713.2,
+  "duration_min": 28.55,
+  "files": [
+    "S01E04-optometry-and-eye-care.wav",
+    "S01E04-optometry-and-eye-care.mp3"
+  ]
+}

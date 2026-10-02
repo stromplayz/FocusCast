@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E02-what-does-an-optometrist-do.txt",
+  "stem": "S01E02-what-does-an-optometrist-do",
+  "words": 4321,
+  "generated_at_utc": "2026-10-02T13:11:19.190286+00:00",
+  "title": "What Does an Optometrist Do?",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometry",
+  "season_no": "1",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optometry",
+    "optometrist",
+    "eye exam",
+    "eye health",
+    "vision test",
+    "refraction",
+    "eye pressure test",
+    "slit lamp exam",
+    "glaucoma screening",
+    "optical care"
+  ],
+  "description": "What actually happens inside a full eye exam, from the first case history question to the final prescription? In this episode of Focus Cast by focuslinks, a patient optometry teacher walks you through an entire working day, step by step: visual acuity, refraction and the famous better one or two, binocular teamwork checks, the slit lamp tour of the front of the eye, honest talk about the air puff and eye pressure, and a close look at the back of the eye. You will hear how the day changes between a retail optical, a hospital clinic, and a pediatric practice, and how a routine exam can catch silent disease in a patient who feels perfectly fine. Two popular myths are gently demolished along the way, including whether the whole exam is just better one or two and whether the air puff is a scam. A calm, beginner friendly listen for anyone curious about optometry and eye care.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1723.0,
+  "duration_min": 28.72,
+  "files": [
+    "S01E02-what-does-an-optometrist-do.wav",
+    "S01E02-what-does-an-optometrist-do.mp3"
+  ]
+}

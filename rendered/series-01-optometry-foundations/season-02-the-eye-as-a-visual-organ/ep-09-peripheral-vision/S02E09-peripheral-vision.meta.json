@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E09-peripheral-vision.txt",
+  "stem": "S02E09-peripheral-vision",
+  "words": 4359,
+  "generated_at_utc": "2026-10-02T13:43:10.123853+00:00",
+  "title": "Peripheral Vision",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Eye as a Visual Organ",
+  "season_no": "2",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "peripheral vision",
+    "visual field",
+    "side vision",
+    "rod cells",
+    "tunnel vision",
+    "glaucoma",
+    "visual field test",
+    "blind spot",
+    "optometry basics",
+    "eye health"
+  ],
+  "description": "How much of the world can you see without moving your eyes? In this episode of Focus Cast by focuslinks, we explore peripheral vision, the wide rod rich edges of sight that watch for motion, steady your balance, and keep you safe in traffic and in crowds. Learn why side vision is blurry but brilliant, how glaucoma quietly closes the sides of the visual field while the center still reads, and what really happens during a visual field test. A calm optometry lesson for curious beginners, with practical safety habits and two stubborn myths gently busted.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1677.6,
+  "duration_min": 27.96,
+  "files": [
+    "S02E09-peripheral-vision.wav",
+    "S02E09-peripheral-vision.mp3"
+  ]
+}
