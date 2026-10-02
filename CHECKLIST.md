@@ -41,16 +41,16 @@
 
 | # | Episode | Script | Rendered | In master.json |
 |---|---------|--------|----------|----------------|
-| 01 | What Is Optometry? | [x] | [ ] | [ ] |
-| 02 | What Does an Optometrist Do? | [x] | [ ] | [ ] |
-| 03 | The Scope of Optometric Practice | [x] | [ ] | [ ] |
-| 04 | Optometry and Eye Care | [x] | [ ] | [ ] |
-| 05 | Optometrist, Ophthalmologist and Optician | [x] | [ ] | [ ] |
-| 06 | The Optometrist's Role in Patient Care | [x] | [ ] | [ ] |
-| 07 | Major Areas of Optometry | [x] | [ ] | [ ] |
-| 08 | Clinical and Community Optometry | [x] | [ ] | [ ] |
-| 09 | The Modern Optometry Practice | [x] | [ ] | [ ] |
-| 10 | Your Journey Through Optometry | [x] | [ ] | [ ] |
+| 01 | What Is Optometry? | [x] | [x] | [x] |
+| 02 | What Does an Optometrist Do? | [x] | [x] | [x] |
+| 03 | The Scope of Optometric Practice | [x] | [x] | [x] |
+| 04 | Optometry and Eye Care | [x] | [x] | [x] |
+| 05 | Optometrist, Ophthalmologist and Optician | [x] | [x] | [x] |
+| 06 | The Optometrist's Role in Patient Care | [x] | [x] | [x] |
+| 07 | Major Areas of Optometry | [x] | [x] | [x] |
+| 08 | Clinical and Community Optometry | [x] | [x] | [x] |
+| 09 | The Modern Optometry Practice | [x] | [x] | [x] |
+| 10 | Your Journey Through Optometry | [x] | [x] | [x] |
 
 Scripts live in `library/series/series-01-optometry-foundations/season-01/` as `S01E01-<slug>.txt` … `S01E10-<slug>.txt`.
 
@@ -58,16 +58,16 @@ Scripts live in `library/series/series-01-optometry-foundations/season-01/` as `
 
 | # | Episode | Script | Rendered | In master.json |
 |---|---------|--------|----------|----------------|
-| 01 | Why Do We Have Eyes? | [x] | [ ] | [ ] |
-| 02 | From Light to Vision | [x] | [ ] | [ ] |
-| 03 | The Eye as an Optical System | [x] | [ ] | [ ] |
-| 04 | The Front of the Eye | [x] | [ ] | [ ] |
-| 05 | The Back of the Eye | [x] | [ ] | [ ] |
-| 06 | The Retina as the Sensory Layer | [x] | [ ] | [ ] |
-| 07 | The Optic Nerve and Visual Information | [x] | [ ] | [ ] |
-| 08 | The Macula and Central Vision | [x] | [ ] | [ ] |
-| 09 | Peripheral Vision | [x] | [ ] | [ ] |
-| 10 | Following the Path of Vision | [x] | [ ] | [ ] |
+| 01 | Why Do We Have Eyes? | [x] | [x] | [x] |
+| 02 | From Light to Vision | [x] | [x] | [x] |
+| 03 | The Eye as an Optical System | [x] | [x] | [x] |
+| 04 | The Front of the Eye | [x] | [x] | [x] |
+| 05 | The Back of the Eye | [x] | [x] | [x] |
+| 06 | The Retina as the Sensory Layer | [x] | [x] | [x] |
+| 07 | The Optic Nerve and Visual Information | [x] | [x] | [x] |
+| 08 | The Macula and Central Vision | [x] | [x] | [x] |
+| 09 | Peripheral Vision | [x] | [x] | [x] |
+| 10 | Following the Path of Vision | [x] | [x] | [x] |
 
 Scripts live in `library/series/series-01-optometry-foundations/season-02/` as `S02E01-<slug>.txt` … `S02E10-<slug>.txt`.
 
@@ -75,10 +75,10 @@ Scripts live in `library/series/series-01-optometry-foundations/season-02/` as `
 
 - [x] Old 5-episode test batch deleted (scripts + rendered audio + catalog entries)
 - [x] 20/20 scripts written and validated
-- [ ] Render Season 1 batch via workflow (kokoro, ~ETA shown in run summary)
-- [ ] Render Season 2 batch via workflow
-- [ ] master.json shows 20 episodes with raw mp3 URLs
-- [ ] Demo renders (`rendered/demos/`) kept as engine samples only
+- [x] Render Season 1 batch via workflow (run 37010813929, kokoro, all 10 episodes 28.4–31.6 min)
+- [x] Render Season 2 batch via workflow (same run, all 10 episodes 25.4–29.4 min)
+- [x] master.json shows 20 episodes with raw mp3 URLs (9.60 hours total, 24 kHz)
+- [x] Demo renders (`rendered/demos/`) kept as engine samples only
 
 ## 7 · Series 1 roadmap (Seasons 3–10, planned — do NOT script before S1–S2 are rendered & locked)
 
