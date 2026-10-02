@@ -1,21 +1,21 @@
 {
   "episodes": 10,
-  "words_total": 42246,
-  "eta_render_min": 23.9,
+  "words_total": 41694,
+  "eta_render_min": 23.7,
   "actual_push_to_complete_min": 20.5,
   "actual_total_min": 21.1,
   "kernel": "phantoz/focuscast-batch",
   "delivered": [
-    "series-01-optometry-foundations/season-09-the-patient-journey/ep-01-patient-arrives/S09E01-patient-arrives.mp3",
-    "series-01-optometry-foundations/season-09-the-patient-journey/ep-02-history-taking/S09E02-history-taking.mp3",
-    "series-01-optometry-foundations/season-09-the-patient-journey/ep-03-preliminary-examination/S09E03-preliminary-examination.mp3",
-    "series-01-optometry-foundations/season-09-the-patient-journey/ep-04-vision-assessment/S09E04-vision-assessment.mp3",
-    "series-01-optometry-foundations/season-09-the-patient-journey/ep-05-refraction/S09E05-refraction.mp3",
-    "series-01-optometry-foundations/season-09-the-patient-journey/ep-06-binocular-assessment/S09E06-binocular-assessment.mp3",
-    "series-01-optometry-foundations/season-09-the-patient-journey/ep-07-ocular-health-assessment/S09E07-ocular-health-assessment.mp3",
-    "series-01-optometry-foundations/season-09-the-patient-journey/ep-08-explaining-findings/S09E08-explaining-findings.mp3",
-    "series-01-optometry-foundations/season-09-the-patient-journey/ep-09-giving-the-prescription/S09E09-giving-the-prescription.mp3",
-    "series-01-optometry-foundations/season-09-the-patient-journey/ep-10-finishing-the-consultation/S09E10-finishing-the-consultation.mp3"
+    "series-01-optometry-foundations/season-10-foundation-cases/ep-01-patient-with-blurred-distance-vision/S10E01-patient-with-blurred-distance-vision.mp3",
+    "series-01-optometry-foundations/season-10-foundation-cases/ep-02-patient-with-blurred-near-vision/S10E02-patient-with-blurred-near-vision.mp3",
+    "series-01-optometry-foundations/season-10-foundation-cases/ep-03-patient-with-headache/S10E03-patient-with-headache.mp3",
+    "series-01-optometry-foundations/season-10-foundation-cases/ep-04-patient-with-eye-strain/S10E04-patient-with-eye-strain.mp3",
+    "series-01-optometry-foundations/season-10-foundation-cases/ep-05-patient-with-red-eye/S10E05-patient-with-red-eye.mp3",
+    "series-01-optometry-foundations/season-10-foundation-cases/ep-06-patient-with-eye-pain/S10E06-patient-with-eye-pain.mp3",
+    "series-01-optometry-foundations/season-10-foundation-cases/ep-07-patient-with-sudden-vision-change/S10E07-patient-with-sudden-vision-change.mp3",
+    "series-01-optometry-foundations/season-10-foundation-cases/ep-08-child-with-poor-vision/S10E08-child-with-poor-vision.mp3",
+    "series-01-optometry-foundations/season-10-foundation-cases/ep-09-older-patient-with-reduced-vision/S10E09-older-patient-with-reduced-vision.mp3",
+    "series-01-optometry-foundations/season-10-foundation-cases/ep-10-the-complete-optometry-examination-grand-case-series-finale/S10E10-the-complete-optometry-examination-grand-case.mp3"
   ],
-  "started_at_utc": "2026-10-02T20:51:45.355684+00:00"
+  "started_at_utc": "2026-10-02T21:18:19.886548+00:00"
 }

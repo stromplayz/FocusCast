@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S10E03-patient-with-headache.txt",
+  "stem": "S10E03-patient-with-headache",
+  "words": 4116,
+  "generated_at_utc": "2026-10-02T21:02:34.934612+00:00",
+  "title": "Patient With Headache",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Foundation Cases",
+  "season_no": "10",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optometry",
+    "headache",
+    "hyperopia",
+    "astigmatism",
+    "refractive error",
+    "eye examination",
+    "history taking",
+    "clinical reasoning"
+  ],
+  "description": "Episode three of season ten on Focus Cast by focuslinks follows a delivery driver whose head, not his eyes, sent him to the optometrist. A pattern hidden in the history points to uncorrected long sight and astigmatism, and the case becomes a lesson in reasoning from symptoms to the eyes.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1593.1,
+  "duration_min": 26.55,
+  "files": [
+    "S10E03-patient-with-headache.wav",
+    "S10E03-patient-with-headache.mp3"
+  ]
+}

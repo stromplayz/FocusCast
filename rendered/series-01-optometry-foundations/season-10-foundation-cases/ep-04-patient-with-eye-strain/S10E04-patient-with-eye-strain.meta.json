@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S10E04-patient-with-eye-strain.txt",
+  "stem": "S10E04-patient-with-eye-strain",
+  "words": 4111,
+  "generated_at_utc": "2026-10-02T21:04:21.698905+00:00",
+  "title": "Patient With Eye Strain",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Foundation Cases",
+  "season_no": "10",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optometry",
+    "eye strain",
+    "digital eye strain",
+    "screen work",
+    "blink rate",
+    "working distance",
+    "eye examination",
+    "patient advice"
+  ],
+  "description": "Episode four of season ten on Focus Cast by focuslinks follows a young administrator whose eyes burn and smear her screen by mid afternoon. The examination finds healthy eyes and almost nothing to prescribe, and the case becomes a lesson in workload, blink, distance, and the design of a working day.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1613.0,
+  "duration_min": 26.88,
+  "files": [
+    "S10E04-patient-with-eye-strain.wav",
+    "S10E04-patient-with-eye-strain.mp3"
+  ]
+}

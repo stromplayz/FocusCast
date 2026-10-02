@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S10E01-patient-with-blurred-distance-vision.txt",
+  "stem": "S10E01-patient-with-blurred-distance-vision",
+  "words": 4148,
+  "generated_at_utc": "2026-10-02T20:58:26.063404+00:00",
+  "title": "Patient With Blurred Distance Vision",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Foundation Cases",
+  "season_no": "10",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optometry",
+    "blurred distance vision",
+    "myopia",
+    "eye examination",
+    "refraction",
+    "eye chart",
+    "pinhole test",
+    "prescription"
+  ],
+  "description": "Season ten of Focus Cast by focuslinks begins in a university town during exam season. A first year student cannot read the lecture board from the back row. One complete visit shows how nine seasons of foundations come alive in a single examination chair, from first question to final prescription.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1599.3,
+  "duration_min": 26.66,
+  "files": [
+    "S10E01-patient-with-blurred-distance-vision.wav",
+    "S10E01-patient-with-blurred-distance-vision.mp3"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S10E09-older-patient-with-reduced-vision.txt",
+  "stem": "S10E09-older-patient-with-reduced-vision",
+  "words": 4225,
+  "generated_at_utc": "2026-10-02T21:13:22.916575+00:00",
+  "title": "Older Patient With Reduced Vision",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Foundation Cases",
+  "season_no": "10",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "aging eye",
+    "cataract",
+    "low vision",
+    "presbyopia",
+    "dignity",
+    "older patients",
+    "glare",
+    "magnifier",
+    "referral"
+  ],
+  "description": "A retired teacher in her seventies says her glasses have stopped working and the print in her evening novel has been dimming for years. The visit listens slowly, measures carefully, and finds a clouded lens where a clear window used to be. The plan pairs a referral for cataract assessment with new-ground low vision support, brighter light, stronger contrast, and the right magnifier, delivered the same day. A case episode of Focus Cast by focuslinks about dignity, patience, and the aging eye.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1570.4,
+  "duration_min": 26.17,
+  "files": [
+    "S10E09-older-patient-with-reduced-vision.wav",
+    "S10E09-older-patient-with-reduced-vision.mp3"
+  ]
+}

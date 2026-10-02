@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S10E10-the-complete-optometry-examination-grand-case.txt",
+  "stem": "S10E10-the-complete-optometry-examination-grand-case",
+  "words": 4146,
+  "generated_at_utc": "2026-10-02T21:15:09.946829+00:00",
+  "title": "The Complete Optometry Examination, Grand Case (SERIES FINALE)",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Foundation Cases",
+  "season_no": "10",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "complete eye examination",
+    "refraction",
+    "binocular vision",
+    "ocular health",
+    "patient journey",
+    "grand case",
+    "series finale",
+    "astigmatism",
+    "prescription"
+  ],
+  "description": "A retired postman who restores old clocks sits down for the complete examination, and the clinic walks him through every room: arrival, history, preliminary tests, vision assessment, refraction, binocular assessment, ocular health, explanation, prescription, and close. Every season of the series is present in the chair with him. The case is built to show how one full visit fits together from door to door. A finale episode of Focus Cast by focuslinks, closing the series with thanks.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1559.9,
+  "duration_min": 26.0,
+  "files": [
+    "S10E10-the-complete-optometry-examination-grand-case.wav",
+    "S10E10-the-complete-optometry-examination-grand-case.mp3"
+  ]
+}

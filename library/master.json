@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-02T20:51:45.434102+00:00",
-  "episode_count": 90,
+  "updated_at": "2026-10-02T21:18:19.951231+00:00",
+  "episode_count": 100,
   "episodes": [
     {
       "id": "S01E01",
@@ -3560,6 +3560,400 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-02T20:48:49.554487+00:00"
+    },
+    {
+      "id": "S10E01",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 10,
+      "season": "Foundation Cases",
+      "episode_no": 1,
+      "title": "Patient With Blurred Distance Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optometry",
+        "blurred distance vision",
+        "myopia",
+        "eye examination",
+        "refraction",
+        "eye chart",
+        "pinhole test",
+        "prescription"
+      ],
+      "description": "Season ten of Focus Cast by focuslinks begins in a university town during exam season. A first year student cannot read the lecture board from the back row. One complete visit shows how nine seasons of foundations come alive in a single examination chair, from first question to final prescription.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-10/S10E01-patient-with-blurred-distance-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-01-patient-with-blurred-distance-vision/S10E01-patient-with-blurred-distance-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-01-patient-with-blurred-distance-vision/S10E01-patient-with-blurred-distance-vision.mp3",
+        "bytes": 19192653,
+        "duration_sec": 1599.3,
+        "duration_min": 26.66,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:58:26.063404+00:00"
+    },
+    {
+      "id": "S10E02",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 10,
+      "season": "Foundation Cases",
+      "episode_no": 2,
+      "title": "Patient With Blurred Near Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optometry",
+        "blurred near vision",
+        "presbyopia",
+        "reading glasses",
+        "add power",
+        "accommodation",
+        "eye examination",
+        "patient communication"
+      ],
+      "description": "Episode two of season ten on Focus Cast by focuslinks mirrors the first case. An archivist in her late forties sees the far world perfectly but cannot read her own catalog cards without pushing them away. The visit shows how a near add is measured, explained, and worn with relief rather than reluctance.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-10/S10E02-patient-with-blurred-near-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-02-patient-with-blurred-near-vision/S10E02-patient-with-blurred-near-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-02-patient-with-blurred-near-vision/S10E02-patient-with-blurred-near-vision.mp3",
+        "bytes": 20020941,
+        "duration_sec": 1668.4,
+        "duration_min": 27.81,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T21:00:45.810379+00:00"
+    },
+    {
+      "id": "S10E03",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 10,
+      "season": "Foundation Cases",
+      "episode_no": 3,
+      "title": "Patient With Headache",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optometry",
+        "headache",
+        "hyperopia",
+        "astigmatism",
+        "refractive error",
+        "eye examination",
+        "history taking",
+        "clinical reasoning"
+      ],
+      "description": "Episode three of season ten on Focus Cast by focuslinks follows a delivery driver whose head, not his eyes, sent him to the optometrist. A pattern hidden in the history points to uncorrected long sight and astigmatism, and the case becomes a lesson in reasoning from symptoms to the eyes.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-10/S10E03-patient-with-headache.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-03-patient-with-headache/S10E03-patient-with-headache.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-03-patient-with-headache/S10E03-patient-with-headache.mp3",
+        "bytes": 19117773,
+        "duration_sec": 1593.1,
+        "duration_min": 26.55,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T21:02:34.934612+00:00"
+    },
+    {
+      "id": "S10E04",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 10,
+      "season": "Foundation Cases",
+      "episode_no": 4,
+      "title": "Patient With Eye Strain",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optometry",
+        "eye strain",
+        "digital eye strain",
+        "screen work",
+        "blink rate",
+        "working distance",
+        "eye examination",
+        "patient advice"
+      ],
+      "description": "Episode four of season ten on Focus Cast by focuslinks follows a young administrator whose eyes burn and smear her screen by mid afternoon. The examination finds healthy eyes and almost nothing to prescribe, and the case becomes a lesson in workload, blink, distance, and the design of a working day.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-10/S10E04-patient-with-eye-strain.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-04-patient-with-eye-strain/S10E04-patient-with-eye-strain.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-04-patient-with-eye-strain/S10E04-patient-with-eye-strain.mp3",
+        "bytes": 19356813,
+        "duration_sec": 1613.0,
+        "duration_min": 26.88,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T21:04:21.698905+00:00"
+    },
+    {
+      "id": "S10E05",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 10,
+      "season": "Foundation Cases",
+      "episode_no": 5,
+      "title": "Patient With Red Eye",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optometry",
+        "red eye",
+        "conjunctivitis",
+        "viral infection",
+        "eye examination",
+        "triage",
+        "hygiene",
+        "patient reassurance"
+      ],
+      "description": "Episode five of season ten on Focus Cast by focuslinks follows a swimming teacher who wakes with one eye pink, gritty, and watering. The visit shows how a red eye is examined, why most redness is a nuisance rather than a danger, and which few sentences separate the two.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-10/S10E05-patient-with-red-eye.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-05-patient-with-red-eye/S10E05-patient-with-red-eye.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-05-patient-with-red-eye/S10E05-patient-with-red-eye.mp3",
+        "bytes": 19668717,
+        "duration_sec": 1639.0,
+        "duration_min": 27.32,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T21:06:11.196103+00:00"
+    },
+    {
+      "id": "S10E06",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 10,
+      "season": "Foundation Cases",
+      "episode_no": 6,
+      "title": "Patient With Eye Pain",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "foundation cases",
+        "eye pain",
+        "corneal abrasion",
+        "foreign body",
+        "comfort first",
+        "redness versus pain",
+        "fluorescein staining",
+        "clinical reasoning"
+      ],
+      "description": "A patient sits in the waiting room with one eye watering and every light too bright. This case episode of Focus Cast by focuslinks walks a painful eye visit from first wince to clear plan. Comfort comes first, careful listening does the heavy lifting, and the front surface of the eye tells its story. Pain, not redness, sets the pace of urgency in this case.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-10/S10E06-patient-with-eye-pain.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-06-patient-with-eye-pain/S10E06-patient-with-eye-pain.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-06-patient-with-eye-pain/S10E06-patient-with-eye-pain.mp3",
+        "bytes": 19494765,
+        "duration_sec": 1624.5,
+        "duration_min": 27.08,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T21:08:01.421803+00:00"
+    },
+    {
+      "id": "S10E07",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 10,
+      "season": "Foundation Cases",
+      "episode_no": 7,
+      "title": "Patient With Sudden Vision Change",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "sudden vision change",
+        "floaters",
+        "flashes",
+        "triage",
+        "urgent care",
+        "retina",
+        "vitreous detachment",
+        "red flags",
+        "safety net"
+      ],
+      "description": "A graphic designer wakes to a new floater, a faint shadow, and a couple of flashes in one eye, and the clinic moves her into a same-day slot. The case walks the urgent visit from the phone call through dilation to a methodical look at the far edge of the retina. The verdict is a peeled gel and a sound retina, wrapped in a written safety net and a booked second look. A case episode of Focus Cast by focuslinks about calm triage, timing, and follow-through.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-10/S10E07-patient-with-sudden-vision-change.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-07-patient-with-sudden-vision-change/S10E07-patient-with-sudden-vision-change.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-07-patient-with-sudden-vision-change/S10E07-patient-with-sudden-vision-change.mp3",
+        "bytes": 18201933,
+        "duration_sec": 1516.8,
+        "duration_min": 25.28,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T21:09:52.635734+00:00"
+    },
+    {
+      "id": "S10E08",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 10,
+      "season": "Foundation Cases",
+      "episode_no": 8,
+      "title": "Child With Poor Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "child vision",
+        "schoolwork",
+        "long sightedness",
+        "hyperopia",
+        "cycloplegic refraction",
+        "cover test",
+        "children eye exam",
+        "parent history",
+        "glasses for children"
+      ],
+      "description": "A seven year old is quietly falling behind at school, copying the board slowly and sitting closer to the page every term, while saying nothing at all. His watchful mother books the visit, and the clinic reshapes itself around him with matching games, a puppet cover test, and drops that let the truth come out. The case shows how children's visits differ, from the history taken through a parent to the prescription in words. A case episode of Focus Cast by focuslinks about patience, play, and the unspoken child.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-10/S10E08-child-with-poor-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-08-child-with-poor-vision/S10E08-child-with-poor-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-08-child-with-poor-vision/S10E08-child-with-poor-vision.mp3",
+        "bytes": 18447885,
+        "duration_sec": 1537.3,
+        "duration_min": 25.62,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T21:11:37.157671+00:00"
+    },
+    {
+      "id": "S10E09",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 10,
+      "season": "Foundation Cases",
+      "episode_no": 9,
+      "title": "Older Patient With Reduced Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "aging eye",
+        "cataract",
+        "low vision",
+        "presbyopia",
+        "dignity",
+        "older patients",
+        "glare",
+        "magnifier",
+        "referral"
+      ],
+      "description": "A retired teacher in her seventies says her glasses have stopped working and the print in her evening novel has been dimming for years. The visit listens slowly, measures carefully, and finds a clouded lens where a clear window used to be. The plan pairs a referral for cataract assessment with new-ground low vision support, brighter light, stronger contrast, and the right magnifier, delivered the same day. A case episode of Focus Cast by focuslinks about dignity, patience, and the aging eye.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-10/S10E09-older-patient-with-reduced-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-09-older-patient-with-reduced-vision/S10E09-older-patient-with-reduced-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-09-older-patient-with-reduced-vision/S10E09-older-patient-with-reduced-vision.mp3",
+        "bytes": 18845613,
+        "duration_sec": 1570.4,
+        "duration_min": 26.17,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T21:13:22.916575+00:00"
+    },
+    {
+      "id": "S10E10",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 10,
+      "season": "Foundation Cases",
+      "episode_no": 10,
+      "title": "The Complete Optometry Examination, Grand Case (SERIES FINALE)",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "complete eye examination",
+        "refraction",
+        "binocular vision",
+        "ocular health",
+        "patient journey",
+        "grand case",
+        "series finale",
+        "astigmatism",
+        "prescription"
+      ],
+      "description": "A retired postman who restores old clocks sits down for the complete examination, and the clinic walks him through every room: arrival, history, preliminary tests, vision assessment, refraction, binocular assessment, ocular health, explanation, prescription, and close. Every season of the series is present in the chair with him. The case is built to show how one full visit fits together from door to door. A finale episode of Focus Cast by focuslinks, closing the series with thanks.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-10/S10E10-the-complete-optometry-examination-grand-case.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-10-the-complete-optometry-examination-grand-case-series-finale/S10E10-the-complete-optometry-examination-grand-case.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-10-foundation-cases/ep-10-the-complete-optometry-examination-grand-case-series-finale/S10E10-the-complete-optometry-examination-grand-case.mp3",
+        "bytes": 18719181,
+        "duration_sec": 1559.9,
+        "duration_min": 26.0,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T21:15:09.946829+00:00"
     }
   ]
 }

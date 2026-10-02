@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S10E08-child-with-poor-vision.txt",
+  "stem": "S10E08-child-with-poor-vision",
+  "words": 4168,
+  "generated_at_utc": "2026-10-02T21:11:37.157671+00:00",
+  "title": "Child With Poor Vision",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Foundation Cases",
+  "season_no": "10",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "child vision",
+    "schoolwork",
+    "long sightedness",
+    "hyperopia",
+    "cycloplegic refraction",
+    "cover test",
+    "children eye exam",
+    "parent history",
+    "glasses for children"
+  ],
+  "description": "A seven year old is quietly falling behind at school, copying the board slowly and sitting closer to the page every term, while saying nothing at all. His watchful mother books the visit, and the clinic reshapes itself around him with matching games, a puppet cover test, and drops that let the truth come out. The case shows how children's visits differ, from the history taken through a parent to the prescription in words. A case episode of Focus Cast by focuslinks about patience, play, and the unspoken child.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1537.3,
+  "duration_min": 25.62,
+  "files": [
+    "S10E08-child-with-poor-vision.wav",
+    "S10E08-child-with-poor-vision.mp3"
+  ]
+}

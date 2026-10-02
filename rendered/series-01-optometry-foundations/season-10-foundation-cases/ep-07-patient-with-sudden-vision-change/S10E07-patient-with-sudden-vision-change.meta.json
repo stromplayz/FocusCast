@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S10E07-patient-with-sudden-vision-change.txt",
+  "stem": "S10E07-patient-with-sudden-vision-change",
+  "words": 4152,
+  "generated_at_utc": "2026-10-02T21:09:52.635734+00:00",
+  "title": "Patient With Sudden Vision Change",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Foundation Cases",
+  "season_no": "10",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "sudden vision change",
+    "floaters",
+    "flashes",
+    "triage",
+    "urgent care",
+    "retina",
+    "vitreous detachment",
+    "red flags",
+    "safety net"
+  ],
+  "description": "A graphic designer wakes to a new floater, a faint shadow, and a couple of flashes in one eye, and the clinic moves her into a same-day slot. The case walks the urgent visit from the phone call through dilation to a methodical look at the far edge of the retina. The verdict is a peeled gel and a sound retina, wrapped in a written safety net and a booked second look. A case episode of Focus Cast by focuslinks about calm triage, timing, and follow-through.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1516.8,
+  "duration_min": 25.28,
+  "files": [
+    "S10E07-patient-with-sudden-vision-change.wav",
+    "S10E07-patient-with-sudden-vision-change.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S10E06-patient-with-eye-pain.txt",
+  "stem": "S10E06-patient-with-eye-pain",
+  "words": 4273,
+  "generated_at_utc": "2026-10-02T21:08:01.421803+00:00",
+  "title": "Patient With Eye Pain",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Foundation Cases",
+  "season_no": "10",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "foundation cases",
+    "eye pain",
+    "corneal abrasion",
+    "foreign body",
+    "comfort first",
+    "redness versus pain",
+    "fluorescein staining",
+    "clinical reasoning"
+  ],
+  "description": "A patient sits in the waiting room with one eye watering and every light too bright. This case episode of Focus Cast by focuslinks walks a painful eye visit from first wince to clear plan. Comfort comes first, careful listening does the heavy lifting, and the front surface of the eye tells its story. Pain, not redness, sets the pace of urgency in this case.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1624.5,
+  "duration_min": 27.08,
+  "files": [
+    "S10E06-patient-with-eye-pain.wav",
+    "S10E06-patient-with-eye-pain.mp3"
+  ]
+}

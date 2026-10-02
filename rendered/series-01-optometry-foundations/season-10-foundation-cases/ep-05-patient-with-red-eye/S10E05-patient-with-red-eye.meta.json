@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S10E05-patient-with-red-eye.txt",
+  "stem": "S10E05-patient-with-red-eye",
+  "words": 4126,
+  "generated_at_utc": "2026-10-02T21:06:11.196103+00:00",
+  "title": "Patient With Red Eye",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Foundation Cases",
+  "season_no": "10",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optometry",
+    "red eye",
+    "conjunctivitis",
+    "viral infection",
+    "eye examination",
+    "triage",
+    "hygiene",
+    "patient reassurance"
+  ],
+  "description": "Episode five of season ten on Focus Cast by focuslinks follows a swimming teacher who wakes with one eye pink, gritty, and watering. The visit shows how a red eye is examined, why most redness is a nuisance rather than a danger, and which few sentences separate the two.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1639.0,
+  "duration_min": 27.32,
+  "files": [
+    "S10E05-patient-with-red-eye.wav",
+    "S10E05-patient-with-red-eye.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S10E02-patient-with-blurred-near-vision.txt",
+  "stem": "S10E02-patient-with-blurred-near-vision",
+  "words": 4229,
+  "generated_at_utc": "2026-10-02T21:00:45.810379+00:00",
+  "title": "Patient With Blurred Near Vision",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Foundation Cases",
+  "season_no": "10",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optometry",
+    "blurred near vision",
+    "presbyopia",
+    "reading glasses",
+    "add power",
+    "accommodation",
+    "eye examination",
+    "patient communication"
+  ],
+  "description": "Episode two of season ten on Focus Cast by focuslinks mirrors the first case. An archivist in her late forties sees the far world perfectly but cannot read her own catalog cards without pushing them away. The visit shows how a near add is measured, explained, and worn with relief rather than reluctance.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1668.4,
+  "duration_min": 27.81,
+  "files": [
+    "S10E02-patient-with-blurred-near-vision.wav",
+    "S10E02-patient-with-blurred-near-vision.mp3"
+  ]
+}
