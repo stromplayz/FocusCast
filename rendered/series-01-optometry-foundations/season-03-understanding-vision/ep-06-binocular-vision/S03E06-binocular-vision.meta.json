@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S03E06-binocular-vision.txt",
+  "stem": "S03E06-binocular-vision",
+  "words": 4272,
+  "generated_at_utc": "2026-10-02T18:05:35.957344+00:00",
+  "title": "Binocular Vision",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Vision",
+  "season_no": "3",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "binocular vision",
+    "eye teaming",
+    "fusion",
+    "two eyes",
+    "stereo vision",
+    "visual field",
+    "eye teamwork",
+    "vision science"
+  ],
+  "description": "Two eyes, one seamless picture: this episode of Focus Cast by focuslinks steps inside that quiet miracle. The Host and the Guide trace how the brain merges two slightly different views into a single world, and why the partnership brings a wider view, a built in backup, and surer hands. Warm, curious, and full of little experiments you can try while you listen.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1547.2,
+  "duration_min": 25.79,
+  "files": [
+    "S03E06-binocular-vision.wav",
+    "S03E06-binocular-vision.mp3"
+  ]
+}

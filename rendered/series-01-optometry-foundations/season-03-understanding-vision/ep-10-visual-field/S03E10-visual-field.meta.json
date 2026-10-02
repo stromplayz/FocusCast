@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S03E10-visual-field.txt",
+  "stem": "S03E10-visual-field",
+  "words": 4224,
+  "generated_at_utc": "2026-10-02T18:13:08.166781+00:00",
+  "title": "Visual Field",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Vision",
+  "season_no": "3",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "visual field",
+    "peripheral awareness",
+    "side vision",
+    "blind spot",
+    "span of sight",
+    "driving awareness",
+    "daily safety",
+    "season finale",
+    "understanding vision"
+  ],
+  "description": "The season finale asks how much world you hold in a single glance. The Guide maps the span of sight from sharp centre to quiet edges, explains why side awareness keeps drivers, walkers, and athletes safe, and shares the strange gift of the blind spot everyone carries. This closing conversation of the Understanding Vision season also gathers the big ideas of the year and opens the door to the vocabulary season ahead. Part of Focus Cast by focuslinks, the audio series about how seeing really works.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1612.8,
+  "duration_min": 26.88,
+  "files": [
+    "S03E10-visual-field.wav",
+    "S03E10-visual-field.mp3"
+  ]
+}

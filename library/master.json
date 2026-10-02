@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-02T13:48:49.313914+00:00",
-  "episode_count": 20,
+  "updated_at": "2026-10-02T18:16:04.000165+00:00",
+  "episode_count": 30,
   "episodes": [
     {
       "id": "S01E01",
@@ -823,6 +823,402 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-02T13:44:58.982024+00:00"
+    },
+    {
+      "id": "S03E01",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 3,
+      "season": "Understanding Vision",
+      "episode_no": 1,
+      "title": "What Is Vision?",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "what is vision",
+        "visual perception",
+        "seeing explained",
+        "brain and vision",
+        "optometry",
+        "eye health",
+        "vision science",
+        "understanding vision"
+      ],
+      "description": "Focus Cast by focuslinks returns for Season Three, Understanding Vision. In this opener, a curious host and a steady guide ask the biggest question in eye care: what is vision, and how do eye and brain build a world from light? Ten episodes ahead explore sharpness, depth, colour, and the wide field of sight.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-03/S03E01-what-is-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-01-what-is-vision/S03E01-what-is-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-01-what-is-vision/S03E01-what-is-vision.mp3",
+        "bytes": 19210797,
+        "duration_sec": 1600.8,
+        "duration_min": 26.68,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T17:55:40.953584+00:00"
+    },
+    {
+      "id": "S03E02",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 3,
+      "season": "Understanding Vision",
+      "episode_no": 2,
+      "title": "Visual Acuity",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "visual acuity",
+        "sharpness of vision",
+        "clarity",
+        "blurred vision",
+        "eyesight",
+        "optometry",
+        "eye health",
+        "understanding vision"
+      ],
+      "description": "Focus Cast by focuslinks continues Season Three, Understanding Vision, with visual acuity, the sharpness of sight. The host and guide unpack what it means for detail to be too fine to resolve, why sharpness shifts with light and fatigue, and how to describe blur with useful words. A popular myth about perfect sharpness gets a gentle airing.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-03/S03E02-visual-acuity.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-02-visual-acuity/S03E02-visual-acuity.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-02-visual-acuity/S03E02-visual-acuity.mp3",
+        "bytes": 19603917,
+        "duration_sec": 1633.6,
+        "duration_min": 27.23,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T17:58:00.135821+00:00"
+    },
+    {
+      "id": "S03E03",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 3,
+      "season": "Understanding Vision",
+      "episode_no": 3,
+      "title": "Near and Distance Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "near vision",
+        "distance vision",
+        "focusing",
+        "eye strain",
+        "screens and eyes",
+        "presbyopia",
+        "optometry",
+        "eye health",
+        "understanding vision"
+      ],
+      "description": "Focus Cast by focuslinks walks Season Three, Understanding Vision, into its third stop: near and distance vision. The host and guide explore the two working zones of sight, the focusing effort nobody notices, why near work tires the eyes, and what changes across a lifetime. A beloved myth about reading in the dark gets a fair trial.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-03/S03E03-near-and-distance-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-03-near-and-distance-vision/S03E03-near-and-distance-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-03-near-and-distance-vision/S03E03-near-and-distance-vision.mp3",
+        "bytes": 20231469,
+        "duration_sec": 1685.9,
+        "duration_min": 28.1,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T17:59:54.302390+00:00"
+    },
+    {
+      "id": "S03E04",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 3,
+      "season": "Understanding Vision",
+      "episode_no": 4,
+      "title": "Central and Peripheral Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "central vision",
+        "peripheral vision",
+        "side vision",
+        "motion detection",
+        "visual attention",
+        "everyday vision",
+        "optometry",
+        "eye health",
+        "understanding vision"
+      ],
+      "description": "Focus Cast by focuslinks reaches the fourth stop of Season Three, Understanding Vision: central and peripheral vision. The host and guide explore how a sharp centre and a wide edge divide the work of seeing, why the edges guard and the centre examines, and how the two feel in daily life. A myth about useless side vision gets a respectful hearing.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-03/S03E04-central-and-peripheral-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-04-central-and-peripheral-vision/S03E04-central-and-peripheral-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-04-central-and-peripheral-vision/S03E04-central-and-peripheral-vision.mp3",
+        "bytes": 19589517,
+        "duration_sec": 1632.4,
+        "duration_min": 27.21,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:01:52.182297+00:00"
+    },
+    {
+      "id": "S03E05",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 3,
+      "season": "Understanding Vision",
+      "episode_no": 5,
+      "title": "Monocular Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "monocular vision",
+        "one eye",
+        "seeing with one eye",
+        "adaptation",
+        "field of view",
+        "visual recovery",
+        "optometry",
+        "eye health",
+        "understanding vision"
+      ],
+      "description": "Focus Cast by focuslinks arrives at the fifth stop of Season Three, Understanding Vision: monocular vision. The host and guide ask what changes when one eye steps aside, why the world does not collapse, and how the brain quietly rebuilds the show. Listeners living with one eye, and everyone curious about them, are both at home here.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-03/S03E05-monocular-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-05-monocular-vision/S03E05-monocular-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-05-monocular-vision/S03E05-monocular-vision.mp3",
+        "bytes": 18716013,
+        "duration_sec": 1559.6,
+        "duration_min": 25.99,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:03:45.862873+00:00"
+    },
+    {
+      "id": "S03E06",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 3,
+      "season": "Understanding Vision",
+      "episode_no": 6,
+      "title": "Binocular Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "binocular vision",
+        "eye teaming",
+        "fusion",
+        "two eyes",
+        "stereo vision",
+        "visual field",
+        "eye teamwork",
+        "vision science"
+      ],
+      "description": "Two eyes, one seamless picture: this episode of Focus Cast by focuslinks steps inside that quiet miracle. The Host and the Guide trace how the brain merges two slightly different views into a single world, and why the partnership brings a wider view, a built in backup, and surer hands. Warm, curious, and full of little experiments you can try while you listen.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-03/S03E06-binocular-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-06-binocular-vision/S03E06-binocular-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-06-binocular-vision/S03E06-binocular-vision.mp3",
+        "bytes": 18567117,
+        "duration_sec": 1547.2,
+        "duration_min": 25.79,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:05:35.957344+00:00"
+    },
+    {
+      "id": "S03E07",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 3,
+      "season": "Understanding Vision",
+      "episode_no": 7,
+      "title": "Depth Perception",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "depth perception",
+        "distance judgment",
+        "three dimensional vision",
+        "depth cues",
+        "pouring",
+        "catching",
+        "stairs",
+        "visual experience"
+      ],
+      "description": "How does a flat pair of pictures become a world you can move through? This episode of Focus Cast by focuslinks follows the brain as it reads two reports and turns them into a felt sense of distance, from pouring juice to catching keys to walking stairs in the dark. The Host and the Guide keep it warm, curious, and full of small wonders you can test at home.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-03/S03E07-depth-perception.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-07-depth-perception/S03E07-depth-perception.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-07-depth-perception/S03E07-depth-perception.mp3",
+        "bytes": 18622701,
+        "duration_sec": 1551.8,
+        "duration_min": 25.86,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:07:25.796765+00:00"
+    },
+    {
+      "id": "S03E08",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 3,
+      "season": "Understanding Vision",
+      "episode_no": 8,
+      "title": "Contrast Sensitivity",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "contrast sensitivity",
+        "visual sharpness",
+        "low contrast",
+        "dusk driving",
+        "dim lighting",
+        "glare",
+        "faded print",
+        "everyday vision",
+        "seeing in fog"
+      ],
+      "description": "A warm conversation about contrast sensitivity, the quiet skill behind seeing a grey car at dusk and finding the edge of a stair in a dim hall. The Guide explains why sharpness alone does not capture real seeing, and how contrast fills the gaps an eye chart leaves open. This episode is part of Focus Cast by focuslinks, an audio series about how vision actually works in daily life.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-03/S03E08-contrast-sensitivity.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-08-contrast-sensitivity/S03E08-contrast-sensitivity.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-08-contrast-sensitivity/S03E08-contrast-sensitivity.mp3",
+        "bytes": 19918125,
+        "duration_sec": 1659.8,
+        "duration_min": 27.66,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:09:15.671245+00:00"
+    },
+    {
+      "id": "S03E09",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 3,
+      "season": "Understanding Vision",
+      "episode_no": 9,
+      "title": "Colour Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "colour vision",
+        "colour perception",
+        "colour constancy",
+        "colour blindness",
+        "everyday colour",
+        "ripe fruit",
+        "hue and light",
+        "wonder of colour",
+        "gentle variation"
+      ],
+      "description": "A gentle conversation about colour as perception, meaning, and everyday wonder. The Guide explains why colour lives in the brain rather than in objects, how colour differences guide daily life from ripe fruit to traffic lights, and why colour blindness is a common variation rather than a flaw. Part of Focus Cast by focuslinks, the audio series about how seeing really works.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-03/S03E09-colour-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-09-colour-vision/S03E09-colour-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-09-colour-vision/S03E09-colour-vision.mp3",
+        "bytes": 19798029,
+        "duration_sec": 1649.8,
+        "duration_min": 27.5,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:11:11.983251+00:00"
+    },
+    {
+      "id": "S03E10",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 3,
+      "season": "Understanding Vision",
+      "episode_no": 10,
+      "title": "Visual Field",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "visual field",
+        "peripheral awareness",
+        "side vision",
+        "blind spot",
+        "span of sight",
+        "driving awareness",
+        "daily safety",
+        "season finale",
+        "understanding vision"
+      ],
+      "description": "The season finale asks how much world you hold in a single glance. The Guide maps the span of sight from sharp centre to quiet edges, explains why side awareness keeps drivers, walkers, and athletes safe, and shares the strange gift of the blind spot everyone carries. This closing conversation of the Understanding Vision season also gathers the big ideas of the year and opens the door to the vocabulary season ahead. Part of Focus Cast by focuslinks, the audio series about how seeing really works.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-03/S03E10-visual-field.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-10-visual-field/S03E10-visual-field.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-03-understanding-vision/ep-10-visual-field/S03E10-visual-field.mp3",
+        "bytes": 19354509,
+        "duration_sec": 1612.8,
+        "duration_min": 26.88,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:13:08.166781+00:00"
     }
   ]
 }

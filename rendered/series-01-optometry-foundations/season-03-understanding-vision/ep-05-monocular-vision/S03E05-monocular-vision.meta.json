@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S03E05-monocular-vision.txt",
+  "stem": "S03E05-monocular-vision",
+  "words": 3968,
+  "generated_at_utc": "2026-10-02T18:03:45.862873+00:00",
+  "title": "Monocular Vision",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Vision",
+  "season_no": "3",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "monocular vision",
+    "one eye",
+    "seeing with one eye",
+    "adaptation",
+    "field of view",
+    "visual recovery",
+    "optometry",
+    "eye health",
+    "understanding vision"
+  ],
+  "description": "Focus Cast by focuslinks arrives at the fifth stop of Season Three, Understanding Vision: monocular vision. The host and guide ask what changes when one eye steps aside, why the world does not collapse, and how the brain quietly rebuilds the show. Listeners living with one eye, and everyone curious about them, are both at home here.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1559.6,
+  "duration_min": 25.99,
+  "files": [
+    "S03E05-monocular-vision.wav",
+    "S03E05-monocular-vision.mp3"
+  ]
+}

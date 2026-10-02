@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S03E07-depth-perception.txt",
+  "stem": "S03E07-depth-perception",
+  "words": 4219,
+  "generated_at_utc": "2026-10-02T18:07:25.796765+00:00",
+  "title": "Depth Perception",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Vision",
+  "season_no": "3",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "depth perception",
+    "distance judgment",
+    "three dimensional vision",
+    "depth cues",
+    "pouring",
+    "catching",
+    "stairs",
+    "visual experience"
+  ],
+  "description": "How does a flat pair of pictures become a world you can move through? This episode of Focus Cast by focuslinks follows the brain as it reads two reports and turns them into a felt sense of distance, from pouring juice to catching keys to walking stairs in the dark. The Host and the Guide keep it warm, curious, and full of small wonders you can test at home.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1551.8,
+  "duration_min": 25.86,
+  "files": [
+    "S03E07-depth-perception.wav",
+    "S03E07-depth-perception.mp3"
+  ]
+}

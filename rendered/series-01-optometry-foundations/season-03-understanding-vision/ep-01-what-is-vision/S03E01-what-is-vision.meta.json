@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S03E01-what-is-vision.txt",
+  "stem": "S03E01-what-is-vision",
+  "words": 4138,
+  "generated_at_utc": "2026-10-02T17:55:40.953584+00:00",
+  "title": "What Is Vision?",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Vision",
+  "season_no": "3",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "what is vision",
+    "visual perception",
+    "seeing explained",
+    "brain and vision",
+    "optometry",
+    "eye health",
+    "vision science",
+    "understanding vision"
+  ],
+  "description": "Focus Cast by focuslinks returns for Season Three, Understanding Vision. In this opener, a curious host and a steady guide ask the biggest question in eye care: what is vision, and how do eye and brain build a world from light? Ten episodes ahead explore sharpness, depth, colour, and the wide field of sight.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1600.8,
+  "duration_min": 26.68,
+  "files": [
+    "S03E01-what-is-vision.wav",
+    "S03E01-what-is-vision.mp3"
+  ]
+}

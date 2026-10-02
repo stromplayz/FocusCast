@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S03E04-central-and-peripheral-vision.txt",
+  "stem": "S03E04-central-and-peripheral-vision",
+  "words": 4233,
+  "generated_at_utc": "2026-10-02T18:01:52.182297+00:00",
+  "title": "Central and Peripheral Vision",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Vision",
+  "season_no": "3",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "central vision",
+    "peripheral vision",
+    "side vision",
+    "motion detection",
+    "visual attention",
+    "everyday vision",
+    "optometry",
+    "eye health",
+    "understanding vision"
+  ],
+  "description": "Focus Cast by focuslinks reaches the fourth stop of Season Three, Understanding Vision: central and peripheral vision. The host and guide explore how a sharp centre and a wide edge divide the work of seeing, why the edges guard and the centre examines, and how the two feel in daily life. A myth about useless side vision gets a respectful hearing.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1632.4,
+  "duration_min": 27.21,
+  "files": [
+    "S03E04-central-and-peripheral-vision.wav",
+    "S03E04-central-and-peripheral-vision.mp3"
+  ]
+}

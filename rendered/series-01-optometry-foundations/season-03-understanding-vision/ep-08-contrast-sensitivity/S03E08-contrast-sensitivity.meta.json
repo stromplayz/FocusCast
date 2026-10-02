@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S03E08-contrast-sensitivity.txt",
+  "stem": "S03E08-contrast-sensitivity",
+  "words": 4284,
+  "generated_at_utc": "2026-10-02T18:09:15.671245+00:00",
+  "title": "Contrast Sensitivity",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Vision",
+  "season_no": "3",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "contrast sensitivity",
+    "visual sharpness",
+    "low contrast",
+    "dusk driving",
+    "dim lighting",
+    "glare",
+    "faded print",
+    "everyday vision",
+    "seeing in fog"
+  ],
+  "description": "A warm conversation about contrast sensitivity, the quiet skill behind seeing a grey car at dusk and finding the edge of a stair in a dim hall. The Guide explains why sharpness alone does not capture real seeing, and how contrast fills the gaps an eye chart leaves open. This episode is part of Focus Cast by focuslinks, an audio series about how vision actually works in daily life.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1659.8,
+  "duration_min": 27.66,
+  "files": [
+    "S03E08-contrast-sensitivity.wav",
+    "S03E08-contrast-sensitivity.mp3"
+  ]
+}

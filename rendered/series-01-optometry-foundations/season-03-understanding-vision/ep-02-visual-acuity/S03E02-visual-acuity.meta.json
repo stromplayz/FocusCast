@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S03E02-visual-acuity.txt",
+  "stem": "S03E02-visual-acuity",
+  "words": 4130,
+  "generated_at_utc": "2026-10-02T17:58:00.135821+00:00",
+  "title": "Visual Acuity",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Vision",
+  "season_no": "3",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "visual acuity",
+    "sharpness of vision",
+    "clarity",
+    "blurred vision",
+    "eyesight",
+    "optometry",
+    "eye health",
+    "understanding vision"
+  ],
+  "description": "Focus Cast by focuslinks continues Season Three, Understanding Vision, with visual acuity, the sharpness of sight. The host and guide unpack what it means for detail to be too fine to resolve, why sharpness shifts with light and fatigue, and how to describe blur with useful words. A popular myth about perfect sharpness gets a gentle airing.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1633.6,
+  "duration_min": 27.23,
+  "files": [
+    "S03E02-visual-acuity.wav",
+    "S03E02-visual-acuity.mp3"
+  ]
+}

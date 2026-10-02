@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S03E09-colour-vision.txt",
+  "stem": "S03E09-colour-vision",
+  "words": 4284,
+  "generated_at_utc": "2026-10-02T18:11:11.983251+00:00",
+  "title": "Colour Vision",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Vision",
+  "season_no": "3",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "colour vision",
+    "colour perception",
+    "colour constancy",
+    "colour blindness",
+    "everyday colour",
+    "ripe fruit",
+    "hue and light",
+    "wonder of colour",
+    "gentle variation"
+  ],
+  "description": "A gentle conversation about colour as perception, meaning, and everyday wonder. The Guide explains why colour lives in the brain rather than in objects, how colour differences guide daily life from ripe fruit to traffic lights, and why colour blindness is a common variation rather than a flaw. Part of Focus Cast by focuslinks, the audio series about how seeing really works.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1649.8,
+  "duration_min": 27.5,
+  "files": [
+    "S03E09-colour-vision.wav",
+    "S03E09-colour-vision.mp3"
+  ]
+}
