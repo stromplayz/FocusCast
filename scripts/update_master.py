@@ -12,6 +12,9 @@ header) becomes or updates one entry in master.json with:
 Idempotent: safe to run after every render; existing entries are updated,
 missing ones appended, and stale ones (audio no longer present) are dropped.
 Demo renders without library tags are skipped.
+
+Spoken-brand rule: catalog text keeps the spoken brand line
+"Focus Cast by focuslinks" (never "focuslinks dot in" inside audio scripts).
 """
 from __future__ import annotations
 
@@ -57,12 +60,21 @@ def main() -> None:
     repo = repo_slug()
     now = datetime.now(timezone.utc).isoformat()
 
-    master = {"library": "Focus Cast by focuslinks.in", "repo": repo,
+    master = {"library": "FocusLinks Listen · Focus Cast",
+              "repo": repo,
               "updated_at": now, "episode_count": 0, "episodes": []}
     if MASTER.exists():
         try:
             old = json.loads(MASTER.read_text(encoding="utf-8"))
-            master["episodes"] = old.get("episodes", [])
+            # keep only entries whose mp3 is still on disk (drop stale renders)
+            kept = []
+            for e in old.get("episodes", []):
+                mp3_rel = (e.get("audio") or {}).get("mp3")
+                if mp3_rel and (ROOT / mp3_rel).exists():
+                    kept.append(e)
+                else:
+                    print(f"[master] drop stale entry {e.get('id')}: mp3 missing")
+            master["episodes"] = kept
         except Exception:
             pass
 

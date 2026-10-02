@@ -1,5 +1,8 @@
 {
-  "library": "Focus Cast by focuslinks.in",
+  "library": "FocusLinks Listen",
+  "platform": "FocusLinks Listen",
+  "home": "listen.focuslinks.in",
+  "tagline": "Listen. Learn. See better.",
   "series_no": 1,
   "id": "series-01",
   "slug": "series-01-optometry-foundations",
@@ -10,9 +13,11 @@
   "language": "English (EN)",
   "format": {
     "default_engine": "kokoro",
-    "narration": "dual (Host + Dr. Meera) for Season 1; single-narrator allowed via script tag",
+    "narration": "dual (Host + Guide) for Seasons 1-2; single-narrator allowed via script tag",
     "target_runtime_min": 30,
-    "brand_line": "Focus Cast by focuslinks.in"
+    "brand_line_spoken": "Focus Cast by focuslinks",
+    "brand_line_written": "Focus Cast by focuslinks.in",
+    "brand_rule": "Inside audio scripts always say 'focuslinks' — never 'focuslinks dot in' (TTS mispronounces the domain). The .in domain appears in written docs only."
   },
   "totals": {
     "episodes": 100,
@@ -34,6 +39,7 @@
     {
       "no": 1,
       "name": "Understanding Optometry",
+      "status": "scripted — awaiting render",
       "episodes": [
         "What Is Optometry?",
         "What Does an Optometrist Do?",
@@ -50,6 +56,7 @@
     {
       "no": 2,
       "name": "The Eye as a Visual Organ",
+      "status": "scripted — awaiting render",
       "episodes": [
         "Why Do We Have Eyes?",
         "From Light to Vision",

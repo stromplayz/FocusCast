@@ -1,6 +1,6 @@
 name: Focus Cast · Render Episodes (Kaggle GPU)
 
-# Focus Cast by focuslinks.in — fully automated library factory:
+# FocusLinks Listen — Focus Cast by focuslinks — fully automated library factory:
 #   1. Estimate the render time for the batch (calibrated estimator)
 #   2. Push ONE Kaggle GPU kernel that renders every selected episode
 #      (each script's '# Engine:' tag picks kokoro or voxcpm, voices from presets)
@@ -13,14 +13,29 @@ on:
   workflow_dispatch:
     inputs:
       episodes:
-        description: "Episode scripts (repo paths, comma-separated)"
+        description: "Episode scripts (repo paths, comma-separated). Default = full Season 1 + Season 2 batch (20 episodes)."
         required: false
         default: >-
           library/series/series-01-optometry-foundations/season-01/S01E01-what-is-optometry.txt,
           library/series/series-01-optometry-foundations/season-01/S01E02-what-does-an-optometrist-do.txt,
           library/series/series-01-optometry-foundations/season-01/S01E03-the-scope-of-optometric-practice.txt,
           library/series/series-01-optometry-foundations/season-01/S01E04-optometry-and-eye-care.txt,
-          library/series/series-01-optometry-foundations/season-01/S01E05-optometrist-ophthalmologist-and-optician.txt
+          library/series/series-01-optometry-foundations/season-01/S01E05-optometrist-ophthalmologist-and-optician.txt,
+          library/series/series-01-optometry-foundations/season-01/S01E06-the-optometrists-role-in-patient-care.txt,
+          library/series/series-01-optometry-foundations/season-01/S01E07-major-areas-of-optometry.txt,
+          library/series/series-01-optometry-foundations/season-01/S01E08-clinical-and-community-optometry.txt,
+          library/series/series-01-optometry-foundations/season-01/S01E09-the-modern-optometry-practice.txt,
+          library/series/series-01-optometry-foundations/season-01/S01E10-your-journey-through-optometry.txt,
+          library/series/series-01-optometry-foundations/season-02/S02E01-why-do-we-have-eyes.txt,
+          library/series/series-01-optometry-foundations/season-02/S02E02-from-light-to-vision.txt,
+          library/series/series-01-optometry-foundations/season-02/S02E03-the-eye-as-an-optical-system.txt,
+          library/series/series-01-optometry-foundations/season-02/S02E04-the-front-of-the-eye.txt,
+          library/series/series-01-optometry-foundations/season-02/S02E05-the-back-of-the-eye.txt,
+          library/series/series-01-optometry-foundations/season-02/S02E06-the-retina-as-the-sensory-layer.txt,
+          library/series/series-01-optometry-foundations/season-02/S02E07-the-optic-nerve-and-visual-information.txt,
+          library/series/series-01-optometry-foundations/season-02/S02E08-the-macula-and-central-vision.txt,
+          library/series/series-01-optometry-foundations/season-02/S02E09-peripheral-vision.txt,
+          library/series/series-01-optometry-foundations/season-02/S02E10-following-the-path-of-vision.txt
       engine:
         description: "auto = each script's '# Engine:' tag (recommended) | kokoro | voxcpm"
         required: false

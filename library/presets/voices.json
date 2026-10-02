@@ -1,7 +1,9 @@
 {
-  "version": 1,
-  "library": "Focus Cast by focuslinks.in",
-  "notes": "Premade character presets — scripts reference characters by NAME (e.g. 'Dr. Meera:') and the renderer binds the voice here. Keep names stable across the whole library so narration stays consistent.",
+  "version": 2,
+  "library": "FocusLinks Listen · Focus Cast",
+  "platform": "FocusLinks Listen (listen.focuslinks.in)",
+  "tagline": "Listen. Learn. See better.",
+  "notes": "Premade character presets — scripts reference characters by NAME (e.g. 'Guide:') and the renderer binds the voice here. Keep names stable across the whole library so narration stays consistent. Spoken brand line is 'Focus Cast by focuslinks' — never 'focuslinks dot in' inside audio scripts (the .in suffix is written-only branding).",
   "default_narrator": "Host",
   "characters": {
     "Host": {
@@ -10,17 +12,11 @@
       "speed": 1.0,
       "style": "warm, curious host — asks what a first-year student would ask"
     },
-    "Dr. Meera": {
+    "Guide": {
       "voice": "am_michael",
       "lang_code": "a",
       "speed": 0.97,
-      "style": "calm optometry professor — clear, patient, clinically precise"
-    },
-    "Dr. Arjun": {
-      "voice": "bm_george",
-      "lang_code": "b",
-      "speed": 0.97,
-      "style": "British-trained clinical lecturer — reserved, thorough (case discussions)"
+      "style": "calm optometry teacher — clear, patient, clinically precise. A role, not a persona: never named, never claims credentials or licensure"
     },
     "Narrator": {
       "voice": "af_nova",

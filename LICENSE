@@ -1,21 +1,38 @@
-MIT License
+FocusLinks Proprietary License
+==============================
 
-Copyright (c) 2026 TTS Beta FL contributors
+Copyright (c) 2026 FocusLinks. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license does NOT grant anyone any permission to use, copy, modify,
+merge, publish, distribute, sublicense, sell, rent, lease, broadcast,
+publicly perform, publicly display, translate, adapt, or create derivative
+works from any part of this repository or its contents — including but not
+limited to the source code, episode scripts, generated audio files, metadata,
+catalogs, documentation, artwork, and branding — in any form or medium,
+for any purpose, whether commercial or non-commercial.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The ONLY thing you are permitted to do is view this public repository on
+GitHub. Everything else is reserved.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Prohibited without prior written permission from FocusLinks:
+
+  1. Downloading, reproducing, or redistributing any content.
+  2. Using the episode scripts or audio to train, fine-tune, or evaluate
+     any machine-learning model.
+  3. Publishing, broadcasting, podcasting, or monetizing the audio,
+     in whole or in part, on any platform.
+  4. Using the FocusLinks, Focus Cast, or FocusLinks Listen names,
+     branding, or domains (focuslinks.in, listen.focuslinks.in, etc.).
+  5. Removing or altering this license, copyright notices, or credits.
+
+No rights are granted by default. There is no open-source license here.
+If you need access, contact FocusLinks and obtain a signed written
+permission first.
+
+THE CONTENT OF THIS REPOSITORY IS PROVIDED "AS IS", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL FOCUSLINKS OR ITS
+MAINTAINERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE CONTENT OR ITS USE BY ANY
+UNAUTHORIZED PARTY.
+
+Any unauthorized use will be considered an infringement of copyright.
