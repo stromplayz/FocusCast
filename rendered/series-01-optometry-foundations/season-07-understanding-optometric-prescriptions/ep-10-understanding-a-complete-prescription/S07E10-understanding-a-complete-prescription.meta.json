@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E10-understanding-a-complete-prescription.txt",
+  "stem": "S07E10-understanding-a-complete-prescription",
+  "words": 4151,
+  "generated_at_utc": "2026-10-02T19:53:02.725700+00:00",
+  "title": "Understanding a Complete Prescription",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometric Prescriptions",
+  "season_no": "7",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "spectacle prescription",
+    "sphere power",
+    "cylinder power",
+    "axis",
+    "add power",
+    "prism correction",
+    "refraction",
+    "eye examination"
+  ],
+  "description": "The Host and the Guide close the season by reading one complete spectacle prescription from top to bottom. This finale of Focus Cast by focuslinks draws together sphere, cylinder, axis, add power, prism, and the O D and O S columns into a single clear picture. Listeners hear how each entry earns its place on the slip, what the whole document says about the two eyes behind it, and why a prescription is a plan rather than a grade. The episode closes with a warm look toward the next season.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1594.8,
+  "duration_min": 26.58,
+  "files": [
+    "S07E10-understanding-a-complete-prescription.wav",
+    "S07E10-understanding-a-complete-prescription.mp3"
+  ]
+}

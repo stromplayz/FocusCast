@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E07-plus-and-minus-lenses.txt",
+  "stem": "S07E07-plus-and-minus-lenses",
+  "words": 4176,
+  "generated_at_utc": "2026-10-02T19:47:37.912514+00:00",
+  "title": "Plus and Minus Lenses",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometric Prescriptions",
+  "season_no": "7",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "plus lenses",
+    "minus lenses",
+    "sphere power",
+    "lens signs",
+    "longsighted",
+    "shortsighted",
+    "magnification",
+    "spectacle myth"
+  ],
+  "description": "This episode of Focus Cast by focuslinks explains what the plus and minus signs on a spectacle prescription really mean. Listeners learn how plus lenses gather light for longsighted eyes and how minus lenses spread light for shortsighted eyes. The conversation also covers the magnifying and shrinking side effects people notice, where the sign lives on the form, and why the signs matter so much. It closes with a calm look at the myth that stronger lenses weaken your eyes.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1579.2,
+  "duration_min": 26.32,
+  "files": [
+    "S07E07-plus-and-minus-lenses.wav",
+    "S07E07-plus-and-minus-lenses.mp3"
+  ]
+}

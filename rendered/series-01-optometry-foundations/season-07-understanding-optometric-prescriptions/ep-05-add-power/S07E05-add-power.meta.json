@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E05-add-power.txt",
+  "stem": "S07E05-add-power",
+  "words": 4107,
+  "generated_at_utc": "2026-10-02T19:44:00.318905+00:00",
+  "title": "Add Power",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometric Prescriptions",
+  "season_no": "7",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "add power",
+    "near vision",
+    "presbyopia",
+    "reading glasses",
+    "prescription values",
+    "optometry",
+    "bifocal",
+    "vision correction"
+  ],
+  "description": "Focus Cast by focuslinks reaches add power, the near bonus that appears on prescriptions once reading starts to drift out of reach. The Host and the Guide explain what the add line means, how it combines with distance numbers, and why it always arrives wearing plus. The episode links presbyopia in a single sentence and keeps the spotlight on the number itself.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1603.1,
+  "duration_min": 26.72,
+  "files": [
+    "S07E05-add-power.wav",
+    "S07E05-add-power.mp3"
+  ]
+}

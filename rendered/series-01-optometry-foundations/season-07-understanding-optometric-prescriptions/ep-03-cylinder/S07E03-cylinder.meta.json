@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E03-cylinder.txt",
+  "stem": "S07E03-cylinder",
+  "words": 4105,
+  "generated_at_utc": "2026-10-02T19:40:20.415873+00:00",
+  "title": "Cylinder",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometric Prescriptions",
+  "season_no": "7",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "cylinder",
+    "astigmatism",
+    "prescription values",
+    "optometry",
+    "lens power",
+    "toric",
+    "vision correction",
+    "eye exam"
+  ],
+  "description": "Focus Cast by focuslinks turns to cylinder, the part of a spectacle prescription that corrects blur which changes with direction. The Host and the Guide explain what the cylinder number measures, why it usually carries a minus sign, and how it teams up with sphere. The episode keeps astigmatism to a single friendly definition and spends its time on the amount itself.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1638.9,
+  "duration_min": 27.31,
+  "files": [
+    "S07E03-cylinder.wav",
+    "S07E03-cylinder.mp3"
+  ]
+}

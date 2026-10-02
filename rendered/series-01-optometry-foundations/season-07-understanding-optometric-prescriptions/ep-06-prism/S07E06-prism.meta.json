@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E06-prism.txt",
+  "stem": "S07E06-prism",
+  "words": 4101,
+  "generated_at_utc": "2026-10-02T19:45:49.242444+00:00",
+  "title": "Prism",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometric Prescriptions",
+  "season_no": "7",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "prism",
+    "double vision",
+    "diplopia",
+    "eye teaming",
+    "base direction",
+    "prescription values",
+    "optometry",
+    "binocular vision"
+  ],
+  "description": "Focus Cast by focuslinks explores prism, the rarest common instruction on a spectacle prescription. The Host and the Guide explain why some lenses bend light sideways instead of focusing it, how a prism entry is written and spoken, and how it helps two eyes land on one picture. Diplopia, double vision, is introduced gently and kept basic.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1603.6,
+  "duration_min": 26.73,
+  "files": [
+    "S07E06-prism.wav",
+    "S07E06-prism.mp3"
+  ]
+}

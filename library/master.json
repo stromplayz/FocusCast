@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-02T19:29:56.394519+00:00",
-  "episode_count": 60,
+  "updated_at": "2026-10-02T19:56:21.882542+00:00",
+  "episode_count": 70,
   "episodes": [
     {
       "id": "S01E01",
@@ -2390,6 +2390,396 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-02T19:26:40.495063+00:00"
+    },
+    {
+      "id": "S07E01",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 7,
+      "season": "Understanding Optometric Prescriptions",
+      "episode_no": 1,
+      "title": "What Is a Spectacle Prescription?",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "spectacle prescription",
+        "optometry",
+        "prescription basics",
+        "lens laboratory",
+        "refraction",
+        "eye exam",
+        "vision correction",
+        "optical dispensing"
+      ],
+      "description": "Season seven of Focus Cast by focuslinks opens the decoder ring for optometric prescriptions. The Host and the Guide define what a spectacle prescription really is, trace the paper on its journey, and meet the cast of numbers that live on it. This opener maps the whole season, from sphere and cylinder to axis, add power, and prism. By the end, the slip from the eye exam starts to read like a plain sentence about how you see.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-07/S07E01-what-is-a-spectacle-prescription.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-01-what-is-a-spectacle-prescription/S07E01-what-is-a-spectacle-prescription.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-01-what-is-a-spectacle-prescription/S07E01-what-is-a-spectacle-prescription.mp3",
+        "bytes": 19025325,
+        "duration_sec": 1585.4,
+        "duration_min": 26.42,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:36:14.785199+00:00"
+    },
+    {
+      "id": "S07E02",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 7,
+      "season": "Understanding Optometric Prescriptions",
+      "episode_no": 2,
+      "title": "Sphere",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "sphere",
+        "lens power",
+        "myopia",
+        "hyperopia",
+        "prescription values",
+        "optometry",
+        "diopter",
+        "vision correction"
+      ],
+      "description": "Focus Cast by focuslinks continues its prescription decoder with sphere, the round and even part of almost every correction. The Host and the Guide explain what sphere means, why it comes with a plus or a minus, and how it changes everyday vision. Listeners learn to speak sphere values in plain words and to stop treating the number as a grade.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-07/S07E02-sphere.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-02-sphere/S07E02-sphere.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-02-sphere/S07E02-sphere.mp3",
+        "bytes": 18799533,
+        "duration_sec": 1566.6,
+        "duration_min": 26.11,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:38:36.615796+00:00"
+    },
+    {
+      "id": "S07E03",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 7,
+      "season": "Understanding Optometric Prescriptions",
+      "episode_no": 3,
+      "title": "Cylinder",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "cylinder",
+        "astigmatism",
+        "prescription values",
+        "optometry",
+        "lens power",
+        "toric",
+        "vision correction",
+        "eye exam"
+      ],
+      "description": "Focus Cast by focuslinks turns to cylinder, the part of a spectacle prescription that corrects blur which changes with direction. The Host and the Guide explain what the cylinder number measures, why it usually carries a minus sign, and how it teams up with sphere. The episode keeps astigmatism to a single friendly definition and spends its time on the amount itself.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-07/S07E03-cylinder.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-03-cylinder/S07E03-cylinder.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-03-cylinder/S07E03-cylinder.mp3",
+        "bytes": 19667277,
+        "duration_sec": 1638.9,
+        "duration_min": 27.31,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:40:20.415873+00:00"
+    },
+    {
+      "id": "S07E04",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 7,
+      "season": "Understanding Optometric Prescriptions",
+      "episode_no": 4,
+      "title": "Axis",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "axis",
+        "degrees",
+        "cylinder",
+        "astigmatism",
+        "prescription values",
+        "optometry",
+        "orientation",
+        "lens fitting"
+      ],
+      "description": "Focus Cast by focuslinks follows cylinder's partner, axis, the direction that tells a lens correction exactly where to point. The Host and the Guide explain the half circle of degrees, why axis never carries a plus or minus, and why a few degrees matter so much. Values are spoken throughout, the way prescriptions are read aloud in practice.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-07/S07E04-axis.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-04-axis/S07E04-axis.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-04-axis/S07E04-axis.mp3",
+        "bytes": 19423629,
+        "duration_sec": 1618.6,
+        "duration_min": 26.98,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:42:10.113021+00:00"
+    },
+    {
+      "id": "S07E05",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 7,
+      "season": "Understanding Optometric Prescriptions",
+      "episode_no": 5,
+      "title": "Add Power",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "add power",
+        "near vision",
+        "presbyopia",
+        "reading glasses",
+        "prescription values",
+        "optometry",
+        "bifocal",
+        "vision correction"
+      ],
+      "description": "Focus Cast by focuslinks reaches add power, the near bonus that appears on prescriptions once reading starts to drift out of reach. The Host and the Guide explain what the add line means, how it combines with distance numbers, and why it always arrives wearing plus. The episode links presbyopia in a single sentence and keeps the spotlight on the number itself.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-07/S07E05-add-power.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-05-add-power/S07E05-add-power.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-05-add-power/S07E05-add-power.mp3",
+        "bytes": 19238445,
+        "duration_sec": 1603.1,
+        "duration_min": 26.72,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:44:00.318905+00:00"
+    },
+    {
+      "id": "S07E06",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 7,
+      "season": "Understanding Optometric Prescriptions",
+      "episode_no": 6,
+      "title": "Prism",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "prism",
+        "double vision",
+        "diplopia",
+        "eye teaming",
+        "base direction",
+        "prescription values",
+        "optometry",
+        "binocular vision"
+      ],
+      "description": "Focus Cast by focuslinks explores prism, the rarest common instruction on a spectacle prescription. The Host and the Guide explain why some lenses bend light sideways instead of focusing it, how a prism entry is written and spoken, and how it helps two eyes land on one picture. Diplopia, double vision, is introduced gently and kept basic.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-07/S07E06-prism.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-06-prism/S07E06-prism.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-06-prism/S07E06-prism.mp3",
+        "bytes": 19243917,
+        "duration_sec": 1603.6,
+        "duration_min": 26.73,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:45:49.242444+00:00"
+    },
+    {
+      "id": "S07E07",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 7,
+      "season": "Understanding Optometric Prescriptions",
+      "episode_no": 7,
+      "title": "Plus and Minus Lenses",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "plus lenses",
+        "minus lenses",
+        "sphere power",
+        "lens signs",
+        "longsighted",
+        "shortsighted",
+        "magnification",
+        "spectacle myth"
+      ],
+      "description": "This episode of Focus Cast by focuslinks explains what the plus and minus signs on a spectacle prescription really mean. Listeners learn how plus lenses gather light for longsighted eyes and how minus lenses spread light for shortsighted eyes. The conversation also covers the magnifying and shrinking side effects people notice, where the sign lives on the form, and why the signs matter so much. It closes with a calm look at the myth that stronger lenses weaken your eyes.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-07/S07E07-plus-and-minus-lenses.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-07-plus-and-minus-lenses/S07E07-plus-and-minus-lenses.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-07-plus-and-minus-lenses/S07E07-plus-and-minus-lenses.mp3",
+        "bytes": 18950445,
+        "duration_sec": 1579.2,
+        "duration_min": 26.32,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:47:37.912514+00:00"
+    },
+    {
+      "id": "S07E08",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 7,
+      "season": "Understanding Optometric Prescriptions",
+      "episode_no": 8,
+      "title": "Right Eye and Left Eye",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "right eye",
+        "left eye",
+        "o d",
+        "o s",
+        "prescription columns",
+        "latin letters",
+        "mix ups",
+        "double checking"
+      ],
+      "description": "This episode of Focus Cast by focuslinks tells the story of the two letter codes that name the eyes on every spectacle prescription. Listeners hear where the letters for the right eye and the left eye come from, why they are spoken letter by letter, and why each eye receives its own row of values. The conversation looks at real mix ups, why the paperwork is checked so carefully, and what happens when one eye needs no correction at all. It ends by gently dismantling the idea that the letter codes exist to confuse patients.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-07/S07E08-right-eye-and-left-eye.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-08-right-eye-and-left-eye/S07E08-right-eye-and-left-eye.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-08-right-eye-and-left-eye/S07E08-right-eye-and-left-eye.mp3",
+        "bytes": 18918477,
+        "duration_sec": 1576.5,
+        "duration_min": 26.27,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:49:25.190760+00:00"
+    },
+    {
+      "id": "S07E09",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 7,
+      "season": "Understanding Optometric Prescriptions",
+      "episode_no": 9,
+      "title": "Reading a Prescription",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "reading a prescription",
+        "sphere power",
+        "pupillary distance",
+        "eye labels",
+        "prescription walkthrough",
+        "spoken numbers",
+        "optical form",
+        "first full read"
+      ],
+      "description": "This episode of Focus Cast by focuslinks walks one simple spectacle prescription from the left edge of the form to the right, spoken entirely in plain words. Listeners learn to name the eye rows first, read the sphere values with their signs, and understand the gentle role of pupillary distance. Richer features like cylinder, axis, and add power are deliberately saved for the next installment. The episode closes by calmly dismantling the myth that different values for the two eyes must mean a mistake.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-07/S07E09-reading-a-prescription.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-09-reading-a-prescription/S07E09-reading-a-prescription.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-09-reading-a-prescription/S07E09-reading-a-prescription.mp3",
+        "bytes": 20016333,
+        "duration_sec": 1668.0,
+        "duration_min": 27.8,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:51:11.544801+00:00"
+    },
+    {
+      "id": "S07E10",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 7,
+      "season": "Understanding Optometric Prescriptions",
+      "episode_no": 10,
+      "title": "Understanding a Complete Prescription",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "spectacle prescription",
+        "sphere power",
+        "cylinder power",
+        "axis",
+        "add power",
+        "prism correction",
+        "refraction",
+        "eye examination"
+      ],
+      "description": "The Host and the Guide close the season by reading one complete spectacle prescription from top to bottom. This finale of Focus Cast by focuslinks draws together sphere, cylinder, axis, add power, prism, and the O D and O S columns into a single clear picture. Listeners hear how each entry earns its place on the slip, what the whole document says about the two eyes behind it, and why a prescription is a plan rather than a grade. The episode closes with a warm look toward the next season.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-07/S07E10-understanding-a-complete-prescription.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-10-understanding-a-complete-prescription/S07E10-understanding-a-complete-prescription.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-10-understanding-a-complete-prescription/S07E10-understanding-a-complete-prescription.mp3",
+        "bytes": 19137933,
+        "duration_sec": 1594.8,
+        "duration_min": 26.58,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:53:02.725700+00:00"
     }
   ]
 }

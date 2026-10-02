@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E04-axis.txt",
+  "stem": "S07E04-axis",
+  "words": 4136,
+  "generated_at_utc": "2026-10-02T19:42:10.113021+00:00",
+  "title": "Axis",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometric Prescriptions",
+  "season_no": "7",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "axis",
+    "degrees",
+    "cylinder",
+    "astigmatism",
+    "prescription values",
+    "optometry",
+    "orientation",
+    "lens fitting"
+  ],
+  "description": "Focus Cast by focuslinks follows cylinder's partner, axis, the direction that tells a lens correction exactly where to point. The Host and the Guide explain the half circle of degrees, why axis never carries a plus or minus, and why a few degrees matter so much. Values are spoken throughout, the way prescriptions are read aloud in practice.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1618.6,
+  "duration_min": 26.98,
+  "files": [
+    "S07E04-axis.wav",
+    "S07E04-axis.mp3"
+  ]
+}

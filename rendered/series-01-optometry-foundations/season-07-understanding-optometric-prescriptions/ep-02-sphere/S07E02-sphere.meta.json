@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E02-sphere.txt",
+  "stem": "S07E02-sphere",
+  "words": 4113,
+  "generated_at_utc": "2026-10-02T19:38:36.615796+00:00",
+  "title": "Sphere",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometric Prescriptions",
+  "season_no": "7",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "sphere",
+    "lens power",
+    "myopia",
+    "hyperopia",
+    "prescription values",
+    "optometry",
+    "diopter",
+    "vision correction"
+  ],
+  "description": "Focus Cast by focuslinks continues its prescription decoder with sphere, the round and even part of almost every correction. The Host and the Guide explain what sphere means, why it comes with a plus or a minus, and how it changes everyday vision. Listeners learn to speak sphere values in plain words and to stop treating the number as a grade.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1566.6,
+  "duration_min": 26.11,
+  "files": [
+    "S07E02-sphere.wav",
+    "S07E02-sphere.mp3"
+  ]
+}

@@ -1,21 +1,21 @@
 {
   "episodes": 10,
-  "words_total": 41977,
-  "eta_render_min": 23.8,
+  "words_total": 41624,
+  "eta_render_min": 23.6,
   "actual_push_to_complete_min": 20.5,
-  "actual_total_min": 21.2,
+  "actual_total_min": 21.3,
   "kernel": "phantoz/focuscast-batch",
   "delivered": [
-    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-01-measuring-visual-acuity/S06E01-measuring-visual-acuity.mp3",
-    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-02-understanding-the-snellen-chart/S06E02-understanding-the-snellen-chart.mp3",
-    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-03-near-vision-measurement/S06E03-near-vision-measurement.mp3",
-    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-04-pinhole-testing/S06E04-pinhole-testing.mp3",
-    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-05-pupil-examination/S06E05-pupil-examination.mp3",
-    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-06-ocular-motility/S06E06-ocular-motility.mp3",
-    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-07-cover-testing/S06E07-cover-testing.mp3",
-    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-08-basic-visual-field-testing/S06E08-basic-visual-field-testing.mp3",
-    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-09-colour-vision-testing/S06E09-colour-vision-testing.mp3",
-    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-10-stereopsis-testing/S06E10-stereopsis-testing.mp3"
+    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-01-what-is-a-spectacle-prescription/S07E01-what-is-a-spectacle-prescription.mp3",
+    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-02-sphere/S07E02-sphere.mp3",
+    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-03-cylinder/S07E03-cylinder.mp3",
+    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-04-axis/S07E04-axis.mp3",
+    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-05-add-power/S07E05-add-power.mp3",
+    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-06-prism/S07E06-prism.mp3",
+    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-07-plus-and-minus-lenses/S07E07-plus-and-minus-lenses.mp3",
+    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-08-right-eye-and-left-eye/S07E08-right-eye-and-left-eye.mp3",
+    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-09-reading-a-prescription/S07E09-reading-a-prescription.mp3",
+    "series-01-optometry-foundations/season-07-understanding-optometric-prescriptions/ep-10-understanding-a-complete-prescription/S07E10-understanding-a-complete-prescription.mp3"
   ],
-  "started_at_utc": "2026-10-02T19:29:56.309303+00:00"
+  "started_at_utc": "2026-10-02T19:56:21.795164+00:00"
 }

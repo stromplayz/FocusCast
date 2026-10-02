@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E01-what-is-a-spectacle-prescription.txt",
+  "stem": "S07E01-what-is-a-spectacle-prescription",
+  "words": 4111,
+  "generated_at_utc": "2026-10-02T19:36:14.785199+00:00",
+  "title": "What Is a Spectacle Prescription?",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Understanding Optometric Prescriptions",
+  "season_no": "7",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "spectacle prescription",
+    "optometry",
+    "prescription basics",
+    "lens laboratory",
+    "refraction",
+    "eye exam",
+    "vision correction",
+    "optical dispensing"
+  ],
+  "description": "Season seven of Focus Cast by focuslinks opens the decoder ring for optometric prescriptions. The Host and the Guide define what a spectacle prescription really is, trace the paper on its journey, and meet the cast of numbers that live on it. This opener maps the whole season, from sphere and cylinder to axis, add power, and prism. By the end, the slip from the eye exam starts to read like a plain sentence about how you see.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1585.4,
+  "duration_min": 26.42,
+  "files": [
+    "S07E01-what-is-a-spectacle-prescription.wav",
+    "S07E01-what-is-a-spectacle-prescription.mp3"
+  ]
+}
