@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-02T19:05:56.274335+00:00",
-  "episode_count": 50,
+  "updated_at": "2026-10-02T19:29:56.394519+00:00",
+  "episode_count": 60,
   "episodes": [
     {
       "id": "S01E01",
@@ -2000,6 +2000,396 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-02T19:03:05.049534+00:00"
+    },
+    {
+      "id": "S06E01",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 6,
+      "season": "Basic Clinical Measurements",
+      "episode_no": 1,
+      "title": "Measuring Visual Acuity",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "visual acuity",
+        "eye exam",
+        "optometry",
+        "occluder",
+        "eye test",
+        "distance vision",
+        "clinical measurement",
+        "vision testing"
+      ],
+      "description": "The season six opener of Focus Cast by focuslinks walks through the measurement that anchors every eye exam: visual acuity. The Host and the Guide cover the room, the distance, the occluder, honest encouragement, and how results are recorded and spoken as words. There is a story about a peeking patient, listener questions about glasses and driving, and a myth about clean bills of health. A hands-on start to the measurement season.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-06/S06E01-measuring-visual-acuity.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-01-measuring-visual-acuity/S06E01-measuring-visual-acuity.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-01-measuring-visual-acuity/S06E01-measuring-visual-acuity.mp3",
+        "bytes": 18743949,
+        "duration_sec": 1561.9,
+        "duration_min": 26.03,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:09:53.164519+00:00"
+    },
+    {
+      "id": "S06E02",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 6,
+      "season": "Basic Clinical Measurements",
+      "episode_no": 2,
+      "title": "Understanding the Snellen Chart",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "snellen chart",
+        "eye chart",
+        "visual acuity",
+        "letter rows",
+        "optometry",
+        "notation",
+        "tumbling e",
+        "chart design"
+      ],
+      "description": "This episode of Focus Cast by focuslinks takes the letter chart off the wall and opens it up. The Host and the Guide walk through its history, its design, the logic of its notation spoken as words, and the reason the rows keep getting harder. There is a story about a mirror in a small clinic and a myth about the famous bottom row. The instrument behind last episode's measurement finally gets its full close-up.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-06/S06E02-understanding-the-snellen-chart.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-02-understanding-the-snellen-chart/S06E02-understanding-the-snellen-chart.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-02-understanding-the-snellen-chart/S06E02-understanding-the-snellen-chart.mp3",
+        "bytes": 18660717,
+        "duration_sec": 1555.0,
+        "duration_min": 25.92,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:12:12.364293+00:00"
+    },
+    {
+      "id": "S06E03",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 6,
+      "season": "Basic Clinical Measurements",
+      "episode_no": 3,
+      "title": "Near Vision Measurement",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "near vision",
+        "near card",
+        "reading vision",
+        "optometry",
+        "accommodation",
+        "presbyopia",
+        "print size",
+        "eye exam"
+      ],
+      "description": "This episode of Focus Cast by focuslinks leaves the wall chart behind and comes in to reading distance. The Host and the Guide cover why near vision gets its own measurement, how a simple card in good light turns reading into a number, and what a basic near result means. There is a story about a grandfather and a needle, listener questions about distance and newspapers, and a myth about perfect distance vision. A close-up episode for the eyes we read with.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-06/S06E03-near-vision-measurement.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-03-near-vision-measurement/S06E03-near-vision-measurement.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-03-near-vision-measurement/S06E03-near-vision-measurement.mp3",
+        "bytes": 19125261,
+        "duration_sec": 1593.7,
+        "duration_min": 26.56,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:13:57.260041+00:00"
+    },
+    {
+      "id": "S06E04",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 6,
+      "season": "Basic Clinical Measurements",
+      "episode_no": 4,
+      "title": "Pinhole Testing",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "pinhole test",
+        "blurred vision",
+        "occluder",
+        "optometry",
+        "refractive error",
+        "acuity",
+        "eye exam",
+        "clinical measurement"
+      ],
+      "description": "This episode of Focus Cast by focuslinks examines the cleverest paddle in the clinic: the pinhole. The Host and the Guide explain the plain physics behind the tiny holes, how the test is taken, and how a two minute measurement helps separate blur from disease. There is a story about a fisherman, listener questions about squinting and home testing, and a myth about what a good pinhole result truly promises. Detective work, measured in millimeters.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-06/S06E04-pinhole-testing.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-04-pinhole-testing/S06E04-pinhole-testing.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-04-pinhole-testing/S06E04-pinhole-testing.mp3",
+        "bytes": 19317933,
+        "duration_sec": 1609.8,
+        "duration_min": 26.83,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:15:45.576776+00:00"
+    },
+    {
+      "id": "S06E05",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 6,
+      "season": "Basic Clinical Measurements",
+      "episode_no": 5,
+      "title": "Pupil Examination",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "pupil exam",
+        "light reflex",
+        "swinging flashlight",
+        "anisocoria",
+        "optometry",
+        "near response",
+        "eye exam",
+        "clinical measurement"
+      ],
+      "description": "This episode of Focus Cast by focuslinks turns off the lights. The Host and the Guide examine the pupils: what size, shape, and symmetry say, how the light reflex works, and why the swinging flashlight test is such a powerful little maneuver. There is a story about a cyclist and a quiet finding, listener questions about dim rooms and twin pupils, and a myth about the iris. Two small circles, one enormous amount of information.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-06/S06E05-pupil-examination.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-05-pupil-examination/S06E05-pupil-examination.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-05-pupil-examination/S06E05-pupil-examination.mp3",
+        "bytes": 19177965,
+        "duration_sec": 1598.1,
+        "duration_min": 26.64,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:17:34.628198+00:00"
+    },
+    {
+      "id": "S06E06",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 6,
+      "season": "Basic Clinical Measurements",
+      "episode_no": 6,
+      "title": "Ocular Motility",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "ocular motility",
+        "eye movements",
+        "six cardinal directions",
+        "eye muscle teamwork",
+        "follow the light",
+        "drift and lag",
+        "convergence",
+        "basic clinical measurement"
+      ],
+      "description": "A calm, guided conversation about ocular motility, the test where a patient follows a small light while the optometrist watches both eyes travel together. The episode covers the six directions, why the head stays still, and what drift or lag might suggest in the gentlest terms. Listeners also hear how the test feels from the chair and how a basic result is described. Join Focus Cast by focuslinks for another step through the basic clinical measurements.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-06/S06E06-ocular-motility.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-06-ocular-motility/S06E06-ocular-motility.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-06-ocular-motility/S06E06-ocular-motility.mp3",
+        "bytes": 19118061,
+        "duration_sec": 1593.1,
+        "duration_min": 26.55,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:19:24.298622+00:00"
+    },
+    {
+      "id": "S06E07",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 6,
+      "season": "Basic Clinical Measurements",
+      "episode_no": 7,
+      "title": "Cover Testing",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "cover testing",
+        "cover uncover test",
+        "alternate cover",
+        "eye alignment",
+        "occluder paddle",
+        "refixation movement",
+        "hidden tendency",
+        "basic clinical measurement"
+      ],
+      "description": "A friendly walk through cover testing, the uncover and reveal trick that exposes hidden alignment tendencies of the eyes. The episode contrasts what the patient notices with what the optometrist sees, explains the paddle in plain words, and reads a basic result. There is also an early clinic story and one myth gently retired. Join Focus Cast by focuslinks for another step through the basic clinical measurements.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-06/S06E07-cover-testing.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-07-cover-testing/S06E07-cover-testing.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-07-cover-testing/S06E07-cover-testing.mp3",
+        "bytes": 19252557,
+        "duration_sec": 1604.3,
+        "duration_min": 26.74,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:21:12.916669+00:00"
+    },
+    {
+      "id": "S06E08",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 6,
+      "season": "Basic Clinical Measurements",
+      "episode_no": 8,
+      "title": "Basic Visual Field Testing",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "visual field testing",
+        "confrontation test",
+        "bowl of lights",
+        "periphery of vision",
+        "sensitivity map",
+        "visual field concept",
+        "screening",
+        "basic clinical measurement"
+      ],
+      "description": "A gentle tour of basic visual field testing, from the confrontation conversation with wiggling fingers to the quiet bowl of flashing lights. The episode explains what the visual field is, how each test feels from the chair, and how a basic sensitivity map is read. One memorable clinic story shows why the quiet tests matter. Join Focus Cast by focuslinks for another step through the basic clinical measurements.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-06/S06E08-basic-visual-field-testing.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-08-basic-visual-field-testing/S06E08-basic-visual-field-testing.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-08-basic-visual-field-testing/S06E08-basic-visual-field-testing.mp3",
+        "bytes": 18702477,
+        "duration_sec": 1558.5,
+        "duration_min": 25.97,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:23:01.807240+00:00"
+    },
+    {
+      "id": "S06E09",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 6,
+      "season": "Basic Clinical Measurements",
+      "episode_no": 9,
+      "title": "Colour Vision Testing",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "colour vision",
+        "cone cells",
+        "dotted plates",
+        "arrangement tests",
+        "red green",
+        "blue yellow",
+        "screening",
+        "optometry"
+      ],
+      "description": "Focus Cast by focuslinks explains how colour vision testing works in a routine eye exam. The host and guide walk through dotted plate books, cap arrangement tests, and what a basic screening result does and does not mean. Listeners learn how the cones are probed, why each eye may be tested separately, and why the myth of seeing in black and white misses the truth.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-06/S06E09-colour-vision-testing.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-09-colour-vision-testing/S06E09-colour-vision-testing.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-09-colour-vision-testing/S06E09-colour-vision-testing.mp3",
+        "bytes": 19896813,
+        "duration_sec": 1658.0,
+        "duration_min": 27.63,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:24:48.424942+00:00"
+    },
+    {
+      "id": "S06E10",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 6,
+      "season": "Basic Clinical Measurements",
+      "episode_no": 10,
+      "title": "Stereopsis Testing",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "stereopsis",
+        "depth perception",
+        "binocular vision",
+        "stereo testing",
+        "polarised glasses",
+        "random dot pages",
+        "seconds of arc",
+        "optometry"
+      ],
+      "description": "Focus Cast by focuslinks closes the season with an episode on how stereopsis testing measures the teamwork of two eyes. The host and guide walk through stereo booklets, polarised glasses, random dot pages, and what a basic result in seconds of arc tells the optometrist. The episode also wraps the full measurement tour and looks ahead to decoding prescriptions.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-06/S06E10-stereopsis-testing.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-10-stereopsis-testing/S06E10-stereopsis-testing.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-10-stereopsis-testing/S06E10-stereopsis-testing.mp3",
+        "bytes": 20122893,
+        "duration_sec": 1676.9,
+        "duration_min": 27.95,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T19:26:40.495063+00:00"
     }
   ]
 }

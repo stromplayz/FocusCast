@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S06E02-understanding-the-snellen-chart.txt",
+  "stem": "S06E02-understanding-the-snellen-chart",
+  "words": 4121,
+  "generated_at_utc": "2026-10-02T19:12:12.364293+00:00",
+  "title": "Understanding the Snellen Chart",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Basic Clinical Measurements",
+  "season_no": "6",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "snellen chart",
+    "eye chart",
+    "visual acuity",
+    "letter rows",
+    "optometry",
+    "notation",
+    "tumbling e",
+    "chart design"
+  ],
+  "description": "This episode of Focus Cast by focuslinks takes the letter chart off the wall and opens it up. The Host and the Guide walk through its history, its design, the logic of its notation spoken as words, and the reason the rows keep getting harder. There is a story about a mirror in a small clinic and a myth about the famous bottom row. The instrument behind last episode's measurement finally gets its full close-up.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1555.0,
+  "duration_min": 25.92,
+  "files": [
+    "S06E02-understanding-the-snellen-chart.wav",
+    "S06E02-understanding-the-snellen-chart.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S06E04-pinhole-testing.txt",
+  "stem": "S06E04-pinhole-testing",
+  "words": 4169,
+  "generated_at_utc": "2026-10-02T19:15:45.576776+00:00",
+  "title": "Pinhole Testing",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Basic Clinical Measurements",
+  "season_no": "6",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "pinhole test",
+    "blurred vision",
+    "occluder",
+    "optometry",
+    "refractive error",
+    "acuity",
+    "eye exam",
+    "clinical measurement"
+  ],
+  "description": "This episode of Focus Cast by focuslinks examines the cleverest paddle in the clinic: the pinhole. The Host and the Guide explain the plain physics behind the tiny holes, how the test is taken, and how a two minute measurement helps separate blur from disease. There is a story about a fisherman, listener questions about squinting and home testing, and a myth about what a good pinhole result truly promises. Detective work, measured in millimeters.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1609.8,
+  "duration_min": 26.83,
+  "files": [
+    "S06E04-pinhole-testing.wav",
+    "S06E04-pinhole-testing.mp3"
+  ]
+}

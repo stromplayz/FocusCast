@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S06E09-colour-vision-testing.txt",
+  "stem": "S06E09-colour-vision-testing",
+  "words": 4244,
+  "generated_at_utc": "2026-10-02T19:24:48.424942+00:00",
+  "title": "Colour Vision Testing",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Basic Clinical Measurements",
+  "season_no": "6",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "colour vision",
+    "cone cells",
+    "dotted plates",
+    "arrangement tests",
+    "red green",
+    "blue yellow",
+    "screening",
+    "optometry"
+  ],
+  "description": "Focus Cast by focuslinks explains how colour vision testing works in a routine eye exam. The host and guide walk through dotted plate books, cap arrangement tests, and what a basic screening result does and does not mean. Listeners learn how the cones are probed, why each eye may be tested separately, and why the myth of seeing in black and white misses the truth.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1658.0,
+  "duration_min": 27.63,
+  "files": [
+    "S06E09-colour-vision-testing.wav",
+    "S06E09-colour-vision-testing.mp3"
+  ]
+}

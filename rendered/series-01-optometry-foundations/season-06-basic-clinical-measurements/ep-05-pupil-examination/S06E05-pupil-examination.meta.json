@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S06E05-pupil-examination.txt",
+  "stem": "S06E05-pupil-examination",
+  "words": 4118,
+  "generated_at_utc": "2026-10-02T19:17:34.628198+00:00",
+  "title": "Pupil Examination",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Basic Clinical Measurements",
+  "season_no": "6",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "pupil exam",
+    "light reflex",
+    "swinging flashlight",
+    "anisocoria",
+    "optometry",
+    "near response",
+    "eye exam",
+    "clinical measurement"
+  ],
+  "description": "This episode of Focus Cast by focuslinks turns off the lights. The Host and the Guide examine the pupils: what size, shape, and symmetry say, how the light reflex works, and why the swinging flashlight test is such a powerful little maneuver. There is a story about a cyclist and a quiet finding, listener questions about dim rooms and twin pupils, and a myth about the iris. Two small circles, one enormous amount of information.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1598.1,
+  "duration_min": 26.64,
+  "files": [
+    "S06E05-pupil-examination.wav",
+    "S06E05-pupil-examination.mp3"
+  ]
+}

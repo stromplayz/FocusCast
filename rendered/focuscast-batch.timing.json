@@ -1,21 +1,21 @@
 {
   "episodes": 10,
-  "words_total": 41892,
+  "words_total": 41977,
   "eta_render_min": 23.8,
   "actual_push_to_complete_min": 20.5,
-  "actual_total_min": 20.9,
+  "actual_total_min": 21.2,
   "kernel": "phantoz/focuscast-batch",
   "delivered": [
-    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-01-why-do-we-examine-the-eye/S05E01-why-do-we-examine-the-eye.mp3",
-    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-02-the-complete-eye-examination/S05E02-the-complete-eye-examination.mp3",
-    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-03-patient-history/S05E03-patient-history.mp3",
-    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-04-chief-complaint/S05E04-chief-complaint.mp3",
-    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-05-ocular-history/S05E05-ocular-history.mp3",
-    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-06-medical-and-medication-history/S05E06-medical-and-medication-history.mp3",
-    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-07-family-history/S05E07-family-history.mp3",
-    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-08-preliminary-examination/S05E08-preliminary-examination.mp3",
-    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-09-clinical-findings/S05E09-clinical-findings.mp3",
-    "series-01-optometry-foundations/season-05-the-optometry-examination/ep-10-recording-the-examination/S05E10-recording-the-examination.mp3"
+    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-01-measuring-visual-acuity/S06E01-measuring-visual-acuity.mp3",
+    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-02-understanding-the-snellen-chart/S06E02-understanding-the-snellen-chart.mp3",
+    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-03-near-vision-measurement/S06E03-near-vision-measurement.mp3",
+    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-04-pinhole-testing/S06E04-pinhole-testing.mp3",
+    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-05-pupil-examination/S06E05-pupil-examination.mp3",
+    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-06-ocular-motility/S06E06-ocular-motility.mp3",
+    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-07-cover-testing/S06E07-cover-testing.mp3",
+    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-08-basic-visual-field-testing/S06E08-basic-visual-field-testing.mp3",
+    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-09-colour-vision-testing/S06E09-colour-vision-testing.mp3",
+    "series-01-optometry-foundations/season-06-basic-clinical-measurements/ep-10-stereopsis-testing/S06E10-stereopsis-testing.mp3"
   ],
-  "started_at_utc": "2026-10-02T19:05:56.176322+00:00"
+  "started_at_utc": "2026-10-02T19:29:56.309303+00:00"
 }

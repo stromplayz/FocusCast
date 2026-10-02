@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S06E03-near-vision-measurement.txt",
+  "stem": "S06E03-near-vision-measurement",
+  "words": 4163,
+  "generated_at_utc": "2026-10-02T19:13:57.260041+00:00",
+  "title": "Near Vision Measurement",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Basic Clinical Measurements",
+  "season_no": "6",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "near vision",
+    "near card",
+    "reading vision",
+    "optometry",
+    "accommodation",
+    "presbyopia",
+    "print size",
+    "eye exam"
+  ],
+  "description": "This episode of Focus Cast by focuslinks leaves the wall chart behind and comes in to reading distance. The Host and the Guide cover why near vision gets its own measurement, how a simple card in good light turns reading into a number, and what a basic near result means. There is a story about a grandfather and a needle, listener questions about distance and newspapers, and a myth about perfect distance vision. A close-up episode for the eyes we read with.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1593.7,
+  "duration_min": 26.56,
+  "files": [
+    "S06E03-near-vision-measurement.wav",
+    "S06E03-near-vision-measurement.mp3"
+  ]
+}

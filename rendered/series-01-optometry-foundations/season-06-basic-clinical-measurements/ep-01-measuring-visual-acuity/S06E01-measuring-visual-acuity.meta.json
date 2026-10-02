@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S06E01-measuring-visual-acuity.txt",
+  "stem": "S06E01-measuring-visual-acuity",
+  "words": 4115,
+  "generated_at_utc": "2026-10-02T19:09:53.164519+00:00",
+  "title": "Measuring Visual Acuity",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Basic Clinical Measurements",
+  "season_no": "6",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "visual acuity",
+    "eye exam",
+    "optometry",
+    "occluder",
+    "eye test",
+    "distance vision",
+    "clinical measurement",
+    "vision testing"
+  ],
+  "description": "The season six opener of Focus Cast by focuslinks walks through the measurement that anchors every eye exam: visual acuity. The Host and the Guide cover the room, the distance, the occluder, honest encouragement, and how results are recorded and spoken as words. There is a story about a peeking patient, listener questions about glasses and driving, and a myth about clean bills of health. A hands-on start to the measurement season.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1561.9,
+  "duration_min": 26.03,
+  "files": [
+    "S06E01-measuring-visual-acuity.wav",
+    "S06E01-measuring-visual-acuity.mp3"
+  ]
+}

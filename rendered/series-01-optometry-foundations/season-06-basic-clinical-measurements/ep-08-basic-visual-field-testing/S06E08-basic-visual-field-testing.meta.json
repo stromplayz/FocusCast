@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S06E08-basic-visual-field-testing.txt",
+  "stem": "S06E08-basic-visual-field-testing",
+  "words": 4202,
+  "generated_at_utc": "2026-10-02T19:23:01.807240+00:00",
+  "title": "Basic Visual Field Testing",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Basic Clinical Measurements",
+  "season_no": "6",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "visual field testing",
+    "confrontation test",
+    "bowl of lights",
+    "periphery of vision",
+    "sensitivity map",
+    "visual field concept",
+    "screening",
+    "basic clinical measurement"
+  ],
+  "description": "A gentle tour of basic visual field testing, from the confrontation conversation with wiggling fingers to the quiet bowl of flashing lights. The episode explains what the visual field is, how each test feels from the chair, and how a basic sensitivity map is read. One memorable clinic story shows why the quiet tests matter. Join Focus Cast by focuslinks for another step through the basic clinical measurements.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1558.5,
+  "duration_min": 25.97,
+  "files": [
+    "S06E08-basic-visual-field-testing.wav",
+    "S06E08-basic-visual-field-testing.mp3"
+  ]
+}
