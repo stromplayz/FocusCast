@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E04-vision-assessment.txt",
+  "stem": "S09E04-vision-assessment",
+  "words": 4095,
+  "generated_at_utc": "2026-10-02T20:37:42.314481+00:00",
+  "title": "Vision Assessment",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Patient Journey",
+  "season_no": "9",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "vision assessment",
+    "visual acuity",
+    "letter chart",
+    "distance vision",
+    "near vision",
+    "one eye at a time",
+    "baseline",
+    "optometry journey"
+  ],
+  "description": "Episode four of the patient journey on Focus Cast by focuslinks reaches the moment everyone pictures, the letter chart. We follow the vision assessment as the first great measurement of the visit, one eye at a time, distance and near. Along the way we hear what the optometrist is really asking and what the patient is really feeling.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1556.2,
+  "duration_min": 25.94,
+  "files": [
+    "S09E04-vision-assessment.wav",
+    "S09E04-vision-assessment.mp3"
+  ]
+}

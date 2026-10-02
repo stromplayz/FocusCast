@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E10-finishing-the-consultation.txt",
+  "stem": "S09E10-finishing-the-consultation",
+  "words": 4376,
+  "generated_at_utc": "2026-10-02T20:48:49.554487+00:00",
+  "title": "Finishing the Consultation",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Patient Journey",
+  "season_no": "9",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "patient journey",
+    "season finale",
+    "finishing the consultation",
+    "recall booking",
+    "reminders",
+    "between visits",
+    "continuity of care",
+    "patient goodbye"
+  ],
+  "description": "Every examination ends with a goodbye, and the goodbye is really a beginning. This season finale of Focus Cast by focuslinks closes the patient visit from door to door. We cover the closing summary, bookings and reminders, life between visits, and the safety net that carries patients back. Nine episodes of the journey come together in one farewell.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1612.8,
+  "duration_min": 26.88,
+  "files": [
+    "S09E10-finishing-the-consultation.wav",
+    "S09E10-finishing-the-consultation.mp3"
+  ]
+}

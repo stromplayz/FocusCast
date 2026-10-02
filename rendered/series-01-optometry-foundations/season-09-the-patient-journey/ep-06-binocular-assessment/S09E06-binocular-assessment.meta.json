@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E06-binocular-assessment.txt",
+  "stem": "S09E06-binocular-assessment",
+  "words": 4251,
+  "generated_at_utc": "2026-10-02T20:41:21.787727+00:00",
+  "title": "Binocular Assessment",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Patient Journey",
+  "season_no": "9",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "binocular vision",
+    "eye teaming",
+    "cover test",
+    "depth perception",
+    "stereopsis",
+    "eye comfort",
+    "eye strain",
+    "patient journey"
+  ],
+  "description": "Focus Cast by focuslinks walks the patient journey one station at a time. In this episode the two eyes are checked as a team, with quick tests for following, holding aim, and judging depth. The host and the guide explain what the patient feels, why the station matters for daily comfort, and how it hands over to the health check.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1582.9,
+  "duration_min": 26.38,
+  "files": [
+    "S09E06-binocular-assessment.wav",
+    "S09E06-binocular-assessment.mp3"
+  ]
+}

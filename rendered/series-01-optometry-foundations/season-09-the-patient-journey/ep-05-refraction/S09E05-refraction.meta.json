@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E05-refraction.txt",
+  "stem": "S09E05-refraction",
+  "words": 4133,
+  "generated_at_utc": "2026-10-02T20:39:30.537929+00:00",
+  "title": "Refraction",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Patient Journey",
+  "season_no": "9",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "refraction",
+    "subjective refraction",
+    "objective refraction",
+    "lenses",
+    "better one or two",
+    "trial frame",
+    "correction",
+    "optometry journey"
+  ],
+  "description": "Episode five of the patient journey on Focus Cast by focuslinks reaches the famous heart of the visit, the refraction. This is where the optometrist hunts for the lenses that sharpen the world, guided by machines at first and then by the patient's own answers. We watch the better one or better two game from both sides of the chair and learn why it works.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1604.8,
+  "duration_min": 26.75,
+  "files": [
+    "S09E05-refraction.wav",
+    "S09E05-refraction.mp3"
+  ]
+}

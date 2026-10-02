@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E01-patient-arrives.txt",
+  "stem": "S09E01-patient-arrives",
+  "words": 4127,
+  "generated_at_utc": "2026-10-02T20:31:47.503781+00:00",
+  "title": "Patient Arrives",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Patient Journey",
+  "season_no": "9",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "patient journey",
+    "front desk",
+    "reception",
+    "appointment",
+    "first impressions",
+    "waiting room",
+    "optometry practice",
+    "consultation"
+  ],
+  "description": "This episode opens Season 9, The Patient Journey, on Focus Cast by focuslinks. We follow a single eye examination from the very first moment a patient walks through the front door. You will hear how booking, reception, and the waiting room quietly shape everything that follows. The season promises one complete visit, told step by step, from hello to goodbye.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1593.8,
+  "duration_min": 26.56,
+  "files": [
+    "S09E01-patient-arrives.wav",
+    "S09E01-patient-arrives.mp3"
+  ]
+}

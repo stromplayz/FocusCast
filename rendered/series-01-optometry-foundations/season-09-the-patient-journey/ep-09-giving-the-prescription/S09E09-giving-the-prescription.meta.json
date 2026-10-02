@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E09-giving-the-prescription.txt",
+  "stem": "S09E09-giving-the-prescription",
+  "words": 4374,
+  "generated_at_utc": "2026-10-02T20:46:55.566140+00:00",
+  "title": "Giving the Prescription",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Patient Journey",
+  "season_no": "9",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "patient journey",
+    "prescription handover",
+    "lens options",
+    "adaptation period",
+    "lens care",
+    "shared decisions",
+    "eye examination",
+    "optometry education"
+  ],
+  "description": "The correction is ready and the visit reaches its most practical moment. This episode of Focus Cast by focuslinks walks the step where the prescription is handed over with its explanation. We cover what gets discussed, how the adaptation period unfolds, and how lens care begins. It is a guide to turning careful measurements into daily life.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1655.8,
+  "duration_min": 27.6,
+  "files": [
+    "S09E09-giving-the-prescription.wav",
+    "S09E09-giving-the-prescription.mp3"
+  ]
+}

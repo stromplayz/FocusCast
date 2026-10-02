@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E02-history-taking.txt",
+  "stem": "S09E02-history-taking",
+  "words": 4134,
+  "generated_at_utc": "2026-10-02T20:34:03.923696+00:00",
+  "title": "History Taking",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Patient Journey",
+  "season_no": "9",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "history taking",
+    "patient story",
+    "case history",
+    "symptoms",
+    "listening",
+    "chief complaint",
+    "red flags",
+    "examination plan"
+  ],
+  "description": "This episode walks the second stop of the patient journey on Focus Cast by focuslinks. It is the story behind the story, the moment the visit opens with questions instead of instruments. We explore why the history steers the whole examination, how the optometrist listens, and what the patient feels while telling it all.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1593.8,
+  "duration_min": 26.56,
+  "files": [
+    "S09E02-history-taking.wav",
+    "S09E02-history-taking.mp3"
+  ]
+}

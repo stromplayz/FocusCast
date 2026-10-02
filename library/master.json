@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-02T20:25:08.153876+00:00",
-  "episode_count": 80,
+  "updated_at": "2026-10-02T20:51:45.434102+00:00",
+  "episode_count": 90,
   "episodes": [
     {
       "id": "S01E01",
@@ -3170,6 +3170,396 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-02T20:21:17.796213+00:00"
+    },
+    {
+      "id": "S09E01",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 9,
+      "season": "The Patient Journey",
+      "episode_no": 1,
+      "title": "Patient Arrives",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "patient journey",
+        "front desk",
+        "reception",
+        "appointment",
+        "first impressions",
+        "waiting room",
+        "optometry practice",
+        "consultation"
+      ],
+      "description": "This episode opens Season 9, The Patient Journey, on Focus Cast by focuslinks. We follow a single eye examination from the very first moment a patient walks through the front door. You will hear how booking, reception, and the waiting room quietly shape everything that follows. The season promises one complete visit, told step by step, from hello to goodbye.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-09/S09E01-patient-arrives.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-01-patient-arrives/S09E01-patient-arrives.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-01-patient-arrives/S09E01-patient-arrives.mp3",
+        "bytes": 19125837,
+        "duration_sec": 1593.8,
+        "duration_min": 26.56,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:31:47.503781+00:00"
+    },
+    {
+      "id": "S09E02",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 9,
+      "season": "The Patient Journey",
+      "episode_no": 2,
+      "title": "History Taking",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "history taking",
+        "patient story",
+        "case history",
+        "symptoms",
+        "listening",
+        "chief complaint",
+        "red flags",
+        "examination plan"
+      ],
+      "description": "This episode walks the second stop of the patient journey on Focus Cast by focuslinks. It is the story behind the story, the moment the visit opens with questions instead of instruments. We explore why the history steers the whole examination, how the optometrist listens, and what the patient feels while telling it all.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-09/S09E02-history-taking.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-02-history-taking/S09E02-history-taking.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-02-history-taking/S09E02-history-taking.mp3",
+        "bytes": 19126989,
+        "duration_sec": 1593.8,
+        "duration_min": 26.56,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:34:03.923696+00:00"
+    },
+    {
+      "id": "S09E03",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 9,
+      "season": "The Patient Journey",
+      "episode_no": 3,
+      "title": "Preliminary Examination",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "preliminary examination",
+        "eye examination steps",
+        "pupil reflex",
+        "eye muscle balance",
+        "screening checks",
+        "optometry",
+        "patient experience",
+        "consulting room"
+      ],
+      "description": "Episode three of the patient journey on Focus Cast by focuslinks follows the preliminary examination, the quiet series of quick checks that opens the hands on part of the visit. We watch how small lights, gentle covers, and simple instruments bridge the patient's story and the main measurements. It is the step that makes the rest of the hour safe and sharp.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-09/S09E03-preliminary-examination.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-03-preliminary-examination/S09E03-preliminary-examination.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-03-preliminary-examination/S09E03-preliminary-examination.mp3",
+        "bytes": 18901485,
+        "duration_sec": 1575.1,
+        "duration_min": 26.25,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:35:52.822815+00:00"
+    },
+    {
+      "id": "S09E04",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 9,
+      "season": "The Patient Journey",
+      "episode_no": 4,
+      "title": "Vision Assessment",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "vision assessment",
+        "visual acuity",
+        "letter chart",
+        "distance vision",
+        "near vision",
+        "one eye at a time",
+        "baseline",
+        "optometry journey"
+      ],
+      "description": "Episode four of the patient journey on Focus Cast by focuslinks reaches the moment everyone pictures, the letter chart. We follow the vision assessment as the first great measurement of the visit, one eye at a time, distance and near. Along the way we hear what the optometrist is really asking and what the patient is really feeling.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-09/S09E04-vision-assessment.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-04-vision-assessment/S09E04-vision-assessment.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-04-vision-assessment/S09E04-vision-assessment.mp3",
+        "bytes": 18675117,
+        "duration_sec": 1556.2,
+        "duration_min": 25.94,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:37:42.314481+00:00"
+    },
+    {
+      "id": "S09E05",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 9,
+      "season": "The Patient Journey",
+      "episode_no": 5,
+      "title": "Refraction",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "refraction",
+        "subjective refraction",
+        "objective refraction",
+        "lenses",
+        "better one or two",
+        "trial frame",
+        "correction",
+        "optometry journey"
+      ],
+      "description": "Episode five of the patient journey on Focus Cast by focuslinks reaches the famous heart of the visit, the refraction. This is where the optometrist hunts for the lenses that sharpen the world, guided by machines at first and then by the patient's own answers. We watch the better one or better two game from both sides of the chair and learn why it works.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-09/S09E05-refraction.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-05-refraction/S09E05-refraction.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-05-refraction/S09E05-refraction.mp3",
+        "bytes": 19258317,
+        "duration_sec": 1604.8,
+        "duration_min": 26.75,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:39:30.537929+00:00"
+    },
+    {
+      "id": "S09E06",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 9,
+      "season": "The Patient Journey",
+      "episode_no": 6,
+      "title": "Binocular Assessment",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "binocular vision",
+        "eye teaming",
+        "cover test",
+        "depth perception",
+        "stereopsis",
+        "eye comfort",
+        "eye strain",
+        "patient journey"
+      ],
+      "description": "Focus Cast by focuslinks walks the patient journey one station at a time. In this episode the two eyes are checked as a team, with quick tests for following, holding aim, and judging depth. The host and the guide explain what the patient feels, why the station matters for daily comfort, and how it hands over to the health check.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-09/S09E06-binocular-assessment.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-06-binocular-assessment/S09E06-binocular-assessment.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-06-binocular-assessment/S09E06-binocular-assessment.mp3",
+        "bytes": 18995949,
+        "duration_sec": 1582.9,
+        "duration_min": 26.38,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:41:21.787727+00:00"
+    },
+    {
+      "id": "S09E07",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 9,
+      "season": "The Patient Journey",
+      "episode_no": 7,
+      "title": "Ocular Health Assessment",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "ocular health",
+        "eye examination",
+        "slit lamp",
+        "eye pressure",
+        "dilating drops",
+        "eye health check",
+        "patient experience",
+        "patient journey"
+      ],
+      "description": "Focus Cast by focuslinks reaches the station where the eye itself is examined, front to back. The host and the guide describe the gentle instruments, the widening drops, and what the patient actually feels at each moment. They explain why careful looking is the deepest form of reassurance, and how the station hands the patient over to the explaining conversation.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-09/S09E07-ocular-health-assessment.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-07-ocular-health-assessment/S09E07-ocular-health-assessment.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-07-ocular-health-assessment/S09E07-ocular-health-assessment.mp3",
+        "bytes": 19378413,
+        "duration_sec": 1614.8,
+        "duration_min": 26.91,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:43:11.727023+00:00"
+    },
+    {
+      "id": "S09E08",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 9,
+      "season": "The Patient Journey",
+      "episode_no": 8,
+      "title": "Explaining Findings",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "explaining results",
+        "patient communication",
+        "plain language",
+        "whiteboard sketch",
+        "check back questions",
+        "patient understanding",
+        "optometry visit",
+        "patient journey"
+      ],
+      "description": "Focus Cast by focuslinks arrives at the turn where results become a conversation. The host and the guide walk through plain language, check backs, and the whiteboard sketch that makes ideas land. They share why understanding, not data, is the true finish line of the examination, and how the visit flows on toward the prescription.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-09/S09E08-explaining-findings.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-08-explaining-findings/S09E08-explaining-findings.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-08-explaining-findings/S09E08-explaining-findings.mp3",
+        "bytes": 19368909,
+        "duration_sec": 1614.0,
+        "duration_min": 26.9,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:45:03.719910+00:00"
+    },
+    {
+      "id": "S09E09",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 9,
+      "season": "The Patient Journey",
+      "episode_no": 9,
+      "title": "Giving the Prescription",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "patient journey",
+        "prescription handover",
+        "lens options",
+        "adaptation period",
+        "lens care",
+        "shared decisions",
+        "eye examination",
+        "optometry education"
+      ],
+      "description": "The correction is ready and the visit reaches its most practical moment. This episode of Focus Cast by focuslinks walks the step where the prescription is handed over with its explanation. We cover what gets discussed, how the adaptation period unfolds, and how lens care begins. It is a guide to turning careful measurements into daily life.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-09/S09E09-giving-the-prescription.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-09-giving-the-prescription/S09E09-giving-the-prescription.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-09-giving-the-prescription/S09E09-giving-the-prescription.mp3",
+        "bytes": 19870605,
+        "duration_sec": 1655.8,
+        "duration_min": 27.6,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:46:55.566140+00:00"
+    },
+    {
+      "id": "S09E10",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 9,
+      "season": "The Patient Journey",
+      "episode_no": 10,
+      "title": "Finishing the Consultation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "patient journey",
+        "season finale",
+        "finishing the consultation",
+        "recall booking",
+        "reminders",
+        "between visits",
+        "continuity of care",
+        "patient goodbye"
+      ],
+      "description": "Every examination ends with a goodbye, and the goodbye is really a beginning. This season finale of Focus Cast by focuslinks closes the patient visit from door to door. We cover the closing summary, bookings and reminders, life between visits, and the safety net that carries patients back. Nine episodes of the journey come together in one farewell.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-09/S09E10-finishing-the-consultation.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-10-finishing-the-consultation/S09E10-finishing-the-consultation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-09-the-patient-journey/ep-10-finishing-the-consultation/S09E10-finishing-the-consultation.mp3",
+        "bytes": 19353933,
+        "duration_sec": 1612.8,
+        "duration_min": 26.88,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T20:48:49.554487+00:00"
     }
   ]
 }

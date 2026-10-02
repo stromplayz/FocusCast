@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E08-explaining-findings.txt",
+  "stem": "S09E08-explaining-findings",
+  "words": 4295,
+  "generated_at_utc": "2026-10-02T20:45:03.719910+00:00",
+  "title": "Explaining Findings",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Patient Journey",
+  "season_no": "9",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "explaining results",
+    "patient communication",
+    "plain language",
+    "whiteboard sketch",
+    "check back questions",
+    "patient understanding",
+    "optometry visit",
+    "patient journey"
+  ],
+  "description": "Focus Cast by focuslinks arrives at the turn where results become a conversation. The host and the guide walk through plain language, check backs, and the whiteboard sketch that makes ideas land. They share why understanding, not data, is the true finish line of the examination, and how the visit flows on toward the prescription.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1614.0,
+  "duration_min": 26.9,
+  "files": [
+    "S09E08-explaining-findings.wav",
+    "S09E08-explaining-findings.mp3"
+  ]
+}

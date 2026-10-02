@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E07-ocular-health-assessment.txt",
+  "stem": "S09E07-ocular-health-assessment",
+  "words": 4368,
+  "generated_at_utc": "2026-10-02T20:43:11.727023+00:00",
+  "title": "Ocular Health Assessment",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Patient Journey",
+  "season_no": "9",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "ocular health",
+    "eye examination",
+    "slit lamp",
+    "eye pressure",
+    "dilating drops",
+    "eye health check",
+    "patient experience",
+    "patient journey"
+  ],
+  "description": "Focus Cast by focuslinks reaches the station where the eye itself is examined, front to back. The host and the guide describe the gentle instruments, the widening drops, and what the patient actually feels at each moment. They explain why careful looking is the deepest form of reassurance, and how the station hands the patient over to the explaining conversation.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1614.8,
+  "duration_min": 26.91,
+  "files": [
+    "S09E07-ocular-health-assessment.wav",
+    "S09E07-ocular-health-assessment.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E03-preliminary-examination.txt",
+  "stem": "S09E03-preliminary-examination",
+  "words": 4093,
+  "generated_at_utc": "2026-10-02T20:35:52.822815+00:00",
+  "title": "Preliminary Examination",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "The Patient Journey",
+  "season_no": "9",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "preliminary examination",
+    "eye examination steps",
+    "pupil reflex",
+    "eye muscle balance",
+    "screening checks",
+    "optometry",
+    "patient experience",
+    "consulting room"
+  ],
+  "description": "Episode three of the patient journey on Focus Cast by focuslinks follows the preliminary examination, the quiet series of quick checks that opens the hands on part of the visit. We watch how small lights, gentle covers, and simple instruments bridge the patient's story and the main measurements. It is the step that makes the rest of the hour safe and sharp.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1575.1,
+  "duration_min": 26.25,
+  "files": [
+    "S09E03-preliminary-examination.wav",
+    "S09E03-preliminary-examination.mp3"
+  ]
+}
