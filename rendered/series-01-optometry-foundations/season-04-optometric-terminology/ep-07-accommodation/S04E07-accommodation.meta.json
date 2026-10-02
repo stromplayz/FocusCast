@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E07-accommodation.txt",
+  "stem": "S04E07-accommodation",
+  "words": 4381,
+  "generated_at_utc": "2026-10-02T18:33:18.044676+00:00",
+  "title": "Accommodation",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Optometric Terminology",
+  "season_no": "4",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "accommodation",
+    "lens",
+    "ciliary muscle",
+    "near vision",
+    "focus",
+    "blur",
+    "presbyopia",
+    "eye care"
+  ],
+  "description": "Focus Cast by focuslinks explains the word accommodation, the focusing mechanic of the eye. The Guide shows how the lens changes shape for near work, why close focus takes effort, and what blur up close really means. The episode also connects the idea to comfortable reading and opens the door to the next word, convergence.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1680.5,
+  "duration_min": 28.01,
+  "files": [
+    "S04E07-accommodation.wav",
+    "S04E07-accommodation.mp3"
+  ]
+}

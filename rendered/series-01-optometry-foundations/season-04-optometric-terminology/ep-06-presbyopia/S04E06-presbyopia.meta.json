@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E06-presbyopia.txt",
+  "stem": "S04E06-presbyopia",
+  "words": 4304,
+  "generated_at_utc": "2026-10-02T18:31:25.470218+00:00",
+  "title": "Presbyopia",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Optometric Terminology",
+  "season_no": "4",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "presbyopia",
+    "aging eyes",
+    "near vision",
+    "arms too short",
+    "reading glasses",
+    "focusing flexibility",
+    "life milestone",
+    "dim light"
+  ],
+  "description": "This episode of Focus Cast by focuslinks walks into presbyopia, the change of life that meets every eye on the planet. The Guide explains why the focusing system slowly loses its youth and why the forties are the decade everyone feels it. The Host carries the lived experience, from menus held at arm's length to the sudden need for brighter light. Listeners leave with the Greek roots of the term, a rubber band analogy worth keeping, and the honest comfort that this milestone is universal, not a disease.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1653.3,
+  "duration_min": 27.56,
+  "files": [
+    "S04E06-presbyopia.wav",
+    "S04E06-presbyopia.mp3"
+  ]
+}

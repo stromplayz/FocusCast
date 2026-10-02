@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S04E10-refractive-error.txt",
+  "stem": "S04E10-refractive-error",
+  "words": 4143,
+  "generated_at_utc": "2026-10-02T18:38:52.983733+00:00",
+  "title": "Refractive Error",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Optometric Terminology",
+  "season_no": "4",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "refractive error",
+    "emmetropia",
+    "ametropia",
+    "myopia",
+    "hyperopia",
+    "astigmatism",
+    "presbyopia",
+    "accommodation",
+    "convergence"
+  ],
+  "description": "The season four finale of Focus Cast by focuslinks gathers every term from the vocabulary season into one clear map of refractive error. The host and the guide trace how a single idea explains blur at distance, blur up close, and blur that twists. It is a gentle finale that turns ten separate words into one connected story.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1616.4,
+  "duration_min": 26.94,
+  "files": [
+    "S04E10-refractive-error.wav",
+    "S04E10-refractive-error.mp3"
+  ]
+}

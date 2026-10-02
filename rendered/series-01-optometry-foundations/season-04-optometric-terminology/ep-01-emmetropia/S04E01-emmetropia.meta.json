@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E01-emmetropia.txt",
+  "stem": "S04E01-emmetropia",
+  "words": 4120,
+  "generated_at_utc": "2026-10-02T18:21:54.746362+00:00",
+  "title": "Emmetropia",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Optometric Terminology",
+  "season_no": "4",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "emmetropia",
+    "refractive state",
+    "normal vision",
+    "retina focus",
+    "emmetropization",
+    "eye optics",
+    "optometry vocabulary",
+    "vision science"
+  ],
+  "description": "Season 4 opens the vocabulary year of the Focus Cast library. The Guide defines emmetropia, the refractive state where distant light lands exactly on the retina, and explains its Greek roots, everyday signature, and the tuning analogy that makes it stick. Listeners learn why this calm baseline anchors every other term in eye care. An episode of Focus Cast by focuslinks for anyone who wants the language of optometry to feel human.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1583.4,
+  "duration_min": 26.39,
+  "files": [
+    "S04E01-emmetropia.wav",
+    "S04E01-emmetropia.mp3"
+  ]
+}

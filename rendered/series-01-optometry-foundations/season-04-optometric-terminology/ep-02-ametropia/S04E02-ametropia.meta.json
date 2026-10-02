@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E02-ametropia.txt",
+  "stem": "S04E02-ametropia",
+  "words": 4218,
+  "generated_at_utc": "2026-10-02T18:24:12.505520+00:00",
+  "title": "Ametropia",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Optometric Terminology",
+  "season_no": "4",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "ametropia",
+    "refractive error",
+    "optical power",
+    "eye length",
+    "myopia",
+    "hyperopia",
+    "astigmatism",
+    "optometry vocabulary"
+  ],
+  "description": "Ametropia is the umbrella word for every eye whose light does not land exactly on the retina. The Guide takes the term apart, introduces its three classic family members, and separates a mismatch that needs a lens from a disease that needs care. Real examples and a tailoring analogy keep it memorable. From Focus Cast by focuslinks, the vocabulary season of optometry education.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1628.3,
+  "duration_min": 27.14,
+  "files": [
+    "S04E02-ametropia.wav",
+    "S04E02-ametropia.mp3"
+  ]
+}

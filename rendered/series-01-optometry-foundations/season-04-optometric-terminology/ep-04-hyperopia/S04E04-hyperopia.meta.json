@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E04-hyperopia.txt",
+  "stem": "S04E04-hyperopia",
+  "words": 4188,
+  "generated_at_utc": "2026-10-02T18:27:49.495102+00:00",
+  "title": "Hyperopia",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Optometric Terminology",
+  "season_no": "4",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "hyperopia",
+    "farsightedness",
+    "refractive error",
+    "eye strain",
+    "reading headaches",
+    "near vision",
+    "focusing muscle",
+    "short eyeball"
+  ],
+  "description": "This episode of Focus Cast by focuslinks unpacks hyperopia, the refractive state most people call farsightedness. The Guide explains why a slightly short eye must borrow its own focusing power to see clearly at any distance. The Host brings the lived experience to the front, from headaches after homework to heavy eyes at the end of a reading day. Listeners leave with the Greek roots of the term, a tiptoes analogy worth keeping, and a one sentence preview of how correction works.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1602.8,
+  "duration_min": 26.71,
+  "files": [
+    "S04E04-hyperopia.wav",
+    "S04E04-hyperopia.mp3"
+  ]
+}

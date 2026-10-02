@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E03-myopia.txt",
+  "stem": "S04E03-myopia",
+  "words": 4269,
+  "generated_at_utc": "2026-10-02T18:25:58.976618+00:00",
+  "title": "Myopia",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Optometric Terminology",
+  "season_no": "4",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "myopia",
+    "nearsightedness",
+    "axial length",
+    "distance blur",
+    "diopters",
+    "eye growth",
+    "school years",
+    "optometry vocabulary"
+  ],
+  "description": "Myopia, or nearsightedness, is the refractive state where distant light focuses in front of the retina, leaving far things soft while near things stay easy. The Guide explains the word, the squint inside it, the school years when it usually begins, and a one sentence correction preview. A projector analogy and a famous myth about glasses make it land. Clear, friendly optometry vocabulary from Focus Cast by focuslinks.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1655.6,
+  "duration_min": 27.59,
+  "files": [
+    "S04E03-myopia.wav",
+    "S04E03-myopia.mp3"
+  ]
+}

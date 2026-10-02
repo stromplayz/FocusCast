@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E05-astigmatism.txt",
+  "stem": "S04E05-astigmatism",
+  "words": 4230,
+  "generated_at_utc": "2026-10-02T18:29:37.043145+00:00",
+  "title": "Astigmatism",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Optometric Terminology",
+  "season_no": "4",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "astigmatism",
+    "cornea",
+    "refractive error",
+    "glare at night",
+    "tilted print",
+    "curved surface",
+    "eye shape",
+    "squinting"
+  ],
+  "description": "This episode of Focus Cast by focuslinks untangles astigmatism, the refractive state where the eye has no single point of focus. The Guide walks through a cornea curved more like a spoon than a sphere, where every image arrives gently stretched in one direction. The Host carries the lived experience, from print that leans like a crooked picture frame to headlights that grow tails after dark. Listeners leave with the Greek roots of the term, one honest myth retired, and a clear sense of why this shape is so common.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1629.2,
+  "duration_min": 27.15,
+  "files": [
+    "S04E05-astigmatism.wav",
+    "S04E05-astigmatism.mp3"
+  ]
+}

@@ -1,21 +1,21 @@
 {
   "episodes": 10,
-  "words_total": 41996,
-  "eta_render_min": 23.8,
-  "actual_push_to_complete_min": 21.2,
-  "actual_total_min": 21.7,
+  "words_total": 42353,
+  "eta_render_min": 23.9,
+  "actual_push_to_complete_min": 20.5,
+  "actual_total_min": 21.1,
   "kernel": "phantoz/focuscast-batch",
   "delivered": [
-    "series-01-optometry-foundations/season-03-understanding-vision/ep-01-what-is-vision/S03E01-what-is-vision.mp3",
-    "series-01-optometry-foundations/season-03-understanding-vision/ep-02-visual-acuity/S03E02-visual-acuity.mp3",
-    "series-01-optometry-foundations/season-03-understanding-vision/ep-03-near-and-distance-vision/S03E03-near-and-distance-vision.mp3",
-    "series-01-optometry-foundations/season-03-understanding-vision/ep-04-central-and-peripheral-vision/S03E04-central-and-peripheral-vision.mp3",
-    "series-01-optometry-foundations/season-03-understanding-vision/ep-05-monocular-vision/S03E05-monocular-vision.mp3",
-    "series-01-optometry-foundations/season-03-understanding-vision/ep-06-binocular-vision/S03E06-binocular-vision.mp3",
-    "series-01-optometry-foundations/season-03-understanding-vision/ep-07-depth-perception/S03E07-depth-perception.mp3",
-    "series-01-optometry-foundations/season-03-understanding-vision/ep-08-contrast-sensitivity/S03E08-contrast-sensitivity.mp3",
-    "series-01-optometry-foundations/season-03-understanding-vision/ep-09-colour-vision/S03E09-colour-vision.mp3",
-    "series-01-optometry-foundations/season-03-understanding-vision/ep-10-visual-field/S03E10-visual-field.mp3"
+    "series-01-optometry-foundations/season-04-optometric-terminology/ep-01-emmetropia/S04E01-emmetropia.mp3",
+    "series-01-optometry-foundations/season-04-optometric-terminology/ep-02-ametropia/S04E02-ametropia.mp3",
+    "series-01-optometry-foundations/season-04-optometric-terminology/ep-03-myopia/S04E03-myopia.mp3",
+    "series-01-optometry-foundations/season-04-optometric-terminology/ep-04-hyperopia/S04E04-hyperopia.mp3",
+    "series-01-optometry-foundations/season-04-optometric-terminology/ep-05-astigmatism/S04E05-astigmatism.mp3",
+    "series-01-optometry-foundations/season-04-optometric-terminology/ep-06-presbyopia/S04E06-presbyopia.mp3",
+    "series-01-optometry-foundations/season-04-optometric-terminology/ep-07-accommodation/S04E07-accommodation.mp3",
+    "series-01-optometry-foundations/season-04-optometric-terminology/ep-08-convergence/S04E08-convergence.mp3",
+    "series-01-optometry-foundations/season-04-optometric-terminology/ep-09-vergence/S04E09-vergence.mp3",
+    "series-01-optometry-foundations/season-04-optometric-terminology/ep-10-refractive-error/S04E10-refractive-error.mp3"
   ],
-  "started_at_utc": "2026-10-02T18:16:03.921422+00:00"
+  "started_at_utc": "2026-10-02T18:41:53.701465+00:00"
 }

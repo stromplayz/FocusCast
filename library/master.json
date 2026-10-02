@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-02T18:16:04.000165+00:00",
-  "episode_count": 30,
+  "updated_at": "2026-10-02T18:41:53.787369+00:00",
+  "episode_count": 40,
   "episodes": [
     {
       "id": "S01E01",
@@ -1219,6 +1219,397 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-02T18:13:08.166781+00:00"
+    },
+    {
+      "id": "S04E01",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 4,
+      "season": "Optometric Terminology",
+      "episode_no": 1,
+      "title": "Emmetropia",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "emmetropia",
+        "refractive state",
+        "normal vision",
+        "retina focus",
+        "emmetropization",
+        "eye optics",
+        "optometry vocabulary",
+        "vision science"
+      ],
+      "description": "Season 4 opens the vocabulary year of the Focus Cast library. The Guide defines emmetropia, the refractive state where distant light lands exactly on the retina, and explains its Greek roots, everyday signature, and the tuning analogy that makes it stick. Listeners learn why this calm baseline anchors every other term in eye care. An episode of Focus Cast by focuslinks for anyone who wants the language of optometry to feel human.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-04/S04E01-emmetropia.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-01-emmetropia/S04E01-emmetropia.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-01-emmetropia/S04E01-emmetropia.mp3",
+        "bytes": 19001997,
+        "duration_sec": 1583.4,
+        "duration_min": 26.39,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:21:54.746362+00:00"
+    },
+    {
+      "id": "S04E02",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 4,
+      "season": "Optometric Terminology",
+      "episode_no": 2,
+      "title": "Ametropia",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "ametropia",
+        "refractive error",
+        "optical power",
+        "eye length",
+        "myopia",
+        "hyperopia",
+        "astigmatism",
+        "optometry vocabulary"
+      ],
+      "description": "Ametropia is the umbrella word for every eye whose light does not land exactly on the retina. The Guide takes the term apart, introduces its three classic family members, and separates a mismatch that needs a lens from a disease that needs care. Real examples and a tailoring analogy keep it memorable. From Focus Cast by focuslinks, the vocabulary season of optometry education.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-04/S04E02-ametropia.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-02-ametropia/S04E02-ametropia.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-02-ametropia/S04E02-ametropia.mp3",
+        "bytes": 19540269,
+        "duration_sec": 1628.3,
+        "duration_min": 27.14,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:24:12.505520+00:00"
+    },
+    {
+      "id": "S04E03",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 4,
+      "season": "Optometric Terminology",
+      "episode_no": 3,
+      "title": "Myopia",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "myopia",
+        "nearsightedness",
+        "axial length",
+        "distance blur",
+        "diopters",
+        "eye growth",
+        "school years",
+        "optometry vocabulary"
+      ],
+      "description": "Myopia, or nearsightedness, is the refractive state where distant light focuses in front of the retina, leaving far things soft while near things stay easy. The Guide explains the word, the squint inside it, the school years when it usually begins, and a one sentence correction preview. A projector analogy and a famous myth about glasses make it land. Clear, friendly optometry vocabulary from Focus Cast by focuslinks.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-04/S04E03-myopia.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-03-myopia/S04E03-myopia.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-03-myopia/S04E03-myopia.mp3",
+        "bytes": 19868301,
+        "duration_sec": 1655.6,
+        "duration_min": 27.59,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:25:58.976618+00:00"
+    },
+    {
+      "id": "S04E04",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 4,
+      "season": "Optometric Terminology",
+      "episode_no": 4,
+      "title": "Hyperopia",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "hyperopia",
+        "farsightedness",
+        "refractive error",
+        "eye strain",
+        "reading headaches",
+        "near vision",
+        "focusing muscle",
+        "short eyeball"
+      ],
+      "description": "This episode of Focus Cast by focuslinks unpacks hyperopia, the refractive state most people call farsightedness. The Guide explains why a slightly short eye must borrow its own focusing power to see clearly at any distance. The Host brings the lived experience to the front, from headaches after homework to heavy eyes at the end of a reading day. Listeners leave with the Greek roots of the term, a tiptoes analogy worth keeping, and a one sentence preview of how correction works.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-04/S04E04-hyperopia.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-04-hyperopia/S04E04-hyperopia.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-04-hyperopia/S04E04-hyperopia.mp3",
+        "bytes": 19234701,
+        "duration_sec": 1602.8,
+        "duration_min": 26.71,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:27:49.495102+00:00"
+    },
+    {
+      "id": "S04E05",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 4,
+      "season": "Optometric Terminology",
+      "episode_no": 5,
+      "title": "Astigmatism",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "astigmatism",
+        "cornea",
+        "refractive error",
+        "glare at night",
+        "tilted print",
+        "curved surface",
+        "eye shape",
+        "squinting"
+      ],
+      "description": "This episode of Focus Cast by focuslinks untangles astigmatism, the refractive state where the eye has no single point of focus. The Guide walks through a cornea curved more like a spoon than a sphere, where every image arrives gently stretched in one direction. The Host carries the lived experience, from print that leans like a crooked picture frame to headlights that grow tails after dark. Listeners leave with the Greek roots of the term, one honest myth retired, and a clear sense of why this shape is so common.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-04/S04E05-astigmatism.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-05-astigmatism/S04E05-astigmatism.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-05-astigmatism/S04E05-astigmatism.mp3",
+        "bytes": 19550925,
+        "duration_sec": 1629.2,
+        "duration_min": 27.15,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:29:37.043145+00:00"
+    },
+    {
+      "id": "S04E06",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 4,
+      "season": "Optometric Terminology",
+      "episode_no": 6,
+      "title": "Presbyopia",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "presbyopia",
+        "aging eyes",
+        "near vision",
+        "arms too short",
+        "reading glasses",
+        "focusing flexibility",
+        "life milestone",
+        "dim light"
+      ],
+      "description": "This episode of Focus Cast by focuslinks walks into presbyopia, the change of life that meets every eye on the planet. The Guide explains why the focusing system slowly loses its youth and why the forties are the decade everyone feels it. The Host carries the lived experience, from menus held at arm's length to the sudden need for brighter light. Listeners leave with the Greek roots of the term, a rubber band analogy worth keeping, and the honest comfort that this milestone is universal, not a disease.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-04/S04E06-presbyopia.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-06-presbyopia/S04E06-presbyopia.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-06-presbyopia/S04E06-presbyopia.mp3",
+        "bytes": 19840941,
+        "duration_sec": 1653.3,
+        "duration_min": 27.56,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:31:25.470218+00:00"
+    },
+    {
+      "id": "S04E07",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 4,
+      "season": "Optometric Terminology",
+      "episode_no": 7,
+      "title": "Accommodation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "accommodation",
+        "lens",
+        "ciliary muscle",
+        "near vision",
+        "focus",
+        "blur",
+        "presbyopia",
+        "eye care"
+      ],
+      "description": "Focus Cast by focuslinks explains the word accommodation, the focusing mechanic of the eye. The Guide shows how the lens changes shape for near work, why close focus takes effort, and what blur up close really means. The episode also connects the idea to comfortable reading and opens the door to the next word, convergence.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-04/S04E07-accommodation.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-07-accommodation/S04E07-accommodation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-07-accommodation/S04E07-accommodation.mp3",
+        "bytes": 20166957,
+        "duration_sec": 1680.5,
+        "duration_min": 28.01,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:33:18.044676+00:00"
+    },
+    {
+      "id": "S04E08",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 4,
+      "season": "Optometric Terminology",
+      "episode_no": 8,
+      "title": "Convergence",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "convergence",
+        "eye alignment",
+        "binocular vision",
+        "near work",
+        "eye strain",
+        "eye muscles",
+        "double vision",
+        "single vision"
+      ],
+      "description": "Focus Cast by focuslinks turns the word convergence into a plain idea: both eyes turning inward as one team for near work. The Guide explains the muscles that steer the eyes, why close work can tire the pointing system, and what double vision and drifting words really mean. The episode ends by opening the door to the wider family of alignment movements.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-04/S04E08-convergence.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-08-convergence/S04E08-convergence.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-08-convergence/S04E08-convergence.mp3",
+        "bytes": 20427597,
+        "duration_sec": 1702.2,
+        "duration_min": 28.37,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:35:10.673144+00:00"
+    },
+    {
+      "id": "S04E09",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 4,
+      "season": "Optometric Terminology",
+      "episode_no": 9,
+      "title": "Vergence",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "vergence",
+        "divergence",
+        "eye alignment",
+        "binocular vision",
+        "fusion",
+        "eye strain",
+        "prisms",
+        "single vision"
+      ],
+      "description": "Focus Cast by focuslinks widens the view from convergence to the whole family of alignment movements called vergence. The Guide names the family members, explains why tiny alignment corrections keep vision single and comfortable, and borrows the image of a careful wheel alignment. The episode also sets up the season finale on refractive error.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-04/S04E09-vergence.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-09-vergence/S04E09-vergence.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-09-vergence/S04E09-vergence.mp3",
+        "bytes": 19780461,
+        "duration_sec": 1648.3,
+        "duration_min": 27.47,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:37:03.802672+00:00"
+    },
+    {
+      "id": "S04E10",
+      "series_no": 1,
+      "series": "Optometry Foundations",
+      "season_no": 4,
+      "season": "Optometric Terminology",
+      "episode_no": 10,
+      "title": "Refractive Error",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "refractive error",
+        "emmetropia",
+        "ametropia",
+        "myopia",
+        "hyperopia",
+        "astigmatism",
+        "presbyopia",
+        "accommodation",
+        "convergence"
+      ],
+      "description": "The season four finale of Focus Cast by focuslinks gathers every term from the vocabulary season into one clear map of refractive error. The host and the guide trace how a single idea explains blur at distance, blur up close, and blur that twists. It is a gentle finale that turns ten separate words into one connected story.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-01-optometry-foundations/season-04/S04E10-refractive-error.txt",
+      "audio": {
+        "mp3": "rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-10-refractive-error/S04E10-refractive-error.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-01-optometry-foundations/season-04-optometric-terminology/ep-10-refractive-error/S04E10-refractive-error.mp3",
+        "bytes": 19397997,
+        "duration_sec": 1616.4,
+        "duration_min": 26.94,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-02T18:38:52.983733+00:00"
     }
   ]
 }

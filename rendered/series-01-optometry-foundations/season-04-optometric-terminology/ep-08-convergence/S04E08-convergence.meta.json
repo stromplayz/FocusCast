@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E08-convergence.txt",
+  "stem": "S04E08-convergence",
+  "words": 4398,
+  "generated_at_utc": "2026-10-02T18:35:10.673144+00:00",
+  "title": "Convergence",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Optometric Terminology",
+  "season_no": "4",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "convergence",
+    "eye alignment",
+    "binocular vision",
+    "near work",
+    "eye strain",
+    "eye muscles",
+    "double vision",
+    "single vision"
+  ],
+  "description": "Focus Cast by focuslinks turns the word convergence into a plain idea: both eyes turning inward as one team for near work. The Guide explains the muscles that steer the eyes, why close work can tire the pointing system, and what double vision and drifting words really mean. The episode ends by opening the door to the wider family of alignment movements.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1702.2,
+  "duration_min": 28.37,
+  "files": [
+    "S04E08-convergence.wav",
+    "S04E08-convergence.mp3"
+  ]
+}

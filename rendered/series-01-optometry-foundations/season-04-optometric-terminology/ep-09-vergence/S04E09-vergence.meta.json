@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E09-vergence.txt",
+  "stem": "S04E09-vergence",
+  "words": 4102,
+  "generated_at_utc": "2026-10-02T18:37:03.802672+00:00",
+  "title": "Vergence",
+  "series": "Optometry Foundations",
+  "series_no": "1",
+  "season": "Optometric Terminology",
+  "season_no": "4",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "vergence",
+    "divergence",
+    "eye alignment",
+    "binocular vision",
+    "fusion",
+    "eye strain",
+    "prisms",
+    "single vision"
+  ],
+  "description": "Focus Cast by focuslinks widens the view from convergence to the whole family of alignment movements called vergence. The Guide names the family members, explains why tiny alignment corrections keep vision single and comfortable, and borrows the image of a careful wheel alignment. The episode also sets up the season finale on refractive error.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1648.3,
+  "duration_min": 27.47,
+  "files": [
+    "S04E09-vergence.wav",
+    "S04E09-vergence.mp3"
+  ]
+}
