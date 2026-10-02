@@ -77,14 +77,14 @@ All eight seasons written by the 8-agent sprint, every script PASS (`scripts/ver
 
 | Season | Title | Script | Rendered | In master.json |
 |--------|-------|--------|----------|----------------|
-| 03 | Understanding Vision | [x] 10/10 | [ ] | [ ] |
-| 04 | Optometric Terminology | [x] 10/10 | [ ] | [ ] |
-| 05 | The Optometry Examination | [x] 10/10 | [ ] | [ ] |
-| 06 | Basic Clinical Measurements | [x] 10/10 | [ ] | [ ] |
-| 07 | Understanding Optometric Prescriptions | [x] 10/10 | [ ] | [ ] |
-| 08 | Clinical Communication and Reasoning | [x] 10/10 | [ ] | [ ] |
-| 09 | The Patient Journey | [x] 10/10 | [ ] | [ ] |
-| 10 | Foundation Cases | [x] 10/10 | [ ] | [ ] |
+| 03 | Understanding Vision | [x] 10/10 | [x] | [x] |
+| 04 | Optometric Terminology | [x] 10/10 | [x] | [x] |
+| 05 | The Optometry Examination | [x] 10/10 | [x] | [x] |
+| 06 | Basic Clinical Measurements | [x] 10/10 | [x] | [x] |
+| 07 | Understanding Optometric Prescriptions | [x] 10/10 | [x] | [x] |
+| 08 | Clinical Communication and Reasoning | [x] 10/10 | [x] | [x] |
+| 09 | The Patient Journey | [x] 10/10 | [x] | [x] |
+| 10 | Foundation Cases | [x] 10/10 | [x] | [x] |
 
 Scripts live in `library/series/series-01-optometry-foundations/season-03/` … `season-10/` as `SNNENN-<slug>.txt`. Season 8 header name spelled "Clinical Communication and Reasoning" (ampersand banned).
 
@@ -97,7 +97,9 @@ Scripts live in `library/series/series-01-optometry-foundations/season-03/` … 
 - [x] master.json shows 20 episodes with raw mp3 URLs (9.60 hours total, 24 kHz)
 - [x] Demo renders (`rendered/demos/`) kept as engine samples only
 - [x] 80/80 new scripts written and validated (Seasons 3-10) — 100/100 series total, all PASS
-- [ ] Render Seasons 3-10 via workflow (8 season batches, kokoro)
+- [x] Render Seasons 3-10 via workflow (8 sequential season batches, kokoro, runs 37043823689 → 37063524360)
+- [x] master.json shows 100 episodes, 45.47 hours total audio (24 kHz, raw mp3 URLs)
+- [x] Series 1 Optometry Foundations COMPLETE: 10 seasons, 100 episodes, fully scripted and rendered
 
 ## 7 · Series 1 roadmap (Seasons 3–10, planned — do NOT script before S1–S2 are rendered & locked)
 
