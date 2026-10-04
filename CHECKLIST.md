@@ -96,16 +96,16 @@ Written by 10 batches × 10 agents, one agent per episode; every script PASS (`s
 
 | Season | Title | Script | Rendered | In master.json |
 |--------|-------|--------|----------|----------------|
-| 01 | Orbit and Ocular Adnexa | [x] 10/10 | [ ] | [ ] |
-| 02 | Lacrimal System | [x] 10/10 | [ ] | [ ] |
-| 03 | Conjunctiva and Sclera | [x] 10/10 | [ ] | [ ] |
-| 04 | Cornea | [x] 10/10 | [ ] | [ ] |
-| 05 | Anterior Chamber and Uveal Tract | [x] 10/10 | [ ] | [ ] |
-| 06 | Lens and Accommodation Anatomy | [x] 10/10 | [ ] | [ ] |
-| 07 | Vitreous and Posterior Segment | [x] 10/10 | [ ] | [ ] |
-| 08 | Retina, Choroid and Optic Nerve | [x] 10/10 | [ ] | [ ] |
-| 09 | Extraocular Muscles and Ocular Movement | [x] 10/10 | [ ] | [ ] |
-| 10 | Neuroanatomy for Optometrists | [x] 10/10 | [ ] | [ ] |
+| 01 | Orbit and Ocular Adnexa | [x] 10/10 | [x] | [x] |
+| 02 | Lacrimal System | [x] 10/10 | [x] | [x] |
+| 03 | Conjunctiva and Sclera | [x] 10/10 | [x] | [x] |
+| 04 | Cornea | [x] 10/10 | [x] | [x] |
+| 05 | Anterior Chamber and Uveal Tract | [x] 10/10 | [x] | [x] |
+| 06 | Lens and Accommodation Anatomy | [x] 10/10 | [x] | [x] |
+| 07 | Vitreous and Posterior Segment | [x] 10/10 | [x] | [x] |
+| 08 | Retina, Choroid and Optic Nerve | [x] 10/10 | [x] | [x] |
+| 09 | Extraocular Muscles and Ocular Movement | [x] 10/10 | [x] | [x] |
+| 10 | Neuroanatomy for Optometrists | [x] 10/10 | [x] | [x] |
 
 Scripts live in `library/series/series-02-ocular-anatomy-for-optometrists/season-01/` … `season-10/` as `SNNENN-<slug>.txt` (S-number = season within the series; series is distinguished by the folder, matching Series 1 convention).
 Season titles in headers use "and" (ampersand banned); Episode 100 title written "Complete Visual Pathway - Retina to Cortex" (ASCII hyphen).
@@ -124,10 +124,12 @@ Season titles in headers use "and" (ampersand banned); Episode 100 title written
 - [x] Series 1 Optometry Foundations COMPLETE: 10 seasons, 100 episodes, fully scripted and rendered
 - [x] Series 2 100/100 scripts written and validated (10 seasons × 10, all PASS) + series.json bible
 - [x] update_master.py upgraded to series-aware IDs (S<series>-S<season>E<ep>) — Series 2 would have collided 100/100 with Series 1
-- [ ] Render Series 2 run A: Seasons 1-4 (40 episodes) via workflow
-- [ ] Render Series 2 run B: Seasons 5-7 (30 episodes) via workflow
-- [ ] Render Series 2 run C: Seasons 8-10 (30 episodes) via workflow
-- [ ] master.json shows 200 episodes (Series 1 + Series 2) with raw mp3 URLs
+- [x] Render Series 2 run A: Seasons 1-4 (40 episodes) via workflow (run 37185937434; first attempt 37185392333 rendered only E01 - newline payload bug, fixed)
+- [x] Render Series 2 run B: Seasons 5-7 (30 episodes) via workflow (run 37191005109)
+- [x] Render Series 2 run C: Seasons 8-10 (30 episodes) via workflow (run 37195118235)
+- [x] master.json shows 200 episodes (Series 1 + Series 2) with raw mp3 URLs
+- [x] Series 2 Ocular Anatomy for Optometrists COMPLETE: 10 seasons, 100 episodes, 47.63 hours audio (24 kHz)
+- [x] Focus Cast library total: 2 series, 200 episodes, 93.10 hours of audio
 
 ## 7 · Series 1 roadmap (Seasons 3–10, planned — do NOT script before S1–S2 are rendered & locked)
 
