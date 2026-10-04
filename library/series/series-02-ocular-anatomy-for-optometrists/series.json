@@ -7,7 +7,7 @@
   "id": "series-02",
   "slug": "series-02-ocular-anatomy-for-optometrists",
   "title": "Ocular Anatomy for Optometrists",
-  "status": "scripted-pending-render",
+  "status": "scripted",
   "purpose": "Deep, optometry-oriented anatomy of the eye and visual system: exactly how every relevant ocular structure is built, connected, supplied and innervated.",
   "boundary": "Does NOT repeat Series 1: no basic introduction to the eye, no basic visual concepts, no basic terminology, no general patient examination workflow. Series 1 asked what the eye is and how optometry uses it; Series 2 answers how each structure is built and wired.",
   "audience": "Optometry students, optical shop teams, curious patients who finished Series 1",
@@ -23,61 +23,61 @@
     {
       "no": 1,
       "name": "Orbit and Ocular Adnexa",
-      "status": "scripted-pending-render",
+      "status": "scripted",
       "episodes": 10
     },
     {
       "no": 2,
       "name": "Lacrimal System",
-      "status": "scripted-pending-render",
+      "status": "scripted",
       "episodes": 10
     },
     {
       "no": 3,
       "name": "Conjunctiva and Sclera",
-      "status": "scripted-pending-render",
+      "status": "scripted",
       "episodes": 10
     },
     {
       "no": 4,
       "name": "Cornea",
-      "status": "scripted-pending-render",
+      "status": "scripted",
       "episodes": 10
     },
     {
       "no": 5,
       "name": "Anterior Chamber and Uveal Tract",
-      "status": "scripted-pending-render",
+      "status": "scripted",
       "episodes": 10
     },
     {
       "no": 6,
       "name": "Lens and Accommodation Anatomy",
-      "status": "scripted-pending-render",
+      "status": "scripted",
       "episodes": 10
     },
     {
       "no": 7,
       "name": "Vitreous and Posterior Segment",
-      "status": "scripted-pending-render",
+      "status": "scripted",
       "episodes": 10
     },
     {
       "no": 8,
       "name": "Retina, Choroid and Optic Nerve",
-      "status": "scripted-pending-render",
+      "status": "scripted",
       "episodes": 10
     },
     {
       "no": 9,
       "name": "Extraocular Muscles and Ocular Movement",
-      "status": "scripted-pending-render",
+      "status": "scripted",
       "episodes": 10
     },
     {
       "no": 10,
       "name": "Neuroanatomy for Optometrists",
-      "status": "scripted-pending-render",
+      "status": "scripted",
       "episodes": 10
     }
   ],
@@ -89,7 +89,7 @@
       "title": "The Orbit: An Optometrist's Anatomical Map",
       "slug": "the-orbit-an-optometrists-anatomical-map",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E01-the-orbit-an-optometrists-anatomical-map.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 2,
@@ -98,7 +98,7 @@
       "title": "Orbital Bones and Their Clinical Importance",
       "slug": "orbital-bones-and-their-clinical-importance",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E02-orbital-bones-and-their-clinical-importance.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 3,
@@ -107,7 +107,7 @@
       "title": "Orbital Walls",
       "slug": "orbital-walls",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E03-orbital-walls.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 4,
@@ -116,7 +116,7 @@
       "title": "Orbital Openings and Communications",
       "slug": "orbital-openings-and-communications",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E04-orbital-openings-and-communications.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 5,
@@ -125,7 +125,7 @@
       "title": "Extraocular Spaces",
       "slug": "extraocular-spaces",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E05-extraocular-spaces.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 6,
@@ -134,7 +134,7 @@
       "title": "Eyelid Layers",
       "slug": "eyelid-layers",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E06-eyelid-layers.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 7,
@@ -143,7 +143,7 @@
       "title": "Tarsal Plates and Meibomian Glands",
       "slug": "tarsal-plates-and-meibomian-glands",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E07-tarsal-plates-and-meibomian-glands.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 8,
@@ -152,7 +152,7 @@
       "title": "Eyelid Muscles",
       "slug": "eyelid-muscles",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E08-eyelid-muscles.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 9,
@@ -161,7 +161,7 @@
       "title": "Eyelid Blood Supply and Innervation",
       "slug": "eyelid-blood-supply-and-innervation",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E09-eyelid-blood-supply-and-innervation.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 10,
@@ -170,7 +170,7 @@
       "title": "Eyelid Anatomy in Clinical Practice",
       "slug": "eyelid-anatomy-in-clinical-practice",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E10-eyelid-anatomy-in-clinical-practice.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 11,
@@ -179,7 +179,7 @@
       "title": "Lacrimal Gland Anatomy",
       "slug": "lacrimal-gland-anatomy",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E01-lacrimal-gland-anatomy.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 12,
@@ -188,7 +188,7 @@
       "title": "Lacrimal Gland Parts and Relationships",
       "slug": "lacrimal-gland-parts-and-relationships",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E02-lacrimal-gland-parts-and-relationships.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 13,
@@ -197,7 +197,7 @@
       "title": "Accessory Lacrimal Glands",
       "slug": "accessory-lacrimal-glands",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E03-accessory-lacrimal-glands.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 14,
@@ -206,7 +206,7 @@
       "title": "Tear Film Anatomy",
       "slug": "tear-film-anatomy",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E04-tear-film-anatomy.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 15,
@@ -215,7 +215,7 @@
       "title": "Conjunctival Sac",
       "slug": "conjunctival-sac",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E05-conjunctival-sac.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 16,
@@ -224,7 +224,7 @@
       "title": "Puncta",
       "slug": "puncta",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E06-puncta.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 17,
@@ -233,7 +233,7 @@
       "title": "Canaliculi",
       "slug": "canaliculi",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E07-canaliculi.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 18,
@@ -242,7 +242,7 @@
       "title": "Lacrimal Sac",
       "slug": "lacrimal-sac",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E08-lacrimal-sac.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 19,
@@ -251,7 +251,7 @@
       "title": "Nasolacrimal Duct",
       "slug": "nasolacrimal-duct",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E09-nasolacrimal-duct.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 20,
@@ -260,7 +260,7 @@
       "title": "Complete Lacrimal Drainage Pathway",
       "slug": "complete-lacrimal-drainage-pathway",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E10-complete-lacrimal-drainage-pathway.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 21,
@@ -269,7 +269,7 @@
       "title": "Conjunctival Anatomy",
       "slug": "conjunctival-anatomy",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E01-conjunctival-anatomy.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 22,
@@ -278,7 +278,7 @@
       "title": "Bulbar Conjunctiva",
       "slug": "bulbar-conjunctiva",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E02-bulbar-conjunctiva.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 23,
@@ -287,7 +287,7 @@
       "title": "Palpebral Conjunctiva",
       "slug": "palpebral-conjunctiva",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E03-palpebral-conjunctiva.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 24,
@@ -296,7 +296,7 @@
       "title": "Fornices",
       "slug": "fornices",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E04-fornices.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 25,
@@ -305,7 +305,7 @@
       "title": "Conjunctival Blood Supply",
       "slug": "conjunctival-blood-supply",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E05-conjunctival-blood-supply.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 26,
@@ -314,7 +314,7 @@
       "title": "Conjunctival Lymphatics",
       "slug": "conjunctival-lymphatics",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E06-conjunctival-lymphatics.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 27,
@@ -323,7 +323,7 @@
       "title": "Conjunctival Sensory Innervation",
       "slug": "conjunctival-sensory-innervation",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E07-conjunctival-sensory-innervation.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 28,
@@ -332,7 +332,7 @@
       "title": "Scleral Structure",
       "slug": "scleral-structure",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E08-scleral-structure.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 29,
@@ -341,7 +341,7 @@
       "title": "Episclera and Tenon's Capsule",
       "slug": "episclera-and-tenons-capsule",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E09-episclera-and-tenons-capsule.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 30,
@@ -350,7 +350,7 @@
       "title": "Conjunctiva-Sclera Relationships",
       "slug": "conjunctiva-sclera-relationships",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E10-conjunctiva-sclera-relationships.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 31,
@@ -359,7 +359,7 @@
       "title": "Corneal Location and Dimensions",
       "slug": "corneal-location-and-dimensions",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E01-corneal-location-and-dimensions.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 32,
@@ -368,7 +368,7 @@
       "title": "Corneal Epithelium",
       "slug": "corneal-epithelium",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E02-corneal-epithelium.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 33,
@@ -377,7 +377,7 @@
       "title": "Bowman's Layer",
       "slug": "bowmans-layer",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E03-bowmans-layer.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 34,
@@ -386,7 +386,7 @@
       "title": "Corneal Stroma",
       "slug": "corneal-stroma",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E04-corneal-stroma.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 35,
@@ -395,7 +395,7 @@
       "title": "Descemet's Membrane",
       "slug": "descemets-membrane",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E05-descemets-membrane.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 36,
@@ -404,7 +404,7 @@
       "title": "Corneal Endothelium",
       "slug": "corneal-endothelium",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E06-corneal-endothelium.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 37,
@@ -413,7 +413,7 @@
       "title": "Corneal Nerves",
       "slug": "corneal-nerves",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E07-corneal-nerves.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 38,
@@ -422,7 +422,7 @@
       "title": "Corneal Blood and Nutritional Supply",
       "slug": "corneal-blood-and-nutritional-supply",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E08-corneal-blood-and-nutritional-supply.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 39,
@@ -431,7 +431,7 @@
       "title": "Corneal Transparency",
       "slug": "corneal-transparency",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E09-corneal-transparency.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 40,
@@ -440,7 +440,7 @@
       "title": "Corneal Anatomy and Contact Lenses",
       "slug": "corneal-anatomy-and-contact-lenses",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E10-corneal-anatomy-and-contact-lenses.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 41,
@@ -449,7 +449,7 @@
       "title": "Anterior Chamber Anatomy",
       "slug": "anterior-chamber-anatomy",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E01-anterior-chamber-anatomy.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 42,
@@ -458,7 +458,7 @@
       "title": "Posterior Chamber Anatomy",
       "slug": "posterior-chamber-anatomy",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E02-posterior-chamber-anatomy.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 43,
@@ -467,7 +467,7 @@
       "title": "Anterior Chamber Angle",
       "slug": "anterior-chamber-angle",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E03-anterior-chamber-angle.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 44,
@@ -476,7 +476,7 @@
       "title": "Iris Anatomy",
       "slug": "iris-anatomy",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E04-iris-anatomy.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 45,
@@ -485,7 +485,7 @@
       "title": "Iris Muscles",
       "slug": "iris-muscles",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E05-iris-muscles.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 46,
@@ -494,7 +494,7 @@
       "title": "Pupil Anatomy",
       "slug": "pupil-anatomy",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E06-pupil-anatomy.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 47,
@@ -503,7 +503,7 @@
       "title": "Ciliary Body",
       "slug": "ciliary-body",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E07-ciliary-body.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 48,
@@ -512,7 +512,7 @@
       "title": "Ciliary Muscle",
       "slug": "ciliary-muscle",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E08-ciliary-muscle.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 49,
@@ -521,7 +521,7 @@
       "title": "Choroid",
       "slug": "choroid",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E09-choroid.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 50,
@@ -530,7 +530,7 @@
       "title": "Complete Uveal Tract",
       "slug": "complete-uveal-tract",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E10-complete-uveal-tract.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 51,
@@ -539,7 +539,7 @@
       "title": "Lens Location and Relationships",
       "slug": "lens-location-and-relationships",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E01-lens-location-and-relationships.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 52,
@@ -548,7 +548,7 @@
       "title": "Lens Capsule",
       "slug": "lens-capsule",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E02-lens-capsule.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 53,
@@ -557,7 +557,7 @@
       "title": "Lens Epithelium",
       "slug": "lens-epithelium",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E03-lens-epithelium.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 54,
@@ -566,7 +566,7 @@
       "title": "Lens Fibres",
       "slug": "lens-fibres",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E04-lens-fibres.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 55,
@@ -575,7 +575,7 @@
       "title": "Lens Zonules",
       "slug": "lens-zonules",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E05-lens-zonules.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 56,
@@ -584,7 +584,7 @@
       "title": "Ciliary Zonule Relationships",
       "slug": "ciliary-zonule-relationships",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E06-ciliary-zonule-relationships.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 57,
@@ -593,7 +593,7 @@
       "title": "Lens Nutrition",
       "slug": "lens-nutrition",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E07-lens-nutrition.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 58,
@@ -602,7 +602,7 @@
       "title": "Lens Growth Through Life",
       "slug": "lens-growth-through-life",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E08-lens-growth-through-life.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 59,
@@ -611,7 +611,7 @@
       "title": "Anatomical Basis of Accommodation",
       "slug": "anatomical-basis-of-accommodation",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E09-anatomical-basis-of-accommodation.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 60,
@@ -620,7 +620,7 @@
       "title": "Lens Anatomy and Presbyopia",
       "slug": "lens-anatomy-and-presbyopia",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E10-lens-anatomy-and-presbyopia.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 61,
@@ -629,7 +629,7 @@
       "title": "Vitreous Body",
       "slug": "vitreous-body",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E01-vitreous-body.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 62,
@@ -638,7 +638,7 @@
       "title": "Vitreous Cortex",
       "slug": "vitreous-cortex",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E02-vitreous-cortex.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 63,
@@ -647,7 +647,7 @@
       "title": "Vitreous Base",
       "slug": "vitreous-base",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E03-vitreous-base.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 64,
@@ -656,7 +656,7 @@
       "title": "Vitreous Attachments",
       "slug": "vitreous-attachments",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E04-vitreous-attachments.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 65,
@@ -665,7 +665,7 @@
       "title": "Vitreous Chambers and Spaces",
       "slug": "vitreous-chambers-and-spaces",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E05-vitreous-chambers-and-spaces.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 66,
@@ -674,7 +674,7 @@
       "title": "Retina: Anatomical Overview",
       "slug": "retina-anatomical-overview",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E06-retina-anatomical-overview.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 67,
@@ -683,7 +683,7 @@
       "title": "Retinal Layers",
       "slug": "retinal-layers",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E07-retinal-layers.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 68,
@@ -692,7 +692,7 @@
       "title": "Macula",
       "slug": "macula",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E08-macula.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 69,
@@ -701,7 +701,7 @@
       "title": "Fovea and Foveola",
       "slug": "fovea-and-foveola",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E09-fovea-and-foveola.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 70,
@@ -710,7 +710,7 @@
       "title": "Optic Disc",
       "slug": "optic-disc",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E10-optic-disc.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 71,
@@ -719,7 +719,7 @@
       "title": "Retinal Blood Supply",
       "slug": "retinal-blood-supply",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E01-retinal-blood-supply.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 72,
@@ -728,7 +728,7 @@
       "title": "Retinal Circulation",
       "slug": "retinal-circulation",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E02-retinal-circulation.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 73,
@@ -737,7 +737,7 @@
       "title": "Choroidal Circulation",
       "slug": "choroidal-circulation",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E03-choroidal-circulation.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 74,
@@ -746,7 +746,7 @@
       "title": "Photoreceptor Distribution",
       "slug": "photoreceptor-distribution",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E04-photoreceptor-distribution.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 75,
@@ -755,7 +755,7 @@
       "title": "Retinal Pigment Epithelium",
       "slug": "retinal-pigment-epithelium",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E05-retinal-pigment-epithelium.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 76,
@@ -764,7 +764,7 @@
       "title": "Bruch's Membrane",
       "slug": "bruchs-membrane",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E06-bruchs-membrane.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 77,
@@ -773,7 +773,7 @@
       "title": "Optic Nerve Head",
       "slug": "optic-nerve-head",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E07-optic-nerve-head.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 78,
@@ -782,7 +782,7 @@
       "title": "Lamina Cribrosa",
       "slug": "lamina-cribrosa",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E08-lamina-cribrosa.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 79,
@@ -791,7 +791,7 @@
       "title": "Optic Nerve Structure",
       "slug": "optic-nerve-structure",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E09-optic-nerve-structure.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 80,
@@ -800,7 +800,7 @@
       "title": "Retina-Optic Nerve Relationship",
       "slug": "retina-optic-nerve-relationship",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E10-retina-optic-nerve-relationship.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 81,
@@ -809,7 +809,7 @@
       "title": "Extraocular Muscle Overview",
       "slug": "extraocular-muscle-overview",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E01-extraocular-muscle-overview.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 82,
@@ -818,7 +818,7 @@
       "title": "Medial Rectus",
       "slug": "medial-rectus",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E02-medial-rectus.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 83,
@@ -827,7 +827,7 @@
       "title": "Lateral Rectus",
       "slug": "lateral-rectus",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E03-lateral-rectus.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 84,
@@ -836,7 +836,7 @@
       "title": "Superior Rectus",
       "slug": "superior-rectus",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E04-superior-rectus.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 85,
@@ -845,7 +845,7 @@
       "title": "Inferior Rectus",
       "slug": "inferior-rectus",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E05-inferior-rectus.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 86,
@@ -854,7 +854,7 @@
       "title": "Superior Oblique",
       "slug": "superior-oblique",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E06-superior-oblique.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 87,
@@ -863,7 +863,7 @@
       "title": "Inferior Oblique",
       "slug": "inferior-oblique",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E07-inferior-oblique.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 88,
@@ -872,7 +872,7 @@
       "title": "Levator Palpebrae",
       "slug": "levator-palpebrae",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E08-levator-palpebrae.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 89,
@@ -881,7 +881,7 @@
       "title": "Extraocular Muscle Actions",
       "slug": "extraocular-muscle-actions",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E09-extraocular-muscle-actions.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 90,
@@ -890,7 +890,7 @@
       "title": "Anatomical Basis of Eye Movements",
       "slug": "anatomical-basis-of-eye-movements",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E10-anatomical-basis-of-eye-movements.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 91,
@@ -899,7 +899,7 @@
       "title": "Optic Nerve",
       "slug": "optic-nerve",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E01-optic-nerve.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 92,
@@ -908,7 +908,7 @@
       "title": "Optic Chiasm",
       "slug": "optic-chiasm",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E02-optic-chiasm.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 93,
@@ -917,7 +917,7 @@
       "title": "Optic Tract",
       "slug": "optic-tract",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E03-optic-tract.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 94,
@@ -926,7 +926,7 @@
       "title": "Lateral Geniculate Body",
       "slug": "lateral-geniculate-body",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E04-lateral-geniculate-body.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 95,
@@ -935,7 +935,7 @@
       "title": "Optic Radiations",
       "slug": "optic-radiations",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E05-optic-radiations.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 96,
@@ -944,7 +944,7 @@
       "title": "Visual Cortex",
       "slug": "visual-cortex",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E06-visual-cortex.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 97,
@@ -953,7 +953,7 @@
       "title": "Pupillary Pathway",
       "slug": "pupillary-pathway",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E07-pupillary-pathway.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 98,
@@ -962,7 +962,7 @@
       "title": "Accommodation Pathway",
       "slug": "accommodation-pathway",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E08-accommodation-pathway.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 99,
@@ -971,7 +971,7 @@
       "title": "Cranial Nerves in Ocular Function",
       "slug": "cranial-nerves-in-ocular-function",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E09-cranial-nerves-in-ocular-function.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     },
     {
       "no": 100,
@@ -980,7 +980,7 @@
       "title": "Complete Visual Pathway - Retina to Cortex",
       "slug": "complete-visual-pathway-retina-to-cortex",
       "file": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E10-complete-visual-pathway-retina-to-cortex.txt",
-      "status": "scripted-pending-render"
+      "status": "scripted"
     }
   ]
 }

@@ -1,7 +1,7 @@
 # FocusLinks Listen · Focus Cast — Production Checklist
 
 > **FocusLinks Listen** · listen.focuslinks.in — *Listen. Learn. See better.*
-> Show: **Focus Cast by focuslinks** · Series 1 = Season 1 + Season 2 (20 episodes)
+> Show: **Focus Cast by focuslinks** · Series 1 (Optometry Foundations, 100 eps) · Series 2 (Ocular Anatomy for Optometrists, 100 eps)
 > Track every artifact here. Tick a box only when the thing is real and verified.
 
 ---
@@ -88,6 +88,28 @@ All eight seasons written by the 8-agent sprint, every script PASS (`scripts/ver
 
 Scripts live in `library/series/series-01-optometry-foundations/season-03/` … `season-10/` as `SNNENN-<slug>.txt`. Season 8 header name spelled "Clinical Communication and Reasoning" (ampersand banned).
 
+## 5b · Series 2 · "Ocular Anatomy for Optometrists" — scripted (100 episodes, 10 seasons × 10)
+
+Deep, optometry-oriented anatomy: exactly how every ocular structure is built, connected, supplied and innervated.
+Does NOT repeat Series 1 (no basic eye intro, basic visual concepts, basic terminology, or exam workflow).
+Written by 10 batches × 10 agents, one agent per episode; every script PASS (`scripts/verify_ep.py`); every season E01 opener + E10 finale with next-season tease chain; every episode carries Series 1 + intra-series cross-references.
+
+| Season | Title | Script | Rendered | In master.json |
+|--------|-------|--------|----------|----------------|
+| 01 | Orbit and Ocular Adnexa | [x] 10/10 | [ ] | [ ] |
+| 02 | Lacrimal System | [x] 10/10 | [ ] | [ ] |
+| 03 | Conjunctiva and Sclera | [x] 10/10 | [ ] | [ ] |
+| 04 | Cornea | [x] 10/10 | [ ] | [ ] |
+| 05 | Anterior Chamber and Uveal Tract | [x] 10/10 | [ ] | [ ] |
+| 06 | Lens and Accommodation Anatomy | [x] 10/10 | [ ] | [ ] |
+| 07 | Vitreous and Posterior Segment | [x] 10/10 | [ ] | [ ] |
+| 08 | Retina, Choroid and Optic Nerve | [x] 10/10 | [ ] | [ ] |
+| 09 | Extraocular Muscles and Ocular Movement | [x] 10/10 | [ ] | [ ] |
+| 10 | Neuroanatomy for Optometrists | [x] 10/10 | [ ] | [ ] |
+
+Scripts live in `library/series/series-02-ocular-anatomy-for-optometrists/season-01/` … `season-10/` as `SNNENN-<slug>.txt` (S-number = season within the series; series is distinguished by the folder, matching Series 1 convention).
+Season titles in headers use "and" (ampersand banned); Episode 100 title written "Complete Visual Pathway - Retina to Cortex" (ASCII hyphen).
+
 ## 6 · Release tasks
 
 - [x] Old 5-episode test batch deleted (scripts + rendered audio + catalog entries)
@@ -100,6 +122,12 @@ Scripts live in `library/series/series-01-optometry-foundations/season-03/` … 
 - [x] Render Seasons 3-10 via workflow (8 sequential season batches, kokoro, runs 37043823689 → 37063524360)
 - [x] master.json shows 100 episodes, 45.47 hours total audio (24 kHz, raw mp3 URLs)
 - [x] Series 1 Optometry Foundations COMPLETE: 10 seasons, 100 episodes, fully scripted and rendered
+- [x] Series 2 100/100 scripts written and validated (10 seasons × 10, all PASS) + series.json bible
+- [x] update_master.py upgraded to series-aware IDs (S<series>-S<season>E<ep>) — Series 2 would have collided 100/100 with Series 1
+- [ ] Render Series 2 run A: Seasons 1-4 (40 episodes) via workflow
+- [ ] Render Series 2 run B: Seasons 5-7 (30 episodes) via workflow
+- [ ] Render Series 2 run C: Seasons 8-10 (30 episodes) via workflow
+- [ ] master.json shows 200 episodes (Series 1 + Series 2) with raw mp3 URLs
 
 ## 7 · Series 1 roadmap (Seasons 3–10, planned — do NOT script before S1–S2 are rendered & locked)
 
