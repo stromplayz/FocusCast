@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S10E01-pupillary-light-reflex-physiology.txt",
+  "stem": "S10E01-pupillary-light-reflex-physiology",
+  "words": 4263,
+  "generated_at_utc": "2026-10-04T20:44:52.969445+00:00",
+  "title": "Pupillary Light Reflex Physiology",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Adaptation and Integration",
+  "season_no": "10",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "pupillary light reflex",
+    "pupil constriction",
+    "consensual response",
+    "reflex arc",
+    "pretectal",
+    "pupil function",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The pupil is the eye's automated camera shutter, and this episode opens the final season of Series 3 for Focus Cast by focuslinks with the reflex that drives it. Learn the aperture physics, from roughly two to three millimetres across in bright light to seven or eight in darkness, and why closing the pupil from eight to four millimetres cuts light admission to roughly a quarter while sharpening the image. Follow the reflex arc step by step: retinal output riding the optic nerve to a small pretectal waypoint in the midbrain, signals fanning out to both pupil-controlling nuclei, and the command descending the third cranial nerve through the ciliary ganglion to the iris sphincter. Discover why light shone in one eye constricts both pupils, the direct and consensual response, one light and two shutters. Made for optometry students and practising optometrists who want the fastest, most visible of the eye's adaptive players explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1715.3,
+  "duration_min": 28.59,
+  "files": [
+    "S10E01-pupillary-light-reflex-physiology.wav",
+    "S10E01-pupillary-light-reflex-physiology.mp3"
+  ]
+}

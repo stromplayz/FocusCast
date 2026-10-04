@@ -1,0 +1,39 @@
+{
+  "episode_file": "episode/S10E09-integrating-ocular-and-visual-functions.txt",
+  "stem": "S10E09-integrating-ocular-and-visual-functions",
+  "words": 4208,
+  "generated_at_utc": "2026-10-04T21:00:56.584641+00:00",
+  "title": "Integrating Ocular and Visual Functions",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Adaptation and Integration",
+  "season_no": "10",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "ocular visual integration",
+    "whole eye function",
+    "eye systems cooperation",
+    "visual system integration",
+    "ocular homeostasis integration",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "This episode teaches the whole eye as one working loop: light enters through a surface renewed by the tear film, is focused by the cornea and lens, metered by the iris, transduced and edited by the retina, carried inward as parallel reports through the gateway, and constructed by the cortex into position, motion, colour and identity, while the eye muscles immediately re-aim the eyes for the next fixation. Beneath it all, the homeostasis machinery keeps every tissue fed, oxygenated, hydrated and drained, and the pressure inside the eye holds the globe in optical shape. Three worked examples reveal the interdependence: the endothelial pump that exists because transparency demands it, the mechanical conversation between zonules, muscle and lens capsule that makes accommodation possible, and the near response that packages focus, turning and pupil into one command. The episode also frames the entire series arc, showing how nine seasons of subsystems finally play as one body. This penultimate episode of Focus Cast by focuslinks Series 3 is made for optometry students, optical teams and curious listeners who want the whole visual system taught as a single story.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1766.4,
+  "duration_min": 29.44,
+  "files": [
+    "S10E09-integrating-ocular-and-visual-functions.wav",
+    "S10E09-integrating-ocular-and-visual-functions.mp3"
+  ]
+}

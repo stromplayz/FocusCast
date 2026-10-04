@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S10E06-visual-perception.txt",
+  "stem": "S10E06-visual-perception",
+  "words": 4359,
+  "generated_at_utc": "2026-10-04T20:54:59.919157+00:00",
+  "title": "Visual Perception",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Adaptation and Integration",
+  "season_no": "10",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "visual perception",
+    "perceptual constancy",
+    "gestalt grouping",
+    "perception inference",
+    "size constancy",
+    "shape constancy",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Perception is the brain's best guess about the world, and this episode of Focus Cast by focuslinks follows the journey from retinal clues to conscious experience. Learn how the brain proposes a seen world that best explains the clues the retina ships, and how the constancies act as the guess's stability rules, holding size, shape and lightness steady while the images on the retina change. Hear the brain's grouping rules stated plainly, the assembly instructions that bind fragments into objects, and why illusions are the construction working rather than failing. Made for optometry students and practising optometrists who want the physiology behind what the mind actually sees.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1788.2,
+  "duration_min": 29.8,
+  "files": [
+    "S10E06-visual-perception.wav",
+    "S10E06-visual-perception.mp3"
+  ]
+}

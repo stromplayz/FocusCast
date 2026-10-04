@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S10E07-depth-perception-physiology.txt",
+  "stem": "S10E07-depth-perception-physiology",
+  "words": 4357,
+  "generated_at_utc": "2026-10-04T20:56:58.272651+00:00",
+  "title": "Depth Perception Physiology",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Adaptation and Integration",
+  "season_no": "10",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "depth perception physiology",
+    "stereopsis",
+    "depth cues",
+    "motion parallax",
+    "monocular cues",
+    "disparity neurons",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Your retina delivers a flat picture, yet you catch a ball, thread a needle and step off a kerb without hesitation; this episode of Focus Cast by focuslinks opens the depth toolkit that rebuilds the third dimension. Learn how cortical disparity detectors turn two-eye geometry into stereopsis, and why that jewel works best from arm's reach to a few metres. Discover the internal telemetry of accommodation effort and vergence angle, the self-made depth of motion parallax, and the pictorial shortcuts of overlap, size, height, perspective and shading. Hear how the brain weights every cue by distance and reliability, so stereopsis rules up close while the pictorial family rules far away. Made for optometry students, optical teams and curious listeners who want visual physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1867.2,
+  "duration_min": 31.12,
+  "files": [
+    "S10E07-depth-perception-physiology.wav",
+    "S10E07-depth-perception-physiology.mp3"
+  ]
+}

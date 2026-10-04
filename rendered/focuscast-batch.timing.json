@@ -1,21 +1,21 @@
 {
   "episodes": 10,
-  "words_total": 42376,
-  "eta_render_min": 24.0,
+  "words_total": 42846,
+  "eta_render_min": 24.1,
   "actual_push_to_complete_min": 22.0,
-  "actual_total_min": 22.7,
+  "actual_total_min": 22.6,
   "kernel": "phantoz/focuscast-batch",
   "delivered": [
-    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-01-why-we-need-tears/S02E01-why-we-need-tears.mp3",
-    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-02-tear-film-organisation/S02E02-tear-film-organisation.mp3",
-    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-03-lipid-layer-function/S02E03-lipid-layer-function.mp3",
-    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-04-aqueous-layer-function/S02E04-aqueous-layer-function.mp3",
-    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-05-mucin-and-ocular-surface-wetting/S02E05-mucin-and-ocular-surface-wetting.mp3",
-    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-06-tear-secretion/S02E06-tear-secretion.mp3",
-    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-07-reflex-tearing/S02E07-reflex-tearing.mp3",
-    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-08-tear-distribution-during-blinking/S02E08-tear-distribution-during-blinking.mp3",
-    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-09-tear-evaporation/S02E09-tear-evaporation.mp3",
-    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-10-tear-clearance/S02E10-tear-clearance.mp3"
+    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-01-pupillary-light-reflex-physiology/S10E01-pupillary-light-reflex-physiology.mp3",
+    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-02-near-response/S10E02-near-response.mp3",
+    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-03-dark-adaptation/S10E03-dark-adaptation.mp3",
+    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-04-light-adaptation/S10E04-light-adaptation.mp3",
+    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-05-visual-attention/S10E05-visual-attention.mp3",
+    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-06-visual-perception/S10E06-visual-perception.mp3",
+    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-07-depth-perception-physiology/S10E07-depth-perception-physiology.mp3",
+    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-08-spatial-orientation-and-vision/S10E08-spatial-orientation-and-vision.mp3",
+    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-09-integrating-ocular-and-visual-functions/S10E09-integrating-ocular-and-visual-functions.mp3",
+    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-10-the-complete-physiology-of-vision/S10E10-the-complete-physiology-of-vision.mp3"
   ],
-  "started_at_utc": "2026-10-04T20:26:25.787555+00:00"
+  "started_at_utc": "2026-10-04T21:06:12.981967+00:00"
 }

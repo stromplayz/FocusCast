@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S10E04-light-adaptation.txt",
+  "stem": "S10E04-light-adaptation",
+  "words": 4368,
+  "generated_at_utc": "2026-10-04T20:51:03.529259+00:00",
+  "title": "Light Adaptation",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Adaptation and Integration",
+  "season_no": "10",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "light adaptation integrated",
+    "whole system light adaptation",
+    "pupil constriction",
+    "cone takeover",
+    "gain control",
+    "daylight adaptation",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Step from a dark matinee into noon sunshine and the world stings for a breath, then reads comfortably, and this episode of Focus Cast by focuslinks explains the whole-system switch behind that rescue. Learn how three players surrender sensitivity in seconds: the pigment and calcium gain controls that re-tune the sensors, the retinal circuits that hand the workload from rods to cones, and the pupil that constricts to sharpen the optics. Hear why the momentary dazzle is simply the sound of a system re-zeroing, and how the same machine that needed half an hour for darkness completes this switch in moments. Made for optometry students, optical teams and curious listeners who want light adaptation explained as normal physiology.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1824.3,
+  "duration_min": 30.41,
+  "files": [
+    "S10E04-light-adaptation.wav",
+    "S10E04-light-adaptation.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S10E08-spatial-orientation-and-vision.txt",
+  "stem": "S10E08-spatial-orientation-and-vision",
+  "words": 4253,
+  "generated_at_utc": "2026-10-04T20:59:01.522559+00:00",
+  "title": "Spatial Orientation and Vision",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Adaptation and Integration",
+  "season_no": "10",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "spatial orientation",
+    "vision and balance",
+    "optic flow heading",
+    "visual vestibular",
+    "upright perception",
+    "self motion",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Spatial orientation is a committee decision, and this episode of Focus Cast by focuslinks shows why vision holds the deciding vote. Learn how the inner-ear balance organs, joint and muscle sense and sight each report the body's posture and motion, and why a neighbouring train gliding away from the platform convinces the seated brain that it is the one moving. Hear how optic flow reports your speed and heading as the world streams past, how the world's verticals and horizontals calibrate your sense of the upright, and how the vestibulo-ocular reflex steadies the retinal image so the whole report stays clean. Made for optometry students, practising optometrists and curious listeners who want vision and balance explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1732.0,
+  "duration_min": 28.87,
+  "files": [
+    "S10E08-spatial-orientation-and-vision.wav",
+    "S10E08-spatial-orientation-and-vision.mp3"
+  ]
+}

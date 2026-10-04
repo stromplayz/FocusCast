@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S10E05-visual-attention.txt",
+  "stem": "S10E05-visual-attention",
+  "words": 4200,
+  "generated_at_utc": "2026-10-04T20:53:04.967087+00:00",
+  "title": "Visual Attention",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Adaptation and Integration",
+  "season_no": "10",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "visual attention",
+    "covert attention",
+    "overt attention",
+    "attention spotlight",
+    "inattentional blindness",
+    "selective attention",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Every moment your eyes are open, a spotlight inside the visual system decides what gets seen and what gets ignored, and this episode of Focus Cast by focuslinks teaches how that spotlight works. Learn the two modes of visual attention: overt attention, where the fovea physically moves to what matters, and covert attention, where the mind's spotlight shifts while the eyes hold perfectly still. Hear what attention changes in the brain, as responses to attended locations grow while unattended competitors are quieted, and meet the two steering forces: bottom-up capture by motion, contrast and novelty, and top-down guidance by your current goals. The episode faces the limit honestly, with the famous counting demonstration in which people focused on one task miss a person in a gorilla suit strolling through the scene. Made for optometry students, practising optometrists and curious listeners who want attention physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1709.6,
+  "duration_min": 28.49,
+  "files": [
+    "S10E05-visual-attention.wav",
+    "S10E05-visual-attention.mp3"
+  ]
+}

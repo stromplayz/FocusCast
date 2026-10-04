@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S10E10-the-complete-physiology-of-vision.txt",
+  "stem": "S10E10-the-complete-physiology-of-vision",
+  "words": 4351,
+  "generated_at_utc": "2026-10-04T21:02:53.703983+00:00",
+  "title": "The Complete Physiology of Vision",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Adaptation and Integration",
+  "season_no": "10",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "complete physiology of vision",
+    "series finale",
+    "photon journey",
+    "vision synthesis",
+    "physiology recap",
+    "ocular physiology complete",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Vision begins the moment a photon leaves its source, and this series finale of Focus Cast by focuslinks follows one all the way through the eye and into the mind. The journey crosses the tear film, the cornea, the pupil, the aqueous, the lens and the vitreous, lands in the retina, becomes a nervous report, and is rebuilt in the brain into a single depth-rich world of colour and contrast. Every season of the series is credited along the way, and all ten seasons are recapped by name before the story turns to what physiology means at the chairside. The finale also marks the milestone of one hundred episodes in Series 3 and three hundred across the library, and opens the door to Series 4, Optics for Optometrists. Made for optometry students and practising optometrists who want the whole journey told as one story.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1785.7,
+  "duration_min": 29.76,
+  "files": [
+    "S10E10-the-complete-physiology-of-vision.wav",
+    "S10E10-the-complete-physiology-of-vision.mp3"
+  ]
+}

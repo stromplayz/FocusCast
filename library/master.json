@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-04T20:26:25.888537+00:00",
-  "episode_count": 220,
+  "updated_at": "2026-10-04T21:06:13.065560+00:00",
+  "episode_count": 230,
   "episodes": [
     {
       "id": "S01-S01E01",
@@ -8833,6 +8833,395 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-04T20:22:57.282048+00:00"
+    },
+    {
+      "id": "S03-S10E01",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 10,
+      "season": "Visual Adaptation and Integration",
+      "episode_no": 1,
+      "title": "Pupillary Light Reflex Physiology",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "pupillary light reflex",
+        "pupil constriction",
+        "consensual response",
+        "reflex arc",
+        "pretectal",
+        "pupil function",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The pupil is the eye's automated camera shutter, and this episode opens the final season of Series 3 for Focus Cast by focuslinks with the reflex that drives it. Learn the aperture physics, from roughly two to three millimetres across in bright light to seven or eight in darkness, and why closing the pupil from eight to four millimetres cuts light admission to roughly a quarter while sharpening the image. Follow the reflex arc step by step: retinal output riding the optic nerve to a small pretectal waypoint in the midbrain, signals fanning out to both pupil-controlling nuclei, and the command descending the third cranial nerve through the ciliary ganglion to the iris sphincter. Discover why light shone in one eye constricts both pupils, the direct and consensual response, one light and two shutters. Made for optometry students and practising optometrists who want the fastest, most visible of the eye's adaptive players explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-10/S10E01-pupillary-light-reflex-physiology.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-01-pupillary-light-reflex-physiology/S10E01-pupillary-light-reflex-physiology.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-01-pupillary-light-reflex-physiology/S10E01-pupillary-light-reflex-physiology.mp3",
+        "bytes": 20583981,
+        "duration_sec": 1715.3,
+        "duration_min": 28.59,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T20:44:52.969445+00:00"
+    },
+    {
+      "id": "S03-S10E02",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 10,
+      "season": "Visual Adaptation and Integration",
+      "episode_no": 2,
+      "title": "Near Response",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "near response",
+        "near triad",
+        "accommodation convergence miosis",
+        "near viewing",
+        "depth of focus",
+        "near vision physiology",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The near response is the eye's three-in-one answer to the command look here, close, and this episode of Focus Cast by focuslinks teaches the near triad in plain words. Learn how accommodation focuses the eyes nearer, how convergence turns them inward together, and how the pupils shrink, all three fired as one packaged response from a single command centre in the midbrain. Hear the three triggers that summon the triad, blur, doubled images and plain nearness awareness, and why the pupil's share is clever optics, widening depth of focus and trimming edge distortions so the iris assists the lens. Understand why this trio is the eye's single best proof that its subsystems were designed to work as one. Made for optometry students and practising optometrists who want the normal physiology of near viewing explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-10/S10E02-near-response.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-02-near-response/S10E02-near-response.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-02-near-response/S10E02-near-response.mp3",
+        "bytes": 20698317,
+        "duration_sec": 1724.8,
+        "duration_min": 28.75,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T20:47:20.421685+00:00"
+    },
+    {
+      "id": "S03-S10E03",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 10,
+      "season": "Visual Adaptation and Integration",
+      "episode_no": 3,
+      "title": "Dark Adaptation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "dark adaptation integrated",
+        "whole system adaptation",
+        "pupil dilation",
+        "rod recovery",
+        "neural gain",
+        "night vision adaptation",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Dark adaptation is not one mechanism but a relay race, and this episode of Focus Cast by focuslinks zooms out from the chemistry of a single cell to the whole machine of the eye. Meet the three players of the night shift: the pupil, which widens within seconds to a minute and buys a modest slice of the total gain; the retinal circuits, which re-route sensitivity through convergence over minutes; and the visual pigment rhodopsin, which regenerates over tens of minutes and supplies the enormous remainder. Hear the perceptual timetable of a walk into the dark, from first readable faces to full night footing, and learn why adaptation is an orchestra entry rather than a solo. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-10/S10E03-dark-adaptation.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-03-dark-adaptation/S10E03-dark-adaptation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-03-dark-adaptation/S10E03-dark-adaptation.mp3",
+        "bytes": 20342061,
+        "duration_sec": 1695.1,
+        "duration_min": 28.25,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T20:49:11.133695+00:00"
+    },
+    {
+      "id": "S03-S10E04",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 10,
+      "season": "Visual Adaptation and Integration",
+      "episode_no": 4,
+      "title": "Light Adaptation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "light adaptation integrated",
+        "whole system light adaptation",
+        "pupil constriction",
+        "cone takeover",
+        "gain control",
+        "daylight adaptation",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Step from a dark matinee into noon sunshine and the world stings for a breath, then reads comfortably, and this episode of Focus Cast by focuslinks explains the whole-system switch behind that rescue. Learn how three players surrender sensitivity in seconds: the pigment and calcium gain controls that re-tune the sensors, the retinal circuits that hand the workload from rods to cones, and the pupil that constricts to sharpen the optics. Hear why the momentary dazzle is simply the sound of a system re-zeroing, and how the same machine that needed half an hour for darkness completes this switch in moments. Made for optometry students, optical teams and curious listeners who want light adaptation explained as normal physiology.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-10/S10E04-light-adaptation.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-04-light-adaptation/S10E04-light-adaptation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-04-light-adaptation/S10E04-light-adaptation.mp3",
+        "bytes": 21892941,
+        "duration_sec": 1824.3,
+        "duration_min": 30.41,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T20:51:03.529259+00:00"
+    },
+    {
+      "id": "S03-S10E05",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 10,
+      "season": "Visual Adaptation and Integration",
+      "episode_no": 5,
+      "title": "Visual Attention",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "visual attention",
+        "covert attention",
+        "overt attention",
+        "attention spotlight",
+        "inattentional blindness",
+        "selective attention",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Every moment your eyes are open, a spotlight inside the visual system decides what gets seen and what gets ignored, and this episode of Focus Cast by focuslinks teaches how that spotlight works. Learn the two modes of visual attention: overt attention, where the fovea physically moves to what matters, and covert attention, where the mind's spotlight shifts while the eyes hold perfectly still. Hear what attention changes in the brain, as responses to attended locations grow while unattended competitors are quieted, and meet the two steering forces: bottom-up capture by motion, contrast and novelty, and top-down guidance by your current goals. The episode faces the limit honestly, with the famous counting demonstration in which people focused on one task miss a person in a gorilla suit strolling through the scene. Made for optometry students, practising optometrists and curious listeners who want attention physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-10/S10E05-visual-attention.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-05-visual-attention/S10E05-visual-attention.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-05-visual-attention/S10E05-visual-attention.mp3",
+        "bytes": 20516013,
+        "duration_sec": 1709.6,
+        "duration_min": 28.49,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T20:53:04.967087+00:00"
+    },
+    {
+      "id": "S03-S10E06",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 10,
+      "season": "Visual Adaptation and Integration",
+      "episode_no": 6,
+      "title": "Visual Perception",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "visual perception",
+        "perceptual constancy",
+        "gestalt grouping",
+        "perception inference",
+        "size constancy",
+        "shape constancy",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Perception is the brain's best guess about the world, and this episode of Focus Cast by focuslinks follows the journey from retinal clues to conscious experience. Learn how the brain proposes a seen world that best explains the clues the retina ships, and how the constancies act as the guess's stability rules, holding size, shape and lightness steady while the images on the retina change. Hear the brain's grouping rules stated plainly, the assembly instructions that bind fragments into objects, and why illusions are the construction working rather than failing. Made for optometry students and practising optometrists who want the physiology behind what the mind actually sees.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-10/S10E06-visual-perception.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-06-visual-perception/S10E06-visual-perception.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-06-visual-perception/S10E06-visual-perception.mp3",
+        "bytes": 21459213,
+        "duration_sec": 1788.2,
+        "duration_min": 29.8,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T20:54:59.919157+00:00"
+    },
+    {
+      "id": "S03-S10E07",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 10,
+      "season": "Visual Adaptation and Integration",
+      "episode_no": 7,
+      "title": "Depth Perception Physiology",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "depth perception physiology",
+        "stereopsis",
+        "depth cues",
+        "motion parallax",
+        "monocular cues",
+        "disparity neurons",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Your retina delivers a flat picture, yet you catch a ball, thread a needle and step off a kerb without hesitation; this episode of Focus Cast by focuslinks opens the depth toolkit that rebuilds the third dimension. Learn how cortical disparity detectors turn two-eye geometry into stereopsis, and why that jewel works best from arm's reach to a few metres. Discover the internal telemetry of accommodation effort and vergence angle, the self-made depth of motion parallax, and the pictorial shortcuts of overlap, size, height, perspective and shading. Hear how the brain weights every cue by distance and reliability, so stereopsis rules up close while the pictorial family rules far away. Made for optometry students, optical teams and curious listeners who want visual physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-10/S10E07-depth-perception-physiology.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-07-depth-perception-physiology/S10E07-depth-perception-physiology.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-07-depth-perception-physiology/S10E07-depth-perception-physiology.mp3",
+        "bytes": 22406733,
+        "duration_sec": 1867.2,
+        "duration_min": 31.12,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T20:56:58.272651+00:00"
+    },
+    {
+      "id": "S03-S10E08",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 10,
+      "season": "Visual Adaptation and Integration",
+      "episode_no": 8,
+      "title": "Spatial Orientation and Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "spatial orientation",
+        "vision and balance",
+        "optic flow heading",
+        "visual vestibular",
+        "upright perception",
+        "self motion",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Spatial orientation is a committee decision, and this episode of Focus Cast by focuslinks shows why vision holds the deciding vote. Learn how the inner-ear balance organs, joint and muscle sense and sight each report the body's posture and motion, and why a neighbouring train gliding away from the platform convinces the seated brain that it is the one moving. Hear how optic flow reports your speed and heading as the world streams past, how the world's verticals and horizontals calibrate your sense of the upright, and how the vestibulo-ocular reflex steadies the retinal image so the whole report stays clean. Made for optometry students, practising optometrists and curious listeners who want vision and balance explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-10/S10E08-spatial-orientation-and-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-08-spatial-orientation-and-vision/S10E08-spatial-orientation-and-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-08-spatial-orientation-and-vision/S10E08-spatial-orientation-and-vision.mp3",
+        "bytes": 20784429,
+        "duration_sec": 1732.0,
+        "duration_min": 28.87,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T20:59:01.522559+00:00"
+    },
+    {
+      "id": "S03-S10E09",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 10,
+      "season": "Visual Adaptation and Integration",
+      "episode_no": 9,
+      "title": "Integrating Ocular and Visual Functions",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "ocular visual integration",
+        "whole eye function",
+        "eye systems cooperation",
+        "visual system integration",
+        "ocular homeostasis integration",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "This episode teaches the whole eye as one working loop: light enters through a surface renewed by the tear film, is focused by the cornea and lens, metered by the iris, transduced and edited by the retina, carried inward as parallel reports through the gateway, and constructed by the cortex into position, motion, colour and identity, while the eye muscles immediately re-aim the eyes for the next fixation. Beneath it all, the homeostasis machinery keeps every tissue fed, oxygenated, hydrated and drained, and the pressure inside the eye holds the globe in optical shape. Three worked examples reveal the interdependence: the endothelial pump that exists because transparency demands it, the mechanical conversation between zonules, muscle and lens capsule that makes accommodation possible, and the near response that packages focus, turning and pupil into one command. The episode also frames the entire series arc, showing how nine seasons of subsystems finally play as one body. This penultimate episode of Focus Cast by focuslinks Series 3 is made for optometry students, optical teams and curious listeners who want the whole visual system taught as a single story.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-10/S10E09-integrating-ocular-and-visual-functions.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-09-integrating-ocular-and-visual-functions/S10E09-integrating-ocular-and-visual-functions.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-09-integrating-ocular-and-visual-functions/S10E09-integrating-ocular-and-visual-functions.mp3",
+        "bytes": 21197709,
+        "duration_sec": 1766.4,
+        "duration_min": 29.44,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T21:00:56.584641+00:00"
+    },
+    {
+      "id": "S03-S10E10",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 10,
+      "season": "Visual Adaptation and Integration",
+      "episode_no": 10,
+      "title": "The Complete Physiology of Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "complete physiology of vision",
+        "series finale",
+        "photon journey",
+        "vision synthesis",
+        "physiology recap",
+        "ocular physiology complete",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Vision begins the moment a photon leaves its source, and this series finale of Focus Cast by focuslinks follows one all the way through the eye and into the mind. The journey crosses the tear film, the cornea, the pupil, the aqueous, the lens and the vitreous, lands in the retina, becomes a nervous report, and is rebuilt in the brain into a single depth-rich world of colour and contrast. Every season of the series is credited along the way, and all ten seasons are recapped by name before the story turns to what physiology means at the chairside. The finale also marks the milestone of one hundred episodes in Series 3 and three hundred across the library, and opens the door to Series 4, Optics for Optometrists. Made for optometry students and practising optometrists who want the whole journey told as one story.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-10/S10E10-the-complete-physiology-of-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-10-the-complete-physiology-of-vision/S10E10-the-complete-physiology-of-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-10-the-complete-physiology-of-vision/S10E10-the-complete-physiology-of-vision.mp3",
+        "bytes": 21428973,
+        "duration_sec": 1785.7,
+        "duration_min": 29.76,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T21:02:53.703983+00:00"
     }
   ]
 }

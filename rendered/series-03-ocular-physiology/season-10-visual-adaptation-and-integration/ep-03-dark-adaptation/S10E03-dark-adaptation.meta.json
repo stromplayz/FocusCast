@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S10E03-dark-adaptation.txt",
+  "stem": "S10E03-dark-adaptation",
+  "words": 4254,
+  "generated_at_utc": "2026-10-04T20:49:11.133695+00:00",
+  "title": "Dark Adaptation",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Adaptation and Integration",
+  "season_no": "10",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "dark adaptation integrated",
+    "whole system adaptation",
+    "pupil dilation",
+    "rod recovery",
+    "neural gain",
+    "night vision adaptation",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Dark adaptation is not one mechanism but a relay race, and this episode of Focus Cast by focuslinks zooms out from the chemistry of a single cell to the whole machine of the eye. Meet the three players of the night shift: the pupil, which widens within seconds to a minute and buys a modest slice of the total gain; the retinal circuits, which re-route sensitivity through convergence over minutes; and the visual pigment rhodopsin, which regenerates over tens of minutes and supplies the enormous remainder. Hear the perceptual timetable of a walk into the dark, from first readable faces to full night footing, and learn why adaptation is an orchestra entry rather than a solo. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1695.1,
+  "duration_min": 28.25,
+  "files": [
+    "S10E03-dark-adaptation.wav",
+    "S10E03-dark-adaptation.mp3"
+  ]
+}

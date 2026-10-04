@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S10E02-near-response.txt",
+  "stem": "S10E02-near-response",
+  "words": 4233,
+  "generated_at_utc": "2026-10-04T20:47:20.421685+00:00",
+  "title": "Near Response",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Adaptation and Integration",
+  "season_no": "10",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "near response",
+    "near triad",
+    "accommodation convergence miosis",
+    "near viewing",
+    "depth of focus",
+    "near vision physiology",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The near response is the eye's three-in-one answer to the command look here, close, and this episode of Focus Cast by focuslinks teaches the near triad in plain words. Learn how accommodation focuses the eyes nearer, how convergence turns them inward together, and how the pupils shrink, all three fired as one packaged response from a single command centre in the midbrain. Hear the three triggers that summon the triad, blur, doubled images and plain nearness awareness, and why the pupil's share is clever optics, widening depth of focus and trimming edge distortions so the iris assists the lens. Understand why this trio is the eye's single best proof that its subsystems were designed to work as one. Made for optometry students and practising optometrists who want the normal physiology of near viewing explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1724.8,
+  "duration_min": 28.75,
+  "files": [
+    "S10E02-near-response.wav",
+    "S10E02-near-response.mp3"
+  ]
+}
