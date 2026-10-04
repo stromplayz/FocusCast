@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S01E02-maintaining-a-healthy-ocular-environment.txt",
+  "stem": "S01E02-maintaining-a-healthy-ocular-environment",
+  "words": 4437,
+  "generated_at_utc": "2026-10-04T19:02:15.312278+00:00",
+  "title": "Maintaining a Healthy Ocular Environment",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Ocular Homeostasis",
+  "season_no": "1",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "ocular environment",
+    "eye microenvironment",
+    "tear film function",
+    "aqueous humour",
+    "vitreous humour",
+    "ocular surface health",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Every living tissue has a shopping list, and this episode reads the eye's list aloud: oxygen, glucose, steady temperature, steady hydration, waste removal, and protection from drying, abrasion, bright light and microbes. It then tours the eye's answer to an impossible brief, three managed fluids instead of thick skin: the tear film renewed with every blink, the aqueous humour flowing fresh through the chambers, and the vitreous humour, the stable jelly that fills the globe behind the lens. Along the way it shows why a front window that must stay transparent and exposed relies on moving water rather than wall-building vessels, and what each fluid feeds, cleanses and holds in place. This episode of Focus Cast by focuslinks is made for optometry students and practising optometrists, and for anyone who has finished Series One and Series Two and wants to know how the eye actually runs.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1799.5,
+  "duration_min": 29.99,
+  "files": [
+    "S01E02-maintaining-a-healthy-ocular-environment.wav",
+    "S01E02-maintaining-a-healthy-ocular-environment.mp3"
+  ]
+}

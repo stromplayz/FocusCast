@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S01E09-fluid-balance-in-the-eye.txt",
+  "stem": "S01E09-fluid-balance-in-the-eye",
+  "words": 4266,
+  "generated_at_utc": "2026-10-04T19:16:35.562663+00:00",
+  "title": "Fluid Balance in the Eye",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Ocular Homeostasis",
+  "season_no": "1",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "fluid balance",
+    "ocular fluids",
+    "tear film balance",
+    "aqueous dynamics",
+    "vitreous stability",
+    "corneal hydration",
+    "osmolarity",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Every structure in the eye keeps a water ledger, and this episode of Focus Cast by focuslinks teaches you to read all four of them. Learn how the tear film holds a few micrometres of moisture between blinks, how the aqueous is produced at two to three microlitres per minute and drained by two routes to set the intraocular pressure, how the vitreous anchors four millilitres of water in a slow-moving gel, and how the corneal endothelial pump defends seventy-eight percent hydration against a constant swelling drive. Osmolarity, the currency of dissolved particles, is explained in plain words and followed through every compartment. This is the ninth step of the season in ocular homeostasis, told as one accountant's logic applied four ways. Made for optometry students, optical teams and curious listeners who want the normal eye's fluid bookkeeping explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1754.2,
+  "duration_min": 29.24,
+  "files": [
+    "S01E09-fluid-balance-in-the-eye.wav",
+    "S01E09-fluid-balance-in-the-eye.mp3"
+  ]
+}

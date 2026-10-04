@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-04T11:28:06.871768+00:00",
-  "episode_count": 200,
+  "updated_at": "2026-10-04T19:22:15.740162+00:00",
+  "episode_count": 210,
   "episodes": [
     {
       "id": "S01-S01E01",
@@ -8040,6 +8040,403 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-04T11:23:28.346486+00:00"
+    },
+    {
+      "id": "S03-S01E01",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 1,
+      "season": "Ocular Homeostasis",
+      "episode_no": 1,
+      "title": "What Is Ocular Physiology?",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "ocular physiology",
+        "what is physiology",
+        "eye function",
+        "optometry education",
+        "physiology vs anatomy",
+        "visual system function",
+        "eye health science",
+        "focus cast series 3"
+      ],
+      "description": "Physiology is the study of how the eye works, and this episode opens Series 3, Ocular Physiology, from Focus Cast by focuslinks, one hundred episodes in ten seasons that builds on the anatomy you already know by switching on the machinery inside every structure you have mapped. Learn the difference between anatomy and physiology through the house metaphor, and watch the idea come alive in three vivid exhibits: a tear film that renews itself between blinks, a lens that reshapes to hold your world in focus, and a retina that converts light chemistry into nerve signals. Hear the full roadmap of all ten seasons, from ocular homeostasis through tear film, cornea, pressure, lens, retina, vision, colour, binocularity and adaptation, and the claim that ties them together: every measurement an optometrist takes is the output of a working process. Made for optometry students and practising optometrists who want to understand not just what the eye is made of, but how it works.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-01/S01E01-what-is-ocular-physiology.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-01-what-is-ocular-physiology/S01E01-what-is-ocular-physiology.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-01-what-is-ocular-physiology/S01E01-what-is-ocular-physiology.mp3",
+        "bytes": 21629421,
+        "duration_sec": 1802.4,
+        "duration_min": 30.04,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T18:59:48.394893+00:00"
+    },
+    {
+      "id": "S03-S01E02",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 1,
+      "season": "Ocular Homeostasis",
+      "episode_no": 2,
+      "title": "Maintaining a Healthy Ocular Environment",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "ocular environment",
+        "eye microenvironment",
+        "tear film function",
+        "aqueous humour",
+        "vitreous humour",
+        "ocular surface health",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Every living tissue has a shopping list, and this episode reads the eye's list aloud: oxygen, glucose, steady temperature, steady hydration, waste removal, and protection from drying, abrasion, bright light and microbes. It then tours the eye's answer to an impossible brief, three managed fluids instead of thick skin: the tear film renewed with every blink, the aqueous humour flowing fresh through the chambers, and the vitreous humour, the stable jelly that fills the globe behind the lens. Along the way it shows why a front window that must stay transparent and exposed relies on moving water rather than wall-building vessels, and what each fluid feeds, cleanses and holds in place. This episode of Focus Cast by focuslinks is made for optometry students and practising optometrists, and for anyone who has finished Series One and Series Two and wants to know how the eye actually runs.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-01/S01E02-maintaining-a-healthy-ocular-environment.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-02-maintaining-a-healthy-ocular-environment/S01E02-maintaining-a-healthy-ocular-environment.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-02-maintaining-a-healthy-ocular-environment/S01E02-maintaining-a-healthy-ocular-environment.mp3",
+        "bytes": 21594861,
+        "duration_sec": 1799.5,
+        "duration_min": 29.99,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T19:02:15.312278+00:00"
+    },
+    {
+      "id": "S03-S01E03",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 1,
+      "season": "Ocular Homeostasis",
+      "episode_no": 3,
+      "title": "Ocular Homeostasis",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "homeostasis",
+        "ocular homeostasis",
+        "negative feedback",
+        "set point",
+        "intraocular pressure control",
+        "tear osmolarity",
+        "corneal hydration",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Homeostasis is the quiet discipline that keeps the inner eye stable while the world outside swings, and this episode of Focus Cast by focuslinks teaches that discipline properly. Learn what a set point is, how negative feedback senses a change and works against it, and why a household thermostat is the perfect plain language model for every control loop in the body. Watch the loop at work in three ocular examples: the pressure inside the eye held steady because aqueous production matches outflow, the saltiness of the tear film defended by balanced secretion, evaporation and drainage, and corneal hydration guarded by the endothelium pumping against a constant tendency to swell. Along the way, discover why a steady state is not a frozen equilibrium, why a resting eye is a busy eye that burns fuel all day, and how set points drift with daily rhythms and with age while remaining normal physiology. Made for optometry students, optical teams and curious listeners who want the working logic of the living eye explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-01/S01E03-ocular-homeostasis.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-03-ocular-homeostasis/S01E03-ocular-homeostasis.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-03-ocular-homeostasis/S01E03-ocular-homeostasis.mp3",
+        "bytes": 21454317,
+        "duration_sec": 1787.8,
+        "duration_min": 29.8,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T19:04:14.407356+00:00"
+    },
+    {
+      "id": "S03-S01E04",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 1,
+      "season": "Ocular Homeostasis",
+      "episode_no": 4,
+      "title": "Cellular Function of Ocular Tissues",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "cell physiology",
+        "ocular cells",
+        "ion gradients",
+        "cell membrane",
+        "corneal epithelium cells",
+        "lens fibre cells",
+        "retinal pigment epithelium",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Every ocular process, from tear secretion to sight itself, is run by cells using one shared toolkit, and this episode of Focus Cast by focuslinks opens that toolkit in plain words. Learn how the cell membrane works as a controlled border, how ion gradients store electrical energy, how ATP serves as the cellular currency, how receptors act as molecular doorbells, and how secretion is managed export. Then take a tour of the eye's cellular specialists: corneal epithelial and endothelial cells, lens fibre cells, photoreceptors, retinal pigment epithelial cells, ciliary epithelial cells, iris and ciliary smooth muscle, extraocular muscle fibres and retinal neurons, hearing what makes each one remarkable. Same toolkit, different settings is the key that unlocks every later season of this series. Made for optometry students and practising optometrists who want the working cell explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-01/S01E04-cellular-function-of-ocular-tissues.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-04-cellular-function-of-ocular-tissues/S01E04-cellular-function-of-ocular-tissues.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-04-cellular-function-of-ocular-tissues/S01E04-cellular-function-of-ocular-tissues.mp3",
+        "bytes": 21957453,
+        "duration_sec": 1829.7,
+        "duration_min": 30.5,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T19:06:14.417841+00:00"
+    },
+    {
+      "id": "S03-S01E05",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 1,
+      "season": "Ocular Homeostasis",
+      "episode_no": 5,
+      "title": "Ocular Metabolism",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "ocular metabolism",
+        "glucose",
+        "glycolysis",
+        "lactate",
+        "corneal metabolism",
+        "lens metabolism",
+        "retinal metabolism",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Every working tissue in the eye runs on fuel, and this episode of Focus Cast by focuslinks follows that fuel from the bloodstream into the cell. Learn why glucose is the eye's preferred fuel, how glycolysis lets the avascular cornea and lens keep working with little oxygen, and why that effort leaves lactate that must be carried away. Meet the oxygen-rich alternative of the citric acid cycle and oxidative phosphorylation in the pigment epithelium and the extraocular muscles, and the lens's quiet housekeeping route, the pentose phosphate pathway, that keeps its antioxidant supplies topped up. Then follow the retina's extreme appetite for oxygen and glucose and the partnership between photoreceptors and the pigment epithelium that feeds them. Made for optometry students and practising optometrists who want the eye's working chemistry explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-01/S01E05-ocular-metabolism.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-05-ocular-metabolism/S01E05-ocular-metabolism.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-05-ocular-metabolism/S01E05-ocular-metabolism.mp3",
+        "bytes": 22914765,
+        "duration_sec": 1909.5,
+        "duration_min": 31.82,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T19:08:18.775925+00:00"
+    },
+    {
+      "id": "S03-S01E06",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 1,
+      "season": "Ocular Homeostasis",
+      "episode_no": 6,
+      "title": "Oxygen Requirements of the Eye",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal oxygenation",
+        "oxygen supply",
+        "open eye",
+        "closed eye",
+        "tear film oxygen",
+        "aqueous oxygen",
+        "retinal oxygen supply",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Every living tissue in the eye must breathe, and this episode of Focus Cast by focuslinks maps where each ocular structure draws its oxygen in normal physiology. Learn how the cornea takes its oxygen almost entirely from the air through the tear film, why the epithelium is the best-fed layer and the endothelium leans on the aqueous, and how the whole cornea shifts to a quieter low-oxygen economy when the lids close in sleep. Meet the lens in its deliberately quiet pocket between aqueous and vitreous, the retina's dual supply from the retinal circulation and the choroid, and the conjunctiva and lids that sample air and blood alike. Made for optometry students and practising optometrists who want the eye's normal physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-01/S01E06-oxygen-requirements-of-the-eye.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-06-oxygen-requirements-of-the-eye/S01E06-oxygen-requirements-of-the-eye.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-06-oxygen-requirements-of-the-eye/S01E06-oxygen-requirements-of-the-eye.mp3",
+        "bytes": 20556333,
+        "duration_sec": 1713.0,
+        "duration_min": 28.55,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T19:10:26.870353+00:00"
+    },
+    {
+      "id": "S03-S01E07",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 1,
+      "season": "Ocular Homeostasis",
+      "episode_no": 7,
+      "title": "Nutrient Transport in Ocular Tissues",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "nutrient transport",
+        "blood ocular barrier",
+        "blood aqueous barrier",
+        "blood retinal barrier",
+        "glucose transport",
+        "active transport",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Nutrient Transport in Ocular Tissues is episode seven of Season 1, Ocular Homeostasis, in Series 3, and this episode of Focus Cast by focuslinks answers a question the eye's design forces on us: how do the cornea, the lens and the retina feed themselves when they own no blood vessels of their own? Meet the two great gatekeepers, the blood-aqueous barrier built from the tight junctions of the ciliary epithelium, and the blood-retinal barrier, a partnership of the retinal vessel walls and the retinal pigment epithelium. Follow the three transport modes with ocular examples: passive diffusion carrying oxygen, facilitated diffusion delivering glucose to cornea, lens and retina on carrier proteins, and active transport burning cellular fuel to concentrate amino acids and ascorbate into the aqueous humour. Learn why ascorbate rides in the aqueous at roughly twenty times its blood level, a deliberate antioxidant delivery to the eye's interior, and why barriers that protect delicate tissue leave every supply line actively managed. Made for optometry students and practising optometrists who want real physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-01/S01E07-nutrient-transport-in-ocular-tissues.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-07-nutrient-transport-in-ocular-tissues/S01E07-nutrient-transport-in-ocular-tissues.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-07-nutrient-transport-in-ocular-tissues/S01E07-nutrient-transport-in-ocular-tissues.mp3",
+        "bytes": 23463693,
+        "duration_sec": 1955.3,
+        "duration_min": 32.59,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T19:12:23.264408+00:00"
+    },
+    {
+      "id": "S03-S01E08",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 1,
+      "season": "Ocular Homeostasis",
+      "episode_no": 8,
+      "title": "Waste Removal From the Eye",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "waste removal",
+        "carbon dioxide clearance",
+        "lactate removal",
+        "outer segment shedding",
+        "retinal pigment epithelium phagocytosis",
+        "aqueous outflow",
+        "tear clearance",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Every working cell leaves rubbish behind, and this episode of Focus Cast by focuslinks follows the eye taking out its waste, tissue by tissue. Learn how carbon dioxide simply diffuses away through the cornea into the air and inward from the retina into its blood supply, and how lactate from the cornea and lens drains into the aqueous to be carried off by outflow. Hear the lens described as an elegant internal ion current, with sodium and fluid flowing in at the front surfaces and circulating out at the equator, sweeping small solutes along as it goes. Then comes the showpiece: the retinal pigment epithelium's daily phagocytosis, in which shed photoreceptor outer segment tips are engulfed, digested and recycled every morning on a light driven rhythm. Made for optometry students, optical teams and curious listeners who want normal ocular physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-01/S01E08-waste-removal-from-the-eye.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-08-waste-removal-from-the-eye/S01E08-waste-removal-from-the-eye.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-08-waste-removal-from-the-eye/S01E08-waste-removal-from-the-eye.mp3",
+        "bytes": 21686157,
+        "duration_sec": 1807.1,
+        "duration_min": 30.12,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T19:14:33.937959+00:00"
+    },
+    {
+      "id": "S03-S01E09",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 1,
+      "season": "Ocular Homeostasis",
+      "episode_no": 9,
+      "title": "Fluid Balance in the Eye",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "fluid balance",
+        "ocular fluids",
+        "tear film balance",
+        "aqueous dynamics",
+        "vitreous stability",
+        "corneal hydration",
+        "osmolarity",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Every structure in the eye keeps a water ledger, and this episode of Focus Cast by focuslinks teaches you to read all four of them. Learn how the tear film holds a few micrometres of moisture between blinks, how the aqueous is produced at two to three microlitres per minute and drained by two routes to set the intraocular pressure, how the vitreous anchors four millilitres of water in a slow-moving gel, and how the corneal endothelial pump defends seventy-eight percent hydration against a constant swelling drive. Osmolarity, the currency of dissolved particles, is explained in plain words and followed through every compartment. This is the ninth step of the season in ocular homeostasis, told as one accountant's logic applied four ways. Made for optometry students, optical teams and curious listeners who want the normal eye's fluid bookkeeping explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-01/S01E09-fluid-balance-in-the-eye.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-09-fluid-balance-in-the-eye/S01E09-fluid-balance-in-the-eye.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-09-fluid-balance-in-the-eye/S01E09-fluid-balance-in-the-eye.mp3",
+        "bytes": 21051693,
+        "duration_sec": 1754.2,
+        "duration_min": 29.24,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T19:16:35.562663+00:00"
+    },
+    {
+      "id": "S03-S01E10",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 1,
+      "season": "Ocular Homeostasis",
+      "episode_no": 10,
+      "title": "How the Eye Maintains Normal Function",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "normal eye function",
+        "ocular rhythms",
+        "day and night physiology",
+        "tear renewal",
+        "corneal renewal",
+        "intraocular pressure rhythm",
+        "eye maintenance",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "This season finale of Focus Cast by focuslinks follows one normal eye through a complete day and night to show how it maintains its own function. In the waking hour we watch tear secretion step up and blinks spread fresh tears every few seconds, the cornea breathe from the air, the endothelium hold hydration, fresh aqueous flow at two to three microlitres per minute while outflow matches it, and pupils, lenses and photoreceptors adapt as light changes. In the sleeping hour the lids close, the cornea switches to its low oxygen overnight economy, epithelial renewal and pigment epithelium housekeeping do their repair work, and intraocular pressure drifts higher in the early morning on its normal daily rhythm. The episode gathers the season's nine steps into one spoken map of set points, rhythms and reserve capacity held by feedback loops that never switch off. Made for optometry students, optical teams and curious listeners who have followed the season from its first question.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-01/S01E10-how-the-eye-maintains-normal-function.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-10-how-the-eye-maintains-normal-function/S01E10-how-the-eye-maintains-normal-function.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-01-ocular-homeostasis/ep-10-how-the-eye-maintains-normal-function/S01E10-how-the-eye-maintains-normal-function.mp3",
+        "bytes": 20276973,
+        "duration_sec": 1689.7,
+        "duration_min": 28.16,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T19:18:34.421781+00:00"
     }
   ]
 }

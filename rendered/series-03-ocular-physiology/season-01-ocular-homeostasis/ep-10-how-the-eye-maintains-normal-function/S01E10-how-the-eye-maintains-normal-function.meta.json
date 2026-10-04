@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S01E10-how-the-eye-maintains-normal-function.txt",
+  "stem": "S01E10-how-the-eye-maintains-normal-function",
+  "words": 4182,
+  "generated_at_utc": "2026-10-04T19:18:34.421781+00:00",
+  "title": "How the Eye Maintains Normal Function",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Ocular Homeostasis",
+  "season_no": "1",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "normal eye function",
+    "ocular rhythms",
+    "day and night physiology",
+    "tear renewal",
+    "corneal renewal",
+    "intraocular pressure rhythm",
+    "eye maintenance",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "This season finale of Focus Cast by focuslinks follows one normal eye through a complete day and night to show how it maintains its own function. In the waking hour we watch tear secretion step up and blinks spread fresh tears every few seconds, the cornea breathe from the air, the endothelium hold hydration, fresh aqueous flow at two to three microlitres per minute while outflow matches it, and pupils, lenses and photoreceptors adapt as light changes. In the sleeping hour the lids close, the cornea switches to its low oxygen overnight economy, epithelial renewal and pigment epithelium housekeeping do their repair work, and intraocular pressure drifts higher in the early morning on its normal daily rhythm. The episode gathers the season's nine steps into one spoken map of set points, rhythms and reserve capacity held by feedback loops that never switch off. Made for optometry students, optical teams and curious listeners who have followed the season from its first question.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1689.7,
+  "duration_min": 28.16,
+  "files": [
+    "S01E10-how-the-eye-maintains-normal-function.wav",
+    "S01E10-how-the-eye-maintains-normal-function.mp3"
+  ]
+}

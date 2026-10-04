@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S01E07-nutrient-transport-in-ocular-tissues.txt",
+  "stem": "S01E07-nutrient-transport-in-ocular-tissues",
+  "words": 4499,
+  "generated_at_utc": "2026-10-04T19:12:23.264408+00:00",
+  "title": "Nutrient Transport in Ocular Tissues",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Ocular Homeostasis",
+  "season_no": "1",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "nutrient transport",
+    "blood ocular barrier",
+    "blood aqueous barrier",
+    "blood retinal barrier",
+    "glucose transport",
+    "active transport",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Nutrient Transport in Ocular Tissues is episode seven of Season 1, Ocular Homeostasis, in Series 3, and this episode of Focus Cast by focuslinks answers a question the eye's design forces on us: how do the cornea, the lens and the retina feed themselves when they own no blood vessels of their own? Meet the two great gatekeepers, the blood-aqueous barrier built from the tight junctions of the ciliary epithelium, and the blood-retinal barrier, a partnership of the retinal vessel walls and the retinal pigment epithelium. Follow the three transport modes with ocular examples: passive diffusion carrying oxygen, facilitated diffusion delivering glucose to cornea, lens and retina on carrier proteins, and active transport burning cellular fuel to concentrate amino acids and ascorbate into the aqueous humour. Learn why ascorbate rides in the aqueous at roughly twenty times its blood level, a deliberate antioxidant delivery to the eye's interior, and why barriers that protect delicate tissue leave every supply line actively managed. Made for optometry students and practising optometrists who want real physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1955.3,
+  "duration_min": 32.59,
+  "files": [
+    "S01E07-nutrient-transport-in-ocular-tissues.wav",
+    "S01E07-nutrient-transport-in-ocular-tissues.mp3"
+  ]
+}

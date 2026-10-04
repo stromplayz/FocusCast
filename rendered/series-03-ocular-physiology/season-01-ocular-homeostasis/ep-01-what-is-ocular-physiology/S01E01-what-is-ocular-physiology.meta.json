@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S01E01-what-is-ocular-physiology.txt",
+  "stem": "S01E01-what-is-ocular-physiology",
+  "words": 4435,
+  "generated_at_utc": "2026-10-04T18:59:48.394893+00:00",
+  "title": "What Is Ocular Physiology?",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Ocular Homeostasis",
+  "season_no": "1",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "ocular physiology",
+    "what is physiology",
+    "eye function",
+    "optometry education",
+    "physiology vs anatomy",
+    "visual system function",
+    "eye health science",
+    "focus cast series 3"
+  ],
+  "description": "Physiology is the study of how the eye works, and this episode opens Series 3, Ocular Physiology, from Focus Cast by focuslinks, one hundred episodes in ten seasons that builds on the anatomy you already know by switching on the machinery inside every structure you have mapped. Learn the difference between anatomy and physiology through the house metaphor, and watch the idea come alive in three vivid exhibits: a tear film that renews itself between blinks, a lens that reshapes to hold your world in focus, and a retina that converts light chemistry into nerve signals. Hear the full roadmap of all ten seasons, from ocular homeostasis through tear film, cornea, pressure, lens, retina, vision, colour, binocularity and adaptation, and the claim that ties them together: every measurement an optometrist takes is the output of a working process. Made for optometry students and practising optometrists who want to understand not just what the eye is made of, but how it works.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1802.4,
+  "duration_min": 30.04,
+  "files": [
+    "S01E01-what-is-ocular-physiology.wav",
+    "S01E01-what-is-ocular-physiology.mp3"
+  ]
+}

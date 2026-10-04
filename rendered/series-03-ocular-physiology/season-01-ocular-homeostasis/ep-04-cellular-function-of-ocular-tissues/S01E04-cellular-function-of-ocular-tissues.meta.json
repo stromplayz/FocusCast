@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S01E04-cellular-function-of-ocular-tissues.txt",
+  "stem": "S01E04-cellular-function-of-ocular-tissues",
+  "words": 4221,
+  "generated_at_utc": "2026-10-04T19:06:14.417841+00:00",
+  "title": "Cellular Function of Ocular Tissues",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Ocular Homeostasis",
+  "season_no": "1",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "cell physiology",
+    "ocular cells",
+    "ion gradients",
+    "cell membrane",
+    "corneal epithelium cells",
+    "lens fibre cells",
+    "retinal pigment epithelium",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Every ocular process, from tear secretion to sight itself, is run by cells using one shared toolkit, and this episode of Focus Cast by focuslinks opens that toolkit in plain words. Learn how the cell membrane works as a controlled border, how ion gradients store electrical energy, how ATP serves as the cellular currency, how receptors act as molecular doorbells, and how secretion is managed export. Then take a tour of the eye's cellular specialists: corneal epithelial and endothelial cells, lens fibre cells, photoreceptors, retinal pigment epithelial cells, ciliary epithelial cells, iris and ciliary smooth muscle, extraocular muscle fibres and retinal neurons, hearing what makes each one remarkable. Same toolkit, different settings is the key that unlocks every later season of this series. Made for optometry students and practising optometrists who want the working cell explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1829.7,
+  "duration_min": 30.5,
+  "files": [
+    "S01E04-cellular-function-of-ocular-tissues.wav",
+    "S01E04-cellular-function-of-ocular-tissues.mp3"
+  ]
+}

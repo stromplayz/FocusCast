@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S01E06-oxygen-requirements-of-the-eye.txt",
+  "stem": "S01E06-oxygen-requirements-of-the-eye",
+  "words": 4147,
+  "generated_at_utc": "2026-10-04T19:10:26.870353+00:00",
+  "title": "Oxygen Requirements of the Eye",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Ocular Homeostasis",
+  "season_no": "1",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal oxygenation",
+    "oxygen supply",
+    "open eye",
+    "closed eye",
+    "tear film oxygen",
+    "aqueous oxygen",
+    "retinal oxygen supply",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Every living tissue in the eye must breathe, and this episode of Focus Cast by focuslinks maps where each ocular structure draws its oxygen in normal physiology. Learn how the cornea takes its oxygen almost entirely from the air through the tear film, why the epithelium is the best-fed layer and the endothelium leans on the aqueous, and how the whole cornea shifts to a quieter low-oxygen economy when the lids close in sleep. Meet the lens in its deliberately quiet pocket between aqueous and vitreous, the retina's dual supply from the retinal circulation and the choroid, and the conjunctiva and lids that sample air and blood alike. Made for optometry students and practising optometrists who want the eye's normal physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1713.0,
+  "duration_min": 28.55,
+  "files": [
+    "S01E06-oxygen-requirements-of-the-eye.wav",
+    "S01E06-oxygen-requirements-of-the-eye.mp3"
+  ]
+}

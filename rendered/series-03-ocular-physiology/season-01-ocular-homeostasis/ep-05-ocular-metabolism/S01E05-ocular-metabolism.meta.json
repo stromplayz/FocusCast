@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S01E05-ocular-metabolism.txt",
+  "stem": "S01E05-ocular-metabolism",
+  "words": 4458,
+  "generated_at_utc": "2026-10-04T19:08:18.775925+00:00",
+  "title": "Ocular Metabolism",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Ocular Homeostasis",
+  "season_no": "1",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "ocular metabolism",
+    "glucose",
+    "glycolysis",
+    "lactate",
+    "corneal metabolism",
+    "lens metabolism",
+    "retinal metabolism",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Every working tissue in the eye runs on fuel, and this episode of Focus Cast by focuslinks follows that fuel from the bloodstream into the cell. Learn why glucose is the eye's preferred fuel, how glycolysis lets the avascular cornea and lens keep working with little oxygen, and why that effort leaves lactate that must be carried away. Meet the oxygen-rich alternative of the citric acid cycle and oxidative phosphorylation in the pigment epithelium and the extraocular muscles, and the lens's quiet housekeeping route, the pentose phosphate pathway, that keeps its antioxidant supplies topped up. Then follow the retina's extreme appetite for oxygen and glucose and the partnership between photoreceptors and the pigment epithelium that feeds them. Made for optometry students and practising optometrists who want the eye's working chemistry explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1909.5,
+  "duration_min": 31.82,
+  "files": [
+    "S01E05-ocular-metabolism.wav",
+    "S01E05-ocular-metabolism.mp3"
+  ]
+}

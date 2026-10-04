@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S01E08-waste-removal-from-the-eye.txt",
+  "stem": "S01E08-waste-removal-from-the-eye",
+  "words": 4320,
+  "generated_at_utc": "2026-10-04T19:14:33.937959+00:00",
+  "title": "Waste Removal From the Eye",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Ocular Homeostasis",
+  "season_no": "1",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "waste removal",
+    "carbon dioxide clearance",
+    "lactate removal",
+    "outer segment shedding",
+    "retinal pigment epithelium phagocytosis",
+    "aqueous outflow",
+    "tear clearance",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Every working cell leaves rubbish behind, and this episode of Focus Cast by focuslinks follows the eye taking out its waste, tissue by tissue. Learn how carbon dioxide simply diffuses away through the cornea into the air and inward from the retina into its blood supply, and how lactate from the cornea and lens drains into the aqueous to be carried off by outflow. Hear the lens described as an elegant internal ion current, with sodium and fluid flowing in at the front surfaces and circulating out at the equator, sweeping small solutes along as it goes. Then comes the showpiece: the retinal pigment epithelium's daily phagocytosis, in which shed photoreceptor outer segment tips are engulfed, digested and recycled every morning on a light driven rhythm. Made for optometry students, optical teams and curious listeners who want normal ocular physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1807.1,
+  "duration_min": 30.12,
+  "files": [
+    "S01E08-waste-removal-from-the-eye.wav",
+    "S01E08-waste-removal-from-the-eye.mp3"
+  ]
+}

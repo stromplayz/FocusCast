@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S01E03-ocular-homeostasis.txt",
+  "stem": "S01E03-ocular-homeostasis",
+  "words": 4216,
+  "generated_at_utc": "2026-10-04T19:04:14.407356+00:00",
+  "title": "Ocular Homeostasis",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Ocular Homeostasis",
+  "season_no": "1",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "homeostasis",
+    "ocular homeostasis",
+    "negative feedback",
+    "set point",
+    "intraocular pressure control",
+    "tear osmolarity",
+    "corneal hydration",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Homeostasis is the quiet discipline that keeps the inner eye stable while the world outside swings, and this episode of Focus Cast by focuslinks teaches that discipline properly. Learn what a set point is, how negative feedback senses a change and works against it, and why a household thermostat is the perfect plain language model for every control loop in the body. Watch the loop at work in three ocular examples: the pressure inside the eye held steady because aqueous production matches outflow, the saltiness of the tear film defended by balanced secretion, evaporation and drainage, and corneal hydration guarded by the endothelium pumping against a constant tendency to swell. Along the way, discover why a steady state is not a frozen equilibrium, why a resting eye is a busy eye that burns fuel all day, and how set points drift with daily rhythms and with age while remaining normal physiology. Made for optometry students, optical teams and curious listeners who want the working logic of the living eye explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1787.8,
+  "duration_min": 29.8,
+  "files": [
+    "S01E03-ocular-homeostasis.wav",
+    "S01E03-ocular-homeostasis.mp3"
+  ]
+}
