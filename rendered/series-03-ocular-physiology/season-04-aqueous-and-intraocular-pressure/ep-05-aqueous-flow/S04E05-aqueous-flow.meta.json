@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E05-aqueous-flow.txt",
+  "stem": "S04E05-aqueous-flow",
+  "words": 4447,
+  "generated_at_utc": "2026-10-04T22:11:59.797190+00:00",
+  "title": "Aqueous Flow",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Aqueous and Intraocular Pressure",
+  "season_no": "4",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "aqueous flow",
+    "posterior chamber flow",
+    "pupillary pathway",
+    "aqueous circulation",
+    "convection currents",
+    "aqueous route",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Aqueous humour is born behind the iris and must find its way to the front of the eye, and this episode of Focus Cast by focuslinks walks the river's course from its source to the anterior chamber. Learn why the posterior chamber works as a holding bay, why the pupil is the only doorway forward, and how a gap between iris and lens barely a few micrometres wide in places lets a gentle, continuous flow of roughly two to three microlitres per minute thread through without obstruction in the normal eye. Follow what the journey delivers en route: a bath for the lens equator and front in the posterior chamber, a constant wash for the corneal endothelium's inner face and the anterior iris in the anterior chamber, and slow temperature-driven convection currents that stir the one-way stream. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1775.0,
+  "duration_min": 29.58,
+  "files": [
+    "S04E05-aqueous-flow.wav",
+    "S04E05-aqueous-flow.mp3"
+  ]
+}

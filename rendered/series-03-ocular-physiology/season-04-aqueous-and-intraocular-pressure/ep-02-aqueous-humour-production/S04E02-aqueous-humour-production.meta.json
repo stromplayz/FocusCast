@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E02-aqueous-humour-production.txt",
+  "stem": "S04E02-aqueous-humour-production",
+  "words": 4251,
+  "generated_at_utc": "2026-10-04T22:06:01.133552+00:00",
+  "title": "Aqueous Humour Production",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Aqueous and Intraocular Pressure",
+  "season_no": "4",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "aqueous production",
+    "active secretion",
+    "ultrafiltration",
+    "carbonic anhydrase",
+    "aqueous flow rate",
+    "ciliary secretion",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "This episode of Focus Cast by focuslinks opens the machinery behind the eye's quiet factory and teaches how aqueous humour is actually produced. Learn the three mechanisms and their shares: active secretion supplying roughly eighty to ninety percent, as fuel-burning pumps build a salt ridge between epithelial cells and water follows by osmosis, with carbonic anhydrase forging bicarbonate as a raw material; ultrafiltration adding a pressure-driven seep of plasma water across capillary walls, roughly a fifth; and simple diffusion contributing the sliver left. Hear the numbers in words: production at about two to three microlitres per minute in a young adult, a full renewal roughly every hundred minutes, and a normal circadian rhythm that lets the tap fall to roughly half during sleep. Understand why production depends on blood flow and on the epithelium's metabolic health, and why it is a controlled variable rather than a constant, a tap with the eye's own hand on the valve. Made for optometry students and practising optometrists who want normal ocular physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1766.1,
+  "duration_min": 29.43,
+  "files": [
+    "S04E02-aqueous-humour-production.wav",
+    "S04E02-aqueous-humour-production.mp3"
+  ]
+}

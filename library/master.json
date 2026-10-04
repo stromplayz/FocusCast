@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-04T21:47:53.632820+00:00",
-  "episode_count": 240,
+  "updated_at": "2026-10-04T22:24:53.038645+00:00",
+  "episode_count": 250,
   "episodes": [
     {
       "id": "S01-S01E01",
@@ -9224,6 +9224,396 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-04T21:44:26.805592+00:00"
+    },
+    {
+      "id": "S03-S04E01",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 4,
+      "season": "Aqueous and Intraocular Pressure",
+      "episode_no": 1,
+      "title": "Why the Eye Produces Aqueous Humour",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "aqueous humour",
+        "aqueous functions",
+        "intraocular pressure",
+        "ocular nutrition",
+        "aqueous turnover",
+        "eye chambers",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Last season the cornea kept the window clear, and now Series 3 turns to the quiet river behind it, in the season opener of Focus Cast by focuslinks. This episode teaches why the eye manufactures aqueous humour at all, following the fluid through its four jobs: courier of glucose, amino acids and ascorbate to tissues that have no blood supply, drain for lactate and spent metabolites, source of the gentle pressure that keeps the globe inflated and the retina in place, and transparent, chemically buffered medium for the front of the eye. You will learn where the aqueous lives, how the two chambers together hold about a quarter of a millilitre, and how production at roughly two to three microlitres per minute replaces the entire volume roughly ten times a day. The season ahead runs ten episodes, from why the eye makes this fluid to the physiology of normal intraocular pressure. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-04/S04E01-why-the-eye-produces-aqueous-humour.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-01-why-the-eye-produces-aqueous-humour/S04E01-why-the-eye-produces-aqueous-humour.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-01-why-the-eye-produces-aqueous-humour/S04E01-why-the-eye-produces-aqueous-humour.mp3",
+        "bytes": 19899405,
+        "duration_sec": 1658.2,
+        "duration_min": 27.64,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:03:32.763138+00:00"
+    },
+    {
+      "id": "S03-S04E02",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 4,
+      "season": "Aqueous and Intraocular Pressure",
+      "episode_no": 2,
+      "title": "Aqueous Humour Production",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "aqueous production",
+        "active secretion",
+        "ultrafiltration",
+        "carbonic anhydrase",
+        "aqueous flow rate",
+        "ciliary secretion",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "This episode of Focus Cast by focuslinks opens the machinery behind the eye's quiet factory and teaches how aqueous humour is actually produced. Learn the three mechanisms and their shares: active secretion supplying roughly eighty to ninety percent, as fuel-burning pumps build a salt ridge between epithelial cells and water follows by osmosis, with carbonic anhydrase forging bicarbonate as a raw material; ultrafiltration adding a pressure-driven seep of plasma water across capillary walls, roughly a fifth; and simple diffusion contributing the sliver left. Hear the numbers in words: production at about two to three microlitres per minute in a young adult, a full renewal roughly every hundred minutes, and a normal circadian rhythm that lets the tap fall to roughly half during sleep. Understand why production depends on blood flow and on the epithelium's metabolic health, and why it is a controlled variable rather than a constant, a tap with the eye's own hand on the valve. Made for optometry students and practising optometrists who want normal ocular physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-04/S04E02-aqueous-humour-production.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-02-aqueous-humour-production/S04E02-aqueous-humour-production.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-02-aqueous-humour-production/S04E02-aqueous-humour-production.mp3",
+        "bytes": 21193677,
+        "duration_sec": 1766.1,
+        "duration_min": 29.43,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:06:01.133552+00:00"
+    },
+    {
+      "id": "S03-S04E03",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 4,
+      "season": "Aqueous and Intraocular Pressure",
+      "episode_no": 3,
+      "title": "Ciliary Processes and Aqueous Formation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "ciliary processes",
+        "aqueous formation",
+        "pigmented epithelium",
+        "nonpigmented epithelium",
+        "blood aqueous barrier",
+        "ion transport",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Deep behind the iris a small factory runs around the clock, and this episode of Focus Cast by focuslinks takes you onto its floor. We walk the ciliary processes, about seventy finger-like folds whose pleated surfaces multiply the working area available for secretion. We meet the double epithelium, an outer pigmented layer facing the blood-rich stroma and an inner nonpigmented layer facing the fluid, joined by gap junctions into one electrical unit, and we follow the assembly line of sodium pumps, carbonic anhydrase, chloride channels and aquaporin water channels that turns blood into manufactured aqueous. We show how tight junctions between cells build the blood aqueous barrier, so the fluid arriving in the posterior chamber is a crafted product rather than a leak. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-04/S04E03-ciliary-processes-and-aqueous-formation.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-03-ciliary-processes-and-aqueous-formation/S04E03-ciliary-processes-and-aqueous-formation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-03-ciliary-processes-and-aqueous-formation/S04E03-ciliary-processes-and-aqueous-formation.mp3",
+        "bytes": 21734253,
+        "duration_sec": 1811.1,
+        "duration_min": 30.19,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:07:58.897092+00:00"
+    },
+    {
+      "id": "S03-S04E04",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 4,
+      "season": "Aqueous and Intraocular Pressure",
+      "episode_no": 4,
+      "title": "Aqueous Composition",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "aqueous composition",
+        "ascorbate",
+        "aqueous protein",
+        "aqueous glucose",
+        "electrolytes",
+        "aqueous humour chemistry",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The aqueous humour looks like simple water, and this episode of Focus Cast by focuslinks reads its full recipe against blood plasma to show that almost nothing in it is accidental. Learn why the fluid is nearly all water with sodium, chloride and bicarbonate in blood's own order, why protein is held to around one two-hundredth of the blood level to keep the light path clear, and why ascorbate is stockpiled at ten to twenty times its blood level as an antioxidant ration for the lens and cornea. Follow glucose sitting a little below blood level because the lens and cornea sip from it continuously, lactate running above blood level as the collected exhaust of ocular glycolysis, and the traces of growth factors and signalling molecules riding along. Every difference on the list is a choice the eye makes on purpose: transparency, antioxidant delivery and waste collection. Made for optometry students, optical teams and curious listeners who want ocular physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-04/S04E04-aqueous-composition.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-04-aqueous-composition/S04E04-aqueous-composition.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-04-aqueous-composition/S04E04-aqueous-composition.mp3",
+        "bytes": 20845773,
+        "duration_sec": 1737.1,
+        "duration_min": 28.95,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:10:00.334863+00:00"
+    },
+    {
+      "id": "S03-S04E05",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 4,
+      "season": "Aqueous and Intraocular Pressure",
+      "episode_no": 5,
+      "title": "Aqueous Flow",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "aqueous flow",
+        "posterior chamber flow",
+        "pupillary pathway",
+        "aqueous circulation",
+        "convection currents",
+        "aqueous route",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Aqueous humour is born behind the iris and must find its way to the front of the eye, and this episode of Focus Cast by focuslinks walks the river's course from its source to the anterior chamber. Learn why the posterior chamber works as a holding bay, why the pupil is the only doorway forward, and how a gap between iris and lens barely a few micrometres wide in places lets a gentle, continuous flow of roughly two to three microlitres per minute thread through without obstruction in the normal eye. Follow what the journey delivers en route: a bath for the lens equator and front in the posterior chamber, a constant wash for the corneal endothelium's inner face and the anterior iris in the anterior chamber, and slow temperature-driven convection currents that stir the one-way stream. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-04/S04E05-aqueous-flow.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-05-aqueous-flow/S04E05-aqueous-flow.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-05-aqueous-flow/S04E05-aqueous-flow.mp3",
+        "bytes": 21300813,
+        "duration_sec": 1775.0,
+        "duration_min": 29.58,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:11:59.797190+00:00"
+    },
+    {
+      "id": "S03-S04E06",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 4,
+      "season": "Aqueous and Intraocular Pressure",
+      "episode_no": 6,
+      "title": "Aqueous Humour Circulation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "aqueous circulation",
+        "aqueous turnover",
+        "aqueous outflow routes",
+        "trabecular route",
+        "uveoscleral route",
+        "aqueous dynamics",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Aqueous humour is a river with a map, and this episode of Focus Cast by focuslinks walks the whole loop in one sitting. Follow the water from its birth at the ciliary processes, through the posterior chamber, across the pupil, and across the anterior chamber to the drainage fork at the angle, where the busy trabecular route and the quiet uveoscleral route part ways. Learn the bookkeeping that keeps the system honest: flow in microlitres per minute, turnover as the fraction of chamber volume replaced each minute, and a replacement timescale of roughly ten full renewals every day. Hear why the cornea and the lens eat from a fresh table at every meal, and why circulation is a story of places while flow is a story of quantities. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-04/S04E06-aqueous-humour-circulation.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-06-aqueous-humour-circulation/S04E06-aqueous-humour-circulation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-06-aqueous-humour-circulation/S04E06-aqueous-humour-circulation.mp3",
+        "bytes": 20404269,
+        "duration_sec": 1700.3,
+        "duration_min": 28.34,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:14:00.669600+00:00"
+    },
+    {
+      "id": "S03-S04E07",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 4,
+      "season": "Aqueous and Intraocular Pressure",
+      "episode_no": 7,
+      "title": "Trabecular Outflow",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "trabecular outflow",
+        "trabecular meshwork",
+        "canal of Schlemm",
+        "conventional outflow",
+        "aqueous veins",
+        "outflow resistance",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Every drop the eye makes must leave, and this episode of Focus Cast by focuslinks walks the main exit, station by station. Follow the aqueous humour from the pupil to the angle, through the three zones of the trabecular meshwork, across the endothelium of the canal of Schlemm, and out through collector channels into aqueous veins that empty into the episcleral venous blood system. Learn why the resistance in this sieve is engineered on purpose, how the conventional route is a pressure-dependent drain that carries more whenever pressure rises, and why that makes it the eye's adjustable valve. The episode closes with a station-by-station recap, the numbers worth memorising, and a look ahead to the quiet partner route. Made for optometry students and practising optometrists who want the eye's main drainage road explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-04/S04E07-trabecular-outflow.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-07-trabecular-outflow/S04E07-trabecular-outflow.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-07-trabecular-outflow/S04E07-trabecular-outflow.mp3",
+        "bytes": 20909421,
+        "duration_sec": 1742.4,
+        "duration_min": 29.04,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:15:56.230691+00:00"
+    },
+    {
+      "id": "S03-S04E08",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 4,
+      "season": "Aqueous and Intraocular Pressure",
+      "episode_no": 8,
+      "title": "Uveoscleral Outflow",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "uveoscleral outflow",
+        "unconventional outflow",
+        "suprachoroidal space",
+        "ciliary muscle",
+        "pressure independent outflow",
+        "aqueous drainage",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The eye has two drains, and this episode of Focus Cast by focuslinks walks the quiet one: the uveoscleral route, the aqueous humour's pressure-independent exit. Follow the fluid from the anterior chamber, between the iris root and the ciliary body, through the spaces between the muscle bundles, into the suprachoroidal space, and slowly across the sclera into the orbit, where vessels reclaim it. Learn why this unconventional outflow barely responds to eye pressure, why it carries roughly ten to twenty per cent of total outflow in a young adult, and how its capacity declines gently across life as normal physiology. Hear how the eye pairs a pressure-sensitive main road with a pressure-blind scenic route to build redundancy by design. Made for optometry students and practising optometrists who want ocular physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-04/S04E08-uveoscleral-outflow.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-08-uveoscleral-outflow/S04E08-uveoscleral-outflow.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-08-uveoscleral-outflow/S04E08-uveoscleral-outflow.mp3",
+        "bytes": 20544237,
+        "duration_sec": 1712.0,
+        "duration_min": 28.53,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:17:54.378950+00:00"
+    },
+    {
+      "id": "S03-S04E09",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 4,
+      "season": "Aqueous and Intraocular Pressure",
+      "episode_no": 9,
+      "title": "Intraocular Pressure Regulation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "intraocular pressure regulation",
+        "IOP control",
+        "episcleral venous pressure",
+        "diurnal IOP",
+        "pressure rhythms",
+        "aqueous balance",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Every healthy eye runs gently inflated, a few millimetres of mercury above the world outside, and this episode of Focus Cast by focuslinks opens the control room that keeps it there. Learn the three-line ledger that sets intraocular pressure: aqueous production, outflow ease, and the forgotten third entry, episcleral venous pressure. Then ride the normal rhythms, from the heartbeat and breathing wobbles to the morning-high daily curve, the postural shift, the exercise dip, and the pressure-sensitive drain that quietly trims everything back to its set point. Made for optometry students and practising optometrists who want physiology explained clearly for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-04/S04E09-intraocular-pressure-regulation.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-09-intraocular-pressure-regulation/S04E09-intraocular-pressure-regulation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-09-intraocular-pressure-regulation/S04E09-intraocular-pressure-regulation.mp3",
+        "bytes": 20709549,
+        "duration_sec": 1725.7,
+        "duration_min": 28.76,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:19:51.652702+00:00"
+    },
+    {
+      "id": "S03-S04E10",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 4,
+      "season": "Aqueous and Intraocular Pressure",
+      "episode_no": 10,
+      "title": "Normal IOP Physiology",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "normal intraocular pressure",
+        "IOP range",
+        "normal IOP variation",
+        "IOP distribution",
+        "eye pressure physiology",
+        "IOP symmetry",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The season finale of Focus Cast by focuslinks asks a simple question with a statistical answer: what does normal intraocular pressure actually look like? Learn why adult eyes average in the mid-teens of millimetres of mercury, why the healthy corridor runs wide from about ten to twenty-one, and why pressure spreads across people the way height does, along a bell curve rather than a single number. Hear what the pressure buys the eye, from globe shape for stable optics to smooth corneal curvature and even support for the retina, along with the morning-high daily rhythm, the small pulse wiggles and the near-symmetry between a person's two eyes. The episode also closes the loop on the whole season of aqueous humour physiology, from production through drainage to regulation, and hands the microphone to the lens for the next season. Made for optometry students, optical teams and curious listeners who want the normal eye's pressure story told in plain words.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-04/S04E10-normal-iop-physiology.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-10-normal-iop-physiology/S04E10-normal-iop-physiology.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-10-normal-iop-physiology/S04E10-normal-iop-physiology.mp3",
+        "bytes": 20642733,
+        "duration_sec": 1720.2,
+        "duration_min": 28.67,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:21:50.204790+00:00"
     },
     {
       "id": "S03-S10E01",

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E08-uveoscleral-outflow.txt",
+  "stem": "S04E08-uveoscleral-outflow",
+  "words": 4228,
+  "generated_at_utc": "2026-10-04T22:17:54.378950+00:00",
+  "title": "Uveoscleral Outflow",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Aqueous and Intraocular Pressure",
+  "season_no": "4",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "uveoscleral outflow",
+    "unconventional outflow",
+    "suprachoroidal space",
+    "ciliary muscle",
+    "pressure independent outflow",
+    "aqueous drainage",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The eye has two drains, and this episode of Focus Cast by focuslinks walks the quiet one: the uveoscleral route, the aqueous humour's pressure-independent exit. Follow the fluid from the anterior chamber, between the iris root and the ciliary body, through the spaces between the muscle bundles, into the suprachoroidal space, and slowly across the sclera into the orbit, where vessels reclaim it. Learn why this unconventional outflow barely responds to eye pressure, why it carries roughly ten to twenty per cent of total outflow in a young adult, and how its capacity declines gently across life as normal physiology. Hear how the eye pairs a pressure-sensitive main road with a pressure-blind scenic route to build redundancy by design. Made for optometry students and practising optometrists who want ocular physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1712.0,
+  "duration_min": 28.53,
+  "files": [
+    "S04E08-uveoscleral-outflow.wav",
+    "S04E08-uveoscleral-outflow.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E10-normal-iop-physiology.txt",
+  "stem": "S04E10-normal-iop-physiology",
+  "words": 4281,
+  "generated_at_utc": "2026-10-04T22:21:50.204790+00:00",
+  "title": "Normal IOP Physiology",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Aqueous and Intraocular Pressure",
+  "season_no": "4",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "normal intraocular pressure",
+    "IOP range",
+    "normal IOP variation",
+    "IOP distribution",
+    "eye pressure physiology",
+    "IOP symmetry",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The season finale of Focus Cast by focuslinks asks a simple question with a statistical answer: what does normal intraocular pressure actually look like? Learn why adult eyes average in the mid-teens of millimetres of mercury, why the healthy corridor runs wide from about ten to twenty-one, and why pressure spreads across people the way height does, along a bell curve rather than a single number. Hear what the pressure buys the eye, from globe shape for stable optics to smooth corneal curvature and even support for the retina, along with the morning-high daily rhythm, the small pulse wiggles and the near-symmetry between a person's two eyes. The episode also closes the loop on the whole season of aqueous humour physiology, from production through drainage to regulation, and hands the microphone to the lens for the next season. Made for optometry students, optical teams and curious listeners who want the normal eye's pressure story told in plain words.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1720.2,
+  "duration_min": 28.67,
+  "files": [
+    "S04E10-normal-iop-physiology.wav",
+    "S04E10-normal-iop-physiology.mp3"
+  ]
+}

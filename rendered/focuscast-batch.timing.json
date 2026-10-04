@@ -1,21 +1,21 @@
 {
   "episodes": 10,
-  "words_total": 43372,
-  "eta_render_min": 24.3,
-  "actual_push_to_complete_min": 24.3,
-  "actual_total_min": 24.8,
+  "words_total": 42622,
+  "eta_render_min": 24.0,
+  "actual_push_to_complete_min": 22.0,
+  "actual_total_min": 22.6,
   "kernel": "phantoz/focuscast-batch",
   "delivered": [
-    "series-03-ocular-physiology/season-03-corneal-physiology/ep-01-how-the-cornea-maintains-transparency/S03E01-how-the-cornea-maintains-transparency.mp3",
-    "series-03-ocular-physiology/season-03-corneal-physiology/ep-02-corneal-hydration/S03E02-corneal-hydration.mp3",
-    "series-03-ocular-physiology/season-03-corneal-physiology/ep-03-corneal-endothelial-pump-function/S03E03-corneal-endothelial-pump-function.mp3",
-    "series-03-ocular-physiology/season-03-corneal-physiology/ep-04-corneal-epithelial-renewal/S03E04-corneal-epithelial-renewal.mp3",
-    "series-03-ocular-physiology/season-03-corneal-physiology/ep-05-corneal-barrier-function/S03E05-corneal-barrier-function.mp3",
-    "series-03-ocular-physiology/season-03-corneal-physiology/ep-06-corneal-metabolism/S03E06-corneal-metabolism.mp3",
-    "series-03-ocular-physiology/season-03-corneal-physiology/ep-07-corneal-oxygenation/S03E07-corneal-oxygenation.mp3",
-    "series-03-ocular-physiology/season-03-corneal-physiology/ep-08-corneal-nutritional-support/S03E08-corneal-nutritional-support.mp3",
-    "series-03-ocular-physiology/season-03-corneal-physiology/ep-09-corneal-wound-healing/S03E09-corneal-wound-healing.mp3",
-    "series-03-ocular-physiology/season-03-corneal-physiology/ep-10-corneal-sensory-function/S03E10-corneal-sensory-function.mp3"
+    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-01-why-the-eye-produces-aqueous-humour/S04E01-why-the-eye-produces-aqueous-humour.mp3",
+    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-02-aqueous-humour-production/S04E02-aqueous-humour-production.mp3",
+    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-03-ciliary-processes-and-aqueous-formation/S04E03-ciliary-processes-and-aqueous-formation.mp3",
+    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-04-aqueous-composition/S04E04-aqueous-composition.mp3",
+    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-05-aqueous-flow/S04E05-aqueous-flow.mp3",
+    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-06-aqueous-humour-circulation/S04E06-aqueous-humour-circulation.mp3",
+    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-07-trabecular-outflow/S04E07-trabecular-outflow.mp3",
+    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-08-uveoscleral-outflow/S04E08-uveoscleral-outflow.mp3",
+    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-09-intraocular-pressure-regulation/S04E09-intraocular-pressure-regulation.mp3",
+    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-10-normal-iop-physiology/S04E10-normal-iop-physiology.mp3"
   ],
-  "started_at_utc": "2026-10-04T21:47:53.500136+00:00"
+  "started_at_utc": "2026-10-04T22:24:52.952750+00:00"
 }

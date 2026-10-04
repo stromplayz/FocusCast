@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E04-aqueous-composition.txt",
+  "stem": "S04E04-aqueous-composition",
+  "words": 4248,
+  "generated_at_utc": "2026-10-04T22:10:00.334863+00:00",
+  "title": "Aqueous Composition",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Aqueous and Intraocular Pressure",
+  "season_no": "4",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "aqueous composition",
+    "ascorbate",
+    "aqueous protein",
+    "aqueous glucose",
+    "electrolytes",
+    "aqueous humour chemistry",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The aqueous humour looks like simple water, and this episode of Focus Cast by focuslinks reads its full recipe against blood plasma to show that almost nothing in it is accidental. Learn why the fluid is nearly all water with sodium, chloride and bicarbonate in blood's own order, why protein is held to around one two-hundredth of the blood level to keep the light path clear, and why ascorbate is stockpiled at ten to twenty times its blood level as an antioxidant ration for the lens and cornea. Follow glucose sitting a little below blood level because the lens and cornea sip from it continuously, lactate running above blood level as the collected exhaust of ocular glycolysis, and the traces of growth factors and signalling molecules riding along. Every difference on the list is a choice the eye makes on purpose: transparency, antioxidant delivery and waste collection. Made for optometry students, optical teams and curious listeners who want ocular physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1737.1,
+  "duration_min": 28.95,
+  "files": [
+    "S04E04-aqueous-composition.wav",
+    "S04E04-aqueous-composition.mp3"
+  ]
+}

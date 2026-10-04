@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E01-why-the-eye-produces-aqueous-humour.txt",
+  "stem": "S04E01-why-the-eye-produces-aqueous-humour",
+  "words": 4195,
+  "generated_at_utc": "2026-10-04T22:03:32.763138+00:00",
+  "title": "Why the Eye Produces Aqueous Humour",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Aqueous and Intraocular Pressure",
+  "season_no": "4",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "aqueous humour",
+    "aqueous functions",
+    "intraocular pressure",
+    "ocular nutrition",
+    "aqueous turnover",
+    "eye chambers",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Last season the cornea kept the window clear, and now Series 3 turns to the quiet river behind it, in the season opener of Focus Cast by focuslinks. This episode teaches why the eye manufactures aqueous humour at all, following the fluid through its four jobs: courier of glucose, amino acids and ascorbate to tissues that have no blood supply, drain for lactate and spent metabolites, source of the gentle pressure that keeps the globe inflated and the retina in place, and transparent, chemically buffered medium for the front of the eye. You will learn where the aqueous lives, how the two chambers together hold about a quarter of a millilitre, and how production at roughly two to three microlitres per minute replaces the entire volume roughly ten times a day. The season ahead runs ten episodes, from why the eye makes this fluid to the physiology of normal intraocular pressure. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1658.2,
+  "duration_min": 27.64,
+  "files": [
+    "S04E01-why-the-eye-produces-aqueous-humour.wav",
+    "S04E01-why-the-eye-produces-aqueous-humour.mp3"
+  ]
+}

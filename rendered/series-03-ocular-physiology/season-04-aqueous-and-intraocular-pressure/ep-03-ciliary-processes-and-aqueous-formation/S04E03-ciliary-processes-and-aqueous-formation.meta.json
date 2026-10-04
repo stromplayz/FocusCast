@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E03-ciliary-processes-and-aqueous-formation.txt",
+  "stem": "S04E03-ciliary-processes-and-aqueous-formation",
+  "words": 4246,
+  "generated_at_utc": "2026-10-04T22:07:58.897092+00:00",
+  "title": "Ciliary Processes and Aqueous Formation",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Aqueous and Intraocular Pressure",
+  "season_no": "4",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "ciliary processes",
+    "aqueous formation",
+    "pigmented epithelium",
+    "nonpigmented epithelium",
+    "blood aqueous barrier",
+    "ion transport",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Deep behind the iris a small factory runs around the clock, and this episode of Focus Cast by focuslinks takes you onto its floor. We walk the ciliary processes, about seventy finger-like folds whose pleated surfaces multiply the working area available for secretion. We meet the double epithelium, an outer pigmented layer facing the blood-rich stroma and an inner nonpigmented layer facing the fluid, joined by gap junctions into one electrical unit, and we follow the assembly line of sodium pumps, carbonic anhydrase, chloride channels and aquaporin water channels that turns blood into manufactured aqueous. We show how tight junctions between cells build the blood aqueous barrier, so the fluid arriving in the posterior chamber is a crafted product rather than a leak. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1811.1,
+  "duration_min": 30.19,
+  "files": [
+    "S04E03-ciliary-processes-and-aqueous-formation.wav",
+    "S04E03-ciliary-processes-and-aqueous-formation.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E07-trabecular-outflow.txt",
+  "stem": "S04E07-trabecular-outflow",
+  "words": 4214,
+  "generated_at_utc": "2026-10-04T22:15:56.230691+00:00",
+  "title": "Trabecular Outflow",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Aqueous and Intraocular Pressure",
+  "season_no": "4",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "trabecular outflow",
+    "trabecular meshwork",
+    "canal of Schlemm",
+    "conventional outflow",
+    "aqueous veins",
+    "outflow resistance",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Every drop the eye makes must leave, and this episode of Focus Cast by focuslinks walks the main exit, station by station. Follow the aqueous humour from the pupil to the angle, through the three zones of the trabecular meshwork, across the endothelium of the canal of Schlemm, and out through collector channels into aqueous veins that empty into the episcleral venous blood system. Learn why the resistance in this sieve is engineered on purpose, how the conventional route is a pressure-dependent drain that carries more whenever pressure rises, and why that makes it the eye's adjustable valve. The episode closes with a station-by-station recap, the numbers worth memorising, and a look ahead to the quiet partner route. Made for optometry students and practising optometrists who want the eye's main drainage road explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1742.4,
+  "duration_min": 29.04,
+  "files": [
+    "S04E07-trabecular-outflow.wav",
+    "S04E07-trabecular-outflow.mp3"
+  ]
+}

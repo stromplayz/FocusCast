@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E09-intraocular-pressure-regulation.txt",
+  "stem": "S04E09-intraocular-pressure-regulation",
+  "words": 4280,
+  "generated_at_utc": "2026-10-04T22:19:51.652702+00:00",
+  "title": "Intraocular Pressure Regulation",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Aqueous and Intraocular Pressure",
+  "season_no": "4",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "intraocular pressure regulation",
+    "IOP control",
+    "episcleral venous pressure",
+    "diurnal IOP",
+    "pressure rhythms",
+    "aqueous balance",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Every healthy eye runs gently inflated, a few millimetres of mercury above the world outside, and this episode of Focus Cast by focuslinks opens the control room that keeps it there. Learn the three-line ledger that sets intraocular pressure: aqueous production, outflow ease, and the forgotten third entry, episcleral venous pressure. Then ride the normal rhythms, from the heartbeat and breathing wobbles to the morning-high daily curve, the postural shift, the exercise dip, and the pressure-sensitive drain that quietly trims everything back to its set point. Made for optometry students and practising optometrists who want physiology explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1725.7,
+  "duration_min": 28.76,
+  "files": [
+    "S04E09-intraocular-pressure-regulation.wav",
+    "S04E09-intraocular-pressure-regulation.mp3"
+  ]
+}

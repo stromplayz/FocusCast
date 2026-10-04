@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E06-aqueous-humour-circulation.txt",
+  "stem": "S04E06-aqueous-humour-circulation",
+  "words": 4232,
+  "generated_at_utc": "2026-10-04T22:14:00.669600+00:00",
+  "title": "Aqueous Humour Circulation",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Aqueous and Intraocular Pressure",
+  "season_no": "4",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "aqueous circulation",
+    "aqueous turnover",
+    "aqueous outflow routes",
+    "trabecular route",
+    "uveoscleral route",
+    "aqueous dynamics",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Aqueous humour is a river with a map, and this episode of Focus Cast by focuslinks walks the whole loop in one sitting. Follow the water from its birth at the ciliary processes, through the posterior chamber, across the pupil, and across the anterior chamber to the drainage fork at the angle, where the busy trabecular route and the quiet uveoscleral route part ways. Learn the bookkeeping that keeps the system honest: flow in microlitres per minute, turnover as the fraction of chamber volume replaced each minute, and a replacement timescale of roughly ten full renewals every day. Hear why the cornea and the lens eat from a fresh table at every meal, and why circulation is a story of places while flow is a story of quantities. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1700.3,
+  "duration_min": 28.34,
+  "files": [
+    "S04E06-aqueous-humour-circulation.wav",
+    "S04E06-aqueous-humour-circulation.mp3"
+  ]
+}
