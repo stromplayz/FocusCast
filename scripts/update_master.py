@@ -51,6 +51,11 @@ def slugify(s: str) -> str:
     return re.sub(r"-{2,}", "-", s)
 
 
+def ep_id_of(series_no, season_no, episode_no) -> str:
+    """Series-aware catalog id (Series 1 and Series 2 both have S01E01...)."""
+    return f"S{series_no:02d}-S{season_no:02d}E{episode_no:02d}"
+
+
 def find_script(stem: str) -> str | None:
     hits = list((ROOT / "library" / "series").rglob(f"{stem}.txt"))
     return str(hits[0].relative_to(ROOT)) if hits else None
@@ -71,6 +76,12 @@ def main() -> None:
             for e in old.get("episodes", []):
                 mp3_rel = (e.get("audio") or {}).get("mp3")
                 if mp3_rel and (ROOT / mp3_rel).exists():
+                    # re-key with the series-aware id scheme (idempotent)
+                    try:
+                        e["id"] = ep_id_of(e.get("series_no", 0), e.get("season_no", 0),
+                                           e.get("episode_no", 0))
+                    except Exception:
+                        pass
                     kept.append(e)
                 else:
                     print(f"[master] drop stale entry {e.get('id')}: mp3 missing")
@@ -105,7 +116,7 @@ def main() -> None:
             print(f"[master] skip {stem}: unparseable numbering")
             continue
 
-        ep_id = f"S{season_no:02d}E{episode_no:02d}"
+        ep_id = ep_id_of(series_no, season_no, episode_no)
         rel_mp3 = mp3_path.relative_to(ROOT).as_posix()
         entry = {
             "id": ep_id,

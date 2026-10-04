@@ -1,11 +1,11 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-02T21:18:19.951231+00:00",
+  "updated_at": "2026-10-04T04:28:36.134362+00:00",
   "episode_count": 100,
   "episodes": [
     {
-      "id": "S01E01",
+      "id": "S01-S01E01",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 1,
@@ -46,7 +46,7 @@
       "generated_at_utc": "2026-10-02T13:08:15.496043+00:00"
     },
     {
-      "id": "S01E02",
+      "id": "S01-S01E02",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 1,
@@ -87,7 +87,7 @@
       "generated_at_utc": "2026-10-02T13:11:19.190286+00:00"
     },
     {
-      "id": "S01E03",
+      "id": "S01-S01E03",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 1,
@@ -128,7 +128,7 @@
       "generated_at_utc": "2026-10-02T13:13:09.810673+00:00"
     },
     {
-      "id": "S01E04",
+      "id": "S01-S01E04",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 1,
@@ -169,7 +169,7 @@
       "generated_at_utc": "2026-10-02T13:15:07.185225+00:00"
     },
     {
-      "id": "S01E05",
+      "id": "S01-S01E05",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 1,
@@ -210,7 +210,7 @@
       "generated_at_utc": "2026-10-02T13:16:57.693180+00:00"
     },
     {
-      "id": "S01E06",
+      "id": "S01-S01E06",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 1,
@@ -251,7 +251,7 @@
       "generated_at_utc": "2026-10-02T13:19:00.211637+00:00"
     },
     {
-      "id": "S01E07",
+      "id": "S01-S01E07",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 1,
@@ -292,7 +292,7 @@
       "generated_at_utc": "2026-10-02T13:20:57.597001+00:00"
     },
     {
-      "id": "S01E08",
+      "id": "S01-S01E08",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 1,
@@ -333,7 +333,7 @@
       "generated_at_utc": "2026-10-02T13:22:54.751581+00:00"
     },
     {
-      "id": "S01E09",
+      "id": "S01-S01E09",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 1,
@@ -374,7 +374,7 @@
       "generated_at_utc": "2026-10-02T13:24:55.637967+00:00"
     },
     {
-      "id": "S01E10",
+      "id": "S01-S01E10",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 1,
@@ -415,7 +415,7 @@
       "generated_at_utc": "2026-10-02T13:26:49.022413+00:00"
     },
     {
-      "id": "S02E01",
+      "id": "S01-S02E01",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 2,
@@ -456,7 +456,7 @@
       "generated_at_utc": "2026-10-02T13:28:39.299763+00:00"
     },
     {
-      "id": "S02E02",
+      "id": "S01-S02E02",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 2,
@@ -497,7 +497,7 @@
       "generated_at_utc": "2026-10-02T13:30:23.825569+00:00"
     },
     {
-      "id": "S02E03",
+      "id": "S01-S02E03",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 2,
@@ -538,7 +538,7 @@
       "generated_at_utc": "2026-10-02T13:32:06.438111+00:00"
     },
     {
-      "id": "S02E04",
+      "id": "S01-S02E04",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 2,
@@ -579,7 +579,7 @@
       "generated_at_utc": "2026-10-02T13:33:54.701584+00:00"
     },
     {
-      "id": "S02E05",
+      "id": "S01-S02E05",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 2,
@@ -620,7 +620,7 @@
       "generated_at_utc": "2026-10-02T13:35:45.158253+00:00"
     },
     {
-      "id": "S02E06",
+      "id": "S01-S02E06",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 2,
@@ -661,7 +661,7 @@
       "generated_at_utc": "2026-10-02T13:37:37.204054+00:00"
     },
     {
-      "id": "S02E07",
+      "id": "S01-S02E07",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 2,
@@ -702,7 +702,7 @@
       "generated_at_utc": "2026-10-02T13:39:31.118839+00:00"
     },
     {
-      "id": "S02E08",
+      "id": "S01-S02E08",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 2,
@@ -743,7 +743,7 @@
       "generated_at_utc": "2026-10-02T13:41:21.627589+00:00"
     },
     {
-      "id": "S02E09",
+      "id": "S01-S02E09",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 2,
@@ -784,7 +784,7 @@
       "generated_at_utc": "2026-10-02T13:43:10.123853+00:00"
     },
     {
-      "id": "S02E10",
+      "id": "S01-S02E10",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 2,
@@ -825,7 +825,7 @@
       "generated_at_utc": "2026-10-02T13:44:58.982024+00:00"
     },
     {
-      "id": "S03E01",
+      "id": "S01-S03E01",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 3,
@@ -864,7 +864,7 @@
       "generated_at_utc": "2026-10-02T17:55:40.953584+00:00"
     },
     {
-      "id": "S03E02",
+      "id": "S01-S03E02",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 3,
@@ -903,7 +903,7 @@
       "generated_at_utc": "2026-10-02T17:58:00.135821+00:00"
     },
     {
-      "id": "S03E03",
+      "id": "S01-S03E03",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 3,
@@ -943,7 +943,7 @@
       "generated_at_utc": "2026-10-02T17:59:54.302390+00:00"
     },
     {
-      "id": "S03E04",
+      "id": "S01-S03E04",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 3,
@@ -983,7 +983,7 @@
       "generated_at_utc": "2026-10-02T18:01:52.182297+00:00"
     },
     {
-      "id": "S03E05",
+      "id": "S01-S03E05",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 3,
@@ -1023,7 +1023,7 @@
       "generated_at_utc": "2026-10-02T18:03:45.862873+00:00"
     },
     {
-      "id": "S03E06",
+      "id": "S01-S03E06",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 3,
@@ -1062,7 +1062,7 @@
       "generated_at_utc": "2026-10-02T18:05:35.957344+00:00"
     },
     {
-      "id": "S03E07",
+      "id": "S01-S03E07",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 3,
@@ -1101,7 +1101,7 @@
       "generated_at_utc": "2026-10-02T18:07:25.796765+00:00"
     },
     {
-      "id": "S03E08",
+      "id": "S01-S03E08",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 3,
@@ -1141,7 +1141,7 @@
       "generated_at_utc": "2026-10-02T18:09:15.671245+00:00"
     },
     {
-      "id": "S03E09",
+      "id": "S01-S03E09",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 3,
@@ -1181,7 +1181,7 @@
       "generated_at_utc": "2026-10-02T18:11:11.983251+00:00"
     },
     {
-      "id": "S03E10",
+      "id": "S01-S03E10",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 3,
@@ -1221,7 +1221,7 @@
       "generated_at_utc": "2026-10-02T18:13:08.166781+00:00"
     },
     {
-      "id": "S04E01",
+      "id": "S01-S04E01",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 4,
@@ -1260,7 +1260,7 @@
       "generated_at_utc": "2026-10-02T18:21:54.746362+00:00"
     },
     {
-      "id": "S04E02",
+      "id": "S01-S04E02",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 4,
@@ -1299,7 +1299,7 @@
       "generated_at_utc": "2026-10-02T18:24:12.505520+00:00"
     },
     {
-      "id": "S04E03",
+      "id": "S01-S04E03",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 4,
@@ -1338,7 +1338,7 @@
       "generated_at_utc": "2026-10-02T18:25:58.976618+00:00"
     },
     {
-      "id": "S04E04",
+      "id": "S01-S04E04",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 4,
@@ -1377,7 +1377,7 @@
       "generated_at_utc": "2026-10-02T18:27:49.495102+00:00"
     },
     {
-      "id": "S04E05",
+      "id": "S01-S04E05",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 4,
@@ -1416,7 +1416,7 @@
       "generated_at_utc": "2026-10-02T18:29:37.043145+00:00"
     },
     {
-      "id": "S04E06",
+      "id": "S01-S04E06",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 4,
@@ -1455,7 +1455,7 @@
       "generated_at_utc": "2026-10-02T18:31:25.470218+00:00"
     },
     {
-      "id": "S04E07",
+      "id": "S01-S04E07",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 4,
@@ -1494,7 +1494,7 @@
       "generated_at_utc": "2026-10-02T18:33:18.044676+00:00"
     },
     {
-      "id": "S04E08",
+      "id": "S01-S04E08",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 4,
@@ -1533,7 +1533,7 @@
       "generated_at_utc": "2026-10-02T18:35:10.673144+00:00"
     },
     {
-      "id": "S04E09",
+      "id": "S01-S04E09",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 4,
@@ -1572,7 +1572,7 @@
       "generated_at_utc": "2026-10-02T18:37:03.802672+00:00"
     },
     {
-      "id": "S04E10",
+      "id": "S01-S04E10",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 4,
@@ -1612,7 +1612,7 @@
       "generated_at_utc": "2026-10-02T18:38:52.983733+00:00"
     },
     {
-      "id": "S05E01",
+      "id": "S01-S05E01",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 5,
@@ -1651,7 +1651,7 @@
       "generated_at_utc": "2026-10-02T18:46:17.338013+00:00"
     },
     {
-      "id": "S05E02",
+      "id": "S01-S05E02",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 5,
@@ -1690,7 +1690,7 @@
       "generated_at_utc": "2026-10-02T18:48:38.686071+00:00"
     },
     {
-      "id": "S05E03",
+      "id": "S01-S05E03",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 5,
@@ -1729,7 +1729,7 @@
       "generated_at_utc": "2026-10-02T18:50:30.458155+00:00"
     },
     {
-      "id": "S05E04",
+      "id": "S01-S05E04",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 5,
@@ -1768,7 +1768,7 @@
       "generated_at_utc": "2026-10-02T18:52:19.037213+00:00"
     },
     {
-      "id": "S05E05",
+      "id": "S01-S05E05",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 5,
@@ -1807,7 +1807,7 @@
       "generated_at_utc": "2026-10-02T18:54:10.135453+00:00"
     },
     {
-      "id": "S05E06",
+      "id": "S01-S05E06",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 5,
@@ -1846,7 +1846,7 @@
       "generated_at_utc": "2026-10-02T18:56:02.168352+00:00"
     },
     {
-      "id": "S05E07",
+      "id": "S01-S05E07",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 5,
@@ -1885,7 +1885,7 @@
       "generated_at_utc": "2026-10-02T18:57:47.265669+00:00"
     },
     {
-      "id": "S05E08",
+      "id": "S01-S05E08",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 5,
@@ -1924,7 +1924,7 @@
       "generated_at_utc": "2026-10-02T18:59:32.362955+00:00"
     },
     {
-      "id": "S05E09",
+      "id": "S01-S05E09",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 5,
@@ -1963,7 +1963,7 @@
       "generated_at_utc": "2026-10-02T19:01:17.867001+00:00"
     },
     {
-      "id": "S05E10",
+      "id": "S01-S05E10",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 5,
@@ -2002,7 +2002,7 @@
       "generated_at_utc": "2026-10-02T19:03:05.049534+00:00"
     },
     {
-      "id": "S06E01",
+      "id": "S01-S06E01",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 6,
@@ -2041,7 +2041,7 @@
       "generated_at_utc": "2026-10-02T19:09:53.164519+00:00"
     },
     {
-      "id": "S06E02",
+      "id": "S01-S06E02",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 6,
@@ -2080,7 +2080,7 @@
       "generated_at_utc": "2026-10-02T19:12:12.364293+00:00"
     },
     {
-      "id": "S06E03",
+      "id": "S01-S06E03",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 6,
@@ -2119,7 +2119,7 @@
       "generated_at_utc": "2026-10-02T19:13:57.260041+00:00"
     },
     {
-      "id": "S06E04",
+      "id": "S01-S06E04",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 6,
@@ -2158,7 +2158,7 @@
       "generated_at_utc": "2026-10-02T19:15:45.576776+00:00"
     },
     {
-      "id": "S06E05",
+      "id": "S01-S06E05",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 6,
@@ -2197,7 +2197,7 @@
       "generated_at_utc": "2026-10-02T19:17:34.628198+00:00"
     },
     {
-      "id": "S06E06",
+      "id": "S01-S06E06",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 6,
@@ -2236,7 +2236,7 @@
       "generated_at_utc": "2026-10-02T19:19:24.298622+00:00"
     },
     {
-      "id": "S06E07",
+      "id": "S01-S06E07",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 6,
@@ -2275,7 +2275,7 @@
       "generated_at_utc": "2026-10-02T19:21:12.916669+00:00"
     },
     {
-      "id": "S06E08",
+      "id": "S01-S06E08",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 6,
@@ -2314,7 +2314,7 @@
       "generated_at_utc": "2026-10-02T19:23:01.807240+00:00"
     },
     {
-      "id": "S06E09",
+      "id": "S01-S06E09",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 6,
@@ -2353,7 +2353,7 @@
       "generated_at_utc": "2026-10-02T19:24:48.424942+00:00"
     },
     {
-      "id": "S06E10",
+      "id": "S01-S06E10",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 6,
@@ -2392,7 +2392,7 @@
       "generated_at_utc": "2026-10-02T19:26:40.495063+00:00"
     },
     {
-      "id": "S07E01",
+      "id": "S01-S07E01",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 7,
@@ -2431,7 +2431,7 @@
       "generated_at_utc": "2026-10-02T19:36:14.785199+00:00"
     },
     {
-      "id": "S07E02",
+      "id": "S01-S07E02",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 7,
@@ -2470,7 +2470,7 @@
       "generated_at_utc": "2026-10-02T19:38:36.615796+00:00"
     },
     {
-      "id": "S07E03",
+      "id": "S01-S07E03",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 7,
@@ -2509,7 +2509,7 @@
       "generated_at_utc": "2026-10-02T19:40:20.415873+00:00"
     },
     {
-      "id": "S07E04",
+      "id": "S01-S07E04",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 7,
@@ -2548,7 +2548,7 @@
       "generated_at_utc": "2026-10-02T19:42:10.113021+00:00"
     },
     {
-      "id": "S07E05",
+      "id": "S01-S07E05",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 7,
@@ -2587,7 +2587,7 @@
       "generated_at_utc": "2026-10-02T19:44:00.318905+00:00"
     },
     {
-      "id": "S07E06",
+      "id": "S01-S07E06",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 7,
@@ -2626,7 +2626,7 @@
       "generated_at_utc": "2026-10-02T19:45:49.242444+00:00"
     },
     {
-      "id": "S07E07",
+      "id": "S01-S07E07",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 7,
@@ -2665,7 +2665,7 @@
       "generated_at_utc": "2026-10-02T19:47:37.912514+00:00"
     },
     {
-      "id": "S07E08",
+      "id": "S01-S07E08",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 7,
@@ -2704,7 +2704,7 @@
       "generated_at_utc": "2026-10-02T19:49:25.190760+00:00"
     },
     {
-      "id": "S07E09",
+      "id": "S01-S07E09",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 7,
@@ -2743,7 +2743,7 @@
       "generated_at_utc": "2026-10-02T19:51:11.544801+00:00"
     },
     {
-      "id": "S07E10",
+      "id": "S01-S07E10",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 7,
@@ -2782,7 +2782,7 @@
       "generated_at_utc": "2026-10-02T19:53:02.725700+00:00"
     },
     {
-      "id": "S08E01",
+      "id": "S01-S08E01",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 8,
@@ -2821,7 +2821,7 @@
       "generated_at_utc": "2026-10-02T20:02:10.429522+00:00"
     },
     {
-      "id": "S08E02",
+      "id": "S01-S08E02",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 8,
@@ -2860,7 +2860,7 @@
       "generated_at_utc": "2026-10-02T20:04:55.400204+00:00"
     },
     {
-      "id": "S08E03",
+      "id": "S01-S08E03",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 8,
@@ -2899,7 +2899,7 @@
       "generated_at_utc": "2026-10-02T20:06:55.744185+00:00"
     },
     {
-      "id": "S08E04",
+      "id": "S01-S08E04",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 8,
@@ -2938,7 +2938,7 @@
       "generated_at_utc": "2026-10-02T20:08:55.746535+00:00"
     },
     {
-      "id": "S08E05",
+      "id": "S01-S08E05",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 8,
@@ -2977,7 +2977,7 @@
       "generated_at_utc": "2026-10-02T20:10:59.533966+00:00"
     },
     {
-      "id": "S08E06",
+      "id": "S01-S08E06",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 8,
@@ -3016,7 +3016,7 @@
       "generated_at_utc": "2026-10-02T20:13:04.446588+00:00"
     },
     {
-      "id": "S08E07",
+      "id": "S01-S08E07",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 8,
@@ -3055,7 +3055,7 @@
       "generated_at_utc": "2026-10-02T20:15:06.384934+00:00"
     },
     {
-      "id": "S08E08",
+      "id": "S01-S08E08",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 8,
@@ -3094,7 +3094,7 @@
       "generated_at_utc": "2026-10-02T20:17:08.454372+00:00"
     },
     {
-      "id": "S08E09",
+      "id": "S01-S08E09",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 8,
@@ -3133,7 +3133,7 @@
       "generated_at_utc": "2026-10-02T20:19:13.729451+00:00"
     },
     {
-      "id": "S08E10",
+      "id": "S01-S08E10",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 8,
@@ -3172,7 +3172,7 @@
       "generated_at_utc": "2026-10-02T20:21:17.796213+00:00"
     },
     {
-      "id": "S09E01",
+      "id": "S01-S09E01",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 9,
@@ -3211,7 +3211,7 @@
       "generated_at_utc": "2026-10-02T20:31:47.503781+00:00"
     },
     {
-      "id": "S09E02",
+      "id": "S01-S09E02",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 9,
@@ -3250,7 +3250,7 @@
       "generated_at_utc": "2026-10-02T20:34:03.923696+00:00"
     },
     {
-      "id": "S09E03",
+      "id": "S01-S09E03",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 9,
@@ -3289,7 +3289,7 @@
       "generated_at_utc": "2026-10-02T20:35:52.822815+00:00"
     },
     {
-      "id": "S09E04",
+      "id": "S01-S09E04",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 9,
@@ -3328,7 +3328,7 @@
       "generated_at_utc": "2026-10-02T20:37:42.314481+00:00"
     },
     {
-      "id": "S09E05",
+      "id": "S01-S09E05",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 9,
@@ -3367,7 +3367,7 @@
       "generated_at_utc": "2026-10-02T20:39:30.537929+00:00"
     },
     {
-      "id": "S09E06",
+      "id": "S01-S09E06",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 9,
@@ -3406,7 +3406,7 @@
       "generated_at_utc": "2026-10-02T20:41:21.787727+00:00"
     },
     {
-      "id": "S09E07",
+      "id": "S01-S09E07",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 9,
@@ -3445,7 +3445,7 @@
       "generated_at_utc": "2026-10-02T20:43:11.727023+00:00"
     },
     {
-      "id": "S09E08",
+      "id": "S01-S09E08",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 9,
@@ -3484,7 +3484,7 @@
       "generated_at_utc": "2026-10-02T20:45:03.719910+00:00"
     },
     {
-      "id": "S09E09",
+      "id": "S01-S09E09",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 9,
@@ -3523,7 +3523,7 @@
       "generated_at_utc": "2026-10-02T20:46:55.566140+00:00"
     },
     {
-      "id": "S09E10",
+      "id": "S01-S09E10",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 9,
@@ -3562,7 +3562,7 @@
       "generated_at_utc": "2026-10-02T20:48:49.554487+00:00"
     },
     {
-      "id": "S10E01",
+      "id": "S01-S10E01",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 10,
@@ -3601,7 +3601,7 @@
       "generated_at_utc": "2026-10-02T20:58:26.063404+00:00"
     },
     {
-      "id": "S10E02",
+      "id": "S01-S10E02",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 10,
@@ -3640,7 +3640,7 @@
       "generated_at_utc": "2026-10-02T21:00:45.810379+00:00"
     },
     {
-      "id": "S10E03",
+      "id": "S01-S10E03",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 10,
@@ -3679,7 +3679,7 @@
       "generated_at_utc": "2026-10-02T21:02:34.934612+00:00"
     },
     {
-      "id": "S10E04",
+      "id": "S01-S10E04",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 10,
@@ -3718,7 +3718,7 @@
       "generated_at_utc": "2026-10-02T21:04:21.698905+00:00"
     },
     {
-      "id": "S10E05",
+      "id": "S01-S10E05",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 10,
@@ -3757,7 +3757,7 @@
       "generated_at_utc": "2026-10-02T21:06:11.196103+00:00"
     },
     {
-      "id": "S10E06",
+      "id": "S01-S10E06",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 10,
@@ -3796,7 +3796,7 @@
       "generated_at_utc": "2026-10-02T21:08:01.421803+00:00"
     },
     {
-      "id": "S10E07",
+      "id": "S01-S10E07",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 10,
@@ -3836,7 +3836,7 @@
       "generated_at_utc": "2026-10-02T21:09:52.635734+00:00"
     },
     {
-      "id": "S10E08",
+      "id": "S01-S10E08",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 10,
@@ -3876,7 +3876,7 @@
       "generated_at_utc": "2026-10-02T21:11:37.157671+00:00"
     },
     {
-      "id": "S10E09",
+      "id": "S01-S10E09",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 10,
@@ -3916,7 +3916,7 @@
       "generated_at_utc": "2026-10-02T21:13:22.916575+00:00"
     },
     {
-      "id": "S10E10",
+      "id": "S01-S10E10",
       "series_no": 1,
       "series": "Optometry Foundations",
       "season_no": 10,
