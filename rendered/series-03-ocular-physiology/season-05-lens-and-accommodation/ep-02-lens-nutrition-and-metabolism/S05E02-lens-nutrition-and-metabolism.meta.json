@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E02-lens-nutrition-and-metabolism.txt",
+  "stem": "S05E02-lens-nutrition-and-metabolism",
+  "words": 4278,
+  "generated_at_utc": "2026-10-04T22:46:11.798167+00:00",
+  "title": "Lens Nutrition and Metabolism",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Lens and Accommodation",
+  "season_no": "5",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lens nutrition",
+    "lens metabolism",
+    "lens microcirculation",
+    "glutathione",
+    "lens glucose",
+    "ion pumps",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The lens has no blood vessels, so this episode of Focus Cast by focuslinks follows every crumb it eats on the long road from the aqueous humour to the deepest fibre cell. Learn how glucose fuels a tissue that keeps its oxygen appetite deliberately tiny, and why lactate is the exhaust the aqueous must carry away. Hear how an internal circulating current of sodium and potassium stirs nutrients inward through a rich network of gap junctions, an internal river with no moving parts. Then meet glutathione, made and recycled by the lens itself, which keeps its crystallin proteins in their clear, reduced state across a lifetime. Made for optometry students, optical teams and curious listeners who want physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1769.8,
+  "duration_min": 29.5,
+  "files": [
+    "S05E02-lens-nutrition-and-metabolism.wav",
+    "S05E02-lens-nutrition-and-metabolism.mp3"
+  ]
+}

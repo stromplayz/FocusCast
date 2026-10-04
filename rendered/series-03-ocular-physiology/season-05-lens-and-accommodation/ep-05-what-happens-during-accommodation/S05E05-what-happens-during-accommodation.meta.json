@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E05-what-happens-during-accommodation.txt",
+  "stem": "S05E05-what-happens-during-accommodation",
+  "words": 4220,
+  "generated_at_utc": "2026-10-04T22:52:28.381614+00:00",
+  "title": "What Happens During Accommodation?",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Lens and Accommodation",
+  "season_no": "5",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "accommodation",
+    "accommodation mechanism",
+    "focusing",
+    "lens shape change",
+    "near focus",
+    "accommodation physiology",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "This episode of Focus Cast by focuslinks tells the complete mechanical story of accommodation, the focusing event the eye performs every time attention moves from far to near. Learn the resting far-view state first: the ciliary muscle relaxed, the zonular ropes pulled taut and the lens stretched flat and tuned for distance. Then follow the near-view event step by step as the brain decides, the ciliary ring contracts, the zonules go slack and the elastic capsule rounds the lens up, lifting focusing power by roughly fourteen dioptres in a young child. Hear how fast the response runs, why both eyes always accommodate together, and why the eye focuses by deforming one part rather than moving any. Made for optometry students, optical shop teams and curious listeners who finished Series 1 and 2 and want the physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1696.6,
+  "duration_min": 28.28,
+  "files": [
+    "S05E05-what-happens-during-accommodation.wav",
+    "S05E05-what-happens-during-accommodation.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E08-lens-shape-changes.txt",
+  "stem": "S05E08-lens-shape-changes",
+  "words": 4353,
+  "generated_at_utc": "2026-10-04T22:58:39.350367+00:00",
+  "title": "Lens Shape Changes",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Lens and Accommodation",
+  "season_no": "5",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lens shape changes",
+    "lens curvature",
+    "anterior chamber depth",
+    "lens thickness",
+    "focusing power",
+    "optical changes",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "When your gaze jumps from a distant sign to this page, the lens inside your eye quietly changes shape, and episode eight of Season 5 teaches exactly how. Learn the four shape changes of a near-focus round-up: the front surface steepening dramatically, the back surface barely moving because the vitreous backs it like a mould, the central thickness growing as the lens fattens, and the equatorial diameter shrinking slightly as the lens narrows, while the front pole slides forward and shallows the anterior chamber by a whisper. Hear the optical payoff, on the order of twelve to fifteen dioptres of added focusing power in a young eye, and learn why the graded thickness of the lens capsule lets the front surface do most of the work while the retina-facing back stays steady. This episode of Focus Cast by focuslinks is made for optometry students, practising optometrists, and curious listeners who want ocular physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1744.2,
+  "duration_min": 29.07,
+  "files": [
+    "S05E08-lens-shape-changes.wav",
+    "S05E08-lens-shape-changes.mp3"
+  ]
+}

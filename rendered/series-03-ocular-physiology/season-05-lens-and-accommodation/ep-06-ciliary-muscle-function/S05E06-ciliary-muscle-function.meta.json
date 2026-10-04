@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E06-ciliary-muscle-function.txt",
+  "stem": "S05E06-ciliary-muscle-function",
+  "words": 4245,
+  "generated_at_utc": "2026-10-04T22:54:29.120579+00:00",
+  "title": "Ciliary Muscle Function",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Lens and Accommodation",
+  "season_no": "5",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "ciliary muscle function",
+    "ciliary muscle contraction",
+    "parasympathetic accommodation",
+    "muscle tone",
+    "focusing engine",
+    "smooth muscle",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The ciliary muscle is the engine of the focusing system, and this episode of Focus Cast by focuslinks opens its housing. Learn how a ring of smooth muscle in the ciliary body contracts through three families of fibres, longitudinal, radial and circular, hauling inward and forward as one winch to slacken the zonules. Hear how parasympathetic drive from the third cranial nerve commands the muscle through the short ciliary nerves, why there is no opposing muscle, and why relaxation is simply the removal of drive. Meet the tonus idea: the muscle never fully switches off, it idles at a baseline tone even for distance view, and near work turns the dial up. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1691.3,
+  "duration_min": 28.19,
+  "files": [
+    "S05E06-ciliary-muscle-function.wav",
+    "S05E06-ciliary-muscle-function.mp3"
+  ]
+}

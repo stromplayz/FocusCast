@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E01-lens-physiology.txt",
+  "stem": "S05E01-lens-physiology",
+  "words": 4333,
+  "generated_at_utc": "2026-10-04T22:43:24.903950+00:00",
+  "title": "Lens Physiology",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Lens and Accommodation",
+  "season_no": "5",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lens physiology",
+    "lens function",
+    "crystallin proteins",
+    "lens transparency",
+    "avascular lens",
+    "lens design",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Season five of Series 3 opens inside the eye's inner zoom lens, and this episode of Focus Cast by focuslinks introduces the crystalline lens as a physiological machine rather than a piece of anatomy. Learn its two jobs, contributing about seventeen to nineteen dioptres of the eye's resting focusing power and changing that power on demand through accommodation, and the four defining traits that make both possible: a tissue with no blood vessels and no nerves, fed entirely by the aqueous humour; a sealed bag whose capsule encloses epithelium and fibre cells; a core packed with crystallin proteins at the densest protein concentration of any tissue; and a structure that grows for life, adding cells and shedding none. Along the way we meet the mature fibre cells that ejected their own organelles to buy lifelong clarity, and the design tension that shapes the whole season, a tissue built for change that cannot rebuild itself. Made for optometry students and practising optometrists who want the lens explained as a living machine, and the season ahead runs from lens nutrition and transparency to accommodation through the lifespan.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1792.5,
+  "duration_min": 29.87,
+  "files": [
+    "S05E01-lens-physiology.wav",
+    "S05E01-lens-physiology.mp3"
+  ]
+}

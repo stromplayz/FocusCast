@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E04-lens-growth.txt",
+  "stem": "S05E04-lens-growth",
+  "words": 4206,
+  "generated_at_utc": "2026-10-04T22:50:29.108578+00:00",
+  "title": "Lens Growth",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Lens and Accommodation",
+  "season_no": "5",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lens growth",
+    "lens fibres",
+    "lens sutures",
+    "germinative zone",
+    "lens compaction",
+    "lifelong growth",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "This episode of Focus Cast by focuslinks teaches the story of the one tissue in the body that keeps every record it ever wrote: how the lens grows across an entire lifetime. Learn how epithelial cells divide in the germinative zone near the equator, elongate into lens fibres, migrate around the equator, meet at the sutures and lock in as the newest shell of a living onion. Hear why nothing is ever shed, so the oldest fibres sit compressed in the nucleus while the newest form the cortex, and why growth runs fastest before birth and in childhood, then slows to a pace that never reaches zero. Discover the consequences, from slow gains in weight and thickness to a deepening refractive index gradient and a core that stiffens while young shells stay soft. Made for optometry students and practising optometrists who want lifelong lens growth explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1710.5,
+  "duration_min": 28.51,
+  "files": [
+    "S05E04-lens-growth.wav",
+    "S05E04-lens-growth.mp3"
+  ]
+}

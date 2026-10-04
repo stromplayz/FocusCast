@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E03-lens-transparency.txt",
+  "stem": "S05E03-lens-transparency",
+  "words": 4435,
+  "generated_at_utc": "2026-10-04T22:48:16.874165+00:00",
+  "title": "Lens Transparency",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Lens and Accommodation",
+  "season_no": "5",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lens transparency",
+    "crystallins",
+    "refractive index gradient",
+    "lens clarity",
+    "protein packing",
+    "lens optics",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The lens is the most protein-packed tissue in the body, and this episode of Focus Cast by focuslinks explains why a bag of protein is perfectly clear. Learn the four working principles of lens transparency: crystallins packed so densely and so orderly that the lens behaves optically like smooth liquid glass, the ejection of organelles from mature fiber cells, a refractive index gradient that bends light in a graduated curve and trims the aberrations of a hard-edged lens, and an active housekeeping system of hydration control and glutathione that keeps the protein pack orderly decade after decade. Hear the counterintuitive gem that the more orderly the crowd, the less light notices the individuals, and how the lens and the cornea reach the same goal by opposite tricks. Made for optometry students and practising optometrists who want ocular physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1863.7,
+  "duration_min": 31.06,
+  "files": [
+    "S05E03-lens-transparency.wav",
+    "S05E03-lens-transparency.mp3"
+  ]
+}

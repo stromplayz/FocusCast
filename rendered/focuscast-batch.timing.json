@@ -1,21 +1,21 @@
 {
   "episodes": 10,
-  "words_total": 42622,
-  "eta_render_min": 24.0,
-  "actual_push_to_complete_min": 22.0,
-  "actual_total_min": 22.6,
+  "words_total": 43005,
+  "eta_render_min": 24.2,
+  "actual_push_to_complete_min": 23.5,
+  "actual_total_min": 24.2,
   "kernel": "phantoz/focuscast-batch",
   "delivered": [
-    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-01-why-the-eye-produces-aqueous-humour/S04E01-why-the-eye-produces-aqueous-humour.mp3",
-    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-02-aqueous-humour-production/S04E02-aqueous-humour-production.mp3",
-    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-03-ciliary-processes-and-aqueous-formation/S04E03-ciliary-processes-and-aqueous-formation.mp3",
-    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-04-aqueous-composition/S04E04-aqueous-composition.mp3",
-    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-05-aqueous-flow/S04E05-aqueous-flow.mp3",
-    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-06-aqueous-humour-circulation/S04E06-aqueous-humour-circulation.mp3",
-    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-07-trabecular-outflow/S04E07-trabecular-outflow.mp3",
-    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-08-uveoscleral-outflow/S04E08-uveoscleral-outflow.mp3",
-    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-09-intraocular-pressure-regulation/S04E09-intraocular-pressure-regulation.mp3",
-    "series-03-ocular-physiology/season-04-aqueous-and-intraocular-pressure/ep-10-normal-iop-physiology/S04E10-normal-iop-physiology.mp3"
+    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-01-lens-physiology/S05E01-lens-physiology.mp3",
+    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-02-lens-nutrition-and-metabolism/S05E02-lens-nutrition-and-metabolism.mp3",
+    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-03-lens-transparency/S05E03-lens-transparency.mp3",
+    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-04-lens-growth/S05E04-lens-growth.mp3",
+    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-05-what-happens-during-accommodation/S05E05-what-happens-during-accommodation.mp3",
+    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-06-ciliary-muscle-function/S05E06-ciliary-muscle-function.mp3",
+    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-07-zonular-changes-during-accommodation/S05E07-zonular-changes-during-accommodation.mp3",
+    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-08-lens-shape-changes/S05E08-lens-shape-changes.mp3",
+    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-09-relaxation-of-accommodation/S05E09-relaxation-of-accommodation.mp3",
+    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-10-accommodation-through-the-lifespan/S05E10-accommodation-through-the-lifespan.mp3"
   ],
-  "started_at_utc": "2026-10-04T22:24:52.952750+00:00"
+  "started_at_utc": "2026-10-04T23:06:11.493009+00:00"
 }

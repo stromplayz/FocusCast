@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E07-zonular-changes-during-accommodation.txt",
+  "stem": "S05E07-zonular-changes-during-accommodation",
+  "words": 4324,
+  "generated_at_utc": "2026-10-04T22:56:31.989465+00:00",
+  "title": "Zonular Changes During Accommodation",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Lens and Accommodation",
+  "season_no": "5",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "zonules",
+    "zonular tension",
+    "suspensory ligaments",
+    "lens capsule elasticity",
+    "accommodation mechanics",
+    "tension transmission",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Season 5 of Series 3, Ocular Physiology, from Focus Cast by focuslinks, follows the transmission lines of focusing. Discover how the zonules, the fine fibers bridging ciliary body and lens equator, act as the only coupling between the ciliary muscle and the lens, standing taut to hold the lens flat for distance and slackening when the muscle contracts so that the capsule's own elasticity can round the lens for near. Learn the elegant force path in which muscle power moves the ring, the zonules carry the change, and the lens capsule translates tension into curvature, while the anterior and posterior fiber sets steady the lens and the equatorial set governs its shape. Made for optometry students, optical shop teams and curious listeners who want the mechanics of accommodation explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1763.5,
+  "duration_min": 29.39,
+  "files": [
+    "S05E07-zonular-changes-during-accommodation.wav",
+    "S05E07-zonular-changes-during-accommodation.mp3"
+  ]
+}

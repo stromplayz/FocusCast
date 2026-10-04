@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E10-accommodation-through-the-lifespan.txt",
+  "stem": "S05E10-accommodation-through-the-lifespan",
+  "words": 4354,
+  "generated_at_utc": "2026-10-04T23:02:45.293579+00:00",
+  "title": "Accommodation Through the Lifespan",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Lens and Accommodation",
+  "season_no": "5",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "accommodation lifespan",
+    "amplitude of accommodation",
+    "aging lens",
+    "near point",
+    "lens stiffness",
+    "accommodation decline",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The power to focus up close is not lost in a moment, it slides across a lifetime, and this season finale of Focus Cast by focuslinks follows that slide from the generous range of childhood to the arm's-length world of later years. Learn how the amplitude of accommodation falls from about fourteen dioptres in a young child to about half that by the early thirties, why the reserve thins through the forties, and how the near point retreats decade by decade in every human eye. Discover the honest mechanism: the ciliary muscle keeps contracting faithfully for life while the lens, the one tissue that cannot remodel itself, gradually stiffens as its nucleus compacts and its protein pack matures. Hear all nine earlier episodes of the season recapped in one breath each, plus a first look at the next season on the retina. Made for optometry students, optical teams and curious listeners who want the aging lens explained as normal physiology rather than failure.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1734.8,
+  "duration_min": 28.91,
+  "files": [
+    "S05E10-accommodation-through-the-lifespan.wav",
+    "S05E10-accommodation-through-the-lifespan.mp3"
+  ]
+}

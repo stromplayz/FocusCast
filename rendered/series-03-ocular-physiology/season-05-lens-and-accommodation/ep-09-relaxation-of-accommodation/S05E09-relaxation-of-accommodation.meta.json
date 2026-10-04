@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S05E09-relaxation-of-accommodation.txt",
+  "stem": "S05E09-relaxation-of-accommodation",
+  "words": 4257,
+  "generated_at_utc": "2026-10-04T23:00:44.649313+00:00",
+  "title": "Relaxation of Accommodation",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Lens and Accommodation",
+  "season_no": "5",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "relaxation of accommodation",
+    "disaccommodation",
+    "resting focus",
+    "dark focus",
+    "muscle tone",
+    "distance focus",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Accommodation has an easier half, and this episode of Focus Cast by focuslinks teaches the release stroke, how the eye lets go of near focus and returns to distance. Follow the mechanics in reverse as the parasympathetic drive eases, the ciliary ring widens, zonular tension returns, and the elastic capsule draws the lens back to its flat, distance-tuned form, a touch faster than the round-up. Then meet the resting state, where accommodation idles at a small nonzero level and the eye parks at middle distance in the dark, the dark focus in plain words. Made for optometry students and practising optometrists who want normal ocular physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1690.6,
+  "duration_min": 28.18,
+  "files": [
+    "S05E09-relaxation-of-accommodation.wav",
+    "S05E09-relaxation-of-accommodation.mp3"
+  ]
+}

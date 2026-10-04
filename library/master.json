@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-04T22:24:53.038645+00:00",
-  "episode_count": 250,
+  "updated_at": "2026-10-04T23:06:11.601839+00:00",
+  "episode_count": 260,
   "episodes": [
     {
       "id": "S01-S01E01",
@@ -9614,6 +9614,396 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-04T22:21:50.204790+00:00"
+    },
+    {
+      "id": "S03-S05E01",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 5,
+      "season": "Lens and Accommodation",
+      "episode_no": 1,
+      "title": "Lens Physiology",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lens physiology",
+        "lens function",
+        "crystallin proteins",
+        "lens transparency",
+        "avascular lens",
+        "lens design",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Season five of Series 3 opens inside the eye's inner zoom lens, and this episode of Focus Cast by focuslinks introduces the crystalline lens as a physiological machine rather than a piece of anatomy. Learn its two jobs, contributing about seventeen to nineteen dioptres of the eye's resting focusing power and changing that power on demand through accommodation, and the four defining traits that make both possible: a tissue with no blood vessels and no nerves, fed entirely by the aqueous humour; a sealed bag whose capsule encloses epithelium and fibre cells; a core packed with crystallin proteins at the densest protein concentration of any tissue; and a structure that grows for life, adding cells and shedding none. Along the way we meet the mature fibre cells that ejected their own organelles to buy lifelong clarity, and the design tension that shapes the whole season, a tissue built for change that cannot rebuild itself. Made for optometry students and practising optometrists who want the lens explained as a living machine, and the season ahead runs from lens nutrition and transparency to accommodation through the lifespan.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-05/S05E01-lens-physiology.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-01-lens-physiology/S05E01-lens-physiology.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-01-lens-physiology/S05E01-lens-physiology.mp3",
+        "bytes": 21510765,
+        "duration_sec": 1792.5,
+        "duration_min": 29.87,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:43:24.903950+00:00"
+    },
+    {
+      "id": "S03-S05E02",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 5,
+      "season": "Lens and Accommodation",
+      "episode_no": 2,
+      "title": "Lens Nutrition and Metabolism",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lens nutrition",
+        "lens metabolism",
+        "lens microcirculation",
+        "glutathione",
+        "lens glucose",
+        "ion pumps",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The lens has no blood vessels, so this episode of Focus Cast by focuslinks follows every crumb it eats on the long road from the aqueous humour to the deepest fibre cell. Learn how glucose fuels a tissue that keeps its oxygen appetite deliberately tiny, and why lactate is the exhaust the aqueous must carry away. Hear how an internal circulating current of sodium and potassium stirs nutrients inward through a rich network of gap junctions, an internal river with no moving parts. Then meet glutathione, made and recycled by the lens itself, which keeps its crystallin proteins in their clear, reduced state across a lifetime. Made for optometry students, optical teams and curious listeners who want physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-05/S05E02-lens-nutrition-and-metabolism.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-02-lens-nutrition-and-metabolism/S05E02-lens-nutrition-and-metabolism.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-02-lens-nutrition-and-metabolism/S05E02-lens-nutrition-and-metabolism.mp3",
+        "bytes": 21238029,
+        "duration_sec": 1769.8,
+        "duration_min": 29.5,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:46:11.798167+00:00"
+    },
+    {
+      "id": "S03-S05E03",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 5,
+      "season": "Lens and Accommodation",
+      "episode_no": 3,
+      "title": "Lens Transparency",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lens transparency",
+        "crystallins",
+        "refractive index gradient",
+        "lens clarity",
+        "protein packing",
+        "lens optics",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The lens is the most protein-packed tissue in the body, and this episode of Focus Cast by focuslinks explains why a bag of protein is perfectly clear. Learn the four working principles of lens transparency: crystallins packed so densely and so orderly that the lens behaves optically like smooth liquid glass, the ejection of organelles from mature fiber cells, a refractive index gradient that bends light in a graduated curve and trims the aberrations of a hard-edged lens, and an active housekeeping system of hydration control and glutathione that keeps the protein pack orderly decade after decade. Hear the counterintuitive gem that the more orderly the crowd, the less light notices the individuals, and how the lens and the cornea reach the same goal by opposite tricks. Made for optometry students and practising optometrists who want ocular physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-05/S05E03-lens-transparency.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-03-lens-transparency/S05E03-lens-transparency.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-03-lens-transparency/S05E03-lens-transparency.mp3",
+        "bytes": 22365261,
+        "duration_sec": 1863.7,
+        "duration_min": 31.06,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:48:16.874165+00:00"
+    },
+    {
+      "id": "S03-S05E04",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 5,
+      "season": "Lens and Accommodation",
+      "episode_no": 4,
+      "title": "Lens Growth",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lens growth",
+        "lens fibres",
+        "lens sutures",
+        "germinative zone",
+        "lens compaction",
+        "lifelong growth",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "This episode of Focus Cast by focuslinks teaches the story of the one tissue in the body that keeps every record it ever wrote: how the lens grows across an entire lifetime. Learn how epithelial cells divide in the germinative zone near the equator, elongate into lens fibres, migrate around the equator, meet at the sutures and lock in as the newest shell of a living onion. Hear why nothing is ever shed, so the oldest fibres sit compressed in the nucleus while the newest form the cortex, and why growth runs fastest before birth and in childhood, then slows to a pace that never reaches zero. Discover the consequences, from slow gains in weight and thickness to a deepening refractive index gradient and a core that stiffens while young shells stay soft. Made for optometry students and practising optometrists who want lifelong lens growth explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-05/S05E04-lens-growth.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-04-lens-growth/S05E04-lens-growth.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-04-lens-growth/S05E04-lens-growth.mp3",
+        "bytes": 20526381,
+        "duration_sec": 1710.5,
+        "duration_min": 28.51,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:50:29.108578+00:00"
+    },
+    {
+      "id": "S03-S05E05",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 5,
+      "season": "Lens and Accommodation",
+      "episode_no": 5,
+      "title": "What Happens During Accommodation?",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "accommodation",
+        "accommodation mechanism",
+        "focusing",
+        "lens shape change",
+        "near focus",
+        "accommodation physiology",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "This episode of Focus Cast by focuslinks tells the complete mechanical story of accommodation, the focusing event the eye performs every time attention moves from far to near. Learn the resting far-view state first: the ciliary muscle relaxed, the zonular ropes pulled taut and the lens stretched flat and tuned for distance. Then follow the near-view event step by step as the brain decides, the ciliary ring contracts, the zonules go slack and the elastic capsule rounds the lens up, lifting focusing power by roughly fourteen dioptres in a young child. Hear how fast the response runs, why both eyes always accommodate together, and why the eye focuses by deforming one part rather than moving any. Made for optometry students, optical shop teams and curious listeners who finished Series 1 and 2 and want the physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-05/S05E05-what-happens-during-accommodation.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-05-what-happens-during-accommodation/S05E05-what-happens-during-accommodation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-05-what-happens-during-accommodation/S05E05-what-happens-during-accommodation.mp3",
+        "bytes": 20360493,
+        "duration_sec": 1696.6,
+        "duration_min": 28.28,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:52:28.381614+00:00"
+    },
+    {
+      "id": "S03-S05E06",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 5,
+      "season": "Lens and Accommodation",
+      "episode_no": 6,
+      "title": "Ciliary Muscle Function",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "ciliary muscle function",
+        "ciliary muscle contraction",
+        "parasympathetic accommodation",
+        "muscle tone",
+        "focusing engine",
+        "smooth muscle",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The ciliary muscle is the engine of the focusing system, and this episode of Focus Cast by focuslinks opens its housing. Learn how a ring of smooth muscle in the ciliary body contracts through three families of fibres, longitudinal, radial and circular, hauling inward and forward as one winch to slacken the zonules. Hear how parasympathetic drive from the third cranial nerve commands the muscle through the short ciliary nerves, why there is no opposing muscle, and why relaxation is simply the removal of drive. Meet the tonus idea: the muscle never fully switches off, it idles at a baseline tone even for distance view, and near work turns the dial up. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-05/S05E06-ciliary-muscle-function.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-06-ciliary-muscle-function/S05E06-ciliary-muscle-function.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-06-ciliary-muscle-function/S05E06-ciliary-muscle-function.mp3",
+        "bytes": 20295981,
+        "duration_sec": 1691.3,
+        "duration_min": 28.19,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:54:29.120579+00:00"
+    },
+    {
+      "id": "S03-S05E07",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 5,
+      "season": "Lens and Accommodation",
+      "episode_no": 7,
+      "title": "Zonular Changes During Accommodation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "zonules",
+        "zonular tension",
+        "suspensory ligaments",
+        "lens capsule elasticity",
+        "accommodation mechanics",
+        "tension transmission",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Season 5 of Series 3, Ocular Physiology, from Focus Cast by focuslinks, follows the transmission lines of focusing. Discover how the zonules, the fine fibers bridging ciliary body and lens equator, act as the only coupling between the ciliary muscle and the lens, standing taut to hold the lens flat for distance and slackening when the muscle contracts so that the capsule's own elasticity can round the lens for near. Learn the elegant force path in which muscle power moves the ring, the zonules carry the change, and the lens capsule translates tension into curvature, while the anterior and posterior fiber sets steady the lens and the equatorial set governs its shape. Made for optometry students, optical shop teams and curious listeners who want the mechanics of accommodation explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-05/S05E07-zonular-changes-during-accommodation.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-07-zonular-changes-during-accommodation/S05E07-zonular-changes-during-accommodation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-07-zonular-changes-during-accommodation/S05E07-zonular-changes-during-accommodation.mp3",
+        "bytes": 21162285,
+        "duration_sec": 1763.5,
+        "duration_min": 29.39,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:56:31.989465+00:00"
+    },
+    {
+      "id": "S03-S05E08",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 5,
+      "season": "Lens and Accommodation",
+      "episode_no": 8,
+      "title": "Lens Shape Changes",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lens shape changes",
+        "lens curvature",
+        "anterior chamber depth",
+        "lens thickness",
+        "focusing power",
+        "optical changes",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "When your gaze jumps from a distant sign to this page, the lens inside your eye quietly changes shape, and episode eight of Season 5 teaches exactly how. Learn the four shape changes of a near-focus round-up: the front surface steepening dramatically, the back surface barely moving because the vitreous backs it like a mould, the central thickness growing as the lens fattens, and the equatorial diameter shrinking slightly as the lens narrows, while the front pole slides forward and shallows the anterior chamber by a whisper. Hear the optical payoff, on the order of twelve to fifteen dioptres of added focusing power in a young eye, and learn why the graded thickness of the lens capsule lets the front surface do most of the work while the retina-facing back stays steady. This episode of Focus Cast by focuslinks is made for optometry students, practising optometrists, and curious listeners who want ocular physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-05/S05E08-lens-shape-changes.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-08-lens-shape-changes/S05E08-lens-shape-changes.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-08-lens-shape-changes/S05E08-lens-shape-changes.mp3",
+        "bytes": 20930733,
+        "duration_sec": 1744.2,
+        "duration_min": 29.07,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T22:58:39.350367+00:00"
+    },
+    {
+      "id": "S03-S05E09",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 5,
+      "season": "Lens and Accommodation",
+      "episode_no": 9,
+      "title": "Relaxation of Accommodation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "relaxation of accommodation",
+        "disaccommodation",
+        "resting focus",
+        "dark focus",
+        "muscle tone",
+        "distance focus",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Accommodation has an easier half, and this episode of Focus Cast by focuslinks teaches the release stroke, how the eye lets go of near focus and returns to distance. Follow the mechanics in reverse as the parasympathetic drive eases, the ciliary ring widens, zonular tension returns, and the elastic capsule draws the lens back to its flat, distance-tuned form, a touch faster than the round-up. Then meet the resting state, where accommodation idles at a small nonzero level and the eye parks at middle distance in the dark, the dark focus in plain words. Made for optometry students and practising optometrists who want normal ocular physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-05/S05E09-relaxation-of-accommodation.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-09-relaxation-of-accommodation/S05E09-relaxation-of-accommodation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-09-relaxation-of-accommodation/S05E09-relaxation-of-accommodation.mp3",
+        "bytes": 20288205,
+        "duration_sec": 1690.6,
+        "duration_min": 28.18,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T23:00:44.649313+00:00"
+    },
+    {
+      "id": "S03-S05E10",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 5,
+      "season": "Lens and Accommodation",
+      "episode_no": 10,
+      "title": "Accommodation Through the Lifespan",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "accommodation lifespan",
+        "amplitude of accommodation",
+        "aging lens",
+        "near point",
+        "lens stiffness",
+        "accommodation decline",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The power to focus up close is not lost in a moment, it slides across a lifetime, and this season finale of Focus Cast by focuslinks follows that slide from the generous range of childhood to the arm's-length world of later years. Learn how the amplitude of accommodation falls from about fourteen dioptres in a young child to about half that by the early thirties, why the reserve thins through the forties, and how the near point retreats decade by decade in every human eye. Discover the honest mechanism: the ciliary muscle keeps contracting faithfully for life while the lens, the one tissue that cannot remodel itself, gradually stiffens as its nucleus compacts and its protein pack matures. Hear all nine earlier episodes of the season recapped in one breath each, plus a first look at the next season on the retina. Made for optometry students, optical teams and curious listeners who want the aging lens explained as normal physiology rather than failure.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-05/S05E10-accommodation-through-the-lifespan.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-10-accommodation-through-the-lifespan/S05E10-accommodation-through-the-lifespan.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-05-lens-and-accommodation/ep-10-accommodation-through-the-lifespan/S05E10-accommodation-through-the-lifespan.mp3",
+        "bytes": 20818125,
+        "duration_sec": 1734.8,
+        "duration_min": 28.91,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T23:02:45.293579+00:00"
     },
     {
       "id": "S03-S10E01",
