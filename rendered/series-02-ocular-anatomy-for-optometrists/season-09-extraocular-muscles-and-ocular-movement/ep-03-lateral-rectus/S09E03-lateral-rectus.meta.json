@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S09E03-lateral-rectus.txt",
+  "stem": "S09E03-lateral-rectus",
+  "words": 4214,
+  "generated_at_utc": "2026-10-04T10:50:48.963982+00:00",
+  "title": "Lateral Rectus",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Extraocular Muscles and Ocular Movement",
+  "season_no": "9",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lateral rectus",
+    "extraocular muscles",
+    "abducens nerve",
+    "sixth cranial nerve",
+    "ocular anatomy",
+    "eye movement",
+    "rectus muscles",
+    "annulus of Zinn",
+    "spiral of Tillaux",
+    "anatomy for optometrists"
+  ],
+  "description": "The lateral rectus is the only muscle whose whole job is to turn the eye outward, and in this episode of Focus Cast by focuslinks we take it apart piece by piece: two heads rising from the annulus of Zinn, a forward course along the lateral orbital wall, a pulley sleeve and its famously strong check ligament, and an insertion six point nine millimetres behind the limbus. We follow the abducens nerve to its entry point on the muscle's hidden ocular surface and count the anterior ciliary arteries that ride with the tendon. Real measurements, plain words, and the anatomical reasons behind what optometrists see at the cover test, made for students and clinicians who want anatomy that holds up.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1679.2,
+  "duration_min": 27.99,
+  "files": [
+    "S09E03-lateral-rectus.wav",
+    "S09E03-lateral-rectus.mp3"
+  ]
+}

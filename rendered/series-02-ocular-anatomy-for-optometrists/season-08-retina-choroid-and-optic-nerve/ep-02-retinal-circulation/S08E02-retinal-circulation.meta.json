@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S08E02-retinal-circulation.txt",
+  "stem": "S08E02-retinal-circulation",
+  "words": 4521,
+  "generated_at_utc": "2026-10-04T10:29:40.430731+00:00",
+  "title": "Retinal Circulation",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Retina, Choroid and Optic Nerve",
+  "season_no": "8",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "retinal circulation",
+    "retinal capillaries",
+    "capillary beds",
+    "perifoveal anastomosis",
+    "foveal avascular zone",
+    "inner blood retinal barrier",
+    "radial peripapillary capillaries",
+    "ocular anatomy",
+    "retina anatomy",
+    "optometry education"
+  ],
+  "description": "Two capillary networks lie woven through the inner retina, and in this episode of Focus Cast by focuslinks we map them plane by plane. We trace where the superficial and deep capillary beds sit within the retinal layers, how they interconnect through the perifoveal anastomosis around the fovea, and why the very centre of the fovea is left completely free of capillaries. Along the way we meet pericytes, the inner blood-retinal barrier, the radial peripapillary capillaries, and the anatomical logic behind every branch and gap in the network. Pure anatomy of the retinal microcirculation, told for the ear, for optometry students and optometrists.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1880.3,
+  "duration_min": 31.34,
+  "files": [
+    "S08E02-retinal-circulation.wav",
+    "S08E02-retinal-circulation.mp3"
+  ]
+}

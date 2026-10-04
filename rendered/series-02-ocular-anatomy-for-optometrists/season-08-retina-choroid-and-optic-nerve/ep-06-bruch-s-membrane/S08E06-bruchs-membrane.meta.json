@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S08E06-bruchs-membrane.txt",
+  "stem": "S08E06-bruchs-membrane",
+  "words": 4499,
+  "generated_at_utc": "2026-10-04T10:37:29.227893+00:00",
+  "title": "Bruch's Membrane",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Retina, Choroid and Optic Nerve",
+  "season_no": "8",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "Bruch membrane",
+    "lamina vitrea",
+    "retinal pigment epithelium",
+    "choriocapillaris",
+    "retinal anatomy",
+    "choroid layers",
+    "ocular anatomy",
+    "posterior segment",
+    "optometry education",
+    "ageing eye"
+  ],
+  "description": "Sandwiched between the retinal pigment epithelium and the choriocapillaris lies the thinnest named structure in the eye, Bruch's Membrane. In this episode, Focus Cast by focuslinks names its five layers from the retina side toward the choroid, explains who builds each sheet, and follows the membrane as it thickens and stiffens across a human lifetime. Along the way we place drusen at their exact address, watch new vessels break through the elastic layer, and learn why the thinness of this border is the whole design. A patient, anatomy-first listen for optometry students, students of the eye, and eye care teams.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1897.7,
+  "duration_min": 31.63,
+  "files": [
+    "S08E06-bruchs-membrane.wav",
+    "S08E06-bruchs-membrane.mp3"
+  ]
+}

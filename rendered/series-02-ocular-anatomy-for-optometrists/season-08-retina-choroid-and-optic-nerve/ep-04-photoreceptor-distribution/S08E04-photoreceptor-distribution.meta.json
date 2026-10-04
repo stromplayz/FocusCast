@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S08E04-photoreceptor-distribution.txt",
+  "stem": "S08E04-photoreceptor-distribution",
+  "words": 4118,
+  "generated_at_utc": "2026-10-04T10:33:39.989888+00:00",
+  "title": "Photoreceptor Distribution",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Retina, Choroid and Optic Nerve",
+  "season_no": "8",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "photoreceptor distribution",
+    "rod density",
+    "cone density",
+    "foveal cone packing",
+    "blind spot",
+    "optic disc anatomy",
+    "retinal topography",
+    "ocular anatomy for optometrists",
+    "retina census",
+    "optometry education"
+  ],
+  "description": "Where exactly do the retina's rods and cones live, and how many are there? In this episode of Focus Cast by focuslinks, we map both photoreceptor populations across the human retina, from the cone-packed, rod-free foveal centre to the rod-rich ring of the mid periphery and out to the sparse edge of the mosaic. You will hear the standard density numbers, learn why the optic disc is a true hole in the receptor sheet, and see how one anatomical map quietly explains the layout of the visual field. Made for optometrists and optometry students who want distribution anatomy, not phototransduction.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1652.3,
+  "duration_min": 27.54,
+  "files": [
+    "S08E04-photoreceptor-distribution.wav",
+    "S08E04-photoreceptor-distribution.mp3"
+  ]
+}

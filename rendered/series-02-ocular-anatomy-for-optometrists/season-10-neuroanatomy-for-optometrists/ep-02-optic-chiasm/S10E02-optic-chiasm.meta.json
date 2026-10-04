@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S10E02-optic-chiasm.txt",
+  "stem": "S10E02-optic-chiasm",
+  "words": 4040,
+  "generated_at_utc": "2026-10-04T11:08:10.939767+00:00",
+  "title": "Optic Chiasm",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Neuroanatomy for Optometrists",
+  "season_no": "10",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optic chiasm",
+    "optic chiasma",
+    "hemidecussation",
+    "nasal retinal fibres",
+    "temporal retinal fibres",
+    "macular fibres",
+    "wilbrand knee",
+    "circle of willis",
+    "pituitary gland",
+    "neuroanatomy for optometrists"
+  ],
+  "description": "At the base of the brain, the two optic nerves meet and deliberately swap half their fibres. In this episode of Focus Cast by focuslinks, we map the optic chiasm: why nasal retinal fibres cross while temporal fibres stay, where the macular fibres run through the central and posterior core, and the crucial neighbours above and below, from the third ventricle and the circle of Willis down to the diaphragma sellae and the pituitary gland. Pure anatomy and wiring for optometrists, with dimensions, blood supply, and the positional variants that change the geometry. Lesion patterns wait for a future clinical series; today is the crossroads itself.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1699.7,
+  "duration_min": 28.33,
+  "files": [
+    "S10E02-optic-chiasm.wav",
+    "S10E02-optic-chiasm.mp3"
+  ]
+}

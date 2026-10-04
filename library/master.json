@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-04T10:11:04.809415+00:00",
-  "episode_count": 170,
+  "updated_at": "2026-10-04T11:28:06.871768+00:00",
+  "episode_count": 200,
   "episodes": [
     {
       "id": "S01-S01E01",
@@ -6815,6 +6815,1231 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-04T10:07:12.824585+00:00"
+    },
+    {
+      "id": "S02-S08E01",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 8,
+      "season": "Retina, Choroid and Optic Nerve",
+      "episode_no": 1,
+      "title": "Retinal Blood Supply",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "retinal blood supply",
+        "central retinal artery",
+        "central retinal vein",
+        "retinal vascular arcades",
+        "ophthalmic artery",
+        "dual retinal supply",
+        "watershed zone",
+        "choroidal circulation",
+        "ocular anatomy",
+        "optometry education"
+      ],
+      "description": "Season 8 of Ocular Anatomy for Optometrists opens with the plumbing that keeps the seeing wall alive. In this episode, Focus Cast by focuslinks traces the central retinal artery from the internal carotid to the centre of the optic disc, follows its division into the four retinal arcades, and pairs it with the central retinal vein on its way back to the superior ophthalmic vein and the cavernous sinus. We then lay the retina's dual supply side by side, inner retina from the central artery, outer retina from the choroid, and map the watershed strip between the two territories, with the cilioretinal artery as the famous exception. Made for optometry students and clinicians who want real numbers, plain words, and anatomy that explains what they see in the chair.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E01-retinal-blood-supply.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-01-retinal-blood-supply/S08E01-retinal-blood-supply.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-01-retinal-blood-supply/S08E01-retinal-blood-supply.mp3",
+        "bytes": 20689965,
+        "duration_sec": 1724.1,
+        "duration_min": 28.73,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:27:06.990786+00:00"
+    },
+    {
+      "id": "S02-S08E02",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 8,
+      "season": "Retina, Choroid and Optic Nerve",
+      "episode_no": 2,
+      "title": "Retinal Circulation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "retinal circulation",
+        "retinal capillaries",
+        "capillary beds",
+        "perifoveal anastomosis",
+        "foveal avascular zone",
+        "inner blood retinal barrier",
+        "radial peripapillary capillaries",
+        "ocular anatomy",
+        "retina anatomy",
+        "optometry education"
+      ],
+      "description": "Two capillary networks lie woven through the inner retina, and in this episode of Focus Cast by focuslinks we map them plane by plane. We trace where the superficial and deep capillary beds sit within the retinal layers, how they interconnect through the perifoveal anastomosis around the fovea, and why the very centre of the fovea is left completely free of capillaries. Along the way we meet pericytes, the inner blood-retinal barrier, the radial peripapillary capillaries, and the anatomical logic behind every branch and gap in the network. Pure anatomy of the retinal microcirculation, told for the ear, for optometry students and optometrists.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E02-retinal-circulation.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-02-retinal-circulation/S08E02-retinal-circulation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-02-retinal-circulation/S08E02-retinal-circulation.mp3",
+        "bytes": 22563981,
+        "duration_sec": 1880.3,
+        "duration_min": 31.34,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:29:40.430731+00:00"
+    },
+    {
+      "id": "S02-S08E03",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 8,
+      "season": "Retina, Choroid and Optic Nerve",
+      "episode_no": 3,
+      "title": "Choroidal Circulation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "choroidal circulation",
+        "short posterior ciliary arteries",
+        "choriocapillaris",
+        "vortex veins",
+        "ocular blood supply",
+        "uveal tract",
+        "choroid anatomy",
+        "optometry education",
+        "posterior segment anatomy",
+        "eye blood flow"
+      ],
+      "description": "How does one thin, dark coat feed half the retina, and where does all of its blood go? In this episode, Focus Cast by focuslinks walks the full choroidal circuit: the ten to twenty short posterior ciliary arteries ringing the optic nerve, the hexagonal lobules of the choriocapillaris with their arterial cores and venous rims, and the four vortex veins that carry the uveal circulation away by quadrants. Expect real textbook numbers, plain-language explanations, and the anatomical reasons optometrists care, from the equatorial watershed band to the oblique scleral canals that surgeons respect. This is episode three of the season on the retina, choroid, and optic nerve in the anatomy series for optometrists.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E03-choroidal-circulation.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-03-choroidal-circulation/S08E03-choroidal-circulation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-03-choroidal-circulation/S08E03-choroidal-circulation.mp3",
+        "bytes": 20894445,
+        "duration_sec": 1741.1,
+        "duration_min": 29.02,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:31:43.579049+00:00"
+    },
+    {
+      "id": "S02-S08E04",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 8,
+      "season": "Retina, Choroid and Optic Nerve",
+      "episode_no": 4,
+      "title": "Photoreceptor Distribution",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "photoreceptor distribution",
+        "rod density",
+        "cone density",
+        "foveal cone packing",
+        "blind spot",
+        "optic disc anatomy",
+        "retinal topography",
+        "ocular anatomy for optometrists",
+        "retina census",
+        "optometry education"
+      ],
+      "description": "Where exactly do the retina's rods and cones live, and how many are there? In this episode of Focus Cast by focuslinks, we map both photoreceptor populations across the human retina, from the cone-packed, rod-free foveal centre to the rod-rich ring of the mid periphery and out to the sparse edge of the mosaic. You will hear the standard density numbers, learn why the optic disc is a true hole in the receptor sheet, and see how one anatomical map quietly explains the layout of the visual field. Made for optometrists and optometry students who want distribution anatomy, not phototransduction.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E04-photoreceptor-distribution.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-04-photoreceptor-distribution/S08E04-photoreceptor-distribution.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-04-photoreceptor-distribution/S08E04-photoreceptor-distribution.mp3",
+        "bytes": 19828557,
+        "duration_sec": 1652.3,
+        "duration_min": 27.54,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:33:39.989888+00:00"
+    },
+    {
+      "id": "S02-S08E05",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 8,
+      "season": "Retina, Choroid and Optic Nerve",
+      "episode_no": 5,
+      "title": "Retinal Pigment Epithelium",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "retinal pigment epithelium",
+        "RPE anatomy",
+        "retinal anatomy",
+        "outer blood retinal barrier",
+        "Bruch membrane",
+        "ocular anatomy",
+        "optometry education",
+        "retina layers",
+        "photoreceptor support",
+        "optometry students"
+      ],
+      "description": "Beneath every photoreceptor in your eye sits a single, silent sheet of cells that makes seeing possible. In this episode of Focus Cast by focuslinks, we open the retinal pigment epithelium structure by structure: its hexagonal cells, its welded junctional gates, its microvilli sleeves wrapped around rod and cone outer segments, and its basement membrane locked onto Bruch's membrane. Learn how one-cell-thick anatomy carries nourishment, renewal, and the outer blood-retinal barrier. Written for optometry students, optical shop teams, and curious listeners of Ocular Anatomy for Optometrists.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E05-retinal-pigment-epithelium.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-05-retinal-pigment-epithelium/S08E05-retinal-pigment-epithelium.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-05-retinal-pigment-epithelium/S08E05-retinal-pigment-epithelium.mp3",
+        "bytes": 21445677,
+        "duration_sec": 1787.1,
+        "duration_min": 29.78,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:35:30.800576+00:00"
+    },
+    {
+      "id": "S02-S08E06",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 8,
+      "season": "Retina, Choroid and Optic Nerve",
+      "episode_no": 6,
+      "title": "Bruch's Membrane",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "Bruch membrane",
+        "lamina vitrea",
+        "retinal pigment epithelium",
+        "choriocapillaris",
+        "retinal anatomy",
+        "choroid layers",
+        "ocular anatomy",
+        "posterior segment",
+        "optometry education",
+        "ageing eye"
+      ],
+      "description": "Sandwiched between the retinal pigment epithelium and the choriocapillaris lies the thinnest named structure in the eye, Bruch's Membrane. In this episode, Focus Cast by focuslinks names its five layers from the retina side toward the choroid, explains who builds each sheet, and follows the membrane as it thickens and stiffens across a human lifetime. Along the way we place drusen at their exact address, watch new vessels break through the elastic layer, and learn why the thinness of this border is the whole design. A patient, anatomy-first listen for optometry students, students of the eye, and eye care teams.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E06-bruchs-membrane.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-06-bruch-s-membrane/S08E06-bruchs-membrane.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-06-bruch-s-membrane/S08E06-bruchs-membrane.mp3",
+        "bytes": 22772781,
+        "duration_sec": 1897.7,
+        "duration_min": 31.63,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:37:29.227893+00:00"
+    },
+    {
+      "id": "S02-S08E07",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 8,
+      "season": "Retina, Choroid and Optic Nerve",
+      "episode_no": 7,
+      "title": "Optic Nerve Head",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optic nerve head",
+        "optic disc zones",
+        "surface nerve fibre layer",
+        "prelaminar zone",
+        "laminar zone",
+        "retrolaminar zone",
+        "cup to disc anatomy",
+        "neuroretinal rim",
+        "lamina cribrosa",
+        "optometry education"
+      ],
+      "description": "Today Focus Cast by focuslinks goes beneath the surface of the optic disc and rebuilds the optic nerve head zone by zone. Meet the surface nerve fibre layer where more than a million axons turn toward the brain, the prelaminar zone with its astrocytic columns and border tissue, the laminar zone where the bundles pass through the scleral canal, and the retrolaminar zone where myelination begins and the nerve nearly doubles in diameter. Then the physiological cup and the neuroretinal rim are taken apart in cross-section, from the funnel wall to the laminar dots of a deep cup floor. A zone-by-zone episode for optometry students and clinicians who want real names, real numbers and plain words.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E07-optic-nerve-head.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-07-optic-nerve-head/S08E07-optic-nerve-head.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-07-optic-nerve-head/S08E07-optic-nerve-head.mp3",
+        "bytes": 20313837,
+        "duration_sec": 1692.8,
+        "duration_min": 28.21,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:39:33.923287+00:00"
+    },
+    {
+      "id": "S02-S08E08",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 8,
+      "season": "Retina, Choroid and Optic Nerve",
+      "episode_no": 8,
+      "title": "Lamina Cribrosa",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lamina cribrosa",
+        "optic nerve head",
+        "posterior scleral foramen",
+        "optic disc anatomy",
+        "retinal ganglion cell axons",
+        "short posterior ciliary arteries",
+        "circle of Zinn and Haller",
+        "posterior segment anatomy",
+        "ocular anatomy",
+        "optometry education"
+      ],
+      "description": "At the bottom of the optic disc lies a miniature sieve, and this episode of Focus Cast by focuslinks takes it apart beam by beam. We locate the lamina cribrosa in the posterior scleral foramen, count its pores and its bundles of ganglion cell axons, and examine the collagen, elastin, astrocytes and capillaries from which its beams are built. Then we map its famous regional variation, learning why the superior and inferior poles of the plate carry the thinnest beams and the least elastin, and what pressures the finished mesh must hold apart. A structure-first anatomy lesson for optometry students and clinicians who want the optic nerve head in full depth.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E08-lamina-cribrosa.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-08-lamina-cribrosa/S08E08-lamina-cribrosa.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-08-lamina-cribrosa/S08E08-lamina-cribrosa.mp3",
+        "bytes": 19509165,
+        "duration_sec": 1625.7,
+        "duration_min": 27.1,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:41:27.562451+00:00"
+    },
+    {
+      "id": "S02-S08E09",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 8,
+      "season": "Retina, Choroid and Optic Nerve",
+      "episode_no": 9,
+      "title": "Optic Nerve Structure",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optic nerve anatomy",
+        "optic nerve segments",
+        "intraorbital optic nerve",
+        "optic nerve sheaths",
+        "subarachnoid space",
+        "optic canal",
+        "ocular anatomy podcast",
+        "optometry anatomy series"
+      ],
+      "description": "How long is the optic nerve, and what exactly wraps it on the way from eye to brain? In this episode of Focus Cast by focuslinks we walk the whole cable and divide it into its four named segments, intraocular, intraorbital, intracanalicular and intracranial, with real millimetre numbers at every step. We unwrap the three sheaths, the dura mater, the arachnoid and the pia mater, and trace the fluid spaces between them that keep the eye and the brain in constant conversation. Built for optometry students and clinicians who want the structure behind the disc they examine every day.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E09-optic-nerve-structure.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-09-optic-nerve-structure/S08E09-optic-nerve-structure.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-09-optic-nerve-structure/S08E09-optic-nerve-structure.mp3",
+        "bytes": 19816749,
+        "duration_sec": 1651.3,
+        "duration_min": 27.52,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:43:17.273842+00:00"
+    },
+    {
+      "id": "S02-S08E10",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 8,
+      "season": "Retina, Choroid and Optic Nerve",
+      "episode_no": 10,
+      "title": "Retina-Optic Nerve Relationship",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "retina optic nerve relationship",
+        "retinal nerve fibre layer",
+        "arcuate bundles",
+        "papillomacular bundle",
+        "nasal raphe",
+        "optic disc anatomy",
+        "neuroretinal rim",
+        "retinal ganglion cells",
+        "optic nerve head",
+        "ocular anatomy"
+      ],
+      "description": "In the season finale of our eighth season, Focus Cast by focuslinks traces the last millimetres of the visual journey, as one point two million retinal ganglion cell axons converge on the optic disc in perfect order. We map the arcuate bundles arching above and below the macula, the papillomacular bundle entering the temporal wedge, and the horizontal raphe that fibres never cross, then read the neuroretinal rim as the footprint of those fibre streams. This capstone episode gathers the whole season together, from retinal blood supply to the lamina cribrosa, and shows why fibre geography is the map an optometrist reads at every fundus examination. A closing teaser points the way to Season 9, Extraocular Muscles and Ocular Movement.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-08/S08E10-retina-optic-nerve-relationship.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-10-retina-optic-nerve-relationship/S08E10-retina-optic-nerve-relationship.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-08-retina-choroid-and-optic-nerve/ep-10-retina-optic-nerve-relationship/S08E10-retina-optic-nerve-relationship.mp3",
+        "bytes": 19795725,
+        "duration_sec": 1649.6,
+        "duration_min": 27.49,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:45:08.483661+00:00"
+    },
+    {
+      "id": "S02-S09E01",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 9,
+      "season": "Extraocular Muscles and Ocular Movement",
+      "episode_no": 1,
+      "title": "Extraocular Muscle Overview",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "extraocular muscles",
+        "ocular movement",
+        "annulus of Zinn",
+        "common tendinous ring",
+        "muscle cone",
+        "intraconal space",
+        "superior oblique",
+        "inferior oblique",
+        "levator palpebrae superioris",
+        "orbital apex"
+      ],
+      "description": "Seven muscles tug on every eye you will ever examine, and in this season opener of Ocular Anatomy for Optometrists, Focus Cast by focuslinks maps them all in one clear overview. Meet the four rectus muscles, the two obliques, and the lid lifting levator, then travel to the orbital apex where the annulus of Zinn anchors the recti into a single tendinous ring. Learn how the four recti build the muscle cone, why the intraconal and extraconal compartments matter at the chair and in the radiology report, and which three cranial nerves run the whole show. A foundation episode for every ocular movement conversation this season will build on it.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E01-extraocular-muscle-overview.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-01-extraocular-muscle-overview/S09E01-extraocular-muscle-overview.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-01-extraocular-muscle-overview/S09E01-extraocular-muscle-overview.mp3",
+        "bytes": 21404781,
+        "duration_sec": 1783.7,
+        "duration_min": 29.73,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:46:59.606531+00:00"
+    },
+    {
+      "id": "S02-S09E02",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 9,
+      "season": "Extraocular Muscles and Ocular Movement",
+      "episode_no": 2,
+      "title": "Medial Rectus",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "medial rectus",
+        "extraocular muscles",
+        "annulus of Zinn",
+        "rectus pulley",
+        "oculomotor nerve",
+        "spiral of Tillaux",
+        "ocular anatomy",
+        "eye muscle anatomy",
+        "optometry education",
+        "insertion distance from limbus"
+      ],
+      "description": "The medial rectus is the largest, busiest, and most operated of the four rectus muscles, and this episode of Focus Cast by focuslinks gives it a full anatomy session of its own. Follow the muscle from its two-headed origin on the annulus of Zinn at the orbital apex, along its course against the paper-thin medial wall, to an insertion that sits only five and a half millimetres behind the limbus. Learn about its connective tissue pulley, its check ligament, its blood supply from the ophthalmic artery, and the exact spot where the inferior division of the oculomotor nerve enters its ocular surface. Clear numbers, plain language, and the anatomical reasons behind every landmark, for optometry students and practicing optometrists.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E02-medial-rectus.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-02-medial-rectus/S09E02-medial-rectus.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-02-medial-rectus/S09E02-medial-rectus.mp3",
+        "bytes": 19898253,
+        "duration_sec": 1658.1,
+        "duration_min": 27.64,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:48:57.678699+00:00"
+    },
+    {
+      "id": "S02-S09E03",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 9,
+      "season": "Extraocular Muscles and Ocular Movement",
+      "episode_no": 3,
+      "title": "Lateral Rectus",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lateral rectus",
+        "extraocular muscles",
+        "abducens nerve",
+        "sixth cranial nerve",
+        "ocular anatomy",
+        "eye movement",
+        "rectus muscles",
+        "annulus of Zinn",
+        "spiral of Tillaux",
+        "anatomy for optometrists"
+      ],
+      "description": "The lateral rectus is the only muscle whose whole job is to turn the eye outward, and in this episode of Focus Cast by focuslinks we take it apart piece by piece: two heads rising from the annulus of Zinn, a forward course along the lateral orbital wall, a pulley sleeve and its famously strong check ligament, and an insertion six point nine millimetres behind the limbus. We follow the abducens nerve to its entry point on the muscle's hidden ocular surface and count the anterior ciliary arteries that ride with the tendon. Real measurements, plain words, and the anatomical reasons behind what optometrists see at the cover test, made for students and clinicians who want anatomy that holds up.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E03-lateral-rectus.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-03-lateral-rectus/S09E03-lateral-rectus.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-03-lateral-rectus/S09E03-lateral-rectus.mp3",
+        "bytes": 20151117,
+        "duration_sec": 1679.2,
+        "duration_min": 27.99,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:50:48.963982+00:00"
+    },
+    {
+      "id": "S02-S09E04",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 9,
+      "season": "Extraocular Muscles and Ocular Movement",
+      "episode_no": 4,
+      "title": "Superior Rectus",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "superior rectus",
+        "extraocular muscles",
+        "oculomotor nerve",
+        "annulus of Zinn",
+        "spiral of Tillaux",
+        "muscle pulley",
+        "intorsion",
+        "visual axis",
+        "ocular anatomy",
+        "optometry education"
+      ],
+      "description": "The superior rectus is the great elevator of the eye, and in this episode of Focus Cast by focuslinks we follow it from its origin on the annulus of Zinn at the orbital apex to its curved insertion, the deepest of the four recti, about seven point seven millimetres behind the limbus. Along the way we meet its course beneath the levator palpebrae superioris, its pulley in Tenon's capsule, and the superior division of the oculomotor nerve entering its deep surface. Then we unpack the muscle's famous oblique geometry: a forward angle of about twenty-three degrees relative to the visual axis, which makes every contraction a blend of elevation, intorsion and adduction, and explains why elevation is tested with the eye turned out. A precise, ear-friendly anatomy lesson for optometry students and clinicians.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E04-superior-rectus.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-04-superior-rectus/S09E04-superior-rectus.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-04-superior-rectus/S09E04-superior-rectus.mp3",
+        "bytes": 20048013,
+        "duration_sec": 1670.6,
+        "duration_min": 27.84,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:52:41.979429+00:00"
+    },
+    {
+      "id": "S02-S09E05",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 9,
+      "season": "Extraocular Muscles and Ocular Movement",
+      "episode_no": 5,
+      "title": "Inferior Rectus",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "inferior rectus",
+        "extraocular muscles",
+        "ocular motility",
+        "Lockwood ligament",
+        "capsulopalpebral fascia",
+        "lower eyelid retractors",
+        "spiral of Tillaux",
+        "oculomotor nerve",
+        "orbital floor fracture",
+        "anatomy for optometrists"
+      ],
+      "description": "The inferior rectus is the muscle that carries your gaze toward the floor, and this episode of Focus Cast by focuslinks follows it from the tendinous ring at the orbital apex to its insertion about six and a half millimetres behind the limbus. Learn its course along the orbital floor, its twenty-three degree tilt that adds torsion and adduction to its pull, where the inferior division of the oculomotor nerve enters, and how its pulley sleeve steadies the line of pull. Then meet its most famous neighbours: Lockwood's ligament, the fascial hammock it shares with the inferior oblique, and the capsulopalpebral fascia that ties the muscle to the lower eyelid. The clinical anatomy is built in too, from orbital floor blowout fractures and thyroid eye disease to why surgery on this muscle can drag the lower lid down. Made for optometry students and practising optometrists who like their anatomy precise.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E05-inferior-rectus.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-05-inferior-rectus/S09E05-inferior-rectus.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-05-inferior-rectus/S09E05-inferior-rectus.mp3",
+        "bytes": 21395565,
+        "duration_sec": 1782.9,
+        "duration_min": 29.72,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:54:36.001210+00:00"
+    },
+    {
+      "id": "S02-S09E06",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 9,
+      "season": "Extraocular Muscles and Ocular Movement",
+      "episode_no": 6,
+      "title": "Superior Oblique",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "superior oblique",
+        "trochlea",
+        "trochlear tendon",
+        "trochlear nerve",
+        "fourth cranial nerve",
+        "extraocular muscles",
+        "ocular anatomy",
+        "eye movement",
+        "orbital anatomy",
+        "optometry education"
+      ],
+      "description": "Why does one eye muscle need its own pulley? In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks follows the superior oblique from its unusual origin on the sphenoid bone, forward along the inner edge of the orbital roof, and into the trochlea, the fibrocartilaginous pulley that bends its tendon back toward the globe. We trace the rounded tendon as it glides beneath the superior rectus and spreads into its fan-shaped insertion behind the equator of the eye. Along the way we meet the fourth cranial nerve, the longest and thinnest muscle in the orbit, and the clinical stories the pulley explains, from trochleitis to Brown syndrome. Made for optometry students, optometrists, and anyone who wants the anatomy behind every eye movement.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E06-superior-oblique.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-06-superior-oblique/S09E06-superior-oblique.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-06-superior-oblique/S09E06-superior-oblique.mp3",
+        "bytes": 19872045,
+        "duration_sec": 1656.0,
+        "duration_min": 27.6,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:56:37.226035+00:00"
+    },
+    {
+      "id": "S02-S09E07",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 9,
+      "season": "Extraocular Muscles and Ocular Movement",
+      "episode_no": 7,
+      "title": "Inferior Oblique",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "inferior oblique",
+        "extraocular muscles",
+        "ocular movement",
+        "inferior oblique origin",
+        "inferior oblique insertion",
+        "inferior rectus",
+        "oculomotor nerve",
+        "macula",
+        "orbital floor",
+        "optometry anatomy"
+      ],
+      "description": "The inferior oblique is the rule breaker of the extraocular muscles, and in this episode of Focus Cast by focuslinks we follow it from its unusual origin on the maxilla beside the lacrimal crest, beneath the inferior rectus, to its posterolateral insertion close to the macula. Learn why it is the shortest extraocular muscle, why it needs almost no tendon, which branch of the oculomotor nerve drives it, and why its insertion lies in delicate surgical territory. A precise, listener friendly anatomy lesson for optometry students, optometrists, and eye care teams.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E07-inferior-oblique.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-07-inferior-oblique/S09E07-inferior-oblique.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-07-inferior-oblique/S09E07-inferior-oblique.mp3",
+        "bytes": 20170125,
+        "duration_sec": 1680.8,
+        "duration_min": 28.01,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:58:29.765915+00:00"
+    },
+    {
+      "id": "S02-S09E08",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 9,
+      "season": "Extraocular Muscles and Ocular Movement",
+      "episode_no": 8,
+      "title": "Levator Palpebrae",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "levator palpebrae superioris",
+        "upper eyelid anatomy",
+        "levator aponeurosis",
+        "ptosis",
+        "oculomotor nerve",
+        "Whitnall ligament",
+        "extraocular muscles",
+        "ocular movement",
+        "lid and gaze synergy",
+        "optometry education"
+      ],
+      "description": "The levator palpebrae superioris is the seventh muscle of the orbit, and the only one that never touches the eyeball. In this episode of Focus Cast by focuslinks, we follow it from its origin on the lesser wing of the sphenoid bone, forward along the orbital roof, under Whitnall's ligament, and into the upper lid as the levator aponeurosis. We map its four insertions, its nerve supply from the superior division of the oculomotor nerve, and the anatomy behind ptosis and lid-gaze synergy. A clear, real-numbers anatomy lesson for optometry students and curious listeners.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E08-levator-palpebrae.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-08-levator-palpebrae/S09E08-levator-palpebrae.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-08-levator-palpebrae/S09E08-levator-palpebrae.mp3",
+        "bytes": 20849229,
+        "duration_sec": 1737.4,
+        "duration_min": 28.96,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T11:00:24.409169+00:00"
+    },
+    {
+      "id": "S02-S09E09",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 9,
+      "season": "Extraocular Muscles and Ocular Movement",
+      "episode_no": 9,
+      "title": "Extraocular Muscle Actions",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "extraocular muscle actions",
+        "medial rectus adduction",
+        "lateral rectus abduction",
+        "superior rectus actions",
+        "inferior oblique elevation",
+        "superior oblique intorsion",
+        "muscle field of action",
+        "ocular torsion",
+        "eye movement anatomy"
+      ],
+      "description": "What does each extraocular muscle actually do to the eye? In this episode of Focus Cast by focuslinks, the Host and Guide take the six direction muscles one at a time, naming the primary, secondary and tertiary actions of every rectus and oblique, and explaining the anatomy - angles, axes and insertions - that makes those actions inevitable. You will learn why the vertical recti adduct, why the obliques abduct, and how each muscle's field of action points the clinician to the exact gaze direction that tests it best. A precise, listener-friendly anatomy lesson for optometry students, educators, and anyone who teaches ocular motility.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E09-extraocular-muscle-actions.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-09-extraocular-muscle-actions/S09E09-extraocular-muscle-actions.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-09-extraocular-muscle-actions/S09E09-extraocular-muscle-actions.mp3",
+        "bytes": 20922381,
+        "duration_sec": 1743.5,
+        "duration_min": 29.06,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T11:02:21.271644+00:00"
+    },
+    {
+      "id": "S02-S09E10",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 9,
+      "season": "Extraocular Muscles and Ocular Movement",
+      "episode_no": 10,
+      "title": "Anatomical Basis of Eye Movements",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "spiral of Tillaux",
+        "insertion spiral",
+        "ocular pulleys",
+        "pulley theory",
+        "yoke muscles",
+        "Sherrington law of reciprocal innervation",
+        "Hering law of equal innervation",
+        "eye movement anatomy",
+        "extraocular muscles",
+        "strabismus anatomy"
+      ],
+      "description": "In the season finale of Ocular Anatomy for Optometrists, Focus Cast by focuslinks assembles the whole machinery of Season 9 into one working system. Trace the spiral of Tillaux across the four rectus insertions, step inside the connective tissue pulleys that steer each muscle's line of pull, and meet the two pairing rules, Sherrington's reciprocal innervation and Hering's equal innervation, that yoke twelve muscles into one coordinated team. Written for optometry students, practitioners, and anyone who wants eye movements grounded in anatomy rather than memorized arrows. The season ends here, and the next season, Neuroanatomy for Optometrists, is already waiting in the wings.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-09/S09E10-anatomical-basis-of-eye-movements.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-10-anatomical-basis-of-eye-movements/S09E10-anatomical-basis-of-eye-movements.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-09-extraocular-muscles-and-ocular-movement/ep-10-anatomical-basis-of-eye-movements/S09E10-anatomical-basis-of-eye-movements.mp3",
+        "bytes": 20261421,
+        "duration_sec": 1688.4,
+        "duration_min": 28.14,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T11:04:19.288780+00:00"
+    },
+    {
+      "id": "S02-S10E01",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 10,
+      "season": "Neuroanatomy for Optometrists",
+      "episode_no": 1,
+      "title": "Optic Nerve",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optic nerve anatomy",
+        "retinal ganglion cells",
+        "neuroanatomy for optometrists",
+        "visual pathway",
+        "optic nerve fibres",
+        "myelination of the optic nerve",
+        "parvocellular and magnocellular streams",
+        "nerve fibre layer",
+        "ocular anatomy",
+        "optometry education"
+      ],
+      "description": "Season ten of Focus Cast by focuslinks opens the final season, Neuroanatomy for Optometrists, and starts at the true beginning of the visual pathway. Meet the optic nerve through its fibre composition: about one point two million axons born in retinal ganglion cells, gathered across the retina as a transparent veil and insulated into brain white matter behind the eye. Learn the three great streams of fibres that carry detail, motion and colour, plus the small light-sensitive set that drives the pupil, and take a first look at the partial crossing that lies ahead. An anatomy-first episode for optometry students, optometrists and the whole eye care team.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E01-optic-nerve.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-01-optic-nerve/S10E01-optic-nerve.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-01-optic-nerve/S10E01-optic-nerve.mp3",
+        "bytes": 20930445,
+        "duration_sec": 1744.2,
+        "duration_min": 29.07,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T11:06:13.525922+00:00"
+    },
+    {
+      "id": "S02-S10E02",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 10,
+      "season": "Neuroanatomy for Optometrists",
+      "episode_no": 2,
+      "title": "Optic Chiasm",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optic chiasm",
+        "optic chiasma",
+        "hemidecussation",
+        "nasal retinal fibres",
+        "temporal retinal fibres",
+        "macular fibres",
+        "wilbrand knee",
+        "circle of willis",
+        "pituitary gland",
+        "neuroanatomy for optometrists"
+      ],
+      "description": "At the base of the brain, the two optic nerves meet and deliberately swap half their fibres. In this episode of Focus Cast by focuslinks, we map the optic chiasm: why nasal retinal fibres cross while temporal fibres stay, where the macular fibres run through the central and posterior core, and the crucial neighbours above and below, from the third ventricle and the circle of Willis down to the diaphragma sellae and the pituitary gland. Pure anatomy and wiring for optometrists, with dimensions, blood supply, and the positional variants that change the geometry. Lesion patterns wait for a future clinical series; today is the crossroads itself.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E02-optic-chiasm.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-02-optic-chiasm/S10E02-optic-chiasm.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-02-optic-chiasm/S10E02-optic-chiasm.mp3",
+        "bytes": 20397069,
+        "duration_sec": 1699.7,
+        "duration_min": 28.33,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T11:08:10.939767+00:00"
+    },
+    {
+      "id": "S02-S10E03",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 10,
+      "season": "Neuroanatomy for Optometrists",
+      "episode_no": 3,
+      "title": "Optic Tract",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optic tract",
+        "visual pathway anatomy",
+        "optic chiasm",
+        "lateral geniculate body",
+        "homonymous hemianopia",
+        "neuroanatomy for optometrists",
+        "ocular anatomy",
+        "retinal ganglion cells",
+        "relative afferent pupillary defect",
+        "optometry education"
+      ],
+      "description": "Where does the visual message go after the chiasm? In this neuroanatomy episode, Focus Cast by focuslinks follows the optic tract as it sweeps around the midbrain carrying the opposite half of the visual world from both eyes. We unpack the fibre order inside the tract, the vessels that travel beside it, and the classic signs of a tract lesion, from incongruous homonymous hemianopia to bow-tie pallor of the optic disc. A clear, exam-ready walk for optometry students and practising optometrists.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E03-optic-tract.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-03-optic-tract/S10E03-optic-tract.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-03-optic-tract/S10E03-optic-tract.mp3",
+        "bytes": 20277261,
+        "duration_sec": 1689.7,
+        "duration_min": 28.16,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T11:10:05.799210+00:00"
+    },
+    {
+      "id": "S02-S10E04",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 10,
+      "season": "Neuroanatomy for Optometrists",
+      "episode_no": 4,
+      "title": "Lateral Geniculate Body",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lateral geniculate body",
+        "lateral geniculate nucleus",
+        "optic tract",
+        "visual pathway",
+        "neuroanatomy",
+        "ocular anatomy",
+        "optometry",
+        "magnocellular",
+        "parvocellular",
+        "optic radiations"
+      ],
+      "description": "Where does the optic tract finally end? In this episode of Focus Cast by focuslinks, we arrive at the lateral geniculate body, the thalamic relay that every visual signal must pass through on the road from eye to cortex. Explore the six layers and which eye feeds each one, the magnocellular and parvocellular streams, the retinotopic map with its huge macular territory, the blood supply that explains macular sparing, and the output fibres that become the optic radiations. A neuroanatomy episode for optometrists and eye care students, written for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E04-lateral-geniculate-body.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-04-lateral-geniculate-body/S10E04-lateral-geniculate-body.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-04-lateral-geniculate-body/S10E04-lateral-geniculate-body.mp3",
+        "bytes": 20497293,
+        "duration_sec": 1708.0,
+        "duration_min": 28.47,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T11:11:59.891183+00:00"
+    },
+    {
+      "id": "S02-S10E05",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 10,
+      "season": "Neuroanatomy for Optometrists",
+      "episode_no": 5,
+      "title": "Optic Radiations",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optic radiations",
+        "Meyer's loop",
+        "geniculocalcarine tract",
+        "temporal lobe",
+        "parietal lobe",
+        "visual field defects",
+        "calcarine cortex",
+        "visual pathway neuroanatomy",
+        "optometry education"
+      ],
+      "description": "In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks follows the stream of axons that leaves the lateral geniculate body and fans out across the brain toward the calcarine cortex. Trace the temporal and parietal courses of the optic radiations, the forward sweep of Meyer's loop into the temporal lobe, and the retinotopic order that keeps the visual map intact from eye to cortex. Learn why temporal lobe lesions erase a superior quadrant of the field, why parietal lesions erase an inferior one, and how the blood supply changes along the way. Made for optometry students and clinicians who want the neuroanatomy behind the visual field chart.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E05-optic-radiations.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-05-optic-radiations/S10E05-optic-radiations.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-05-optic-radiations/S10E05-optic-radiations.mp3",
+        "bytes": 19497933,
+        "duration_sec": 1624.8,
+        "duration_min": 27.08,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T11:13:55.862905+00:00"
+    },
+    {
+      "id": "S02-S10E06",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 10,
+      "season": "Neuroanatomy for Optometrists",
+      "episode_no": 6,
+      "title": "Visual Cortex",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "visual cortex",
+        "striate cortex",
+        "calcarine sulcus",
+        "cortical magnification",
+        "line of Gennari",
+        "primary visual cortex",
+        "occipital lobe anatomy",
+        "retinotopic map",
+        "neuroanatomy for optometrists",
+        "visual pathway anatomy"
+      ],
+      "description": "Where does seeing actually begin in the brain? In this episode of Focus Cast by focuslinks, we reach the final station of the visual pathway: the striate cortex folded around the calcarine sulcus on the medial surface of the occipital lobe. Explore the line of Gennari, the layered input machinery, the point-to-point retinotopic map, and the striking principle of cortical magnification that hands the central ten degrees of vision more than half of the primary visual cortex. Then take a brief guided look beyond area one, toward the colour and motion areas of the extrastriate belt. Built for optometry students and practitioners who want anatomy they can lean on in the examining chair.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E06-visual-cortex.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-06-visual-cortex/S10E06-visual-cortex.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-06-visual-cortex/S10E06-visual-cortex.mp3",
+        "bytes": 21152205,
+        "duration_sec": 1762.6,
+        "duration_min": 29.38,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T11:15:46.344949+00:00"
+    },
+    {
+      "id": "S02-S10E07",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 10,
+      "season": "Neuroanatomy for Optometrists",
+      "episode_no": 7,
+      "title": "Pupillary Pathway",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "pupillary pathway",
+        "light reflex",
+        "pretectal area",
+        "Edinger-Westphal nucleus",
+        "ciliary ganglion",
+        "short ciliary nerves",
+        "sphincter pupillae",
+        "optic tract",
+        "neuroanatomy",
+        "optometry education"
+      ],
+      "description": "Trace one flash of light from the retina to the midbrain and back out to the iris in a single complete neural circuit. In this episode of Focus Cast by focuslinks, we walk the pupillary light reflex as pure anatomy: the afferent limb riding with the optic nerve to the pretectal area, the bilateral hand-off through the posterior commissure to the Edinger-Westphal nuclei, and the efferent limb from the oculomotor nerve through the ciliary ganglion to the sphincter pupillae. Learn why both pupils constrict together, why the visual cortex is never consulted, and how the wiring predicts the swinging flashlight test at the slit lamp. A neuroanatomy episode built for optometry students and clinicians.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E07-pupillary-pathway.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-07-pupillary-pathway/S10E07-pupillary-pathway.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-07-pupillary-pathway/S10E07-pupillary-pathway.mp3",
+        "bytes": 20640429,
+        "duration_sec": 1720.0,
+        "duration_min": 28.67,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T11:17:44.682416+00:00"
+    },
+    {
+      "id": "S02-S10E08",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 10,
+      "season": "Neuroanatomy for Optometrists",
+      "episode_no": 8,
+      "title": "Accommodation Pathway",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "accommodation pathway",
+        "near triad",
+        "Edinger-Westphal nucleus",
+        "ciliary muscle innervation",
+        "convergence response",
+        "pupillary miosis",
+        "light-near dissociation",
+        "ciliary ganglion",
+        "oculomotor nerve",
+        "ocular neuroanatomy"
+      ],
+      "description": "Focus Cast by focuslinks traces the near response, the wiring that lets two eyes swing together from a distant sign to a page in the hand. This episode of Ocular Anatomy for Optometrists follows retinal blur from the visual cortex down through the internal capsule, the Edinger-Westphal nucleus and the oculomotor nerve, then through the ciliary ganglion and the short ciliary nerves to the ciliary muscle, while convergence and pupillary miosis travel on the same command. Learn how the accommodation pathway differs from the light reflex, why light-near dissociation occurs, and what the near triad looks like at the consulting chair. Made for optometry students, practitioners, and anyone who loves the wiring behind the eyes.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E08-accommodation-pathway.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-08-accommodation-pathway/S10E08-accommodation-pathway.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-08-accommodation-pathway/S10E08-accommodation-pathway.mp3",
+        "bytes": 20527821,
+        "duration_sec": 1710.6,
+        "duration_min": 28.51,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T11:19:40.879004+00:00"
+    },
+    {
+      "id": "S02-S10E09",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 10,
+      "season": "Neuroanatomy for Optometrists",
+      "episode_no": 9,
+      "title": "Cranial Nerves in Ocular Function",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "cranial nerves",
+        "optic nerve",
+        "oculomotor nerve",
+        "trochlear nerve",
+        "trigeminal nerve",
+        "abducens nerve",
+        "facial nerve",
+        "ocular innervation",
+        "neuroanatomy for optometrists"
+      ],
+      "description": "Six of the twelve cranial nerve pairs keep your eyes working, and this episode lines them up in one anatomical roster. Focus Cast by focuslinks unpacks what the optic, oculomotor, trochlear, trigeminal, abducens and facial nerves each carry for ocular function: the million-plus fibres of sight, the movers of the globe, the relay for pupil and focus, the protective sensation of the cornea, and the muscles that close the lids. Hear how every nerve travels through the cavernous sinus and the superior orbital fissure, and why those routes explain the clinical signs. A synthesis episode for optometry students, practitioners and curious listeners, drawing together seasons of ocular anatomy in one walk.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E09-cranial-nerves-in-ocular-function.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-09-cranial-nerves-in-ocular-function/S10E09-cranial-nerves-in-ocular-function.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-09-cranial-nerves-in-ocular-function/S10E09-cranial-nerves-in-ocular-function.mp3",
+        "bytes": 20473101,
+        "duration_sec": 1706.0,
+        "duration_min": 28.43,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T11:21:34.698211+00:00"
+    },
+    {
+      "id": "S02-S10E10",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 10,
+      "season": "Neuroanatomy for Optometrists",
+      "episode_no": 10,
+      "title": "Complete Visual Pathway - Retina to Cortex",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "visual pathway",
+        "retina to cortex",
+        "optic nerve anatomy",
+        "optic chiasm",
+        "lateral geniculate body",
+        "optic radiations",
+        "visual cortex",
+        "ocular anatomy",
+        "neuroanatomy",
+        "series finale"
+      ],
+      "description": "The finale of Ocular Anatomy for Optometrists. In this series capstone, Focus Cast by focuslinks walks the entire visual pathway in one continuous journey, from photoreceptor outer segments through the optic nerve, chiasm, tract, lateral geniculate body, radiations and on to the visual cortex. Along the way we tie the walk back to all ten seasons of the series, from the bony orbit to the extraocular muscles, and show how every field defect tells you exactly where the road is broken. A warm sign-off closes one hundred episodes, with more Focus Cast series on the horizon.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-10/S10E10-complete-visual-pathway-retina-to-cortex.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-10-complete-visual-pathway-retina-to-cortex/S10E10-complete-visual-pathway-retina-to-cortex.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-10-neuroanatomy-for-optometrists/ep-10-complete-visual-pathway-retina-to-cortex/S10E10-complete-visual-pathway-retina-to-cortex.mp3",
+        "bytes": 22349133,
+        "duration_sec": 1862.4,
+        "duration_min": 31.04,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T11:23:28.346486+00:00"
     }
   ]
 }

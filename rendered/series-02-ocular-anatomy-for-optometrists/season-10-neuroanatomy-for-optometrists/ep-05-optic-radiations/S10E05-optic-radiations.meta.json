@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S10E05-optic-radiations.txt",
+  "stem": "S10E05-optic-radiations",
+  "words": 4012,
+  "generated_at_utc": "2026-10-04T11:13:55.862905+00:00",
+  "title": "Optic Radiations",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Neuroanatomy for Optometrists",
+  "season_no": "10",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optic radiations",
+    "Meyer's loop",
+    "geniculocalcarine tract",
+    "temporal lobe",
+    "parietal lobe",
+    "visual field defects",
+    "calcarine cortex",
+    "visual pathway neuroanatomy",
+    "optometry education"
+  ],
+  "description": "In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks follows the stream of axons that leaves the lateral geniculate body and fans out across the brain toward the calcarine cortex. Trace the temporal and parietal courses of the optic radiations, the forward sweep of Meyer's loop into the temporal lobe, and the retinotopic order that keeps the visual map intact from eye to cortex. Learn why temporal lobe lesions erase a superior quadrant of the field, why parietal lesions erase an inferior one, and how the blood supply changes along the way. Made for optometry students and clinicians who want the neuroanatomy behind the visual field chart.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1624.8,
+  "duration_min": 27.08,
+  "files": [
+    "S10E05-optic-radiations.wav",
+    "S10E05-optic-radiations.mp3"
+  ]
+}

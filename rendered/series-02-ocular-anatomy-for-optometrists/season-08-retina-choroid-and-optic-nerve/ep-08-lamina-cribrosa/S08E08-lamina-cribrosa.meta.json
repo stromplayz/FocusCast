@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S08E08-lamina-cribrosa.txt",
+  "stem": "S08E08-lamina-cribrosa",
+  "words": 4084,
+  "generated_at_utc": "2026-10-04T10:41:27.562451+00:00",
+  "title": "Lamina Cribrosa",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Retina, Choroid and Optic Nerve",
+  "season_no": "8",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lamina cribrosa",
+    "optic nerve head",
+    "posterior scleral foramen",
+    "optic disc anatomy",
+    "retinal ganglion cell axons",
+    "short posterior ciliary arteries",
+    "circle of Zinn and Haller",
+    "posterior segment anatomy",
+    "ocular anatomy",
+    "optometry education"
+  ],
+  "description": "At the bottom of the optic disc lies a miniature sieve, and this episode of Focus Cast by focuslinks takes it apart beam by beam. We locate the lamina cribrosa in the posterior scleral foramen, count its pores and its bundles of ganglion cell axons, and examine the collagen, elastin, astrocytes and capillaries from which its beams are built. Then we map its famous regional variation, learning why the superior and inferior poles of the plate carry the thinnest beams and the least elastin, and what pressures the finished mesh must hold apart. A structure-first anatomy lesson for optometry students and clinicians who want the optic nerve head in full depth.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1625.7,
+  "duration_min": 27.1,
+  "files": [
+    "S08E08-lamina-cribrosa.wav",
+    "S08E08-lamina-cribrosa.mp3"
+  ]
+}

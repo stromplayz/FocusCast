@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S09E01-extraocular-muscle-overview.txt",
+  "stem": "S09E01-extraocular-muscle-overview",
+  "words": 4481,
+  "generated_at_utc": "2026-10-04T10:46:59.606531+00:00",
+  "title": "Extraocular Muscle Overview",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Extraocular Muscles and Ocular Movement",
+  "season_no": "9",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "extraocular muscles",
+    "ocular movement",
+    "annulus of Zinn",
+    "common tendinous ring",
+    "muscle cone",
+    "intraconal space",
+    "superior oblique",
+    "inferior oblique",
+    "levator palpebrae superioris",
+    "orbital apex"
+  ],
+  "description": "Seven muscles tug on every eye you will ever examine, and in this season opener of Ocular Anatomy for Optometrists, Focus Cast by focuslinks maps them all in one clear overview. Meet the four rectus muscles, the two obliques, and the lid lifting levator, then travel to the orbital apex where the annulus of Zinn anchors the recti into a single tendinous ring. Learn how the four recti build the muscle cone, why the intraconal and extraconal compartments matter at the chair and in the radiology report, and which three cranial nerves run the whole show. A foundation episode for every ocular movement conversation this season will build on it.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1783.7,
+  "duration_min": 29.73,
+  "files": [
+    "S09E01-extraocular-muscle-overview.wav",
+    "S09E01-extraocular-muscle-overview.mp3"
+  ]
+}

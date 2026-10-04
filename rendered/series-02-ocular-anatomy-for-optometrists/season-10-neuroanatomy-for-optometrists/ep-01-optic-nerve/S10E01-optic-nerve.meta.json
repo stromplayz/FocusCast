@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S10E01-optic-nerve.txt",
+  "stem": "S10E01-optic-nerve",
+  "words": 4226,
+  "generated_at_utc": "2026-10-04T11:06:13.525922+00:00",
+  "title": "Optic Nerve",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Neuroanatomy for Optometrists",
+  "season_no": "10",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optic nerve anatomy",
+    "retinal ganglion cells",
+    "neuroanatomy for optometrists",
+    "visual pathway",
+    "optic nerve fibres",
+    "myelination of the optic nerve",
+    "parvocellular and magnocellular streams",
+    "nerve fibre layer",
+    "ocular anatomy",
+    "optometry education"
+  ],
+  "description": "Season ten of Focus Cast by focuslinks opens the final season, Neuroanatomy for Optometrists, and starts at the true beginning of the visual pathway. Meet the optic nerve through its fibre composition: about one point two million axons born in retinal ganglion cells, gathered across the retina as a transparent veil and insulated into brain white matter behind the eye. Learn the three great streams of fibres that carry detail, motion and colour, plus the small light-sensitive set that drives the pupil, and take a first look at the partial crossing that lies ahead. An anatomy-first episode for optometry students, optometrists and the whole eye care team.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1744.2,
+  "duration_min": 29.07,
+  "files": [
+    "S10E01-optic-nerve.wav",
+    "S10E01-optic-nerve.mp3"
+  ]
+}

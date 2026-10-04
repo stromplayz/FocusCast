@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S09E02-medial-rectus.txt",
+  "stem": "S09E02-medial-rectus",
+  "words": 4201,
+  "generated_at_utc": "2026-10-04T10:48:57.678699+00:00",
+  "title": "Medial Rectus",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Extraocular Muscles and Ocular Movement",
+  "season_no": "9",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "medial rectus",
+    "extraocular muscles",
+    "annulus of Zinn",
+    "rectus pulley",
+    "oculomotor nerve",
+    "spiral of Tillaux",
+    "ocular anatomy",
+    "eye muscle anatomy",
+    "optometry education",
+    "insertion distance from limbus"
+  ],
+  "description": "The medial rectus is the largest, busiest, and most operated of the four rectus muscles, and this episode of Focus Cast by focuslinks gives it a full anatomy session of its own. Follow the muscle from its two-headed origin on the annulus of Zinn at the orbital apex, along its course against the paper-thin medial wall, to an insertion that sits only five and a half millimetres behind the limbus. Learn about its connective tissue pulley, its check ligament, its blood supply from the ophthalmic artery, and the exact spot where the inferior division of the oculomotor nerve enters its ocular surface. Clear numbers, plain language, and the anatomical reasons behind every landmark, for optometry students and practicing optometrists.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1658.1,
+  "duration_min": 27.64,
+  "files": [
+    "S09E02-medial-rectus.wav",
+    "S09E02-medial-rectus.mp3"
+  ]
+}

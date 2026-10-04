@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S10E06-visual-cortex.txt",
+  "stem": "S10E06-visual-cortex",
+  "words": 4251,
+  "generated_at_utc": "2026-10-04T11:15:46.344949+00:00",
+  "title": "Visual Cortex",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Neuroanatomy for Optometrists",
+  "season_no": "10",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "visual cortex",
+    "striate cortex",
+    "calcarine sulcus",
+    "cortical magnification",
+    "line of Gennari",
+    "primary visual cortex",
+    "occipital lobe anatomy",
+    "retinotopic map",
+    "neuroanatomy for optometrists",
+    "visual pathway anatomy"
+  ],
+  "description": "Where does seeing actually begin in the brain? In this episode of Focus Cast by focuslinks, we reach the final station of the visual pathway: the striate cortex folded around the calcarine sulcus on the medial surface of the occipital lobe. Explore the line of Gennari, the layered input machinery, the point-to-point retinotopic map, and the striking principle of cortical magnification that hands the central ten degrees of vision more than half of the primary visual cortex. Then take a brief guided look beyond area one, toward the colour and motion areas of the extrastriate belt. Built for optometry students and practitioners who want anatomy they can lean on in the examining chair.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1762.6,
+  "duration_min": 29.38,
+  "files": [
+    "S10E06-visual-cortex.wav",
+    "S10E06-visual-cortex.mp3"
+  ]
+}

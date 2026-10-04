@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E09-optic-nerve-structure.txt",
+  "stem": "S08E09-optic-nerve-structure",
+  "words": 4103,
+  "generated_at_utc": "2026-10-04T10:43:17.273842+00:00",
+  "title": "Optic Nerve Structure",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Retina, Choroid and Optic Nerve",
+  "season_no": "8",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optic nerve anatomy",
+    "optic nerve segments",
+    "intraorbital optic nerve",
+    "optic nerve sheaths",
+    "subarachnoid space",
+    "optic canal",
+    "ocular anatomy podcast",
+    "optometry anatomy series"
+  ],
+  "description": "How long is the optic nerve, and what exactly wraps it on the way from eye to brain? In this episode of Focus Cast by focuslinks we walk the whole cable and divide it into its four named segments, intraocular, intraorbital, intracanalicular and intracranial, with real millimetre numbers at every step. We unwrap the three sheaths, the dura mater, the arachnoid and the pia mater, and trace the fluid spaces between them that keep the eye and the brain in constant conversation. Built for optometry students and clinicians who want the structure behind the disc they examine every day.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1651.3,
+  "duration_min": 27.52,
+  "files": [
+    "S08E09-optic-nerve-structure.wav",
+    "S08E09-optic-nerve-structure.mp3"
+  ]
+}

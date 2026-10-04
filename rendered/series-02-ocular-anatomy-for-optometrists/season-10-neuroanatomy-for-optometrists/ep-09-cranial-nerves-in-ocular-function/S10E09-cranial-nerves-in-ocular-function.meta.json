@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S10E09-cranial-nerves-in-ocular-function.txt",
+  "stem": "S10E09-cranial-nerves-in-ocular-function",
+  "words": 4109,
+  "generated_at_utc": "2026-10-04T11:21:34.698211+00:00",
+  "title": "Cranial Nerves in Ocular Function",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Neuroanatomy for Optometrists",
+  "season_no": "10",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "cranial nerves",
+    "optic nerve",
+    "oculomotor nerve",
+    "trochlear nerve",
+    "trigeminal nerve",
+    "abducens nerve",
+    "facial nerve",
+    "ocular innervation",
+    "neuroanatomy for optometrists"
+  ],
+  "description": "Six of the twelve cranial nerve pairs keep your eyes working, and this episode lines them up in one anatomical roster. Focus Cast by focuslinks unpacks what the optic, oculomotor, trochlear, trigeminal, abducens and facial nerves each carry for ocular function: the million-plus fibres of sight, the movers of the globe, the relay for pupil and focus, the protective sensation of the cornea, and the muscles that close the lids. Hear how every nerve travels through the cavernous sinus and the superior orbital fissure, and why those routes explain the clinical signs. A synthesis episode for optometry students, practitioners and curious listeners, drawing together seasons of ocular anatomy in one walk.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1706.0,
+  "duration_min": 28.43,
+  "files": [
+    "S10E09-cranial-nerves-in-ocular-function.wav",
+    "S10E09-cranial-nerves-in-ocular-function.mp3"
+  ]
+}

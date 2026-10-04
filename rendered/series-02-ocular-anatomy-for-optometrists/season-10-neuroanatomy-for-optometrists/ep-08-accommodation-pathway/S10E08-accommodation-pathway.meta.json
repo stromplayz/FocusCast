@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S10E08-accommodation-pathway.txt",
+  "stem": "S10E08-accommodation-pathway",
+  "words": 4030,
+  "generated_at_utc": "2026-10-04T11:19:40.879004+00:00",
+  "title": "Accommodation Pathway",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Neuroanatomy for Optometrists",
+  "season_no": "10",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "accommodation pathway",
+    "near triad",
+    "Edinger-Westphal nucleus",
+    "ciliary muscle innervation",
+    "convergence response",
+    "pupillary miosis",
+    "light-near dissociation",
+    "ciliary ganglion",
+    "oculomotor nerve",
+    "ocular neuroanatomy"
+  ],
+  "description": "Focus Cast by focuslinks traces the near response, the wiring that lets two eyes swing together from a distant sign to a page in the hand. This episode of Ocular Anatomy for Optometrists follows retinal blur from the visual cortex down through the internal capsule, the Edinger-Westphal nucleus and the oculomotor nerve, then through the ciliary ganglion and the short ciliary nerves to the ciliary muscle, while convergence and pupillary miosis travel on the same command. Learn how the accommodation pathway differs from the light reflex, why light-near dissociation occurs, and what the near triad looks like at the consulting chair. Made for optometry students, practitioners, and anyone who loves the wiring behind the eyes.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1710.6,
+  "duration_min": 28.51,
+  "files": [
+    "S10E08-accommodation-pathway.wav",
+    "S10E08-accommodation-pathway.mp3"
+  ]
+}

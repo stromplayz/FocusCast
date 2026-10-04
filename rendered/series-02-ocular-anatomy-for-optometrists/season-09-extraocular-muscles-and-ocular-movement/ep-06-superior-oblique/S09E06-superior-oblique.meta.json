@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S09E06-superior-oblique.txt",
+  "stem": "S09E06-superior-oblique",
+  "words": 4107,
+  "generated_at_utc": "2026-10-04T10:56:37.226035+00:00",
+  "title": "Superior Oblique",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Extraocular Muscles and Ocular Movement",
+  "season_no": "9",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "superior oblique",
+    "trochlea",
+    "trochlear tendon",
+    "trochlear nerve",
+    "fourth cranial nerve",
+    "extraocular muscles",
+    "ocular anatomy",
+    "eye movement",
+    "orbital anatomy",
+    "optometry education"
+  ],
+  "description": "Why does one eye muscle need its own pulley? In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks follows the superior oblique from its unusual origin on the sphenoid bone, forward along the inner edge of the orbital roof, and into the trochlea, the fibrocartilaginous pulley that bends its tendon back toward the globe. We trace the rounded tendon as it glides beneath the superior rectus and spreads into its fan-shaped insertion behind the equator of the eye. Along the way we meet the fourth cranial nerve, the longest and thinnest muscle in the orbit, and the clinical stories the pulley explains, from trochleitis to Brown syndrome. Made for optometry students, optometrists, and anyone who wants the anatomy behind every eye movement.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1656.0,
+  "duration_min": 27.6,
+  "files": [
+    "S09E06-superior-oblique.wav",
+    "S09E06-superior-oblique.mp3"
+  ]
+}

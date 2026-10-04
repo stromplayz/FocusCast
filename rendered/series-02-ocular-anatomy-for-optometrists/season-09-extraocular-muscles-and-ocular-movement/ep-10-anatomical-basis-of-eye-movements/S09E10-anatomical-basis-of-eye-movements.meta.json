@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S09E10-anatomical-basis-of-eye-movements.txt",
+  "stem": "S09E10-anatomical-basis-of-eye-movements",
+  "words": 4138,
+  "generated_at_utc": "2026-10-04T11:04:19.288780+00:00",
+  "title": "Anatomical Basis of Eye Movements",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Extraocular Muscles and Ocular Movement",
+  "season_no": "9",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "spiral of Tillaux",
+    "insertion spiral",
+    "ocular pulleys",
+    "pulley theory",
+    "yoke muscles",
+    "Sherrington law of reciprocal innervation",
+    "Hering law of equal innervation",
+    "eye movement anatomy",
+    "extraocular muscles",
+    "strabismus anatomy"
+  ],
+  "description": "In the season finale of Ocular Anatomy for Optometrists, Focus Cast by focuslinks assembles the whole machinery of Season 9 into one working system. Trace the spiral of Tillaux across the four rectus insertions, step inside the connective tissue pulleys that steer each muscle's line of pull, and meet the two pairing rules, Sherrington's reciprocal innervation and Hering's equal innervation, that yoke twelve muscles into one coordinated team. Written for optometry students, practitioners, and anyone who wants eye movements grounded in anatomy rather than memorized arrows. The season ends here, and the next season, Neuroanatomy for Optometrists, is already waiting in the wings.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1688.4,
+  "duration_min": 28.14,
+  "files": [
+    "S09E10-anatomical-basis-of-eye-movements.wav",
+    "S09E10-anatomical-basis-of-eye-movements.mp3"
+  ]
+}

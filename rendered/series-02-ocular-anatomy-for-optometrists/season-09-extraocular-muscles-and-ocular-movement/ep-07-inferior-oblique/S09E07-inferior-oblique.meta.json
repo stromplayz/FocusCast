@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S09E07-inferior-oblique.txt",
+  "stem": "S09E07-inferior-oblique",
+  "words": 4221,
+  "generated_at_utc": "2026-10-04T10:58:29.765915+00:00",
+  "title": "Inferior Oblique",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Extraocular Muscles and Ocular Movement",
+  "season_no": "9",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "inferior oblique",
+    "extraocular muscles",
+    "ocular movement",
+    "inferior oblique origin",
+    "inferior oblique insertion",
+    "inferior rectus",
+    "oculomotor nerve",
+    "macula",
+    "orbital floor",
+    "optometry anatomy"
+  ],
+  "description": "The inferior oblique is the rule breaker of the extraocular muscles, and in this episode of Focus Cast by focuslinks we follow it from its unusual origin on the maxilla beside the lacrimal crest, beneath the inferior rectus, to its posterolateral insertion close to the macula. Learn why it is the shortest extraocular muscle, why it needs almost no tendon, which branch of the oculomotor nerve drives it, and why its insertion lies in delicate surgical territory. A precise, listener friendly anatomy lesson for optometry students, optometrists, and eye care teams.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1680.8,
+  "duration_min": 28.01,
+  "files": [
+    "S09E07-inferior-oblique.wav",
+    "S09E07-inferior-oblique.mp3"
+  ]
+}

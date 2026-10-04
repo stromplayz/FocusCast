@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S08E01-retinal-blood-supply.txt",
+  "stem": "S08E01-retinal-blood-supply",
+  "words": 4254,
+  "generated_at_utc": "2026-10-04T10:27:06.990786+00:00",
+  "title": "Retinal Blood Supply",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Retina, Choroid and Optic Nerve",
+  "season_no": "8",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "retinal blood supply",
+    "central retinal artery",
+    "central retinal vein",
+    "retinal vascular arcades",
+    "ophthalmic artery",
+    "dual retinal supply",
+    "watershed zone",
+    "choroidal circulation",
+    "ocular anatomy",
+    "optometry education"
+  ],
+  "description": "Season 8 of Ocular Anatomy for Optometrists opens with the plumbing that keeps the seeing wall alive. In this episode, Focus Cast by focuslinks traces the central retinal artery from the internal carotid to the centre of the optic disc, follows its division into the four retinal arcades, and pairs it with the central retinal vein on its way back to the superior ophthalmic vein and the cavernous sinus. We then lay the retina's dual supply side by side, inner retina from the central artery, outer retina from the choroid, and map the watershed strip between the two territories, with the cilioretinal artery as the famous exception. Made for optometry students and clinicians who want real numbers, plain words, and anatomy that explains what they see in the chair.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1724.1,
+  "duration_min": 28.73,
+  "files": [
+    "S08E01-retinal-blood-supply.wav",
+    "S08E01-retinal-blood-supply.mp3"
+  ]
+}

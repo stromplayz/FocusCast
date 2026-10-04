@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S08E10-retina-optic-nerve-relationship.txt",
+  "stem": "S08E10-retina-optic-nerve-relationship",
+  "words": 4067,
+  "generated_at_utc": "2026-10-04T10:45:08.483661+00:00",
+  "title": "Retina-Optic Nerve Relationship",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Retina, Choroid and Optic Nerve",
+  "season_no": "8",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "retina optic nerve relationship",
+    "retinal nerve fibre layer",
+    "arcuate bundles",
+    "papillomacular bundle",
+    "nasal raphe",
+    "optic disc anatomy",
+    "neuroretinal rim",
+    "retinal ganglion cells",
+    "optic nerve head",
+    "ocular anatomy"
+  ],
+  "description": "In the season finale of our eighth season, Focus Cast by focuslinks traces the last millimetres of the visual journey, as one point two million retinal ganglion cell axons converge on the optic disc in perfect order. We map the arcuate bundles arching above and below the macula, the papillomacular bundle entering the temporal wedge, and the horizontal raphe that fibres never cross, then read the neuroretinal rim as the footprint of those fibre streams. This capstone episode gathers the whole season together, from retinal blood supply to the lamina cribrosa, and shows why fibre geography is the map an optometrist reads at every fundus examination. A closing teaser points the way to Season 9, Extraocular Muscles and Ocular Movement.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1649.6,
+  "duration_min": 27.49,
+  "files": [
+    "S08E10-retina-optic-nerve-relationship.wav",
+    "S08E10-retina-optic-nerve-relationship.mp3"
+  ]
+}

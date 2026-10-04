@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S10E04-lateral-geniculate-body.txt",
+  "stem": "S10E04-lateral-geniculate-body",
+  "words": 4116,
+  "generated_at_utc": "2026-10-04T11:11:59.891183+00:00",
+  "title": "Lateral Geniculate Body",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Neuroanatomy for Optometrists",
+  "season_no": "10",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lateral geniculate body",
+    "lateral geniculate nucleus",
+    "optic tract",
+    "visual pathway",
+    "neuroanatomy",
+    "ocular anatomy",
+    "optometry",
+    "magnocellular",
+    "parvocellular",
+    "optic radiations"
+  ],
+  "description": "Where does the optic tract finally end? In this episode of Focus Cast by focuslinks, we arrive at the lateral geniculate body, the thalamic relay that every visual signal must pass through on the road from eye to cortex. Explore the six layers and which eye feeds each one, the magnocellular and parvocellular streams, the retinotopic map with its huge macular territory, the blood supply that explains macular sparing, and the output fibres that become the optic radiations. A neuroanatomy episode for optometrists and eye care students, written for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1708.0,
+  "duration_min": 28.47,
+  "files": [
+    "S10E04-lateral-geniculate-body.wav",
+    "S10E04-lateral-geniculate-body.mp3"
+  ]
+}

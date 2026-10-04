@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S09E05-inferior-rectus.txt",
+  "stem": "S09E05-inferior-rectus",
+  "words": 4458,
+  "generated_at_utc": "2026-10-04T10:54:36.001210+00:00",
+  "title": "Inferior Rectus",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Extraocular Muscles and Ocular Movement",
+  "season_no": "9",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "inferior rectus",
+    "extraocular muscles",
+    "ocular motility",
+    "Lockwood ligament",
+    "capsulopalpebral fascia",
+    "lower eyelid retractors",
+    "spiral of Tillaux",
+    "oculomotor nerve",
+    "orbital floor fracture",
+    "anatomy for optometrists"
+  ],
+  "description": "The inferior rectus is the muscle that carries your gaze toward the floor, and this episode of Focus Cast by focuslinks follows it from the tendinous ring at the orbital apex to its insertion about six and a half millimetres behind the limbus. Learn its course along the orbital floor, its twenty-three degree tilt that adds torsion and adduction to its pull, where the inferior division of the oculomotor nerve enters, and how its pulley sleeve steadies the line of pull. Then meet its most famous neighbours: Lockwood's ligament, the fascial hammock it shares with the inferior oblique, and the capsulopalpebral fascia that ties the muscle to the lower eyelid. The clinical anatomy is built in too, from orbital floor blowout fractures and thyroid eye disease to why surgery on this muscle can drag the lower lid down. Made for optometry students and practising optometrists who like their anatomy precise.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1782.9,
+  "duration_min": 29.72,
+  "files": [
+    "S09E05-inferior-rectus.wav",
+    "S09E05-inferior-rectus.mp3"
+  ]
+}

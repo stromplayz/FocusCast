@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S08E03-choroidal-circulation.txt",
+  "stem": "S08E03-choroidal-circulation",
+  "words": 4170,
+  "generated_at_utc": "2026-10-04T10:31:43.579049+00:00",
+  "title": "Choroidal Circulation",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Retina, Choroid and Optic Nerve",
+  "season_no": "8",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "choroidal circulation",
+    "short posterior ciliary arteries",
+    "choriocapillaris",
+    "vortex veins",
+    "ocular blood supply",
+    "uveal tract",
+    "choroid anatomy",
+    "optometry education",
+    "posterior segment anatomy",
+    "eye blood flow"
+  ],
+  "description": "How does one thin, dark coat feed half the retina, and where does all of its blood go? In this episode, Focus Cast by focuslinks walks the full choroidal circuit: the ten to twenty short posterior ciliary arteries ringing the optic nerve, the hexagonal lobules of the choriocapillaris with their arterial cores and venous rims, and the four vortex veins that carry the uveal circulation away by quadrants. Expect real textbook numbers, plain-language explanations, and the anatomical reasons optometrists care, from the equatorial watershed band to the oblique scleral canals that surgeons respect. This is episode three of the season on the retina, choroid, and optic nerve in the anatomy series for optometrists.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1741.1,
+  "duration_min": 29.02,
+  "files": [
+    "S08E03-choroidal-circulation.wav",
+    "S08E03-choroidal-circulation.mp3"
+  ]
+}

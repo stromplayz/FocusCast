@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S08E05-retinal-pigment-epithelium.txt",
+  "stem": "S08E05-retinal-pigment-epithelium",
+  "words": 4303,
+  "generated_at_utc": "2026-10-04T10:35:30.800576+00:00",
+  "title": "Retinal Pigment Epithelium",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Retina, Choroid and Optic Nerve",
+  "season_no": "8",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "retinal pigment epithelium",
+    "RPE anatomy",
+    "retinal anatomy",
+    "outer blood retinal barrier",
+    "Bruch membrane",
+    "ocular anatomy",
+    "optometry education",
+    "retina layers",
+    "photoreceptor support",
+    "optometry students"
+  ],
+  "description": "Beneath every photoreceptor in your eye sits a single, silent sheet of cells that makes seeing possible. In this episode of Focus Cast by focuslinks, we open the retinal pigment epithelium structure by structure: its hexagonal cells, its welded junctional gates, its microvilli sleeves wrapped around rod and cone outer segments, and its basement membrane locked onto Bruch's membrane. Learn how one-cell-thick anatomy carries nourishment, renewal, and the outer blood-retinal barrier. Written for optometry students, optical shop teams, and curious listeners of Ocular Anatomy for Optometrists.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1787.1,
+  "duration_min": 29.78,
+  "files": [
+    "S08E05-retinal-pigment-epithelium.wav",
+    "S08E05-retinal-pigment-epithelium.mp3"
+  ]
+}

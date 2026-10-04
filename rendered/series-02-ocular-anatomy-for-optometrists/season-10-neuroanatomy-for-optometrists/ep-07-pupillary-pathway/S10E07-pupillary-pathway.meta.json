@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S10E07-pupillary-pathway.txt",
+  "stem": "S10E07-pupillary-pathway",
+  "words": 4105,
+  "generated_at_utc": "2026-10-04T11:17:44.682416+00:00",
+  "title": "Pupillary Pathway",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Neuroanatomy for Optometrists",
+  "season_no": "10",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "pupillary pathway",
+    "light reflex",
+    "pretectal area",
+    "Edinger-Westphal nucleus",
+    "ciliary ganglion",
+    "short ciliary nerves",
+    "sphincter pupillae",
+    "optic tract",
+    "neuroanatomy",
+    "optometry education"
+  ],
+  "description": "Trace one flash of light from the retina to the midbrain and back out to the iris in a single complete neural circuit. In this episode of Focus Cast by focuslinks, we walk the pupillary light reflex as pure anatomy: the afferent limb riding with the optic nerve to the pretectal area, the bilateral hand-off through the posterior commissure to the Edinger-Westphal nuclei, and the efferent limb from the oculomotor nerve through the ciliary ganglion to the sphincter pupillae. Learn why both pupils constrict together, why the visual cortex is never consulted, and how the wiring predicts the swinging flashlight test at the slit lamp. A neuroanatomy episode built for optometry students and clinicians.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1720.0,
+  "duration_min": 28.67,
+  "files": [
+    "S10E07-pupillary-pathway.wav",
+    "S10E07-pupillary-pathway.mp3"
+  ]
+}

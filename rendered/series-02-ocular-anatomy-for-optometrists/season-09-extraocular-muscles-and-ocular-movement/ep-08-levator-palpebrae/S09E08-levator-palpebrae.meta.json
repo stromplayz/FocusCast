@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S09E08-levator-palpebrae.txt",
+  "stem": "S09E08-levator-palpebrae",
+  "words": 4166,
+  "generated_at_utc": "2026-10-04T11:00:24.409169+00:00",
+  "title": "Levator Palpebrae",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Extraocular Muscles and Ocular Movement",
+  "season_no": "9",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "levator palpebrae superioris",
+    "upper eyelid anatomy",
+    "levator aponeurosis",
+    "ptosis",
+    "oculomotor nerve",
+    "Whitnall ligament",
+    "extraocular muscles",
+    "ocular movement",
+    "lid and gaze synergy",
+    "optometry education"
+  ],
+  "description": "The levator palpebrae superioris is the seventh muscle of the orbit, and the only one that never touches the eyeball. In this episode of Focus Cast by focuslinks, we follow it from its origin on the lesser wing of the sphenoid bone, forward along the orbital roof, under Whitnall's ligament, and into the upper lid as the levator aponeurosis. We map its four insertions, its nerve supply from the superior division of the oculomotor nerve, and the anatomy behind ptosis and lid-gaze synergy. A clear, real-numbers anatomy lesson for optometry students and curious listeners.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1737.4,
+  "duration_min": 28.96,
+  "files": [
+    "S09E08-levator-palpebrae.wav",
+    "S09E08-levator-palpebrae.mp3"
+  ]
+}

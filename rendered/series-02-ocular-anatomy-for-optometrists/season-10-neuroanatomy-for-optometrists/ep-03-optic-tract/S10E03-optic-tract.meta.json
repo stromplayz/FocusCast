@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S10E03-optic-tract.txt",
+  "stem": "S10E03-optic-tract",
+  "words": 4154,
+  "generated_at_utc": "2026-10-04T11:10:05.799210+00:00",
+  "title": "Optic Tract",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Neuroanatomy for Optometrists",
+  "season_no": "10",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optic tract",
+    "visual pathway anatomy",
+    "optic chiasm",
+    "lateral geniculate body",
+    "homonymous hemianopia",
+    "neuroanatomy for optometrists",
+    "ocular anatomy",
+    "retinal ganglion cells",
+    "relative afferent pupillary defect",
+    "optometry education"
+  ],
+  "description": "Where does the visual message go after the chiasm? In this neuroanatomy episode, Focus Cast by focuslinks follows the optic tract as it sweeps around the midbrain carrying the opposite half of the visual world from both eyes. We unpack the fibre order inside the tract, the vessels that travel beside it, and the classic signs of a tract lesion, from incongruous homonymous hemianopia to bow-tie pallor of the optic disc. A clear, exam-ready walk for optometry students and practising optometrists.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1689.7,
+  "duration_min": 28.16,
+  "files": [
+    "S10E03-optic-tract.wav",
+    "S10E03-optic-tract.mp3"
+  ]
+}

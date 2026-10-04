@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S10E10-complete-visual-pathway-retina-to-cortex.txt",
+  "stem": "S10E10-complete-visual-pathway-retina-to-cortex",
+  "words": 4492,
+  "generated_at_utc": "2026-10-04T11:23:28.346486+00:00",
+  "title": "Complete Visual Pathway - Retina to Cortex",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Neuroanatomy for Optometrists",
+  "season_no": "10",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "visual pathway",
+    "retina to cortex",
+    "optic nerve anatomy",
+    "optic chiasm",
+    "lateral geniculate body",
+    "optic radiations",
+    "visual cortex",
+    "ocular anatomy",
+    "neuroanatomy",
+    "series finale"
+  ],
+  "description": "The finale of Ocular Anatomy for Optometrists. In this series capstone, Focus Cast by focuslinks walks the entire visual pathway in one continuous journey, from photoreceptor outer segments through the optic nerve, chiasm, tract, lateral geniculate body, radiations and on to the visual cortex. Along the way we tie the walk back to all ten seasons of the series, from the bony orbit to the extraocular muscles, and show how every field defect tells you exactly where the road is broken. A warm sign-off closes one hundred episodes, with more Focus Cast series on the horizon.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1862.4,
+  "duration_min": 31.04,
+  "files": [
+    "S10E10-complete-visual-pathway-retina-to-cortex.wav",
+    "S10E10-complete-visual-pathway-retina-to-cortex.mp3"
+  ]
+}

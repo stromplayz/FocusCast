@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S09E04-superior-rectus.txt",
+  "stem": "S09E04-superior-rectus",
+  "words": 4126,
+  "generated_at_utc": "2026-10-04T10:52:41.979429+00:00",
+  "title": "Superior Rectus",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Extraocular Muscles and Ocular Movement",
+  "season_no": "9",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "superior rectus",
+    "extraocular muscles",
+    "oculomotor nerve",
+    "annulus of Zinn",
+    "spiral of Tillaux",
+    "muscle pulley",
+    "intorsion",
+    "visual axis",
+    "ocular anatomy",
+    "optometry education"
+  ],
+  "description": "The superior rectus is the great elevator of the eye, and in this episode of Focus Cast by focuslinks we follow it from its origin on the annulus of Zinn at the orbital apex to its curved insertion, the deepest of the four recti, about seven point seven millimetres behind the limbus. Along the way we meet its course beneath the levator palpebrae superioris, its pulley in Tenon's capsule, and the superior division of the oculomotor nerve entering its deep surface. Then we unpack the muscle's famous oblique geometry: a forward angle of about twenty-three degrees relative to the visual axis, which makes every contraction a blend of elevation, intorsion and adduction, and explains why elevation is tested with the eye turned out. A precise, ear-friendly anatomy lesson for optometry students and clinicians.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1670.6,
+  "duration_min": 27.84,
+  "files": [
+    "S09E04-superior-rectus.wav",
+    "S09E04-superior-rectus.mp3"
+  ]
+}

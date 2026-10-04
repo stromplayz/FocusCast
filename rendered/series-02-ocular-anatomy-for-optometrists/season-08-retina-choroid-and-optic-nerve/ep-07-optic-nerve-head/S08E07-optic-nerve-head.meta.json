@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S08E07-optic-nerve-head.txt",
+  "stem": "S08E07-optic-nerve-head",
+  "words": 4262,
+  "generated_at_utc": "2026-10-04T10:39:33.923287+00:00",
+  "title": "Optic Nerve Head",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Retina, Choroid and Optic Nerve",
+  "season_no": "8",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optic nerve head",
+    "optic disc zones",
+    "surface nerve fibre layer",
+    "prelaminar zone",
+    "laminar zone",
+    "retrolaminar zone",
+    "cup to disc anatomy",
+    "neuroretinal rim",
+    "lamina cribrosa",
+    "optometry education"
+  ],
+  "description": "Today Focus Cast by focuslinks goes beneath the surface of the optic disc and rebuilds the optic nerve head zone by zone. Meet the surface nerve fibre layer where more than a million axons turn toward the brain, the prelaminar zone with its astrocytic columns and border tissue, the laminar zone where the bundles pass through the scleral canal, and the retrolaminar zone where myelination begins and the nerve nearly doubles in diameter. Then the physiological cup and the neuroretinal rim are taken apart in cross-section, from the funnel wall to the laminar dots of a deep cup floor. A zone-by-zone episode for optometry students and clinicians who want real names, real numbers and plain words.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1692.8,
+  "duration_min": 28.21,
+  "files": [
+    "S08E07-optic-nerve-head.wav",
+    "S08E07-optic-nerve-head.mp3"
+  ]
+}

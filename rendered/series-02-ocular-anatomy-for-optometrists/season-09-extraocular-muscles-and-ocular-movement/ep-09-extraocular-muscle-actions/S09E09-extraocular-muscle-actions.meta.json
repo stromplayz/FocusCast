@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S09E09-extraocular-muscle-actions.txt",
+  "stem": "S09E09-extraocular-muscle-actions",
+  "words": 4363,
+  "generated_at_utc": "2026-10-04T11:02:21.271644+00:00",
+  "title": "Extraocular Muscle Actions",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Extraocular Muscles and Ocular Movement",
+  "season_no": "9",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "extraocular muscle actions",
+    "medial rectus adduction",
+    "lateral rectus abduction",
+    "superior rectus actions",
+    "inferior oblique elevation",
+    "superior oblique intorsion",
+    "muscle field of action",
+    "ocular torsion",
+    "eye movement anatomy"
+  ],
+  "description": "What does each extraocular muscle actually do to the eye? In this episode of Focus Cast by focuslinks, the Host and Guide take the six direction muscles one at a time, naming the primary, secondary and tertiary actions of every rectus and oblique, and explaining the anatomy - angles, axes and insertions - that makes those actions inevitable. You will learn why the vertical recti adduct, why the obliques abduct, and how each muscle's field of action points the clinician to the exact gaze direction that tests it best. A precise, listener-friendly anatomy lesson for optometry students, educators, and anyone who teaches ocular motility.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1743.5,
+  "duration_min": 29.06,
+  "files": [
+    "S09E09-extraocular-muscle-actions.wav",
+    "S09E09-extraocular-muscle-actions.mp3"
+  ]
+}
