@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S05E02-posterior-chamber-anatomy.txt",
+  "stem": "S05E02-posterior-chamber-anatomy",
+  "words": 4067,
+  "generated_at_utc": "2026-10-04T09:10:19.298256+00:00",
+  "title": "Posterior Chamber Anatomy",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Anterior Chamber and Uveal Tract",
+  "season_no": "5",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "posterior chamber anatomy",
+    "aqueous humor flow",
+    "ocular anatomy",
+    "iris and lens",
+    "ciliary processes",
+    "zonules of Zinn",
+    "eye chambers",
+    "optometry anatomy",
+    "uveal tract",
+    "anterior chamber angle"
+  ],
+  "description": "Behind the iris hides the smallest chamber of the eye, the narrow triangular space where aqueous humor is born before it begins a one-way journey through the pupil. In this episode of Focus Cast by focuslinks, we map every wall of the posterior chamber, from the pigmented back surface of the iris to the lens equator, the zonules of Zinn, and the glassy face of the vitreous. Learn why only about sixty microliters of fluid live in this hidden ring, why the fluid must always move forward, and what happens anatomically when the pupil doorway pinches shut. A precise anatomy refresher for optometry students and eye care professionals who want every room of the eye mapped once and for all.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1618.4,
+  "duration_min": 26.97,
+  "files": [
+    "S05E02-posterior-chamber-anatomy.wav",
+    "S05E02-posterior-chamber-anatomy.mp3"
+  ]
+}

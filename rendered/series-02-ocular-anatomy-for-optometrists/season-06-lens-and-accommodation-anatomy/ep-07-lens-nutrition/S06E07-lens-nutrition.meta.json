@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S06E07-lens-nutrition.txt",
+  "stem": "S06E07-lens-nutrition",
+  "words": 4080,
+  "generated_at_utc": "2026-10-04T09:40:46.799018+00:00",
+  "title": "Lens Nutrition",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lens and Accommodation Anatomy",
+  "season_no": "6",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lens nutrition",
+    "lens anatomy",
+    "aqueous humor",
+    "lens metabolism",
+    "pump and leak",
+    "anaerobic glycolysis",
+    "avascular lens",
+    "ocular anatomy",
+    "optometry education",
+    "ciliary body"
+  ],
+  "description": "How does the crystalline lens feed itself when it owns no blood vessels? In this episode of Focus Cast by focuslinks, we follow the aqueous humor from the ciliary processes to the lens surface, unpack the lens's almost entirely anaerobic fuel budget, and walk through the pump and leak balance that keeps this avascular, aneural tissue clear for a lifetime. A detailed anatomy session for optometry students and clinicians who want the transport machinery of the lens explained in plain words.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1736.1,
+  "duration_min": 28.94,
+  "files": [
+    "S06E07-lens-nutrition.wav",
+    "S06E07-lens-nutrition.mp3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S06E02-lens-capsule.txt",
+  "stem": "S06E02-lens-capsule",
+  "words": 4371,
+  "generated_at_utc": "2026-10-04T09:30:28.007336+00:00",
+  "title": "Lens Capsule",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lens and Accommodation Anatomy",
+  "season_no": "6",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lens capsule",
+    "lens anatomy",
+    "basement membrane",
+    "anterior capsule",
+    "posterior capsule",
+    "capsule elasticity",
+    "zonular attachment",
+    "capsular bag",
+    "accommodation anatomy",
+    "ocular anatomy for optometrists"
+  ],
+  "description": "The lens capsule is the thickest basement membrane in the human body, and this episode of Focus Cast by focuslinks maps it completely. We tour its uneven thickness from the anterior pole to the posterior pole, ask why the belt in front of the equator is the thickest zone of all, and explore the elasticity that lets this clear sheet mould the lens during accommodation. Along the way we cover its type IV collagen construction, its semi-permeable behaviour, its role as the anchoring surface for the zonules, and the mechanical logic of the capsular bag. Built for optometry students, optical retail teams, and clinicians who want anatomy explained patiently, with real numbers and plain words.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1708.4,
+  "duration_min": 28.47,
+  "files": [
+    "S06E02-lens-capsule.wav",
+    "S06E02-lens-capsule.mp3"
+  ]
+}

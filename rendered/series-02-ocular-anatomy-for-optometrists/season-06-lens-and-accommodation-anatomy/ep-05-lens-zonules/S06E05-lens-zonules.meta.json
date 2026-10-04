@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S06E05-lens-zonules.txt",
+  "stem": "S06E05-lens-zonules",
+  "words": 4009,
+  "generated_at_utc": "2026-10-04T09:36:44.368570+00:00",
+  "title": "Lens Zonules",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lens and Accommodation Anatomy",
+  "season_no": "6",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lens zonules",
+    "zonule of Zinn",
+    "suspensory ligament of the lens",
+    "zonular fibres",
+    "ciliary body anatomy",
+    "lens suspension",
+    "fibrillin",
+    "ocular anatomy",
+    "accommodation anatomy"
+  ],
+  "description": "The lens floats in the middle of the eye, yet it never falls, because a ring of astonishingly fine fibres called the zonule of Zinn holds it centred behind the pupil. In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks follows the zonular fibres from their birth on the ciliary epithelium to their anchorage in the lens capsule, and names the three classic fibre groups: anterior, posterior and equatorial. Expect real numbers, real eponyms, and the clinical anatomy of zonular weakness, from Marfan syndrome to zonular dialysis. This is part five of ten in our season on lens and accommodation anatomy, made for optometry students and the whole eye care team.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1635.2,
+  "duration_min": 27.25,
+  "files": [
+    "S06E05-lens-zonules.wav",
+    "S06E05-lens-zonules.mp3"
+  ]
+}

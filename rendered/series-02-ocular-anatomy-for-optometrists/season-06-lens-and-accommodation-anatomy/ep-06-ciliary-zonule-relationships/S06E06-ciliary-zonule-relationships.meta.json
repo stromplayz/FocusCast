@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S06E06-ciliary-zonule-relationships.txt",
+  "stem": "S06E06-ciliary-zonule-relationships",
+  "words": 4083,
+  "generated_at_utc": "2026-10-04T09:38:43.556444+00:00",
+  "title": "Ciliary Zonule Relationships",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lens and Accommodation Anatomy",
+  "season_no": "6",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "ciliary zonule relationships",
+    "zonular fibres",
+    "ciliary processes",
+    "scleral spur",
+    "ciliary muscle tension",
+    "zonular plexus",
+    "lens equator",
+    "posterior chamber",
+    "ocular anatomy",
+    "accommodation anatomy"
+  ],
+  "description": "The lens hangs on a ring of fibres, but a suspension cable is only half the story; the other half is the terrain it crosses and the muscle it answers to. In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks follows the zonular fibres as they span the valleys between the ciliary processes, weave into an equatorial plexus, and connect the ciliary muscle to the lens capsule through one continuous line of tension. Along the way we meet the scleral spur, the epichoroidal star, and the visible signs of a broken strap. Part six of ten in our season on lens and accommodation anatomy, made for optometry students and the whole eye care team.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1652.1,
+  "duration_min": 27.54,
+  "files": [
+    "S06E06-ciliary-zonule-relationships.wav",
+    "S06E06-ciliary-zonule-relationships.mp3"
+  ]
+}

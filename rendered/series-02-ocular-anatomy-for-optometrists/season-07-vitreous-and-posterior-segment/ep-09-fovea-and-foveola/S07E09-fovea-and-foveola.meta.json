@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S07E09-fovea-and-foveola.txt",
+  "stem": "S07E09-fovea-and-foveola",
+  "words": 4307,
+  "generated_at_utc": "2026-10-04T10:05:09.408124+00:00",
+  "title": "Fovea and Foveola",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Vitreous and Posterior Segment",
+  "season_no": "7",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "fovea and foveola",
+    "fovea centralis",
+    "foveal pit",
+    "foveal avascular zone",
+    "cone density",
+    "macula anatomy",
+    "retinal anatomy",
+    "ocular anatomy for optometrists",
+    "vitreous and posterior segment",
+    "optometry education"
+  ],
+  "description": "Deep at the centre of the macula lies a tiny pit that makes sharp sight possible. In this anatomy episode of Focus Cast by focuslinks, the Host and Guide walk the fovea and foveola: the rim, slope and floor of the pit, the inner retinal layers pushed aside to clear the light path, the cones-only floor with its extraordinary density, and the foveal avascular zone that trades blood vessels for clean optics. Expect standard textbook numbers in millimetres and micrometres, plain-language explanations of every term, and the anatomical reasons behind familiar findings such as the foveal reflex, foveal hypoplasia and the cherry-red spot. This is episode nine of season seven, Vitreous and Posterior Segment, in the series Ocular Anatomy for Optometrists, made for optometry students and practitioners.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1765.1,
+  "duration_min": 29.42,
+  "files": [
+    "S07E09-fovea-and-foveola.wav",
+    "S07E09-fovea-and-foveola.mp3"
+  ]
+}

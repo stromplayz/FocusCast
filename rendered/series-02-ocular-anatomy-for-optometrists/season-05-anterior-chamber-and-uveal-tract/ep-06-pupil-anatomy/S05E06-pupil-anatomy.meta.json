@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S05E06-pupil-anatomy.txt",
+  "stem": "S05E06-pupil-anatomy",
+  "words": 4112,
+  "generated_at_utc": "2026-10-04T09:18:20.801552+00:00",
+  "title": "Pupil Anatomy",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Anterior Chamber and Uveal Tract",
+  "season_no": "5",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "pupil anatomy",
+    "pupillary ruff",
+    "persistent pupillary membrane",
+    "pupil size",
+    "pupil position",
+    "iris anatomy",
+    "pupillary membrane",
+    "ocular anatomy",
+    "optometry education",
+    "optometry students"
+  ],
+  "description": "The pupil looks like a simple black hole, but it is one of the most information-rich structures an optometrist examines. In this episode of Focus Cast by focuslinks, we study the pupil as anatomy: its normal size range from birth to old age, its half-millimetre nasal decentration, the pigmented pupillary ruff that fringes its margin, and the strands of persistent pupillary membrane that linger from embryonic life. Learn why the pupil sits slightly off centre, why it shrinks across a lifetime, and how to tell harmless membrane remnants from findings that deserve closer attention. A plain-language, textbook-accurate tour for optometry students and practising clinicians.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1614.6,
+  "duration_min": 26.91,
+  "files": [
+    "S05E06-pupil-anatomy.wav",
+    "S05E06-pupil-anatomy.mp3"
+  ]
+}

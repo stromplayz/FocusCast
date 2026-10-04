@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-04T08:53:30.196613+00:00",
-  "episode_count": 140,
+  "updated_at": "2026-10-04T10:11:04.809415+00:00",
+  "episode_count": 170,
   "episodes": [
     {
       "id": "S01-S01E01",
@@ -5588,6 +5588,1233 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-04T08:47:14.930817+00:00"
+    },
+    {
+      "id": "S02-S05E01",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 5,
+      "season": "Anterior Chamber and Uveal Tract",
+      "episode_no": 1,
+      "title": "Anterior Chamber Anatomy",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "anterior chamber anatomy",
+        "anterior chamber depth",
+        "aqueous humor",
+        "anterior chamber volume",
+        "ocular anatomy for optometrists",
+        "aqueous humor composition",
+        "iridocorneal angle",
+        "optometry education",
+        "hyperopia",
+        "myopia"
+      ],
+      "description": "Step inside the anterior chamber, the small fluid-filled room behind the cornea and in front of the iris and the lens. In this season five opener, Focus Cast by focuslinks maps the boundaries of the chamber, its depth and volume numbers, the aqueous humor that fills it, and how chamber depth changes across life and across refractive errors. Learn why a shallow chamber raises the stakes in a long-sighted eye and why the deep chamber of a short-sighted eye is expected. A calm, precise anatomy refresher for optometry students, practitioners, and optical teams. Welcome to Season 5, the Anterior Chamber and Uveal Tract.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E01-anterior-chamber-anatomy.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-01-anterior-chamber-anatomy/S05E01-anterior-chamber-anatomy.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-01-anterior-chamber-anatomy/S05E01-anterior-chamber-anatomy.mp3",
+        "bytes": 20341773,
+        "duration_sec": 1695.1,
+        "duration_min": 28.25,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:07:28.063337+00:00"
+    },
+    {
+      "id": "S02-S05E02",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 5,
+      "season": "Anterior Chamber and Uveal Tract",
+      "episode_no": 2,
+      "title": "Posterior Chamber Anatomy",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "posterior chamber anatomy",
+        "aqueous humor flow",
+        "ocular anatomy",
+        "iris and lens",
+        "ciliary processes",
+        "zonules of Zinn",
+        "eye chambers",
+        "optometry anatomy",
+        "uveal tract",
+        "anterior chamber angle"
+      ],
+      "description": "Behind the iris hides the smallest chamber of the eye, the narrow triangular space where aqueous humor is born before it begins a one-way journey through the pupil. In this episode of Focus Cast by focuslinks, we map every wall of the posterior chamber, from the pigmented back surface of the iris to the lens equator, the zonules of Zinn, and the glassy face of the vitreous. Learn why only about sixty microliters of fluid live in this hidden ring, why the fluid must always move forward, and what happens anatomically when the pupil doorway pinches shut. A precise anatomy refresher for optometry students and eye care professionals who want every room of the eye mapped once and for all.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E02-posterior-chamber-anatomy.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-02-posterior-chamber-anatomy/S05E02-posterior-chamber-anatomy.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-02-posterior-chamber-anatomy/S05E02-posterior-chamber-anatomy.mp3",
+        "bytes": 19421613,
+        "duration_sec": 1618.4,
+        "duration_min": 26.97,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:10:19.298256+00:00"
+    },
+    {
+      "id": "S02-S05E03",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 5,
+      "season": "Anterior Chamber and Uveal Tract",
+      "episode_no": 3,
+      "title": "Anterior Chamber Angle",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "anterior chamber angle",
+        "trabecular meshwork",
+        "canal of Schlemm",
+        "Schwalbe line",
+        "collector channels",
+        "scleral spur",
+        "aqueous humour drainage",
+        "ocular anatomy",
+        "optometry education",
+        "angle landmarks"
+      ],
+      "description": "Fluid is made inside the eye every minute of every day, and it has to leave through one hidden corner called the anterior chamber angle. In this episode of Focus Cast by focuslinks, we walk that corner structure by structure, from the Schwalbe line across the three regions of the trabecular meshwork, into the canal of Schlemm, and out through the collector channels and aqueous veins to the episcleral veins. Along the way you will learn why the scleral spur is the anchor point of the longitudinal ciliary muscle, why the meshwork contains no blood vessels, and why nearly all the resistance to outflow sits in its outermost layer. This is pure drainage anatomy for optometry students and clinicians, with the disease stories deliberately left for another day.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E03-anterior-chamber-angle.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-03-anterior-chamber-angle/S05E03-anterior-chamber-angle.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-03-anterior-chamber-angle/S05E03-anterior-chamber-angle.mp3",
+        "bytes": 20162349,
+        "duration_sec": 1680.1,
+        "duration_min": 28.0,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:12:16.497620+00:00"
+    },
+    {
+      "id": "S02-S05E04",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 5,
+      "season": "Anterior Chamber and Uveal Tract",
+      "episode_no": 4,
+      "title": "Iris Anatomy",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "iris anatomy",
+        "uveal tract",
+        "iris stroma",
+        "collarette",
+        "fuchs crypts",
+        "anterior border layer",
+        "iris blood supply",
+        "eye colour",
+        "anterior chamber angle",
+        "ocular anatomy"
+      ],
+      "description": "The iris is the coloured diaphragm of the eye, and in this episode Focus Cast by focuslinks maps it from surface to depth. Learn its dimensions and its single anchoring root at the anterior chamber angle, the naked anterior border layer, the spongy stroma with its two vascular circles, the crypts and collarette you will chart at the slit lamp, the light-proof pigment curtain behind, and the melanin biology of blue and brown eyes. Built for optometry students and eye care teams, with the sphincter and dilator muscles saved for the next episode, Iris Muscles.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E04-iris-anatomy.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-04-iris-anatomy/S05E04-iris-anatomy.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-04-iris-anatomy/S05E04-iris-anatomy.mp3",
+        "bytes": 20667213,
+        "duration_sec": 1722.2,
+        "duration_min": 28.7,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:14:16.292762+00:00"
+    },
+    {
+      "id": "S02-S05E05",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 5,
+      "season": "Anterior Chamber and Uveal Tract",
+      "episode_no": 5,
+      "title": "Iris Muscles",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "iris muscles",
+        "sphincter pupillae",
+        "dilator pupillae",
+        "ciliary ganglion",
+        "pupillary constriction",
+        "pupillary dilation",
+        "autonomic innervation",
+        "ocular anatomy",
+        "iris anatomy",
+        "optometry education"
+      ],
+      "description": "The pupil never holds still, and in this episode of Focus Cast by focuslinks we meet the two muscles responsible. Learn the exact layer positions of the sphincter pupillae and the dilator pupillae within the iris, trace the parasympathetic and sympathetic nerve chains that drive them, and see how a purse string and a set of radial spokes produce every pupillary movement. Clinical anchors run from Horner syndrome to the tonic pupil to the anatomy behind dilating drops. A focused anatomy episode for optometry students and clinicians, part of our Ocular Anatomy series, Season 5, the Anterior Chamber and Uveal Tract.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E05-iris-muscles.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-05-iris-muscles/S05E05-iris-muscles.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-05-iris-muscles/S05E05-iris-muscles.mp3",
+        "bytes": 20610765,
+        "duration_sec": 1717.5,
+        "duration_min": 28.63,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:16:18.672675+00:00"
+    },
+    {
+      "id": "S02-S05E06",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 5,
+      "season": "Anterior Chamber and Uveal Tract",
+      "episode_no": 6,
+      "title": "Pupil Anatomy",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "pupil anatomy",
+        "pupillary ruff",
+        "persistent pupillary membrane",
+        "pupil size",
+        "pupil position",
+        "iris anatomy",
+        "pupillary membrane",
+        "ocular anatomy",
+        "optometry education",
+        "optometry students"
+      ],
+      "description": "The pupil looks like a simple black hole, but it is one of the most information-rich structures an optometrist examines. In this episode of Focus Cast by focuslinks, we study the pupil as anatomy: its normal size range from birth to old age, its half-millimetre nasal decentration, the pigmented pupillary ruff that fringes its margin, and the strands of persistent pupillary membrane that linger from embryonic life. Learn why the pupil sits slightly off centre, why it shrinks across a lifetime, and how to tell harmless membrane remnants from findings that deserve closer attention. A plain-language, textbook-accurate tour for optometry students and practising clinicians.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E06-pupil-anatomy.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-06-pupil-anatomy/S05E06-pupil-anatomy.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-06-pupil-anatomy/S05E06-pupil-anatomy.mp3",
+        "bytes": 19375821,
+        "duration_sec": 1614.6,
+        "duration_min": 26.91,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:18:20.801552+00:00"
+    },
+    {
+      "id": "S02-S05E07",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 5,
+      "season": "Anterior Chamber and Uveal Tract",
+      "episode_no": 7,
+      "title": "Ciliary Body",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "ciliary body",
+        "ocular anatomy",
+        "pars plicata",
+        "pars plana",
+        "ciliary processes",
+        "uveal tract",
+        "ora serrata",
+        "scleral spur",
+        "aqueous humor",
+        "optometry education"
+      ],
+      "description": "Behind the colored iris hides a ring of tissue that makes the fluid filling the front of the eye and anchors the vascular coat of the globe. In this episode of Focus Cast by focuslinks, we map the gross anatomy of the ciliary body: the pleated pars plicata with its roughly seventy ciliary processes, the smooth pars plana, the width numbers worth memorizing, and the uveal root attachment that ties iris, ciliary body and choroid into one continuous coat. Expect real millimetres, plain-language explanations, and the anatomical reasons behind familiar clinical signs. Made for optometry students and practicing optometrists who like their anatomy taught clearly and for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E07-ciliary-body.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-07-ciliary-body/S05E07-ciliary-body.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-07-ciliary-body/S05E07-ciliary-body.mp3",
+        "bytes": 19735533,
+        "duration_sec": 1644.6,
+        "duration_min": 27.41,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:20:16.931249+00:00"
+    },
+    {
+      "id": "S02-S05E08",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 5,
+      "season": "Anterior Chamber and Uveal Tract",
+      "episode_no": 8,
+      "title": "Ciliary Muscle",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "ciliary muscle",
+        "ciliary body anatomy",
+        "longitudinal fibers",
+        "circular fibers",
+        "scleral spur",
+        "zonules of Zinn",
+        "short ciliary nerves",
+        "parasympathetic supply",
+        "uveal tract",
+        "ocular anatomy for optometrists"
+      ],
+      "description": "Deep inside the front of the eye sits a ring of smooth muscle that every optometrist depends on daily. In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks opens the ciliary body to reveal its three fiber groups - longitudinal, radial, and circular - and traces their attachments from the scleral spur back to the ora serrata. Learn how the parasympathetic pathway through the ciliary ganglion and the short ciliary nerves drives this muscle, and how the zonules of Zinn carry its tension inward to the lens. A clear anatomy refresher for optometry students, practitioners, and anyone who loves the machinery of the eye.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E08-ciliary-muscle.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-08-ciliary-muscle/S05E08-ciliary-muscle.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-08-ciliary-muscle/S05E08-ciliary-muscle.mp3",
+        "bytes": 22627917,
+        "duration_sec": 1885.6,
+        "duration_min": 31.43,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:22:14.712746+00:00"
+    },
+    {
+      "id": "S02-S05E09",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 5,
+      "season": "Anterior Chamber and Uveal Tract",
+      "episode_no": 9,
+      "title": "Choroid",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "choroid anatomy",
+        "uveal tract",
+        "suprachoroidea",
+        "choriocapillaris",
+        "Haller's layer",
+        "Sattler's layer",
+        "Bruch's membrane",
+        "ocular anatomy",
+        "optometry education"
+      ],
+      "description": "The choroid is the dark, richly vascular back half of the uveal tract, and in this episode of Focus Cast by focuslinks we map its gross anatomy layer by layer. Learn where the choroid begins and ends, how the suprachoroidea moors it loosely to the sclera, how Haller's layer, Sattler's layer and the choriocapillaris are stacked together, and why the whole coat is anchored firmly only at the ora serrata and the optic nerve. Made for optometry students, practitioners, and anyone who wants a clear anatomical tour of the coat that feeds the outer retina.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E09-choroid.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-09-choroid/S05E09-choroid.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-09-choroid/S05E09-choroid.mp3",
+        "bytes": 20070765,
+        "duration_sec": 1672.5,
+        "duration_min": 27.88,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:24:28.327411+00:00"
+    },
+    {
+      "id": "S02-S05E10",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 5,
+      "season": "Anterior Chamber and Uveal Tract",
+      "episode_no": 10,
+      "title": "Complete Uveal Tract",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "uveal tract",
+        "uvea anatomy",
+        "iris anatomy",
+        "ciliary body anatomy",
+        "choroid anatomy",
+        "posterior ciliary arteries",
+        "vortex veins",
+        "ocular blood supply",
+        "ciliary flush",
+        "middle coat of the eye"
+      ],
+      "description": "The season finale of Focus Cast by focuslinks assembles the uveal tract as one continuous middle coat, from the iris at the front, through the ciliary body, to the choroid behind. This capstone episode of Ocular Anatomy for Optometrists walks the two seams that knit iris, ciliary body and choroid into a single garment, then follows the blood on its entire journey: short and long posterior ciliary arteries, anterior ciliary arteries, the major arterial circle of the iris, and the four vortex veins that carry it away. A full season synthesis for optometry students, with the anatomical reasons behind iridodialysis, the deep ciliary flush and sectoral choroidal disease. Next season: Lens and Accommodation Anatomy.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-05/S05E10-complete-uveal-tract.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-10-complete-uveal-tract/S05E10-complete-uveal-tract.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-05-anterior-chamber-and-uveal-tract/ep-10-complete-uveal-tract/S05E10-complete-uveal-tract.mp3",
+        "bytes": 20364525,
+        "duration_sec": 1697.0,
+        "duration_min": 28.28,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:26:28.044338+00:00"
+    },
+    {
+      "id": "S02-S06E01",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 6,
+      "season": "Lens and Accommodation Anatomy",
+      "episode_no": 1,
+      "title": "Lens Location and Relationships",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lens location",
+        "crystalline lens anatomy",
+        "lens dimensions",
+        "lens weight",
+        "patellar fossa",
+        "zonules of Zinn",
+        "ciliary zonule",
+        "lens relationships",
+        "accommodation anatomy",
+        "ocular anatomy"
+      ],
+      "description": "The crystalline lens sits hidden behind the iris, suspended by a ring of fine fibres and cradled in the patellar fossa of the vitreous. In this Season 6 opener, Focus Cast by focuslinks maps the exact address of the lens, its weight and dimension numbers, and its four anatomical neighbours: aqueous in front, zonules at the sides, vitreous behind, and the iris leaning on its face. A clear anatomy refresher for optometry students and eye care professionals opening a season on lens and accommodation anatomy.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E01-lens-location-and-relationships.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-01-lens-location-and-relationships/S06E01-lens-location-and-relationships.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-01-lens-location-and-relationships/S06E01-lens-location-and-relationships.mp3",
+        "bytes": 20134989,
+        "duration_sec": 1677.8,
+        "duration_min": 27.96,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:28:28.084605+00:00"
+    },
+    {
+      "id": "S02-S06E02",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 6,
+      "season": "Lens and Accommodation Anatomy",
+      "episode_no": 2,
+      "title": "Lens Capsule",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lens capsule",
+        "lens anatomy",
+        "basement membrane",
+        "anterior capsule",
+        "posterior capsule",
+        "capsule elasticity",
+        "zonular attachment",
+        "capsular bag",
+        "accommodation anatomy",
+        "ocular anatomy for optometrists"
+      ],
+      "description": "The lens capsule is the thickest basement membrane in the human body, and this episode of Focus Cast by focuslinks maps it completely. We tour its uneven thickness from the anterior pole to the posterior pole, ask why the belt in front of the equator is the thickest zone of all, and explore the elasticity that lets this clear sheet mould the lens during accommodation. Along the way we cover its type IV collagen construction, its semi-permeable behaviour, its role as the anchoring surface for the zonules, and the mechanical logic of the capsular bag. Built for optometry students, optical retail teams, and clinicians who want anatomy explained patiently, with real numbers and plain words.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E02-lens-capsule.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-02-lens-capsule/S06E02-lens-capsule.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-02-lens-capsule/S06E02-lens-capsule.mp3",
+        "bytes": 20501901,
+        "duration_sec": 1708.4,
+        "duration_min": 28.47,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:30:28.007336+00:00"
+    },
+    {
+      "id": "S02-S06E03",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 6,
+      "season": "Lens and Accommodation Anatomy",
+      "episode_no": 3,
+      "title": "Lens Epithelium",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lens epithelium",
+        "lens anatomy",
+        "germinative zone",
+        "lens bow",
+        "anterior capsule",
+        "posterior capsule opacification",
+        "ocular anatomy",
+        "optometry education",
+        "epithelial cells",
+        "lens growth"
+      ],
+      "description": "Beneath the front surface of the lens lies a single sheet of living cells that quietly runs the whole organ for an entire lifetime. In this anatomy episode, Focus Cast by focuslinks takes you inside the lens epithelium: where it sits, the three zones it forms, the equatorial germinative bow where new lens fibres are born, and the reason the posterior capsule carries none at all. Expect real numbers, from cell counts to embryological timing, and the anatomical stories behind radiation cataract and posterior capsule opacification after cataract surgery. Made for optometry students, eye care teams, and anyone who wants the lens understood from the inside out.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E03-lens-epithelium.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-03-lens-epithelium/S06E03-lens-epithelium.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-03-lens-epithelium/S06E03-lens-epithelium.mp3",
+        "bytes": 21400749,
+        "duration_sec": 1783.3,
+        "duration_min": 29.72,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:32:30.450572+00:00"
+    },
+    {
+      "id": "S02-S06E04",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 6,
+      "season": "Lens and Accommodation Anatomy",
+      "episode_no": 4,
+      "title": "Lens Fibres",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lens fibres",
+        "lens anatomy",
+        "cortical fibres",
+        "nuclear compaction",
+        "lens sutures",
+        "Y suture",
+        "hexagonal packing",
+        "crystallins",
+        "aquaporin zero",
+        "ocular anatomy for optometrists"
+      ],
+      "description": "The lens is built almost entirely from one cell type, laid down in layers that are kept for life. In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks dissects the lens fibre: its hexagonal cross-section and ribbon dimensions, its birth at the equatorial germinative zone, the Y sutures where fibre ends interlock front and back, and the compaction that squeezes older fibres into the nucleus. Learn why these cells dismantle their own organelles, how crystallins and hexagonal packing keep the lens transparent, and what the slit lamp reveals about a patient's history. A clear anatomy refresher for optometry students, practitioners, and anyone who loves the machinery of the eye.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E04-lens-fibres.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-04-lens-fibres/S06E04-lens-fibres.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-04-lens-fibres/S06E04-lens-fibres.mp3",
+        "bytes": 20963853,
+        "duration_sec": 1746.9,
+        "duration_min": 29.12,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:34:37.231672+00:00"
+    },
+    {
+      "id": "S02-S06E05",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 6,
+      "season": "Lens and Accommodation Anatomy",
+      "episode_no": 5,
+      "title": "Lens Zonules",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lens zonules",
+        "zonule of Zinn",
+        "suspensory ligament of the lens",
+        "zonular fibres",
+        "ciliary body anatomy",
+        "lens suspension",
+        "fibrillin",
+        "ocular anatomy",
+        "accommodation anatomy"
+      ],
+      "description": "The lens floats in the middle of the eye, yet it never falls, because a ring of astonishingly fine fibres called the zonule of Zinn holds it centred behind the pupil. In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks follows the zonular fibres from their birth on the ciliary epithelium to their anchorage in the lens capsule, and names the three classic fibre groups: anterior, posterior and equatorial. Expect real numbers, real eponyms, and the clinical anatomy of zonular weakness, from Marfan syndrome to zonular dialysis. This is part five of ten in our season on lens and accommodation anatomy, made for optometry students and the whole eye care team.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E05-lens-zonules.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-05-lens-zonules/S06E05-lens-zonules.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-05-lens-zonules/S06E05-lens-zonules.mp3",
+        "bytes": 19622637,
+        "duration_sec": 1635.2,
+        "duration_min": 27.25,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:36:44.368570+00:00"
+    },
+    {
+      "id": "S02-S06E06",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 6,
+      "season": "Lens and Accommodation Anatomy",
+      "episode_no": 6,
+      "title": "Ciliary Zonule Relationships",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "ciliary zonule relationships",
+        "zonular fibres",
+        "ciliary processes",
+        "scleral spur",
+        "ciliary muscle tension",
+        "zonular plexus",
+        "lens equator",
+        "posterior chamber",
+        "ocular anatomy",
+        "accommodation anatomy"
+      ],
+      "description": "The lens hangs on a ring of fibres, but a suspension cable is only half the story; the other half is the terrain it crosses and the muscle it answers to. In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks follows the zonular fibres as they span the valleys between the ciliary processes, weave into an equatorial plexus, and connect the ciliary muscle to the lens capsule through one continuous line of tension. Along the way we meet the scleral spur, the epichoroidal star, and the visible signs of a broken strap. Part six of ten in our season on lens and accommodation anatomy, made for optometry students and the whole eye care team.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E06-ciliary-zonule-relationships.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-06-ciliary-zonule-relationships/S06E06-ciliary-zonule-relationships.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-06-ciliary-zonule-relationships/S06E06-ciliary-zonule-relationships.mp3",
+        "bytes": 19825965,
+        "duration_sec": 1652.1,
+        "duration_min": 27.54,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:38:43.556444+00:00"
+    },
+    {
+      "id": "S02-S06E07",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 6,
+      "season": "Lens and Accommodation Anatomy",
+      "episode_no": 7,
+      "title": "Lens Nutrition",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lens nutrition",
+        "lens anatomy",
+        "aqueous humor",
+        "lens metabolism",
+        "pump and leak",
+        "anaerobic glycolysis",
+        "avascular lens",
+        "ocular anatomy",
+        "optometry education",
+        "ciliary body"
+      ],
+      "description": "How does the crystalline lens feed itself when it owns no blood vessels? In this episode of Focus Cast by focuslinks, we follow the aqueous humor from the ciliary processes to the lens surface, unpack the lens's almost entirely anaerobic fuel budget, and walk through the pump and leak balance that keeps this avascular, aneural tissue clear for a lifetime. A detailed anatomy session for optometry students and clinicians who want the transport machinery of the lens explained in plain words.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E07-lens-nutrition.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-07-lens-nutrition/S06E07-lens-nutrition.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-07-lens-nutrition/S06E07-lens-nutrition.mp3",
+        "bytes": 20834541,
+        "duration_sec": 1736.1,
+        "duration_min": 28.94,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:40:46.799018+00:00"
+    },
+    {
+      "id": "S02-S06E08",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 6,
+      "season": "Lens and Accommodation Anatomy",
+      "episode_no": 8,
+      "title": "Lens Growth Through Life",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lens growth",
+        "lens development",
+        "lens placode",
+        "lens vesicle",
+        "embryonic nucleus",
+        "fetal nucleus",
+        "lens cortex",
+        "lens thickness",
+        "ocular anatomy",
+        "optometry education"
+      ],
+      "description": "How does the human lens grow from a hollow bubble of cells before birth into the layered archive of an eighty year old eye? In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks traces the lens from the lens placode and lens vesicle, through the embryonic, fetal, infantile and adult nuclei, to the lifelong addition of cortex. You will hear the real numbers: about sixty five milligrams at birth, roughly two more every year, a width that grows from about six to nearly ten millimetres, and a thickness that climbs from under four millimetres to almost five across the decades. Discover what the zones of discontinuity reveal at the slit lamp, why no lens fibre is ever discarded, and how growth quietly shallows the anterior chamber. A clear, anatomy first guide for optometry students and clinicians who want the whole biography of the lens in one sitting.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E08-lens-growth-through-life.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-08-lens-growth-through-life/S06E08-lens-growth-through-life.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-08-lens-growth-through-life/S06E08-lens-growth-through-life.mp3",
+        "bytes": 19701837,
+        "duration_sec": 1641.8,
+        "duration_min": 27.36,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:42:54.946422+00:00"
+    },
+    {
+      "id": "S02-S06E09",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 6,
+      "season": "Lens and Accommodation Anatomy",
+      "episode_no": 9,
+      "title": "Anatomical Basis of Accommodation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "anatomical basis of accommodation",
+        "Helmholtz hypothesis",
+        "ciliary muscle contraction",
+        "zonular tension",
+        "lens capsule elasticity",
+        "accommodation mechanism",
+        "near vision focus",
+        "ocular anatomy podcast",
+        "lens anatomy",
+        "optometry student"
+      ],
+      "description": "How does the eye actually change focus from far to near? In this episode of Focus Cast by focuslinks, we assemble the machinery of accommodation from the parts already built this season: the elastic lens capsule, the zonular suspension, the ciliary muscle ring, and the vitreous boundary behind the lens. We walk through Helmholtz's hypothesis step by step, with real measurements of curvature, thickness and amplitude, and explain why the front surface of the lens does most of the work. A clear anatomical foundation for optometry students, clinicians, and anyone curious about how near vision happens.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E09-anatomical-basis-of-accommodation.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-09-anatomical-basis-of-accommodation/S06E09-anatomical-basis-of-accommodation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-09-anatomical-basis-of-accommodation/S06E09-anatomical-basis-of-accommodation.mp3",
+        "bytes": 21199725,
+        "duration_sec": 1766.6,
+        "duration_min": 29.44,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:44:54.356804+00:00"
+    },
+    {
+      "id": "S02-S06E10",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 6,
+      "season": "Lens and Accommodation Anatomy",
+      "episode_no": 10,
+      "title": "Lens Anatomy and Presbyopia",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lens anatomy and presbyopia",
+        "nuclear hardening",
+        "lens capsule",
+        "zonules",
+        "accommodation anatomy",
+        "lens growth through life",
+        "crystalline lens aging",
+        "ocular anatomy",
+        "optometry education",
+        "season finale"
+      ],
+      "description": "Why does every human eye quietly lose its focusing range in the forties? In this season finale of Ocular Anatomy for Optometrists, Focus Cast by focuslinks explains presbyopia as pure anatomy: nuclear hardening, capsule changes, and zonular behaviour with age, gathered from all nine earlier episodes of the season. Expect real numbers, real structures, and a capstone synthesis of why the accommodation machinery stiffens, with no detours into correction. The episode closes by opening the door to the next season, Vitreous and Posterior Segment.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-06/S06E10-lens-anatomy-and-presbyopia.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-10-lens-anatomy-and-presbyopia/S06E10-lens-anatomy-and-presbyopia.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-06-lens-and-accommodation-anatomy/ep-10-lens-anatomy-and-presbyopia/S06E10-lens-anatomy-and-presbyopia.mp3",
+        "bytes": 20550285,
+        "duration_sec": 1712.5,
+        "duration_min": 28.54,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:47:02.055364+00:00"
+    },
+    {
+      "id": "S02-S07E01",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 7,
+      "season": "Vitreous and Posterior Segment",
+      "episode_no": 1,
+      "title": "Vitreous Body",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "vitreous body",
+        "vitreous anatomy",
+        "posterior segment",
+        "ocular anatomy",
+        "vitreous gel",
+        "hyaluronic acid",
+        "type II collagen",
+        "hyaloid fossa",
+        "optometry education",
+        "eye anatomy podcast"
+      ],
+      "description": "Season 7 of Ocular Anatomy for Optometrists opens inside the quiet giant of the eye. In this episode of Focus Cast by focuslinks, the Host and Guide introduce the vitreous body: its roughly four millilitres, its eighty percent share of the globe, its 99 percent water gel of type II collagen and hyaluronic acid, and its three great boundaries against the lens, the retina and the optic disc. Along the way the episode tours all ten subjects of the season, from the vitreous cortex to the optic disc, and connects back to earlier seasons of the series. Ideal listening for optometry students, optical shop teams, and anyone curious about what fills most of the eye.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E01-vitreous-body.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-01-vitreous-body/S07E01-vitreous-body.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-01-vitreous-body/S07E01-vitreous-body.mp3",
+        "bytes": 20467341,
+        "duration_sec": 1705.5,
+        "duration_min": 28.43,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:49:07.263737+00:00"
+    },
+    {
+      "id": "S02-S07E02",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 7,
+      "season": "Vitreous and Posterior Segment",
+      "episode_no": 2,
+      "title": "Vitreous Cortex",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "vitreous cortex",
+        "cortical vitreous",
+        "hyalocytes",
+        "posterior hyaloid membrane",
+        "vitreous base",
+        "ocular anatomy",
+        "posterior segment",
+        "vitreous humour",
+        "optometry education",
+        "optometry students"
+      ],
+      "description": "Beneath the clear gel of the eye lies a condensed outer shell that every optometrist should know: the vitreous cortex. In this episode of Focus Cast by focuslinks, we map the cortical vitreous layer by layer - its one hundred to two hundred micrometers of thickness, its densely packed collagen fibrils, its resident hyalocytes, and the regional density variations that make the shell most fibrous toward the vitreous base and sheet-like over the posterior pole. Learn why this thin rind is the seam between vitreous and retina, how it can split into two leaflets, and what it looks like at the slit lamp and on optical coherence tomography. A focused anatomy deep dive for optometry students and clinicians building their posterior segment map.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E02-vitreous-cortex.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-02-vitreous-cortex/S07E02-vitreous-cortex.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-02-vitreous-cortex/S07E02-vitreous-cortex.mp3",
+        "bytes": 20329389,
+        "duration_sec": 1694.1,
+        "duration_min": 28.23,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:51:10.305510+00:00"
+    },
+    {
+      "id": "S02-S07E03",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 7,
+      "season": "Vitreous and Posterior Segment",
+      "episode_no": 3,
+      "title": "Vitreous Base",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "vitreous base",
+        "ora serrata",
+        "pars plana",
+        "vitreous cortex",
+        "posterior vitreous detachment",
+        "retinal dialysis",
+        "scleral depression",
+        "ocular anatomy",
+        "posterior segment"
+      ],
+      "description": "In episode three of the Vitreous and Posterior Segment season, Focus Cast by focuslinks zooms in on the vitreous base, the strongest grip the gel of the eye has anywhere inside the globe. Learn where this three to four millimetre ribbon sits across the saw-toothed ora serrata, how its collagen fibrils are stitched into the inner limiting membrane of the peripheral retina and the basement membrane of the ciliary epithelium, and why the grip never loosens with age. The Guide explains what retinal dialysis, giant tears and vitreous base avulsion have to do with blunt trauma, why the collapsing gel of posterior vitreous detachment spares the base, and how the pars plana provides the safe surgical corridor for vitrectomy. A clear, anatomy-first episode for optometry students, optometrists and eye care teams.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E03-vitreous-base.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-03-vitreous-base/S07E03-vitreous-base.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-03-vitreous-base/S07E03-vitreous-base.mp3",
+        "bytes": 19000557,
+        "duration_sec": 1583.3,
+        "duration_min": 26.39,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:53:14.255376+00:00"
+    },
+    {
+      "id": "S02-S07E04",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 7,
+      "season": "Vitreous and Posterior Segment",
+      "episode_no": 4,
+      "title": "Vitreous Attachments",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "vitreous attachments",
+        "vitreous base",
+        "optic disc",
+        "macula",
+        "retinal vessels",
+        "posterior vitreous detachment",
+        "vitreoretinal adhesion",
+        "ora serrata",
+        "ocular anatomy",
+        "optometry education"
+      ],
+      "description": "Where exactly does the vitreous grip the eye, and which of those grips can turn dangerous? In this episode of Focus Cast by focuslinks, we map every major attachment across the posterior segment, from the ring at the optic disc margin to the premacular patch, the vascular arcades, and the ora serrata. You will learn the real textbook numbers for each site, why posterior vitreous detachment tears where it does, and how the anatomy explains flashes, floaters, vitreous hemorrhage, and macular hole. A precise, listener friendly anatomy hour for optometry students and clinicians who want the posterior segment to finally make mechanical sense.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E04-vitreous-attachments.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-04-vitreous-attachments/S07E04-vitreous-attachments.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-04-vitreous-attachments/S07E04-vitreous-attachments.mp3",
+        "bytes": 20252493,
+        "duration_sec": 1687.7,
+        "duration_min": 28.13,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:55:09.191968+00:00"
+    },
+    {
+      "id": "S02-S07E05",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 7,
+      "season": "Vitreous and Posterior Segment",
+      "episode_no": 5,
+      "title": "Vitreous Chambers and Spaces",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "vitreous chambers and spaces",
+        "Cloquet canal",
+        "hyaloid canal",
+        "Berger space",
+        "area of Martegiano",
+        "premacular bursa",
+        "posterior precortical vitreous pocket",
+        "vitreous anatomy",
+        "ocular anatomy",
+        "posterior segment anatomy"
+      ],
+      "description": "Inside the gel that fills most of the eye there are quiet, liquid-lined rooms: a canal that runs the whole length of the vitreous, a space at the back of the lens, a funnel over the optic disc, and a pocket resting in front of the macula. In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks traces the Cloquet canal from the Berger space to the area of Martegiano, uncovers its origin as the ghost of the fetal hyaloid artery, and maps the prepapillary and premacular configurations of the gel. Expect real dimensions, real eponyms, and the anatomical leftovers every optometrist should recognise at the slit lamp. This is part five of ten in our season on the vitreous and posterior segment.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E05-vitreous-chambers-and-spaces.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-05-vitreous-chambers-and-spaces/S07E05-vitreous-chambers-and-spaces.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-05-vitreous-chambers-and-spaces/S07E05-vitreous-chambers-and-spaces.mp3",
+        "bytes": 19985517,
+        "duration_sec": 1665.4,
+        "duration_min": 27.76,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:57:09.604460+00:00"
+    },
+    {
+      "id": "S02-S07E06",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 7,
+      "season": "Vitreous and Posterior Segment",
+      "episode_no": 6,
+      "title": "Retina: Anatomical Overview",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "retina anatomy",
+        "retinal overview",
+        "ora serrata",
+        "posterior pole",
+        "retinal thickness",
+        "ocular anatomy",
+        "optometry education",
+        "posterior segment",
+        "fundus landmarks",
+        "retina for optometrists"
+      ],
+      "description": "Where does the retina begin and end, and what are its named regions? In this anatomy episode of Focus Cast by focuslinks, our Guide maps the innermost coat of the eye from the optic disc to the scalloped ora serrata, names the posterior pole, the equatorial band and the far periphery, and walks the thickness ramp from a tenth of a millimetre at the forward edge to about half a millimetre at the back. A geography lesson for optometry students, practising optometrists and curious listeners, setting up the retinal layers that arrive next episode.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E06-retina-anatomical-overview.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-06-retina-anatomical-overview/S07E06-retina-anatomical-overview.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-06-retina-anatomical-overview/S07E06-retina-anatomical-overview.mp3",
+        "bytes": 18892845,
+        "duration_sec": 1574.3,
+        "duration_min": 26.24,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T09:59:09.186554+00:00"
+    },
+    {
+      "id": "S02-S07E07",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 7,
+      "season": "Vitreous and Posterior Segment",
+      "episode_no": 7,
+      "title": "Retinal Layers",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "retinal layers",
+        "ten layers of the retina",
+        "retinal pigment epithelium",
+        "photoreceptors",
+        "Muller cells",
+        "outer nuclear layer",
+        "inner plexiform layer",
+        "ganglion cell layer",
+        "nerve fibre layer",
+        "ocular anatomy"
+      ],
+      "description": "The retina is a wall built in ten named layers, and this episode walks them from the outermost pigment sheet to the innermost glassy ceiling. Learn which cells live in each nuclear layer, what actually happens on the two synaptic floors, why the external limiting membrane is not a true membrane, and how one radial glial cell scaffolds the whole wall. Focus Cast by focuslinks brings optometry students and clinicians a clear anatomy tour, with the macula, photoreceptor distribution and pigment epithelium saved for their own episodes.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E07-retinal-layers.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-07-retinal-layers/S07E07-retinal-layers.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-07-retinal-layers/S07E07-retinal-layers.mp3",
+        "bytes": 20705517,
+        "duration_sec": 1725.4,
+        "duration_min": 28.76,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:01:03.367762+00:00"
+    },
+    {
+      "id": "S02-S07E08",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 7,
+      "season": "Vitreous and Posterior Segment",
+      "episode_no": 8,
+      "title": "Macula",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "macula anatomy",
+        "macula lutea",
+        "fovea and foveola",
+        "macular pigment",
+        "lutein and zeaxanthin",
+        "ganglion cell density",
+        "posterior pole",
+        "ETDRS grid",
+        "papillomacular bundle",
+        "ocular anatomy for optometrists"
+      ],
+      "description": "The macula is the small yellow patch at the centre of the human retina, and this episode maps it millimetre by millimetre. Focus Cast by focuslinks walks the nested zones from umbo to foveola, fovea, parafovea and perifovea, explains the one, three and six millimetre ETDRS grid that anchors every macular scan report, and profiles the xanthophyll pigments lutein, zeaxanthin and meso-zeaxanthin that give the macula lutea its name. A third block counts the ganglion cells, showing why more than half of the eye's one point two million output neurons are crowded into the central few millimetres, and follows their axons into the papillomacular bundle. The pit architecture and the avascular centre are saved for episode nine, Fovea and Foveola.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E08-macula.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-08-macula/S07E08-macula.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-08-macula/S07E08-macula.mp3",
+        "bytes": 20175597,
+        "duration_sec": 1681.2,
+        "duration_min": 28.02,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:03:07.881752+00:00"
+    },
+    {
+      "id": "S02-S07E09",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 7,
+      "season": "Vitreous and Posterior Segment",
+      "episode_no": 9,
+      "title": "Fovea and Foveola",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "fovea and foveola",
+        "fovea centralis",
+        "foveal pit",
+        "foveal avascular zone",
+        "cone density",
+        "macula anatomy",
+        "retinal anatomy",
+        "ocular anatomy for optometrists",
+        "vitreous and posterior segment",
+        "optometry education"
+      ],
+      "description": "Deep at the centre of the macula lies a tiny pit that makes sharp sight possible. In this anatomy episode of Focus Cast by focuslinks, the Host and Guide walk the fovea and foveola: the rim, slope and floor of the pit, the inner retinal layers pushed aside to clear the light path, the cones-only floor with its extraordinary density, and the foveal avascular zone that trades blood vessels for clean optics. Expect standard textbook numbers in millimetres and micrometres, plain-language explanations of every term, and the anatomical reasons behind familiar findings such as the foveal reflex, foveal hypoplasia and the cherry-red spot. This is episode nine of season seven, Vitreous and Posterior Segment, in the series Ocular Anatomy for Optometrists, made for optometry students and practitioners.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E09-fovea-and-foveola.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-09-fovea-and-foveola/S07E09-fovea-and-foveola.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-09-fovea-and-foveola/S07E09-fovea-and-foveola.mp3",
+        "bytes": 21181869,
+        "duration_sec": 1765.1,
+        "duration_min": 29.42,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:05:09.408124+00:00"
+    },
+    {
+      "id": "S02-S07E10",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 7,
+      "season": "Vitreous and Posterior Segment",
+      "episode_no": 10,
+      "title": "Optic Disc",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "optic disc",
+        "optic nerve head",
+        "neuroretinal rim",
+        "physiological cup",
+        "cup to disc ratio",
+        "blind spot",
+        "posterior segment anatomy",
+        "retina",
+        "optometry education",
+        "ocular anatomy"
+      ],
+      "description": "The season finale of Ocular Anatomy for Optometrists arrives at the exit door of the eye. In this capstone episode, Focus Cast by focuslinks walks the gross anatomy of the optic disc: its position about three millimetres nasal to the fovea, its diameter numbers, the margins, the neuroretinal rim and the ISNT rule, the physiological cup with its cup-to-disc ratios, and the blind spot hidden in every visual field. Along the way we tie together the whole Vitreous and Posterior Segment season, from the gel to the fovea, and open the door to Season 8, Retina, Choroid and Optic Nerve. Made for optometry students and clinicians who want the posterior segment mapped with real numbers and plain words.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-07/S07E10-optic-disc.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-10-optic-disc/S07E10-optic-disc.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-07-vitreous-and-posterior-segment/ep-10-optic-disc/S07E10-optic-disc.mp3",
+        "bytes": 19485261,
+        "duration_sec": 1623.7,
+        "duration_min": 27.06,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T10:07:12.824585+00:00"
     }
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S07E10-optic-disc.txt",
+  "stem": "S07E10-optic-disc",
+  "words": 4211,
+  "generated_at_utc": "2026-10-04T10:07:12.824585+00:00",
+  "title": "Optic Disc",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Vitreous and Posterior Segment",
+  "season_no": "7",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "optic disc",
+    "optic nerve head",
+    "neuroretinal rim",
+    "physiological cup",
+    "cup to disc ratio",
+    "blind spot",
+    "posterior segment anatomy",
+    "retina",
+    "optometry education",
+    "ocular anatomy"
+  ],
+  "description": "The season finale of Ocular Anatomy for Optometrists arrives at the exit door of the eye. In this capstone episode, Focus Cast by focuslinks walks the gross anatomy of the optic disc: its position about three millimetres nasal to the fovea, its diameter numbers, the margins, the neuroretinal rim and the ISNT rule, the physiological cup with its cup-to-disc ratios, and the blind spot hidden in every visual field. Along the way we tie together the whole Vitreous and Posterior Segment season, from the gel to the fovea, and open the door to Season 8, Retina, Choroid and Optic Nerve. Made for optometry students and clinicians who want the posterior segment mapped with real numbers and plain words.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1623.7,
+  "duration_min": 27.06,
+  "files": [
+    "S07E10-optic-disc.wav",
+    "S07E10-optic-disc.mp3"
+  ]
+}

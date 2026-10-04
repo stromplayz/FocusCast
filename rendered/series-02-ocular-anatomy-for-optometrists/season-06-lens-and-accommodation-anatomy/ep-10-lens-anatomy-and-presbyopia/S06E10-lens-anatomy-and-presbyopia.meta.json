@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S06E10-lens-anatomy-and-presbyopia.txt",
+  "stem": "S06E10-lens-anatomy-and-presbyopia",
+  "words": 4092,
+  "generated_at_utc": "2026-10-04T09:47:02.055364+00:00",
+  "title": "Lens Anatomy and Presbyopia",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lens and Accommodation Anatomy",
+  "season_no": "6",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lens anatomy and presbyopia",
+    "nuclear hardening",
+    "lens capsule",
+    "zonules",
+    "accommodation anatomy",
+    "lens growth through life",
+    "crystalline lens aging",
+    "ocular anatomy",
+    "optometry education",
+    "season finale"
+  ],
+  "description": "Why does every human eye quietly lose its focusing range in the forties? In this season finale of Ocular Anatomy for Optometrists, Focus Cast by focuslinks explains presbyopia as pure anatomy: nuclear hardening, capsule changes, and zonular behaviour with age, gathered from all nine earlier episodes of the season. Expect real numbers, real structures, and a capstone synthesis of why the accommodation machinery stiffens, with no detours into correction. The episode closes by opening the door to the next season, Vitreous and Posterior Segment.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1712.5,
+  "duration_min": 28.54,
+  "files": [
+    "S06E10-lens-anatomy-and-presbyopia.wav",
+    "S06E10-lens-anatomy-and-presbyopia.mp3"
+  ]
+}

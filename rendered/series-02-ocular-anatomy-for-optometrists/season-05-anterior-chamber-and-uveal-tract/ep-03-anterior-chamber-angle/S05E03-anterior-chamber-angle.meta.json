@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S05E03-anterior-chamber-angle.txt",
+  "stem": "S05E03-anterior-chamber-angle",
+  "words": 4207,
+  "generated_at_utc": "2026-10-04T09:12:16.497620+00:00",
+  "title": "Anterior Chamber Angle",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Anterior Chamber and Uveal Tract",
+  "season_no": "5",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "anterior chamber angle",
+    "trabecular meshwork",
+    "canal of Schlemm",
+    "Schwalbe line",
+    "collector channels",
+    "scleral spur",
+    "aqueous humour drainage",
+    "ocular anatomy",
+    "optometry education",
+    "angle landmarks"
+  ],
+  "description": "Fluid is made inside the eye every minute of every day, and it has to leave through one hidden corner called the anterior chamber angle. In this episode of Focus Cast by focuslinks, we walk that corner structure by structure, from the Schwalbe line across the three regions of the trabecular meshwork, into the canal of Schlemm, and out through the collector channels and aqueous veins to the episcleral veins. Along the way you will learn why the scleral spur is the anchor point of the longitudinal ciliary muscle, why the meshwork contains no blood vessels, and why nearly all the resistance to outflow sits in its outermost layer. This is pure drainage anatomy for optometry students and clinicians, with the disease stories deliberately left for another day.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1680.1,
+  "duration_min": 28.0,
+  "files": [
+    "S05E03-anterior-chamber-angle.wav",
+    "S05E03-anterior-chamber-angle.mp3"
+  ]
+}

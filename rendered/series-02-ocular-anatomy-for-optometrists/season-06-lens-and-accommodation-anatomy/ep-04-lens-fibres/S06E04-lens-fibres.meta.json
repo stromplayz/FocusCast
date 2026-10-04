@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S06E04-lens-fibres.txt",
+  "stem": "S06E04-lens-fibres",
+  "words": 4261,
+  "generated_at_utc": "2026-10-04T09:34:37.231672+00:00",
+  "title": "Lens Fibres",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lens and Accommodation Anatomy",
+  "season_no": "6",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lens fibres",
+    "lens anatomy",
+    "cortical fibres",
+    "nuclear compaction",
+    "lens sutures",
+    "Y suture",
+    "hexagonal packing",
+    "crystallins",
+    "aquaporin zero",
+    "ocular anatomy for optometrists"
+  ],
+  "description": "The lens is built almost entirely from one cell type, laid down in layers that are kept for life. In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks dissects the lens fibre: its hexagonal cross-section and ribbon dimensions, its birth at the equatorial germinative zone, the Y sutures where fibre ends interlock front and back, and the compaction that squeezes older fibres into the nucleus. Learn why these cells dismantle their own organelles, how crystallins and hexagonal packing keep the lens transparent, and what the slit lamp reveals about a patient's history. A clear anatomy refresher for optometry students, practitioners, and anyone who loves the machinery of the eye.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1746.9,
+  "duration_min": 29.12,
+  "files": [
+    "S06E04-lens-fibres.wav",
+    "S06E04-lens-fibres.mp3"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S07E03-vitreous-base.txt",
+  "stem": "S07E03-vitreous-base",
+  "words": 4094,
+  "generated_at_utc": "2026-10-04T09:53:14.255376+00:00",
+  "title": "Vitreous Base",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Vitreous and Posterior Segment",
+  "season_no": "7",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "vitreous base",
+    "ora serrata",
+    "pars plana",
+    "vitreous cortex",
+    "posterior vitreous detachment",
+    "retinal dialysis",
+    "scleral depression",
+    "ocular anatomy",
+    "posterior segment"
+  ],
+  "description": "In episode three of the Vitreous and Posterior Segment season, Focus Cast by focuslinks zooms in on the vitreous base, the strongest grip the gel of the eye has anywhere inside the globe. Learn where this three to four millimetre ribbon sits across the saw-toothed ora serrata, how its collagen fibrils are stitched into the inner limiting membrane of the peripheral retina and the basement membrane of the ciliary epithelium, and why the grip never loosens with age. The Guide explains what retinal dialysis, giant tears and vitreous base avulsion have to do with blunt trauma, why the collapsing gel of posterior vitreous detachment spares the base, and how the pars plana provides the safe surgical corridor for vitrectomy. A clear, anatomy-first episode for optometry students, optometrists and eye care teams.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1583.3,
+  "duration_min": 26.39,
+  "files": [
+    "S07E03-vitreous-base.wav",
+    "S07E03-vitreous-base.mp3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S06E08-lens-growth-through-life.txt",
+  "stem": "S06E08-lens-growth-through-life",
+  "words": 4178,
+  "generated_at_utc": "2026-10-04T09:42:54.946422+00:00",
+  "title": "Lens Growth Through Life",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lens and Accommodation Anatomy",
+  "season_no": "6",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lens growth",
+    "lens development",
+    "lens placode",
+    "lens vesicle",
+    "embryonic nucleus",
+    "fetal nucleus",
+    "lens cortex",
+    "lens thickness",
+    "ocular anatomy",
+    "optometry education"
+  ],
+  "description": "How does the human lens grow from a hollow bubble of cells before birth into the layered archive of an eighty year old eye? In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks traces the lens from the lens placode and lens vesicle, through the embryonic, fetal, infantile and adult nuclei, to the lifelong addition of cortex. You will hear the real numbers: about sixty five milligrams at birth, roughly two more every year, a width that grows from about six to nearly ten millimetres, and a thickness that climbs from under four millimetres to almost five across the decades. Discover what the zones of discontinuity reveal at the slit lamp, why no lens fibre is ever discarded, and how growth quietly shallows the anterior chamber. A clear, anatomy first guide for optometry students and clinicians who want the whole biography of the lens in one sitting.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1641.8,
+  "duration_min": 27.36,
+  "files": [
+    "S06E08-lens-growth-through-life.wav",
+    "S06E08-lens-growth-through-life.mp3"
+  ]
+}

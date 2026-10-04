@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S05E04-iris-anatomy.txt",
+  "stem": "S05E04-iris-anatomy",
+  "words": 4213,
+  "generated_at_utc": "2026-10-04T09:14:16.292762+00:00",
+  "title": "Iris Anatomy",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Anterior Chamber and Uveal Tract",
+  "season_no": "5",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "iris anatomy",
+    "uveal tract",
+    "iris stroma",
+    "collarette",
+    "fuchs crypts",
+    "anterior border layer",
+    "iris blood supply",
+    "eye colour",
+    "anterior chamber angle",
+    "ocular anatomy"
+  ],
+  "description": "The iris is the coloured diaphragm of the eye, and in this episode Focus Cast by focuslinks maps it from surface to depth. Learn its dimensions and its single anchoring root at the anterior chamber angle, the naked anterior border layer, the spongy stroma with its two vascular circles, the crypts and collarette you will chart at the slit lamp, the light-proof pigment curtain behind, and the melanin biology of blue and brown eyes. Built for optometry students and eye care teams, with the sphincter and dilator muscles saved for the next episode, Iris Muscles.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1722.2,
+  "duration_min": 28.7,
+  "files": [
+    "S05E04-iris-anatomy.wav",
+    "S05E04-iris-anatomy.mp3"
+  ]
+}

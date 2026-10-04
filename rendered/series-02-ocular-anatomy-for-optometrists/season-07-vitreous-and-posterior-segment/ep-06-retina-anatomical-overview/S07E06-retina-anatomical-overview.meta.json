@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S07E06-retina-anatomical-overview.txt",
+  "stem": "S07E06-retina-anatomical-overview",
+  "words": 4127,
+  "generated_at_utc": "2026-10-04T09:59:09.186554+00:00",
+  "title": "Retina: Anatomical Overview",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Vitreous and Posterior Segment",
+  "season_no": "7",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "retina anatomy",
+    "retinal overview",
+    "ora serrata",
+    "posterior pole",
+    "retinal thickness",
+    "ocular anatomy",
+    "optometry education",
+    "posterior segment",
+    "fundus landmarks",
+    "retina for optometrists"
+  ],
+  "description": "Where does the retina begin and end, and what are its named regions? In this anatomy episode of Focus Cast by focuslinks, our Guide maps the innermost coat of the eye from the optic disc to the scalloped ora serrata, names the posterior pole, the equatorial band and the far periphery, and walks the thickness ramp from a tenth of a millimetre at the forward edge to about half a millimetre at the back. A geography lesson for optometry students, practising optometrists and curious listeners, setting up the retinal layers that arrive next episode.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1574.3,
+  "duration_min": 26.24,
+  "files": [
+    "S07E06-retina-anatomical-overview.wav",
+    "S07E06-retina-anatomical-overview.mp3"
+  ]
+}

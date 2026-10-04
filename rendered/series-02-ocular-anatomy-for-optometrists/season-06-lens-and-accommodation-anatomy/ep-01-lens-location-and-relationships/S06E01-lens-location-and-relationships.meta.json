@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S06E01-lens-location-and-relationships.txt",
+  "stem": "S06E01-lens-location-and-relationships",
+  "words": 4110,
+  "generated_at_utc": "2026-10-04T09:28:28.084605+00:00",
+  "title": "Lens Location and Relationships",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lens and Accommodation Anatomy",
+  "season_no": "6",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lens location",
+    "crystalline lens anatomy",
+    "lens dimensions",
+    "lens weight",
+    "patellar fossa",
+    "zonules of Zinn",
+    "ciliary zonule",
+    "lens relationships",
+    "accommodation anatomy",
+    "ocular anatomy"
+  ],
+  "description": "The crystalline lens sits hidden behind the iris, suspended by a ring of fine fibres and cradled in the patellar fossa of the vitreous. In this Season 6 opener, Focus Cast by focuslinks maps the exact address of the lens, its weight and dimension numbers, and its four anatomical neighbours: aqueous in front, zonules at the sides, vitreous behind, and the iris leaning on its face. A clear anatomy refresher for optometry students and eye care professionals opening a season on lens and accommodation anatomy.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1677.8,
+  "duration_min": 27.96,
+  "files": [
+    "S06E01-lens-location-and-relationships.wav",
+    "S06E01-lens-location-and-relationships.mp3"
+  ]
+}

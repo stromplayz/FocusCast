@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S05E05-iris-muscles.txt",
+  "stem": "S05E05-iris-muscles",
+  "words": 4094,
+  "generated_at_utc": "2026-10-04T09:16:18.672675+00:00",
+  "title": "Iris Muscles",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Anterior Chamber and Uveal Tract",
+  "season_no": "5",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "iris muscles",
+    "sphincter pupillae",
+    "dilator pupillae",
+    "ciliary ganglion",
+    "pupillary constriction",
+    "pupillary dilation",
+    "autonomic innervation",
+    "ocular anatomy",
+    "iris anatomy",
+    "optometry education"
+  ],
+  "description": "The pupil never holds still, and in this episode of Focus Cast by focuslinks we meet the two muscles responsible. Learn the exact layer positions of the sphincter pupillae and the dilator pupillae within the iris, trace the parasympathetic and sympathetic nerve chains that drive them, and see how a purse string and a set of radial spokes produce every pupillary movement. Clinical anchors run from Horner syndrome to the tonic pupil to the anatomy behind dilating drops. A focused anatomy episode for optometry students and clinicians, part of our Ocular Anatomy series, Season 5, the Anterior Chamber and Uveal Tract.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1717.5,
+  "duration_min": 28.63,
+  "files": [
+    "S05E05-iris-muscles.wav",
+    "S05E05-iris-muscles.mp3"
+  ]
+}

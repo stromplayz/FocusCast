@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S05E08-ciliary-muscle.txt",
+  "stem": "S05E08-ciliary-muscle",
+  "words": 4488,
+  "generated_at_utc": "2026-10-04T09:22:14.712746+00:00",
+  "title": "Ciliary Muscle",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Anterior Chamber and Uveal Tract",
+  "season_no": "5",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "ciliary muscle",
+    "ciliary body anatomy",
+    "longitudinal fibers",
+    "circular fibers",
+    "scleral spur",
+    "zonules of Zinn",
+    "short ciliary nerves",
+    "parasympathetic supply",
+    "uveal tract",
+    "ocular anatomy for optometrists"
+  ],
+  "description": "Deep inside the front of the eye sits a ring of smooth muscle that every optometrist depends on daily. In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks opens the ciliary body to reveal its three fiber groups - longitudinal, radial, and circular - and traces their attachments from the scleral spur back to the ora serrata. Learn how the parasympathetic pathway through the ciliary ganglion and the short ciliary nerves drives this muscle, and how the zonules of Zinn carry its tension inward to the lens. A clear anatomy refresher for optometry students, practitioners, and anyone who loves the machinery of the eye.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1885.6,
+  "duration_min": 31.43,
+  "files": [
+    "S05E08-ciliary-muscle.wav",
+    "S05E08-ciliary-muscle.mp3"
+  ]
+}

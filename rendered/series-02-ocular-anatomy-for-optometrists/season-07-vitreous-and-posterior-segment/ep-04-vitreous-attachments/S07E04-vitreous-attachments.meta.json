@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S07E04-vitreous-attachments.txt",
+  "stem": "S07E04-vitreous-attachments",
+  "words": 4148,
+  "generated_at_utc": "2026-10-04T09:55:09.191968+00:00",
+  "title": "Vitreous Attachments",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Vitreous and Posterior Segment",
+  "season_no": "7",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "vitreous attachments",
+    "vitreous base",
+    "optic disc",
+    "macula",
+    "retinal vessels",
+    "posterior vitreous detachment",
+    "vitreoretinal adhesion",
+    "ora serrata",
+    "ocular anatomy",
+    "optometry education"
+  ],
+  "description": "Where exactly does the vitreous grip the eye, and which of those grips can turn dangerous? In this episode of Focus Cast by focuslinks, we map every major attachment across the posterior segment, from the ring at the optic disc margin to the premacular patch, the vascular arcades, and the ora serrata. You will learn the real textbook numbers for each site, why posterior vitreous detachment tears where it does, and how the anatomy explains flashes, floaters, vitreous hemorrhage, and macular hole. A precise, listener friendly anatomy hour for optometry students and clinicians who want the posterior segment to finally make mechanical sense.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1687.7,
+  "duration_min": 28.13,
+  "files": [
+    "S07E04-vitreous-attachments.wav",
+    "S07E04-vitreous-attachments.mp3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S07E07-retinal-layers.txt",
+  "stem": "S07E07-retinal-layers",
+  "words": 4206,
+  "generated_at_utc": "2026-10-04T10:01:03.367762+00:00",
+  "title": "Retinal Layers",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Vitreous and Posterior Segment",
+  "season_no": "7",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "retinal layers",
+    "ten layers of the retina",
+    "retinal pigment epithelium",
+    "photoreceptors",
+    "Muller cells",
+    "outer nuclear layer",
+    "inner plexiform layer",
+    "ganglion cell layer",
+    "nerve fibre layer",
+    "ocular anatomy"
+  ],
+  "description": "The retina is a wall built in ten named layers, and this episode walks them from the outermost pigment sheet to the innermost glassy ceiling. Learn which cells live in each nuclear layer, what actually happens on the two synaptic floors, why the external limiting membrane is not a true membrane, and how one radial glial cell scaffolds the whole wall. Focus Cast by focuslinks brings optometry students and clinicians a clear anatomy tour, with the macula, photoreceptor distribution and pigment epithelium saved for their own episodes.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1725.4,
+  "duration_min": 28.76,
+  "files": [
+    "S07E07-retinal-layers.wav",
+    "S07E07-retinal-layers.mp3"
+  ]
+}

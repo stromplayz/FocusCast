@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S07E05-vitreous-chambers-and-spaces.txt",
+  "stem": "S07E05-vitreous-chambers-and-spaces",
+  "words": 4299,
+  "generated_at_utc": "2026-10-04T09:57:09.604460+00:00",
+  "title": "Vitreous Chambers and Spaces",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Vitreous and Posterior Segment",
+  "season_no": "7",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "vitreous chambers and spaces",
+    "Cloquet canal",
+    "hyaloid canal",
+    "Berger space",
+    "area of Martegiano",
+    "premacular bursa",
+    "posterior precortical vitreous pocket",
+    "vitreous anatomy",
+    "ocular anatomy",
+    "posterior segment anatomy"
+  ],
+  "description": "Inside the gel that fills most of the eye there are quiet, liquid-lined rooms: a canal that runs the whole length of the vitreous, a space at the back of the lens, a funnel over the optic disc, and a pocket resting in front of the macula. In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks traces the Cloquet canal from the Berger space to the area of Martegiano, uncovers its origin as the ghost of the fetal hyaloid artery, and maps the prepapillary and premacular configurations of the gel. Expect real dimensions, real eponyms, and the anatomical leftovers every optometrist should recognise at the slit lamp. This is part five of ten in our season on the vitreous and posterior segment.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1665.4,
+  "duration_min": 27.76,
+  "files": [
+    "S07E05-vitreous-chambers-and-spaces.wav",
+    "S07E05-vitreous-chambers-and-spaces.mp3"
+  ]
+}

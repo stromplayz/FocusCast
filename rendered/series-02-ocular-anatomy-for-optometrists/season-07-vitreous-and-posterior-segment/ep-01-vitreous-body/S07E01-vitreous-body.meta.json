@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S07E01-vitreous-body.txt",
+  "stem": "S07E01-vitreous-body",
+  "words": 4225,
+  "generated_at_utc": "2026-10-04T09:49:07.263737+00:00",
+  "title": "Vitreous Body",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Vitreous and Posterior Segment",
+  "season_no": "7",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "vitreous body",
+    "vitreous anatomy",
+    "posterior segment",
+    "ocular anatomy",
+    "vitreous gel",
+    "hyaluronic acid",
+    "type II collagen",
+    "hyaloid fossa",
+    "optometry education",
+    "eye anatomy podcast"
+  ],
+  "description": "Season 7 of Ocular Anatomy for Optometrists opens inside the quiet giant of the eye. In this episode of Focus Cast by focuslinks, the Host and Guide introduce the vitreous body: its roughly four millilitres, its eighty percent share of the globe, its 99 percent water gel of type II collagen and hyaluronic acid, and its three great boundaries against the lens, the retina and the optic disc. Along the way the episode tours all ten subjects of the season, from the vitreous cortex to the optic disc, and connects back to earlier seasons of the series. Ideal listening for optometry students, optical shop teams, and anyone curious about what fills most of the eye.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1705.5,
+  "duration_min": 28.43,
+  "files": [
+    "S07E01-vitreous-body.wav",
+    "S07E01-vitreous-body.mp3"
+  ]
+}

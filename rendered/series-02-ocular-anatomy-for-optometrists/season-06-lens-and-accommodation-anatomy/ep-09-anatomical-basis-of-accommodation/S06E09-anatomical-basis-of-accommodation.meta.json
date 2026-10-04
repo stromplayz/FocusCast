@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S06E09-anatomical-basis-of-accommodation.txt",
+  "stem": "S06E09-anatomical-basis-of-accommodation",
+  "words": 4352,
+  "generated_at_utc": "2026-10-04T09:44:54.356804+00:00",
+  "title": "Anatomical Basis of Accommodation",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lens and Accommodation Anatomy",
+  "season_no": "6",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "anatomical basis of accommodation",
+    "Helmholtz hypothesis",
+    "ciliary muscle contraction",
+    "zonular tension",
+    "lens capsule elasticity",
+    "accommodation mechanism",
+    "near vision focus",
+    "ocular anatomy podcast",
+    "lens anatomy",
+    "optometry student"
+  ],
+  "description": "How does the eye actually change focus from far to near? In this episode of Focus Cast by focuslinks, we assemble the machinery of accommodation from the parts already built this season: the elastic lens capsule, the zonular suspension, the ciliary muscle ring, and the vitreous boundary behind the lens. We walk through Helmholtz's hypothesis step by step, with real measurements of curvature, thickness and amplitude, and explain why the front surface of the lens does most of the work. A clear anatomical foundation for optometry students, clinicians, and anyone curious about how near vision happens.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1766.6,
+  "duration_min": 29.44,
+  "files": [
+    "S06E09-anatomical-basis-of-accommodation.wav",
+    "S06E09-anatomical-basis-of-accommodation.mp3"
+  ]
+}

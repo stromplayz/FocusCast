@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S07E02-vitreous-cortex.txt",
+  "stem": "S07E02-vitreous-cortex",
+  "words": 4257,
+  "generated_at_utc": "2026-10-04T09:51:10.305510+00:00",
+  "title": "Vitreous Cortex",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Vitreous and Posterior Segment",
+  "season_no": "7",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "vitreous cortex",
+    "cortical vitreous",
+    "hyalocytes",
+    "posterior hyaloid membrane",
+    "vitreous base",
+    "ocular anatomy",
+    "posterior segment",
+    "vitreous humour",
+    "optometry education",
+    "optometry students"
+  ],
+  "description": "Beneath the clear gel of the eye lies a condensed outer shell that every optometrist should know: the vitreous cortex. In this episode of Focus Cast by focuslinks, we map the cortical vitreous layer by layer - its one hundred to two hundred micrometers of thickness, its densely packed collagen fibrils, its resident hyalocytes, and the regional density variations that make the shell most fibrous toward the vitreous base and sheet-like over the posterior pole. Learn why this thin rind is the seam between vitreous and retina, how it can split into two leaflets, and what it looks like at the slit lamp and on optical coherence tomography. A focused anatomy deep dive for optometry students and clinicians building their posterior segment map.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1694.1,
+  "duration_min": 28.23,
+  "files": [
+    "S07E02-vitreous-cortex.wav",
+    "S07E02-vitreous-cortex.mp3"
+  ]
+}

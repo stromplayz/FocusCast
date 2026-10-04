@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S06E03-lens-epithelium.txt",
+  "stem": "S06E03-lens-epithelium",
+  "words": 4273,
+  "generated_at_utc": "2026-10-04T09:32:30.450572+00:00",
+  "title": "Lens Epithelium",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lens and Accommodation Anatomy",
+  "season_no": "6",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lens epithelium",
+    "lens anatomy",
+    "germinative zone",
+    "lens bow",
+    "anterior capsule",
+    "posterior capsule opacification",
+    "ocular anatomy",
+    "optometry education",
+    "epithelial cells",
+    "lens growth"
+  ],
+  "description": "Beneath the front surface of the lens lies a single sheet of living cells that quietly runs the whole organ for an entire lifetime. In this anatomy episode, Focus Cast by focuslinks takes you inside the lens epithelium: where it sits, the three zones it forms, the equatorial germinative bow where new lens fibres are born, and the reason the posterior capsule carries none at all. Expect real numbers, from cell counts to embryological timing, and the anatomical stories behind radiation cataract and posterior capsule opacification after cataract surgery. Made for optometry students, eye care teams, and anyone who wants the lens understood from the inside out.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1783.3,
+  "duration_min": 29.72,
+  "files": [
+    "S06E03-lens-epithelium.wav",
+    "S06E03-lens-epithelium.mp3"
+  ]
+}

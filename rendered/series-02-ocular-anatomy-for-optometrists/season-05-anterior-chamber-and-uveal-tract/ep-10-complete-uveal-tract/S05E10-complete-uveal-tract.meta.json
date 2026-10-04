@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S05E10-complete-uveal-tract.txt",
+  "stem": "S05E10-complete-uveal-tract",
+  "words": 4218,
+  "generated_at_utc": "2026-10-04T09:26:28.044338+00:00",
+  "title": "Complete Uveal Tract",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Anterior Chamber and Uveal Tract",
+  "season_no": "5",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "uveal tract",
+    "uvea anatomy",
+    "iris anatomy",
+    "ciliary body anatomy",
+    "choroid anatomy",
+    "posterior ciliary arteries",
+    "vortex veins",
+    "ocular blood supply",
+    "ciliary flush",
+    "middle coat of the eye"
+  ],
+  "description": "The season finale of Focus Cast by focuslinks assembles the uveal tract as one continuous middle coat, from the iris at the front, through the ciliary body, to the choroid behind. This capstone episode of Ocular Anatomy for Optometrists walks the two seams that knit iris, ciliary body and choroid into a single garment, then follows the blood on its entire journey: short and long posterior ciliary arteries, anterior ciliary arteries, the major arterial circle of the iris, and the four vortex veins that carry it away. A full season synthesis for optometry students, with the anatomical reasons behind iridodialysis, the deep ciliary flush and sectoral choroidal disease. Next season: Lens and Accommodation Anatomy.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1697.0,
+  "duration_min": 28.28,
+  "files": [
+    "S05E10-complete-uveal-tract.wav",
+    "S05E10-complete-uveal-tract.mp3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S05E07-ciliary-body.txt",
+  "stem": "S05E07-ciliary-body",
+  "words": 4037,
+  "generated_at_utc": "2026-10-04T09:20:16.931249+00:00",
+  "title": "Ciliary Body",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Anterior Chamber and Uveal Tract",
+  "season_no": "5",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "ciliary body",
+    "ocular anatomy",
+    "pars plicata",
+    "pars plana",
+    "ciliary processes",
+    "uveal tract",
+    "ora serrata",
+    "scleral spur",
+    "aqueous humor",
+    "optometry education"
+  ],
+  "description": "Behind the colored iris hides a ring of tissue that makes the fluid filling the front of the eye and anchors the vascular coat of the globe. In this episode of Focus Cast by focuslinks, we map the gross anatomy of the ciliary body: the pleated pars plicata with its roughly seventy ciliary processes, the smooth pars plana, the width numbers worth memorizing, and the uveal root attachment that ties iris, ciliary body and choroid into one continuous coat. Expect real millimetres, plain-language explanations, and the anatomical reasons behind familiar clinical signs. Made for optometry students and practicing optometrists who like their anatomy taught clearly and for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1644.6,
+  "duration_min": 27.41,
+  "files": [
+    "S05E07-ciliary-body.wav",
+    "S05E07-ciliary-body.mp3"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S05E09-choroid.txt",
+  "stem": "S05E09-choroid",
+  "words": 4097,
+  "generated_at_utc": "2026-10-04T09:24:28.327411+00:00",
+  "title": "Choroid",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Anterior Chamber and Uveal Tract",
+  "season_no": "5",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "choroid anatomy",
+    "uveal tract",
+    "suprachoroidea",
+    "choriocapillaris",
+    "Haller's layer",
+    "Sattler's layer",
+    "Bruch's membrane",
+    "ocular anatomy",
+    "optometry education"
+  ],
+  "description": "The choroid is the dark, richly vascular back half of the uveal tract, and in this episode of Focus Cast by focuslinks we map its gross anatomy layer by layer. Learn where the choroid begins and ends, how the suprachoroidea moors it loosely to the sclera, how Haller's layer, Sattler's layer and the choriocapillaris are stacked together, and why the whole coat is anchored firmly only at the ora serrata and the optic nerve. Made for optometry students, practitioners, and anyone who wants a clear anatomical tour of the coat that feeds the outer retina.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1672.5,
+  "duration_min": 27.88,
+  "files": [
+    "S05E09-choroid.wav",
+    "S05E09-choroid.mp3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S07E08-macula.txt",
+  "stem": "S07E08-macula",
+  "words": 4153,
+  "generated_at_utc": "2026-10-04T10:03:07.881752+00:00",
+  "title": "Macula",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Vitreous and Posterior Segment",
+  "season_no": "7",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "macula anatomy",
+    "macula lutea",
+    "fovea and foveola",
+    "macular pigment",
+    "lutein and zeaxanthin",
+    "ganglion cell density",
+    "posterior pole",
+    "ETDRS grid",
+    "papillomacular bundle",
+    "ocular anatomy for optometrists"
+  ],
+  "description": "The macula is the small yellow patch at the centre of the human retina, and this episode maps it millimetre by millimetre. Focus Cast by focuslinks walks the nested zones from umbo to foveola, fovea, parafovea and perifovea, explains the one, three and six millimetre ETDRS grid that anchors every macular scan report, and profiles the xanthophyll pigments lutein, zeaxanthin and meso-zeaxanthin that give the macula lutea its name. A third block counts the ganglion cells, showing why more than half of the eye's one point two million output neurons are crowded into the central few millimetres, and follows their axons into the papillomacular bundle. The pit architecture and the avascular centre are saved for episode nine, Fovea and Foveola.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1681.2,
+  "duration_min": 28.02,
+  "files": [
+    "S07E08-macula.wav",
+    "S07E08-macula.mp3"
+  ]
+}

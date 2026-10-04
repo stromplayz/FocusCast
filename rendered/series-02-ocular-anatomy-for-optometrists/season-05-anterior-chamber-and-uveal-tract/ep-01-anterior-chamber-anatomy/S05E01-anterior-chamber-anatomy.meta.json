@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S05E01-anterior-chamber-anatomy.txt",
+  "stem": "S05E01-anterior-chamber-anatomy",
+  "words": 4264,
+  "generated_at_utc": "2026-10-04T09:07:28.063337+00:00",
+  "title": "Anterior Chamber Anatomy",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Anterior Chamber and Uveal Tract",
+  "season_no": "5",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "anterior chamber anatomy",
+    "anterior chamber depth",
+    "aqueous humor",
+    "anterior chamber volume",
+    "ocular anatomy for optometrists",
+    "aqueous humor composition",
+    "iridocorneal angle",
+    "optometry education",
+    "hyperopia",
+    "myopia"
+  ],
+  "description": "Step inside the anterior chamber, the small fluid-filled room behind the cornea and in front of the iris and the lens. In this season five opener, Focus Cast by focuslinks maps the boundaries of the chamber, its depth and volume numbers, the aqueous humor that fills it, and how chamber depth changes across life and across refractive errors. Learn why a shallow chamber raises the stakes in a long-sighted eye and why the deep chamber of a short-sighted eye is expected. A calm, precise anatomy refresher for optometry students, practitioners, and optical teams. Welcome to Season 5, the Anterior Chamber and Uveal Tract.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1695.1,
+  "duration_min": 28.25,
+  "files": [
+    "S05E01-anterior-chamber-anatomy.wav",
+    "S05E01-anterior-chamber-anatomy.mp3"
+  ]
+}
