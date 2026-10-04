@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E09-eyelid-blood-supply-and-innervation.txt",
+  "stem": "S01E09-eyelid-blood-supply-and-innervation",
+  "words": 4231,
+  "generated_at_utc": "2026-10-04T07:49:09.514133+00:00",
+  "title": "Eyelid Blood Supply and Innervation",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Orbit and Ocular Adnexa",
+  "season_no": "1",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "eyelid blood supply",
+    "palpebral arcades",
+    "ophthalmic artery",
+    "eyelid innervation",
+    "trigeminal nerve",
+    "facial nerve",
+    "oculomotor nerve",
+    "sympathetic innervation",
+    "eyelid lymphatic drainage",
+    "ocular anatomy"
+  ],
+  "description": "Where do the eyelids get their blood, their feeling, and their commands to move? In this episode of Focus Cast by focuslinks, we trace the ophthalmic artery into the medial and lateral palpebral branches, follow the marginal and peripheral arcades along the tarsal plates, and map the trigeminal, facial, oculomotor, and sympathetic nerves that serve the lids. We finish with the lymphatic split between the preauricular and submandibular nodes. A precise, ear-friendly anatomy lesson for optometry students, optical professionals, and anyone curious about how the eyelids are really built.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1733.7,
+  "duration_min": 28.89,
+  "files": [
+    "S01E09-eyelid-blood-supply-and-innervation.wav",
+    "S01E09-eyelid-blood-supply-and-innervation.mp3"
+  ]
+}

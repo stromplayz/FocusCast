@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S04E02-corneal-epithelium.txt",
+  "stem": "S04E02-corneal-epithelium",
+  "words": 4083,
+  "generated_at_utc": "2026-10-04T08:32:10.905758+00:00",
+  "title": "Corneal Epithelium",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Cornea",
+  "season_no": "4",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal epithelium",
+    "cornea anatomy",
+    "corneal layers",
+    "basal cells",
+    "wing cells",
+    "superficial cells",
+    "tight junctions",
+    "glycocalyx",
+    "microvilli",
+    "epithelial turnover"
+  ],
+  "description": "Under every blink, the cornea hides a living shield barely fifty micrometres thick. In this episode of Focus Cast by focuslinks, we climb the corneal epithelium from its self-made basement membrane through the basal, wing and superficial cells to the microvilli and glycocalyx that let tears wet the surface. We watch five to six layers of cells rebuild themselves every week from limbal stem cells, and see how tight junctions turn this delicate film into a fortress. Essential anatomy for optometry students, contact lens wearers, and anyone curious about the eye's frontline.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1664.1,
+  "duration_min": 27.73,
+  "files": [
+    "S04E02-corneal-epithelium.wav",
+    "S04E02-corneal-epithelium.mp3"
+  ]
+}

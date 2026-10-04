@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S02E03-accessory-lacrimal-glands.txt",
+  "stem": "S02E03-accessory-lacrimal-glands",
+  "words": 4310,
+  "generated_at_utc": "2026-10-04T07:56:34.821037+00:00",
+  "title": "Accessory Lacrimal Glands",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lacrimal System",
+  "season_no": "2",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "accessory lacrimal glands",
+    "glands of Krause",
+    "glands of Wolfring",
+    "lacrimal system anatomy",
+    "basal tear secretion",
+    "conjunctival fornix anatomy",
+    "ocular anatomy series",
+    "anatomy for optometrists"
+  ],
+  "description": "Small glands, big responsibility. In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks visits the accessory lacrimal glands, the tiny serous glands of Krause tucked into the conjunctival fornices and the glands of Wolfring lined up along the tarsal borders. We walk through their counts, addresses, microscopic design, ducts and nerve supply, and their share of the eye's everyday basal aqueous tears. You will also hear the classic finding that a life without the main lacrimal gland can still be a comfortably wet one, and what that teaches every optometrist about dry eye. A patient, anatomy-first listen for students, clinicians, and curious minds.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1742.1,
+  "duration_min": 29.04,
+  "files": [
+    "S02E03-accessory-lacrimal-glands.wav",
+    "S02E03-accessory-lacrimal-glands.mp3"
+  ]
+}

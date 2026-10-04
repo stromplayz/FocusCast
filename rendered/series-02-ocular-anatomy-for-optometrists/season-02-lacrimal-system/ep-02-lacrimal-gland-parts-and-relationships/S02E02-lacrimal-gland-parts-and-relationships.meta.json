@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E02-lacrimal-gland-parts-and-relationships.txt",
+  "stem": "S02E02-lacrimal-gland-parts-and-relationships",
+  "words": 4149,
+  "generated_at_utc": "2026-10-04T07:54:44.812959+00:00",
+  "title": "Lacrimal Gland Parts and Relationships",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lacrimal System",
+  "season_no": "2",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lacrimal gland",
+    "orbital lobe",
+    "palpebral lobe",
+    "levator aponeurosis",
+    "lacrimal ducts",
+    "superior fornix",
+    "lacrimal fossa",
+    "eyelid anatomy",
+    "ocular anatomy",
+    "optometry education"
+  ],
+  "description": "How does one lacrimal gland become two working parts? In this episode of Focus Cast by focuslinks, we split the main lacrimal gland into its orbital lobe and palpebral lobe and follow the levator aponeurosis, the flat tendon of the eyelid lifter that divides them. We trace the ten to twelve lacrimal ducts as they travel with the aponeurosis to open in a row in the superior conjunctival fornix, and map the gland's relations to the lacrimal fossa of the frontal bone, the orbital septum and the upper eyelid. A clear anatomy listen for optometry students and clinicians who want to understand what they see when they evert a lid.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1687.6,
+  "duration_min": 28.13,
+  "files": [
+    "S02E02-lacrimal-gland-parts-and-relationships.wav",
+    "S02E02-lacrimal-gland-parts-and-relationships.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S04E04-corneal-stroma.txt",
+  "stem": "S04E04-corneal-stroma",
+  "words": 4161,
+  "generated_at_utc": "2026-10-04T08:35:59.309142+00:00",
+  "title": "Corneal Stroma",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Cornea",
+  "season_no": "4",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal stroma",
+    "corneal lamellae",
+    "keratocytes",
+    "corneal collagen",
+    "stromal hydration",
+    "corneal swelling",
+    "ocular anatomy",
+    "optometry education"
+  ],
+  "description": "The corneal stroma is the mattress of collagen that fills roughly ninety percent of corneal thickness, and it is where the cornea gets its body and its strength. In this episode of Focus Cast by focuslinks, we walk through the two hundred to two hundred and fifty lamellae, meet the resting keratocytes that maintain them, and explore the proteoglycan ground substance that holds water and drives swelling behavior. You will hear the real numbers - fibril diameters in nanometers, water content, swelling pressure - and learn why the lamellae double as natural surgical planes. Next stop in the season: Descemet's membrane, the endothelium's remarkable basement membrane.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1699.7,
+  "duration_min": 28.33,
+  "files": [
+    "S04E04-corneal-stroma.wav",
+    "S04E04-corneal-stroma.mp3"
+  ]
+}

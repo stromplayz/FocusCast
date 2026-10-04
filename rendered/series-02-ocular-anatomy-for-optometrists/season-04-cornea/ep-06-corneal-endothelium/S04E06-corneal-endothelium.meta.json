@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S04E06-corneal-endothelium.txt",
+  "stem": "S04E06-corneal-endothelium",
+  "words": 4144,
+  "generated_at_utc": "2026-10-04T08:39:44.492121+00:00",
+  "title": "Corneal Endothelium",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Cornea",
+  "season_no": "4",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal endothelium",
+    "cornea anatomy",
+    "pump and leak",
+    "endothelial cell density",
+    "hexagonal mosaic",
+    "specular microscopy",
+    "ocular anatomy for optometrists",
+    "corneal layers",
+    "descemet membrane",
+    "optometry education"
+  ],
+  "description": "Meet the innermost layer of the cornea: a single sheet of flat, hexagonal cells called the corneal endothelium. In this episode of Focus Cast by focuslinks, we count that mosaic from birth through aging, learn why the cells never divide, and unpack the pump-and-leak balance that keeps the stroma near 78 percent water and about half a millimeter thick. We define polymegathism, pleomorphism, and hexagonality, and explain how a specular microscope turns the living endothelium into a photograph. Pure anatomy for optometry students, optical teams, and curious ears, told one layer at a time.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1744.3,
+  "duration_min": 29.07,
+  "files": [
+    "S04E06-corneal-endothelium.wav",
+    "S04E06-corneal-endothelium.mp3"
+  ]
+}

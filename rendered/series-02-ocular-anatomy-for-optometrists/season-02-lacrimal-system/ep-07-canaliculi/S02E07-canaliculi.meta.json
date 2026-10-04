@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E07-canaliculi.txt",
+  "stem": "S02E07-canaliculi",
+  "words": 4344,
+  "generated_at_utc": "2026-10-04T08:03:51.619383+00:00",
+  "title": "Canaliculi",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lacrimal System",
+  "season_no": "2",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "canaliculi",
+    "lacrimal canaliculus",
+    "lacrimal drainage system",
+    "valve of Rosenmuller",
+    "common internal punctum",
+    "medial canthus",
+    "eyelid margin anatomy",
+    "tear drainage",
+    "lacrimal system",
+    "ocular anatomy"
+  ],
+  "description": "Two tiny channels carry every tear from the lid margin to the lacrimal sac, and this episode of Focus Cast by focuslinks follows them all the way. We trace the vertical and horizontal canaliculus, the common internal punctum, and the valve of Rosenmuller, and map their relations to the lid margin and the medial canthus. A clear, optometry-student guide to the middle stretch of the tear drainage pathway, with the real measurements and landmarks that make the anatomy memorable.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1745.5,
+  "duration_min": 29.09,
+  "files": [
+    "S02E07-canaliculi.wav",
+    "S02E07-canaliculi.mp3"
+  ]
+}

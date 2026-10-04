@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E08-eyelid-muscles.txt",
+  "stem": "S01E08-eyelid-muscles",
+  "words": 4393,
+  "generated_at_utc": "2026-10-04T07:47:13.101599+00:00",
+  "title": "Eyelid Muscles",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Orbit and Ocular Adnexa",
+  "season_no": "1",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "eyelid muscles",
+    "orbicularis oculi",
+    "levator palpebrae superioris",
+    "levator aponeurosis",
+    "muller muscle",
+    "superior tarsal muscle",
+    "lid retractors",
+    "blink mechanics",
+    "ptosis",
+    "eyelid anatomy"
+  ],
+  "description": "Two thin sheets of muscle stand guard over every eye you will ever examine. In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks dissects the eyelid muscles: the orbicularis oculi with its pretarsal, preseptal, orbital and lacrimal parts, and the lid retractors, the levator aponeurosis and the smooth Muller muscle, that hold the eye open for a lifetime of looking. Learn the attachments, the directions of pull, and the anatomical logic behind blinks, lid creases and the classic causes of ptosis. A precision anatomy session for optometry students and practising optometrists.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1802.8,
+  "duration_min": 30.05,
+  "files": [
+    "S01E08-eyelid-muscles.wav",
+    "S01E08-eyelid-muscles.mp3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E05-extraocular-spaces.txt",
+  "stem": "S01E05-extraocular-spaces",
+  "words": 4302,
+  "generated_at_utc": "2026-10-04T07:41:37.927865+00:00",
+  "title": "Extraocular Spaces",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Orbit and Ocular Adnexa",
+  "season_no": "1",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "extraocular spaces",
+    "orbital anatomy",
+    "periorbita",
+    "subperiosteal space",
+    "muscle cone",
+    "central space",
+    "peripheral space",
+    "Tenon's capsule",
+    "episcleral space",
+    "orbital fascia"
+  ],
+  "description": "Where does the eye actually hang inside the orbit, and what separates it from the bone? In this episode of Focus Cast by focuslinks we map the soft compartments of the orbital interior: the subperiosteal space, the peripheral space, the central space of the muscle cone, and the episcleral space of Tenon's capsule, plus the fluid sleeve that wraps the optic nerve. You will learn why the periorbita is anchored only at certain lines, why an abscess hugs a wall, why a mass pushes the eye straight forward or off axis, and why the exact address of an anesthetic changes its risks. A patient, optometry level tour of orbital fascia, fat, and the compartment rules that decide how swelling and disease spread.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1787.4,
+  "duration_min": 29.79,
+  "files": [
+    "S01E05-extraocular-spaces.wav",
+    "S01E05-extraocular-spaces.mp3"
+  ]
+}

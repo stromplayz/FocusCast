@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E10-complete-lacrimal-drainage-pathway.txt",
+  "stem": "S02E10-complete-lacrimal-drainage-pathway",
+  "words": 4055,
+  "generated_at_utc": "2026-10-04T08:09:28.234210+00:00",
+  "title": "Complete Lacrimal Drainage Pathway",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lacrimal System",
+  "season_no": "2",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lacrimal drainage pathway",
+    "lacrimal pump",
+    "punctum",
+    "canaliculus",
+    "lacrimal sac",
+    "nasolacrimal duct",
+    "valve of Rosenmuller",
+    "valve of Hasner",
+    "ocular anatomy",
+    "optometry education"
+  ],
+  "description": "The season finale of the Lacrimal System. In this capstone episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks walks the entire tear drainage route in one unbroken journey, from the punctum at the lid margin, through the canaliculi and their valves, down the lacrimal sac and nasolacrimal duct, to the nose. Along the way we assemble every valve in order, Rosenmuller above and Hasner below, and meet the lacrimal pump, the blink driven mechanism that moves tears against gravity. It is the full plumbing map of the eye, told for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1615.7,
+  "duration_min": 26.93,
+  "files": [
+    "S02E10-complete-lacrimal-drainage-pathway.wav",
+    "S02E10-complete-lacrimal-drainage-pathway.mp3"
+  ]
+}

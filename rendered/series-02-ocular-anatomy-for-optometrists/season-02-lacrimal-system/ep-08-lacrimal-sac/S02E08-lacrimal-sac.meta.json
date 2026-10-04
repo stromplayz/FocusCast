@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E08-lacrimal-sac.txt",
+  "stem": "S02E08-lacrimal-sac",
+  "words": 4309,
+  "generated_at_utc": "2026-10-04T08:05:45.270243+00:00",
+  "title": "Lacrimal Sac",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lacrimal System",
+  "season_no": "2",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lacrimal sac",
+    "lacrimal fossa",
+    "medial canthal tendon",
+    "Horner muscle",
+    "tear drainage",
+    "nasolacrimal duct",
+    "ocular anatomy",
+    "optometry education",
+    "dacryocystitis",
+    "lacrimal pump"
+  ],
+  "description": "The lacrimal sac is the quiet holding chamber where tears pause between the canaliculi and the nose. In this episode of Focus Cast by focuslinks we step into the lacrimal fossa, measure the sac's fundus and body, and study the medial canthal tendon and the orbicularis fibres that grip it like hands on a bellows. You will hear the standard textbook dimensions, the sac's true relations from orbit to nasal cavity, its blood supply and its infratrochlear nerve, and the anatomical reason a swollen sac announces itself below the medial canthal tendon. A precise anatomy session for optometry students and clinicians who want the drainage pathway to finally make sense.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1723.5,
+  "duration_min": 28.73,
+  "files": [
+    "S02E08-lacrimal-sac.wav",
+    "S02E08-lacrimal-sac.mp3"
+  ]
+}

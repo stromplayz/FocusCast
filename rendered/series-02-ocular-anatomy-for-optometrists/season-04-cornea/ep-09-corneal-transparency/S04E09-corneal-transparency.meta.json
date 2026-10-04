@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S04E09-corneal-transparency.txt",
+  "stem": "S04E09-corneal-transparency",
+  "words": 4121,
+  "generated_at_utc": "2026-10-04T08:45:22.142593+00:00",
+  "title": "Corneal Transparency",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Cornea",
+  "season_no": "4",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal transparency",
+    "cornea anatomy",
+    "corneal stroma",
+    "collagen fibrils",
+    "corneal edema",
+    "endothelial pump",
+    "lattice theory",
+    "corneal clarity",
+    "ocular anatomy for optometrists",
+    "optometry podcast"
+  ],
+  "description": "Why is the cornea perfectly clear while the sclera right beside it is milk white? In this synthesis episode of Focus Cast by focuslinks, we gather the whole season's anatomy to answer that single question: the uniform lattice of collagen fibrils, the endothelial pump that guards hydration, the deliberate absence of blood vessels, and cells and nerves tuned to scatter almost nothing. Learn how scattered light cancels itself out, why swelling clouds the cornea while scars make the cloud permanent, and how to think through haze using anatomy alone. A capstone listen for optometry students and clinicians studying ocular anatomy.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1739.5,
+  "duration_min": 28.99,
+  "files": [
+    "S04E09-corneal-transparency.wav",
+    "S04E09-corneal-transparency.mp3"
+  ]
+}

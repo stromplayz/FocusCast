@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S03E07-conjunctival-sensory-innervation.txt",
+  "stem": "S03E07-conjunctival-sensory-innervation",
+  "words": 4380,
+  "generated_at_utc": "2026-10-04T08:22:24.603297+00:00",
+  "title": "Conjunctival Sensory Innervation",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Conjunctiva and Sclera",
+  "season_no": "3",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "conjunctival sensory innervation",
+    "conjunctiva nerves",
+    "trigeminal nerve",
+    "ophthalmic division",
+    "supraorbital nerve",
+    "infratrochlear nerve",
+    "infraorbital nerve",
+    "ocular anatomy",
+    "eye surface sensation",
+    "optometry education"
+  ],
+  "description": "Every gritty, watery, itchy feeling you have ever noticed on the surface of your eye arrived at your brain through a handful of named nerves, and today we trace each one. In this episode of Focus Cast by focuslinks, we follow the ophthalmic and maxillary divisions of the trigeminal nerve into the orbit and meet the five branches that carry sensation from the conjunctiva: the lacrimal, supraorbital, supratrochlear, infratrochlear and infraorbital nerves. We map which branch serves which conjunctival zone, find out where sensation is densest and where it is quietest, and explain why a lash under the upper lid is intolerable and why anesthetic drops work within seconds. A clear, clinic-ready anatomy session for optometry students, opticians and curious listeners.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1827.2,
+  "duration_min": 30.45,
+  "files": [
+    "S03E07-conjunctival-sensory-innervation.wav",
+    "S03E07-conjunctival-sensory-innervation.mp3"
+  ]
+}

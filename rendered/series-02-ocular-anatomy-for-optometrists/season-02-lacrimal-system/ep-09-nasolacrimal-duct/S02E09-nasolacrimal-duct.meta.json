@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E09-nasolacrimal-duct.txt",
+  "stem": "S02E09-nasolacrimal-duct",
+  "words": 4203,
+  "generated_at_utc": "2026-10-04T08:07:37.591902+00:00",
+  "title": "Nasolacrimal Duct",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lacrimal System",
+  "season_no": "2",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "nasolacrimal duct",
+    "lacrimal drainage",
+    "nasolacrimal canal",
+    "valve of Hasner",
+    "inferior meatus",
+    "inferior turbinate",
+    "tear drainage anatomy",
+    "lacrimal system",
+    "epiphora",
+    "optometry anatomy"
+  ],
+  "description": "The nasolacrimal duct is the last corridor a tear travels on its way from the eye to the nose, and in this episode of Focus Cast by focuslinks we walk it from end to end. Learn how the bony nasolacrimal canal is built from three bones, why the duct opens into the inferior meatus rather than the middle meatus, and how the valve of Hasner works as a one-way gate. We also map the duct's neighbours in the nose and sinus, explain why a head cold makes eyes water, and why roughly a third of newborns are born with this exit still sealed. A precise, plain-language anatomy session for optometry students and eye care professionals.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1685.1,
+  "duration_min": 28.09,
+  "files": [
+    "S02E09-nasolacrimal-duct.wav",
+    "S02E09-nasolacrimal-duct.mp3"
+  ]
+}

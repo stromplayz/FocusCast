@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E06-puncta.txt",
+  "stem": "S02E06-puncta",
+  "words": 4046,
+  "generated_at_utc": "2026-10-04T08:02:06.264243+00:00",
+  "title": "Puncta",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lacrimal System",
+  "season_no": "2",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lacrimal punctum",
+    "puncta",
+    "lacrimal papilla",
+    "tear drainage",
+    "punctal anatomy",
+    "punctal plug",
+    "ampulla",
+    "lacrimal system",
+    "lid margin",
+    "ocular anatomy"
+  ],
+  "description": "On the inner third of every eyelid margin sits a dark pinhead most patients never notice, and almost no tear escapes the eye without passing through it. In this anatomy episode of the Lacrimal System season, Focus Cast by focuslinks opens up the puncta: the lacrimal papilla each one crowns, its position about six millimetres from the medial canthus, its posterior-facing opening, its fraction-of-a-millimetre calibre, and the ampulla waiting just below. Learn why the tiniest doorway in the whole drainage pathway can drain a full day of tears, how outward gaze aligns the upper and lower puncta, and how this anatomy underpins dilation, plug fitting, and the watering-eye story. Made for optometry students, optics retail teams, and curious listeners who want the eye built piece by piece.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1596.0,
+  "duration_min": 26.6,
+  "files": [
+    "S02E06-puncta.wav",
+    "S02E06-puncta.mp3"
+  ]
+}

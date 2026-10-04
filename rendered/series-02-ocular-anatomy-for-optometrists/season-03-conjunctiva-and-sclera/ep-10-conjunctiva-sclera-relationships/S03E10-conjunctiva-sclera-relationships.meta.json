@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S03E10-conjunctiva-sclera-relationships.txt",
+  "stem": "S03E10-conjunctiva-sclera-relationships",
+  "words": 4381,
+  "generated_at_utc": "2026-10-04T08:28:11.485593+00:00",
+  "title": "Conjunctiva-Sclera Relationships",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Conjunctiva and Sclera",
+  "season_no": "3",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "conjunctiva",
+    "sclera",
+    "Tenon capsule",
+    "episclera",
+    "subconjunctival space",
+    "sub-Tenon injection",
+    "ocular coats",
+    "red eye anatomy",
+    "surgical planes",
+    "optometry education"
+  ],
+  "description": "The season finale of our anatomy series on the outer coats of the eye. In this capstone episode of Focus Cast by focuslinks, we stack the conjunctiva, Tenon capsule, episclera and sclera back together, learn where the layers weld and where they glide, and walk the surgical and injection planes by layer, from subconjunctival to sub-Tenon. Then we read the red eye through the stack, matching vessel beds and pain depth to anatomical layers, and close with a full synthesis of the season. It ends with a teaser for Season 4, the Cornea. Perfect for optometry students and eye care professionals who want ocular anatomy that sticks.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1813.5,
+  "duration_min": 30.22,
+  "files": [
+    "S03E10-conjunctiva-sclera-relationships.wav",
+    "S03E10-conjunctiva-sclera-relationships.mp3"
+  ]
+}

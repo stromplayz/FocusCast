@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S03E02-bulbar-conjunctiva.txt",
+  "stem": "S03E02-bulbar-conjunctiva",
+  "words": 4058,
+  "generated_at_utc": "2026-10-04T08:13:08.643588+00:00",
+  "title": "Bulbar Conjunctiva",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Conjunctiva and Sclera",
+  "season_no": "3",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "bulbar conjunctiva",
+    "ocular anatomy",
+    "limbus anatomy",
+    "tenon capsule",
+    "conjunctival zones",
+    "subconjunctival hemorrhage",
+    "chemosis",
+    "optometry education",
+    "eye anatomy podcast",
+    "optometry students"
+  ],
+  "description": "A clear anatomical tour of the bulbar conjunctiva, the thin transparent cloak that covers the front of the eye from the limbus to the fornices. In this episode of Focus Cast by focuslinks, we trace its epithelium and stroma, the firm weld at the limbus, the loose glide over the sclera, and its exact relationship to the Tenon capsule. You will also hear why a subconjunctival hemorrhage spreads so dramatically, why chemosis lifts the tissue into a gelatinous rim, and why so many surface changes gather in the exposed strip between the lids. Built for optometry students and clinicians who want anatomy that explains what they see in the chair.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1652.8,
+  "duration_min": 27.55,
+  "files": [
+    "S03E02-bulbar-conjunctiva.wav",
+    "S03E02-bulbar-conjunctiva.mp3"
+  ]
+}

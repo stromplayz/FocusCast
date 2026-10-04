@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S03E01-conjunctival-anatomy.txt",
+  "stem": "S03E01-conjunctival-anatomy",
+  "words": 4269,
+  "generated_at_utc": "2026-10-04T08:11:14.759965+00:00",
+  "title": "Conjunctival Anatomy",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Conjunctiva and Sclera",
+  "season_no": "3",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "conjunctival anatomy",
+    "conjunctiva",
+    "palpebral conjunctiva",
+    "bulbar conjunctiva",
+    "fornix",
+    "goblet cells",
+    "conjunctival epithelium",
+    "conjunctival stroma",
+    "ocular anatomy",
+    "optometry education"
+  ],
+  "description": "The conjunctiva is one continuous mucous membrane that lines the eyelids, folds back at the fornices, and drapes the front of the eye all the way to the limbus. In this season opener of Ocular Anatomy for Optometrists, Focus Cast by focuslinks maps its three zones, its epithelial cell types including the goblet cells that supply the mucin base of the tear film, the two layers of its stroma, and the exact places where the membrane grips the eye or glides over it. The episode closes with a tour of the whole season ahead, from the bulbar and palpebral zones to the sclera itself.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1741.4,
+  "duration_min": 29.02,
+  "files": [
+    "S03E01-conjunctival-anatomy.wav",
+    "S03E01-conjunctival-anatomy.mp3"
+  ]
+}

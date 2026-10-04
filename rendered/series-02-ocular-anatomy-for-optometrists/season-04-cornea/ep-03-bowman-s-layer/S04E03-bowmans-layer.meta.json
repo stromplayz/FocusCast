@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S04E03-bowmans-layer.txt",
+  "stem": "S04E03-bowmans-layer",
+  "words": 4489,
+  "generated_at_utc": "2026-10-04T08:33:59.812367+00:00",
+  "title": "Bowman's Layer",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Cornea",
+  "season_no": "4",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "bowmans layer",
+    "corneal anatomy",
+    "corneal layers",
+    "anterior limiting lamella",
+    "corneal scarring",
+    "corneal healing",
+    "ocular anatomy for optometrists",
+    "optometry education",
+    "refractive surgery anatomy",
+    "corneal stroma"
+  ],
+  "description": "Just beneath the corneal epithelium lies a thin, acellular sheet called Bowman's layer, and this episode of Focus Cast by focuslinks gives it a full anatomical portrait. We walk through its position in the corneal stack, its thickness in micrometres, the randomly woven collagen that builds it, and the anchoring fibrils that tie the epithelium down. Then we tackle the question that makes this layer famous: because it contains no cells at all, it can never regenerate, so any injury that breaches it heals with permanent scar tissue. We also trace what that single anatomical fact means for surface injury, for refractive surgery, and for the stretched corneas an optometrist will one day examine.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1856.6,
+  "duration_min": 30.94,
+  "files": [
+    "S04E03-bowmans-layer.wav",
+    "S04E03-bowmans-layer.mp3"
+  ]
+}

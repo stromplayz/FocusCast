@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E04-tear-film-anatomy.txt",
+  "stem": "S02E04-tear-film-anatomy",
+  "words": 4257,
+  "generated_at_utc": "2026-10-04T07:58:27.844076+00:00",
+  "title": "Tear Film Anatomy",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lacrimal System",
+  "season_no": "2",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "tear film anatomy",
+    "tear film layers",
+    "mucin layer",
+    "aqueous layer",
+    "lipid layer",
+    "meibomian glands",
+    "goblet cells",
+    "lacrimal system",
+    "pre-ocular tear film",
+    "ocular anatomy"
+  ],
+  "description": "What is the tear film actually made of, and where is each component born? In this anatomy episode of Focus Cast by focuslinks, the pre-ocular tear film is peeled into its three classic layers - mucin, aqueous, and lipid - and each factory is visited in turn: conjunctival goblet cells and the epithelial glycocalyx below, the accessory and main lacrimal glands in the middle, and the meibomian glands of the tarsal plates on top. Expect real numbers at optometry-student level: thickness, volume, secretion rate, turnover, pH, osmolarity, and the melting point of meibum. We follow each blink as it spreads, renews, and finally drains the film toward the puncta, and we stop deliberately at the border of dry-eye territory. Pure anatomy, no disease management.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1766.5,
+  "duration_min": 29.44,
+  "files": [
+    "S02E04-tear-film-anatomy.wav",
+    "S02E04-tear-film-anatomy.mp3"
+  ]
+}

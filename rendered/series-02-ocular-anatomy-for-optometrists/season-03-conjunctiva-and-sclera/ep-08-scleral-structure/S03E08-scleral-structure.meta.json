@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S03E08-scleral-structure.txt",
+  "stem": "S03E08-scleral-structure",
+  "words": 4380,
+  "generated_at_utc": "2026-10-04T08:24:22.928366+00:00",
+  "title": "Scleral Structure",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Conjunctiva and Sclera",
+  "season_no": "3",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "scleral structure",
+    "sclera anatomy",
+    "scleral thickness",
+    "scleral lamellae",
+    "emissary channels",
+    "vortex veins",
+    "lamina cribrosa",
+    "limbus anatomy",
+    "blue sclera",
+    "ocular anatomy for optometrists"
+  ],
+  "description": "The sclera is the tough white coat that gives the eye its shape, and in this episode of Focus Cast by focuslinks we take it apart properly. Learn what the sclera is made of, why its irregular collagen weave scatters light into whiteness while the cornea beside it stays clear, and how its lamellae interlock for strength in every direction. Follow the thickness map from a hair-thin ring behind the rectus insertions to a full millimetre at the posterior pole, and tour the emissary channels that carry the optic nerve, the ciliary vessels, and the vortex veins through the wall. A precise, optometry-level anatomy tour, with the clinical consequences of every thin and thick region along the way.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1810.8,
+  "duration_min": 30.18,
+  "files": [
+    "S03E08-scleral-structure.wav",
+    "S03E08-scleral-structure.mp3"
+  ]
+}

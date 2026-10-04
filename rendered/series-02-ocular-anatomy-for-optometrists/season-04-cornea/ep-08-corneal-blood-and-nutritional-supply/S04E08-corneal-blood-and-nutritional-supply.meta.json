@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S04E08-corneal-blood-and-nutritional-supply.txt",
+  "stem": "S04E08-corneal-blood-and-nutritional-supply",
+  "words": 4332,
+  "generated_at_utc": "2026-10-04T08:43:27.503110+00:00",
+  "title": "Corneal Blood and Nutritional Supply",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Cornea",
+  "season_no": "4",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal blood supply",
+    "corneal nutrition",
+    "corneal avascularity",
+    "limbal vascular arcade",
+    "aqueous humor nutrition",
+    "tear film oxygen",
+    "corneal neovascularization",
+    "ocular anatomy",
+    "cornea anatomy",
+    "optometry education"
+  ],
+  "description": "How does the clearest tissue in the body stay alive with no blood vessels inside it? In episode eight of the Cornea season, Focus Cast by focuslinks explores corneal avascularity, the limbal vascular arcade standing guard at the border, and the two nutrient routes that feed the cornea, oxygen from the tear film in front and glucose carried by the aqueous humor behind. Learn where the seven anterior ciliary arteries come from, why limbal capillary loops stop within half a millimeter of the clear tissue, how epithelium and endothelium spend their fuel, and why any new vessel that grows inward would ruin the optics. Essential anatomy listening for optometry students, optical teams, and curious minds.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1769.9,
+  "duration_min": 29.5,
+  "files": [
+    "S04E08-corneal-blood-and-nutritional-supply.wav",
+    "S04E08-corneal-blood-and-nutritional-supply.mp3"
+  ]
+}

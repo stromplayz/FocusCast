@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S03E06-conjunctival-lymphatics.txt",
+  "stem": "S03E06-conjunctival-lymphatics",
+  "words": 4061,
+  "generated_at_utc": "2026-10-04T08:20:33.148683+00:00",
+  "title": "Conjunctival Lymphatics",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Conjunctiva and Sclera",
+  "season_no": "3",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "conjunctival lymphatics",
+    "focus cast",
+    "focuslinks",
+    "ocular anatomy",
+    "lymphatic drainage",
+    "preauricular lymph nodes",
+    "submandibular lymph nodes",
+    "superficial and deep plexuses",
+    "conjunctiva",
+    "optometry education",
+    "eye anatomy",
+    "lymphatic system"
+  ],
+  "description": "Where does the fluid beneath the conjunctiva actually go? In this episode of Focus Cast by focuslinks, we map the two conjunctival lymphatic plexuses, follow the drainage to the preauricular and submandibular lymph nodes, and explain why this hidden plumbing shapes what an optometrist feels during a red eye visit. It is a direct follow-up to our episode on conjunctival blood supply, and part of the Conjunctiva and Sclera season of Ocular Anatomy for Optometrists.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1704.3,
+  "duration_min": 28.4,
+  "files": [
+    "S03E06-conjunctival-lymphatics.wav",
+    "S03E06-conjunctival-lymphatics.mp3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E10-eyelid-anatomy-in-clinical-practice.txt",
+  "stem": "S01E10-eyelid-anatomy-in-clinical-practice",
+  "words": 4162,
+  "generated_at_utc": "2026-10-04T07:51:03.151993+00:00",
+  "title": "Eyelid Anatomy in Clinical Practice",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Orbit and Ocular Adnexa",
+  "season_no": "1",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "eyelid anatomy",
+    "clinical eyelid anatomy",
+    "ptosis",
+    "entropion",
+    "ectropion",
+    "chalazion",
+    "eyelid lesions",
+    "tarsal plate",
+    "levator aponeurosis",
+    "ocular adnexa"
+  ],
+  "description": "In the season finale of Ocular Anatomy for Optometrists, Focus Cast by focuslinks turns ten episodes of orbit and adnexa anatomy into one clinical skill set. Learn to read the eyelids by layer: why ptosis follows the levator aponeurosis, Muller muscle or third nerve, why posterior lamella shortening rolls a lid inward into entropion while anterior lamella shortening drags it outward into ectropion, and why a hordeolum, a chalazion and a basal cell carcinoma each announce their home layer. A capstone synthesis for optometry students and clinicians who want lid anatomy to work like a map in the consulting chair.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1734.8,
+  "duration_min": 28.91,
+  "files": [
+    "S01E10-eyelid-anatomy-in-clinical-practice.wav",
+    "S01E10-eyelid-anatomy-in-clinical-practice.mp3"
+  ]
+}

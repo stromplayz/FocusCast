@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S03E09-episclera-and-tenons-capsule.txt",
+  "stem": "S03E09-episclera-and-tenons-capsule",
+  "words": 4046,
+  "generated_at_utc": "2026-10-04T08:26:19.445351+00:00",
+  "title": "Episclera and Tenon's Capsule",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Conjunctiva and Sclera",
+  "season_no": "3",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "episclera",
+    "Tenon's capsule",
+    "fascia bulbi",
+    "episcleral space",
+    "fascial bulla",
+    "episcleritis anatomy",
+    "anterior ciliary arteries",
+    "ocular anatomy for optometrists"
+  ],
+  "description": "Between the white of the eye and the soft orbital fat lie two quiet sheets that decide how the globe moves, glides, and heals: the episclera and Tenon's capsule. In this episode of Focus Cast by focuslinks, we peel those layers one by one, map the attachments from the limbus back to the optic nerve, and step inside the fascial bulla, the private socket in which the globe hangs. You will learn why episcleritis blanches while scleritis does not, where the seven anterior ciliary arteries travel, and what fills the potential space between capsule and sclera. Built for optometry students and curious ears, one anatomical layer at a time.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1720.3,
+  "duration_min": 28.67,
+  "files": [
+    "S03E09-episclera-and-tenons-capsule.wav",
+    "S03E09-episclera-and-tenons-capsule.mp3"
+  ]
+}

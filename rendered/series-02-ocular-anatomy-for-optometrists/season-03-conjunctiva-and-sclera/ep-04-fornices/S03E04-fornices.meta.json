@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S03E04-fornices.txt",
+  "stem": "S03E04-fornices",
+  "words": 4182,
+  "generated_at_utc": "2026-10-04T08:16:44.498572+00:00",
+  "title": "Fornices",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Conjunctiva and Sclera",
+  "season_no": "3",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "fornices",
+    "conjunctival fornix",
+    "conjunctival sac",
+    "superior fornix",
+    "inferior fornix",
+    "lateral fornix",
+    "medial fornix",
+    "caruncle",
+    "plica semilunaris",
+    "ocular anatomy"
+  ],
+  "description": "Where does the conjunctiva turn the corner between the eyelid and the eye? In this episode of Focus Cast by focuslinks, we map the four conjunctival fornices, the generous hidden vaults where palpebral and bulbar conjunctiva meet. Learn the textbook depths measured from the limbus, the fascial tethers that let the fornices ride with every gaze, and the neighbours that live beside each pocket: lacrimal gland duct openings, the glands of Krause, the caruncle and the plica semilunaris. A precise anatomy tour for optometry students and clinicians who want the conjunctival sac mapped once and for all.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1715.6,
+  "duration_min": 28.59,
+  "files": [
+    "S03E04-fornices.wav",
+    "S03E04-fornices.mp3"
+  ]
+}

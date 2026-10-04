@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S04E01-corneal-location-and-dimensions.txt",
+  "stem": "S04E01-corneal-location-and-dimensions",
+  "words": 4466,
+  "generated_at_utc": "2026-10-04T08:30:08.292089+00:00",
+  "title": "Corneal Location and Dimensions",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Cornea",
+  "season_no": "4",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal location and dimensions",
+    "corneal anatomy",
+    "corneal diameter",
+    "corneal curvature",
+    "corneal thickness",
+    "limbus anatomy",
+    "corneal power",
+    "ocular anatomy for optometrists",
+    "optometry education",
+    "cornea podcast"
+  ],
+  "description": "Season 4 of Ocular Anatomy for Optometrists opens with the cornea itself: where it sits on the globe, how wide, how curved and how thick it is, and where it blends into the sclera at the limbus. In this opener, Focus Cast by focuslinks tours the season ahead, from epithelium to endothelium, nerves, nutrition, transparency and contact lenses, while giving every standard textbook number an optometry student needs. A gentle, precise starting point for anyone learning the anatomy of the clear front window of the eye.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1900.7,
+  "duration_min": 31.68,
+  "files": [
+    "S04E01-corneal-location-and-dimensions.wav",
+    "S04E01-corneal-location-and-dimensions.mp3"
+  ]
+}

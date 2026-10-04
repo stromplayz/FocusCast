@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S04E10-corneal-anatomy-and-contact-lenses.txt",
+  "stem": "S04E10-corneal-anatomy-and-contact-lenses",
+  "words": 4286,
+  "generated_at_utc": "2026-10-04T08:47:14.930817+00:00",
+  "title": "Corneal Anatomy and Contact Lenses",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Cornea",
+  "season_no": "4",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal anatomy",
+    "contact lenses",
+    "tear lens",
+    "corneal layers",
+    "corneal endothelium",
+    "limbus",
+    "scleral lenses",
+    "rigid gas permeable",
+    "corneal clearance",
+    "optometry education"
+  ],
+  "description": "The season finale of our anatomy season on the cornea. In this capstone episode of Focus Cast by focuslinks, we turn the whole season inside out and read the cornea through the lens that rests on it: how the tear film becomes an optical element, why a rigid lens builds a tear lens that cancels surface toricity, and how clearance over epithelium, stroma, limbus and endothelium follows directly from the anatomy of each layer. We walk anatomy-first fitting logic for soft, rigid and scleral designs, revisit the oxygen economics of the avascular cornea, and close with a synthesis of all ten episodes. Then we step through the endothelium and tease Season 5, the Anterior Chamber and Uveal Tract. Perfect for optometry students and eye care professionals who want anatomy that explains practice.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1782.7,
+  "duration_min": 29.71,
+  "files": [
+    "S04E10-corneal-anatomy-and-contact-lenses.wav",
+    "S04E10-corneal-anatomy-and-contact-lenses.mp3"
+  ]
+}

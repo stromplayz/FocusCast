@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E07-tarsal-plates-and-meibomian-glands.txt",
+  "stem": "S01E07-tarsal-plates-and-meibomian-glands",
+  "words": 4171,
+  "generated_at_utc": "2026-10-04T07:45:20.869603+00:00",
+  "title": "Tarsal Plates and Meibomian Glands",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Orbit and Ocular Adnexa",
+  "season_no": "1",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "tarsal plates",
+    "meibomian glands",
+    "tarsus anatomy",
+    "eyelid anatomy",
+    "lid margin anatomy",
+    "gray line",
+    "meibomian gland dysfunction",
+    "chalazion",
+    "ocular adnexa",
+    "optometry anatomy"
+  ],
+  "description": "Tarsal Plates and Meibomian Glands goes deep into the dense connective tissue skeleton of the eyelids and the oil glands buried inside it. In this episode of Focus Cast by focuslinks, we measure both tarsal plates, trace each meibomian gland from its acini down its long central duct to the lid margin, and map the margin from the lashes to the gray line to the marginal strip. You will learn why the tarsus is not cartilage, how the palpebral ligaments anchor the plates to the orbit, and how gland architecture explains chalazia, styes, posterior blepharitis, and the subtarsal groove that traps foreign bodies. A patient, optometry-student level anatomy lesson for the lid margin you examine every day.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1713.7,
+  "duration_min": 28.56,
+  "files": [
+    "S01E07-tarsal-plates-and-meibomian-glands.wav",
+    "S01E07-tarsal-plates-and-meibomian-glands.mp3"
+  ]
+}

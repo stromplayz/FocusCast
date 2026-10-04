@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E01-lacrimal-gland-anatomy.txt",
+  "stem": "S02E01-lacrimal-gland-anatomy",
+  "words": 4088,
+  "generated_at_utc": "2026-10-04T07:52:56.144026+00:00",
+  "title": "Lacrimal Gland Anatomy",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lacrimal System",
+  "season_no": "2",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "lacrimal gland anatomy",
+    "lacrimal gland",
+    "lacrimal fossa",
+    "tear secretion",
+    "reflex tears",
+    "lacrimal nerve",
+    "orbital roof anatomy",
+    "ocular anatomy for optometrists",
+    "optometry podcast",
+    "eye anatomy"
+  ],
+  "description": "Where do tears come from, and what kind of gland makes them? In this season opener of the Lacrimal System, Focus Cast by focuslinks maps the main lacrimal gland: its shallow fossa high in the anterolateral orbital roof, its almond-like dimensions, its lobular serous architecture, and the slender ducts that deliver the aqueous tears into the superior conjunctival fornix. We follow the lacrimal artery and trace the long parasympathetic pathway that carries the turn-on signal from the facial nerve through the pterygopalatine ganglion to the acinar cells, and we contrast the steady basal trickle with the reflex flood. A clear anatomy refresher for optometry students, optometrists, and eye care teams who want the lacrimal gland built piece by piece.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1657.1,
+  "duration_min": 27.62,
+  "files": [
+    "S02E01-lacrimal-gland-anatomy.wav",
+    "S02E01-lacrimal-gland-anatomy.mp3"
+  ]
+}

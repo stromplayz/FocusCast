@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E03-orbital-walls.txt",
+  "stem": "S01E03-orbital-walls",
+  "words": 4511,
+  "generated_at_utc": "2026-10-04T07:37:45.100571+00:00",
+  "title": "Orbital Walls",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Orbit and Ocular Adnexa",
+  "season_no": "1",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "orbital walls",
+    "orbital anatomy",
+    "lamina papyracea",
+    "blowout fracture",
+    "orbital roof",
+    "orbital floor",
+    "medial wall of the orbit",
+    "lateral wall of the orbit",
+    "Whitnall's tubercle",
+    "optometry education"
+  ],
+  "description": "The orbit has four walls, and each one tells a different clinical story. In episode three of Ocular Anatomy for Optometrists, Focus Cast by focuslinks walks the roof, the medial wall, the floor and the lateral wall bone by bone: the paper-thin lamina papyracea, the weak floor behind the classic blowout fracture, the strong lateral strut, and the landmarks every eye-care student should know, from the trochlea to Whitnall's tubercle. Learn the standard anatomy and the real-world signs that map straight onto the walls, from ethmoid sinusitis spreading into the orbit to the numb cheek of an infraorbital nerve injury. A calm, patient guide for optometry students and anyone who loves the architecture of the eye.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1756.7,
+  "duration_min": 29.28,
+  "files": [
+    "S01E03-orbital-walls.wav",
+    "S01E03-orbital-walls.mp3"
+  ]
+}

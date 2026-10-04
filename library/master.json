@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-04T07:26:46.350589+00:00",
-  "episode_count": 101,
+  "updated_at": "2026-10-04T08:53:30.196613+00:00",
+  "episode_count": 140,
   "episodes": [
     {
       "id": "S01-S01E01",
@@ -3994,7 +3994,1600 @@
         "duration_min": 27.76,
         "sample_rate": 24000
       },
-      "generated_at_utc": "2026-10-04T07:23:30.156728+00:00"
+      "generated_at_utc": "2026-10-04T07:33:35.203594+00:00"
+    },
+    {
+      "id": "S02-S01E02",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 1,
+      "season": "Orbit and Ocular Adnexa",
+      "episode_no": 2,
+      "title": "Orbital Bones and Their Clinical Importance",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "orbital bones",
+        "seven bones of the orbit",
+        "orbital sutures",
+        "blowout fracture",
+        "lamina papyracea",
+        "orbital floor fracture",
+        "orbital rim",
+        "ocular adnexa",
+        "orbital anatomy",
+        "optometry education"
+      ],
+      "description": "Seven bones, a family of sutures, and a socket that is paper thin on two sides and rock solid at the rim. In episode two of Ocular Anatomy for Optometrists, Focus Cast by focuslinks names every bone that builds the orbit, explains how the bones meet at their sutures, and shows why the thin areas and strong struts of this little room decide so much in practice, from blowout fractures after a ball strike to the spread of sinus infection toward the eye. Made for optometry students who want the anatomy exam ready, and for practicing optometrists who want the story behind the findings. The walls come next episode; today, the bricks and the joints.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E02-orbital-bones-and-their-clinical-importance.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-02-orbital-bones-and-their-clinical-importance/S01E02-orbital-bones-and-their-clinical-importance.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-02-orbital-bones-and-their-clinical-importance/S01E02-orbital-bones-and-their-clinical-importance.mp3",
+        "bytes": 19850157,
+        "duration_sec": 1654.1,
+        "duration_min": 27.57,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T07:35:57.549687+00:00"
+    },
+    {
+      "id": "S02-S01E03",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 1,
+      "season": "Orbit and Ocular Adnexa",
+      "episode_no": 3,
+      "title": "Orbital Walls",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "orbital walls",
+        "orbital anatomy",
+        "lamina papyracea",
+        "blowout fracture",
+        "orbital roof",
+        "orbital floor",
+        "medial wall of the orbit",
+        "lateral wall of the orbit",
+        "Whitnall's tubercle",
+        "optometry education"
+      ],
+      "description": "The orbit has four walls, and each one tells a different clinical story. In episode three of Ocular Anatomy for Optometrists, Focus Cast by focuslinks walks the roof, the medial wall, the floor and the lateral wall bone by bone: the paper-thin lamina papyracea, the weak floor behind the classic blowout fracture, the strong lateral strut, and the landmarks every eye-care student should know, from the trochlea to Whitnall's tubercle. Learn the standard anatomy and the real-world signs that map straight onto the walls, from ethmoid sinusitis spreading into the orbit to the numb cheek of an infraorbital nerve injury. A calm, patient guide for optometry students and anyone who loves the architecture of the eye.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E03-orbital-walls.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-03-orbital-walls/S01E03-orbital-walls.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-03-orbital-walls/S01E03-orbital-walls.mp3",
+        "bytes": 21081645,
+        "duration_sec": 1756.7,
+        "duration_min": 29.28,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T07:37:45.100571+00:00"
+    },
+    {
+      "id": "S02-S01E04",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 1,
+      "season": "Orbit and Ocular Adnexa",
+      "episode_no": 4,
+      "title": "Orbital Openings and Communications",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "orbital openings",
+        "optic canal",
+        "superior orbital fissure",
+        "inferior orbital fissure",
+        "annulus of Zinn",
+        "ophthalmic artery",
+        "cavernous sinus",
+        "infraorbital nerve",
+        "orbital foramina",
+        "orbital anatomy optometry"
+      ],
+      "description": "Every door into the orbit has a name, a size, and a passenger list. In this episode of Focus Cast by focuslinks, we walk to the orbital apex and map the optic canal, the superior and inferior orbital fissures, and the smaller foramina that carry nerves and vessels in and out of the socket. Learn exactly what passes through each opening, how the annulus of Zinn organizes the traffic, and how the orbit talks to the middle cranial fossa, the pterygopalatine fossa, the nasal cavity, and the face. Essential anatomy listening for optometry students, clinicians, and anyone who wants the orbit to finally make sense.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E04-orbital-openings-and-communications.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-04-orbital-openings-and-communications/S01E04-orbital-openings-and-communications.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-04-orbital-openings-and-communications/S01E04-orbital-openings-and-communications.mp3",
+        "bytes": 22104909,
+        "duration_sec": 1842.0,
+        "duration_min": 30.7,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T07:39:38.769553+00:00"
+    },
+    {
+      "id": "S02-S01E05",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 1,
+      "season": "Orbit and Ocular Adnexa",
+      "episode_no": 5,
+      "title": "Extraocular Spaces",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "extraocular spaces",
+        "orbital anatomy",
+        "periorbita",
+        "subperiosteal space",
+        "muscle cone",
+        "central space",
+        "peripheral space",
+        "Tenon's capsule",
+        "episcleral space",
+        "orbital fascia"
+      ],
+      "description": "Where does the eye actually hang inside the orbit, and what separates it from the bone? In this episode of Focus Cast by focuslinks we map the soft compartments of the orbital interior: the subperiosteal space, the peripheral space, the central space of the muscle cone, and the episcleral space of Tenon's capsule, plus the fluid sleeve that wraps the optic nerve. You will learn why the periorbita is anchored only at certain lines, why an abscess hugs a wall, why a mass pushes the eye straight forward or off axis, and why the exact address of an anesthetic changes its risks. A patient, optometry level tour of orbital fascia, fat, and the compartment rules that decide how swelling and disease spread.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E05-extraocular-spaces.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-05-extraocular-spaces/S01E05-extraocular-spaces.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-05-extraocular-spaces/S01E05-extraocular-spaces.mp3",
+        "bytes": 21449133,
+        "duration_sec": 1787.4,
+        "duration_min": 29.79,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T07:41:37.927865+00:00"
+    },
+    {
+      "id": "S02-S01E06",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 1,
+      "season": "Orbit and Ocular Adnexa",
+      "episode_no": 6,
+      "title": "Eyelid Layers",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "eyelid layers",
+        "eyelid anatomy",
+        "orbital septum",
+        "preaponeurotic fat",
+        "levator aponeurosis",
+        "Muller muscle",
+        "tarsal plate",
+        "palpebral conjunctiva",
+        "ocular adnexa",
+        "lid retractors"
+      ],
+      "description": "What is the eyelid made of, layer by layer? In this episode of Focus Cast by focuslinks, we walk the full front to back stack of the upper and lower lids: the thinnest skin in the body, the orbicularis layer, the orbital septum, the fat pockets, the retractor sheets, a tarsal overview, and the palpebral conjunctiva that lines the inside. You will hear why the septum is the fence between lid and orbit, how the levator aponeurosis writes the lid crease, and how the seven layers fold into three clinical lamellae. Made for optometry students and clinicians who want real names and real numbers, from the arcus marginalis to the glands of Krause.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E06-eyelid-layers.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-06-eyelid-layers/S01E06-eyelid-layers.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-06-eyelid-layers/S01E06-eyelid-layers.mp3",
+        "bytes": 19701837,
+        "duration_sec": 1641.8,
+        "duration_min": 27.36,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T07:43:33.197399+00:00"
+    },
+    {
+      "id": "S02-S01E07",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 1,
+      "season": "Orbit and Ocular Adnexa",
+      "episode_no": 7,
+      "title": "Tarsal Plates and Meibomian Glands",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "tarsal plates",
+        "meibomian glands",
+        "tarsus anatomy",
+        "eyelid anatomy",
+        "lid margin anatomy",
+        "gray line",
+        "meibomian gland dysfunction",
+        "chalazion",
+        "ocular adnexa",
+        "optometry anatomy"
+      ],
+      "description": "Tarsal Plates and Meibomian Glands goes deep into the dense connective tissue skeleton of the eyelids and the oil glands buried inside it. In this episode of Focus Cast by focuslinks, we measure both tarsal plates, trace each meibomian gland from its acini down its long central duct to the lid margin, and map the margin from the lashes to the gray line to the marginal strip. You will learn why the tarsus is not cartilage, how the palpebral ligaments anchor the plates to the orbit, and how gland architecture explains chalazia, styes, posterior blepharitis, and the subtarsal groove that traps foreign bodies. A patient, optometry-student level anatomy lesson for the lid margin you examine every day.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E07-tarsal-plates-and-meibomian-glands.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-07-tarsal-plates-and-meibomian-glands/S01E07-tarsal-plates-and-meibomian-glands.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-07-tarsal-plates-and-meibomian-glands/S01E07-tarsal-plates-and-meibomian-glands.mp3",
+        "bytes": 20565549,
+        "duration_sec": 1713.7,
+        "duration_min": 28.56,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T07:45:20.869603+00:00"
+    },
+    {
+      "id": "S02-S01E08",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 1,
+      "season": "Orbit and Ocular Adnexa",
+      "episode_no": 8,
+      "title": "Eyelid Muscles",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "eyelid muscles",
+        "orbicularis oculi",
+        "levator palpebrae superioris",
+        "levator aponeurosis",
+        "muller muscle",
+        "superior tarsal muscle",
+        "lid retractors",
+        "blink mechanics",
+        "ptosis",
+        "eyelid anatomy"
+      ],
+      "description": "Two thin sheets of muscle stand guard over every eye you will ever examine. In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks dissects the eyelid muscles: the orbicularis oculi with its pretarsal, preseptal, orbital and lacrimal parts, and the lid retractors, the levator aponeurosis and the smooth Muller muscle, that hold the eye open for a lifetime of looking. Learn the attachments, the directions of pull, and the anatomical logic behind blinks, lid creases and the classic causes of ptosis. A precision anatomy session for optometry students and practising optometrists.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E08-eyelid-muscles.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-08-eyelid-muscles/S01E08-eyelid-muscles.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-08-eyelid-muscles/S01E08-eyelid-muscles.mp3",
+        "bytes": 21634605,
+        "duration_sec": 1802.8,
+        "duration_min": 30.05,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T07:47:13.101599+00:00"
+    },
+    {
+      "id": "S02-S01E09",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 1,
+      "season": "Orbit and Ocular Adnexa",
+      "episode_no": 9,
+      "title": "Eyelid Blood Supply and Innervation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "eyelid blood supply",
+        "palpebral arcades",
+        "ophthalmic artery",
+        "eyelid innervation",
+        "trigeminal nerve",
+        "facial nerve",
+        "oculomotor nerve",
+        "sympathetic innervation",
+        "eyelid lymphatic drainage",
+        "ocular anatomy"
+      ],
+      "description": "Where do the eyelids get their blood, their feeling, and their commands to move? In this episode of Focus Cast by focuslinks, we trace the ophthalmic artery into the medial and lateral palpebral branches, follow the marginal and peripheral arcades along the tarsal plates, and map the trigeminal, facial, oculomotor, and sympathetic nerves that serve the lids. We finish with the lymphatic split between the preauricular and submandibular nodes. A precise, ear-friendly anatomy lesson for optometry students, optical professionals, and anyone curious about how the eyelids are really built.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E09-eyelid-blood-supply-and-innervation.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-09-eyelid-blood-supply-and-innervation/S01E09-eyelid-blood-supply-and-innervation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-09-eyelid-blood-supply-and-innervation/S01E09-eyelid-blood-supply-and-innervation.mp3",
+        "bytes": 20804589,
+        "duration_sec": 1733.7,
+        "duration_min": 28.89,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T07:49:09.514133+00:00"
+    },
+    {
+      "id": "S02-S01E10",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 1,
+      "season": "Orbit and Ocular Adnexa",
+      "episode_no": 10,
+      "title": "Eyelid Anatomy in Clinical Practice",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "eyelid anatomy",
+        "clinical eyelid anatomy",
+        "ptosis",
+        "entropion",
+        "ectropion",
+        "chalazion",
+        "eyelid lesions",
+        "tarsal plate",
+        "levator aponeurosis",
+        "ocular adnexa"
+      ],
+      "description": "In the season finale of Ocular Anatomy for Optometrists, Focus Cast by focuslinks turns ten episodes of orbit and adnexa anatomy into one clinical skill set. Learn to read the eyelids by layer: why ptosis follows the levator aponeurosis, Muller muscle or third nerve, why posterior lamella shortening rolls a lid inward into entropion while anterior lamella shortening drags it outward into ectropion, and why a hordeolum, a chalazion and a basal cell carcinoma each announce their home layer. A capstone synthesis for optometry students and clinicians who want lid anatomy to work like a map in the consulting chair.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-01/S01E10-eyelid-anatomy-in-clinical-practice.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-10-eyelid-anatomy-in-clinical-practice/S01E10-eyelid-anatomy-in-clinical-practice.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-10-eyelid-anatomy-in-clinical-practice/S01E10-eyelid-anatomy-in-clinical-practice.mp3",
+        "bytes": 20817837,
+        "duration_sec": 1734.8,
+        "duration_min": 28.91,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T07:51:03.151993+00:00"
+    },
+    {
+      "id": "S02-S02E01",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 2,
+      "season": "Lacrimal System",
+      "episode_no": 1,
+      "title": "Lacrimal Gland Anatomy",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lacrimal gland anatomy",
+        "lacrimal gland",
+        "lacrimal fossa",
+        "tear secretion",
+        "reflex tears",
+        "lacrimal nerve",
+        "orbital roof anatomy",
+        "ocular anatomy for optometrists",
+        "optometry podcast",
+        "eye anatomy"
+      ],
+      "description": "Where do tears come from, and what kind of gland makes them? In this season opener of the Lacrimal System, Focus Cast by focuslinks maps the main lacrimal gland: its shallow fossa high in the anterolateral orbital roof, its almond-like dimensions, its lobular serous architecture, and the slender ducts that deliver the aqueous tears into the superior conjunctival fornix. We follow the lacrimal artery and trace the long parasympathetic pathway that carries the turn-on signal from the facial nerve through the pterygopalatine ganglion to the acinar cells, and we contrast the steady basal trickle with the reflex flood. A clear anatomy refresher for optometry students, optometrists, and eye care teams who want the lacrimal gland built piece by piece.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E01-lacrimal-gland-anatomy.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-01-lacrimal-gland-anatomy/S02E01-lacrimal-gland-anatomy.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-01-lacrimal-gland-anatomy/S02E01-lacrimal-gland-anatomy.mp3",
+        "bytes": 19886157,
+        "duration_sec": 1657.1,
+        "duration_min": 27.62,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T07:52:56.144026+00:00"
+    },
+    {
+      "id": "S02-S02E02",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 2,
+      "season": "Lacrimal System",
+      "episode_no": 2,
+      "title": "Lacrimal Gland Parts and Relationships",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lacrimal gland",
+        "orbital lobe",
+        "palpebral lobe",
+        "levator aponeurosis",
+        "lacrimal ducts",
+        "superior fornix",
+        "lacrimal fossa",
+        "eyelid anatomy",
+        "ocular anatomy",
+        "optometry education"
+      ],
+      "description": "How does one lacrimal gland become two working parts? In this episode of Focus Cast by focuslinks, we split the main lacrimal gland into its orbital lobe and palpebral lobe and follow the levator aponeurosis, the flat tendon of the eyelid lifter that divides them. We trace the ten to twelve lacrimal ducts as they travel with the aponeurosis to open in a row in the superior conjunctival fornix, and map the gland's relations to the lacrimal fossa of the frontal bone, the orbital septum and the upper eyelid. A clear anatomy listen for optometry students and clinicians who want to understand what they see when they evert a lid.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E02-lacrimal-gland-parts-and-relationships.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-02-lacrimal-gland-parts-and-relationships/S02E02-lacrimal-gland-parts-and-relationships.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-02-lacrimal-gland-parts-and-relationships/S02E02-lacrimal-gland-parts-and-relationships.mp3",
+        "bytes": 20251341,
+        "duration_sec": 1687.6,
+        "duration_min": 28.13,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T07:54:44.812959+00:00"
+    },
+    {
+      "id": "S02-S02E03",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 2,
+      "season": "Lacrimal System",
+      "episode_no": 3,
+      "title": "Accessory Lacrimal Glands",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "accessory lacrimal glands",
+        "glands of Krause",
+        "glands of Wolfring",
+        "lacrimal system anatomy",
+        "basal tear secretion",
+        "conjunctival fornix anatomy",
+        "ocular anatomy series",
+        "anatomy for optometrists"
+      ],
+      "description": "Small glands, big responsibility. In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks visits the accessory lacrimal glands, the tiny serous glands of Krause tucked into the conjunctival fornices and the glands of Wolfring lined up along the tarsal borders. We walk through their counts, addresses, microscopic design, ducts and nerve supply, and their share of the eye's everyday basal aqueous tears. You will also hear the classic finding that a life without the main lacrimal gland can still be a comfortably wet one, and what that teaches every optometrist about dry eye. A patient, anatomy-first listen for students, clinicians, and curious minds.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E03-accessory-lacrimal-glands.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-03-accessory-lacrimal-glands/S02E03-accessory-lacrimal-glands.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-03-accessory-lacrimal-glands/S02E03-accessory-lacrimal-glands.mp3",
+        "bytes": 20906253,
+        "duration_sec": 1742.1,
+        "duration_min": 29.04,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T07:56:34.821037+00:00"
+    },
+    {
+      "id": "S02-S02E04",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 2,
+      "season": "Lacrimal System",
+      "episode_no": 4,
+      "title": "Tear Film Anatomy",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "tear film anatomy",
+        "tear film layers",
+        "mucin layer",
+        "aqueous layer",
+        "lipid layer",
+        "meibomian glands",
+        "goblet cells",
+        "lacrimal system",
+        "pre-ocular tear film",
+        "ocular anatomy"
+      ],
+      "description": "What is the tear film actually made of, and where is each component born? In this anatomy episode of Focus Cast by focuslinks, the pre-ocular tear film is peeled into its three classic layers - mucin, aqueous, and lipid - and each factory is visited in turn: conjunctival goblet cells and the epithelial glycocalyx below, the accessory and main lacrimal glands in the middle, and the meibomian glands of the tarsal plates on top. Expect real numbers at optometry-student level: thickness, volume, secretion rate, turnover, pH, osmolarity, and the melting point of meibum. We follow each blink as it spreads, renews, and finally drains the film toward the puncta, and we stop deliberately at the border of dry-eye territory. Pure anatomy, no disease management.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E04-tear-film-anatomy.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-04-tear-film-anatomy/S02E04-tear-film-anatomy.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-04-tear-film-anatomy/S02E04-tear-film-anatomy.mp3",
+        "bytes": 21198573,
+        "duration_sec": 1766.5,
+        "duration_min": 29.44,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T07:58:27.844076+00:00"
+    },
+    {
+      "id": "S02-S02E05",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 2,
+      "season": "Lacrimal System",
+      "episode_no": 5,
+      "title": "Conjunctival Sac",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "conjunctival sac",
+        "tear reservoir",
+        "tear meniscus",
+        "fornix anatomy",
+        "palpebral conjunctiva",
+        "bulbar conjunctiva",
+        "lacrimal caruncle",
+        "plica semilunaris",
+        "marginal tear strip",
+        "ocular anatomy"
+      ],
+      "description": "Where do tears actually live between blinks? In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks opens the conjunctival sac, the thin continuous lining that turns eyelids and eyeball into a sealed tear reservoir. Learn how the palpebral and bulbar sheets meet at the fornices, why the marginal tear strips and the tear meniscus hold most of the seven microlitres the sac owns, and what the lacrimal caruncle and the plica semilunaris really are. A clear anatomical map for optometry students, and the perfect on-ramp to the drainage episodes ahead.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E05-conjunctival-sac.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-05-conjunctival-sac/S02E05-conjunctival-sac.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-05-conjunctival-sac/S02E05-conjunctival-sac.mp3",
+        "bytes": 18832941,
+        "duration_sec": 1569.3,
+        "duration_min": 26.16,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:00:22.611385+00:00"
+    },
+    {
+      "id": "S02-S02E06",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 2,
+      "season": "Lacrimal System",
+      "episode_no": 6,
+      "title": "Puncta",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lacrimal punctum",
+        "puncta",
+        "lacrimal papilla",
+        "tear drainage",
+        "punctal anatomy",
+        "punctal plug",
+        "ampulla",
+        "lacrimal system",
+        "lid margin",
+        "ocular anatomy"
+      ],
+      "description": "On the inner third of every eyelid margin sits a dark pinhead most patients never notice, and almost no tear escapes the eye without passing through it. In this anatomy episode of the Lacrimal System season, Focus Cast by focuslinks opens up the puncta: the lacrimal papilla each one crowns, its position about six millimetres from the medial canthus, its posterior-facing opening, its fraction-of-a-millimetre calibre, and the ampulla waiting just below. Learn why the tiniest doorway in the whole drainage pathway can drain a full day of tears, how outward gaze aligns the upper and lower puncta, and how this anatomy underpins dilation, plug fitting, and the watering-eye story. Made for optometry students, optics retail teams, and curious listeners who want the eye built piece by piece.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E06-puncta.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-06-puncta/S02E06-puncta.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-06-puncta/S02E06-puncta.mp3",
+        "bytes": 19153197,
+        "duration_sec": 1596.0,
+        "duration_min": 26.6,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:02:06.264243+00:00"
+    },
+    {
+      "id": "S02-S02E07",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 2,
+      "season": "Lacrimal System",
+      "episode_no": 7,
+      "title": "Canaliculi",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "canaliculi",
+        "lacrimal canaliculus",
+        "lacrimal drainage system",
+        "valve of Rosenmuller",
+        "common internal punctum",
+        "medial canthus",
+        "eyelid margin anatomy",
+        "tear drainage",
+        "lacrimal system",
+        "ocular anatomy"
+      ],
+      "description": "Two tiny channels carry every tear from the lid margin to the lacrimal sac, and this episode of Focus Cast by focuslinks follows them all the way. We trace the vertical and horizontal canaliculus, the common internal punctum, and the valve of Rosenmuller, and map their relations to the lid margin and the medial canthus. A clear, optometry-student guide to the middle stretch of the tear drainage pathway, with the real measurements and landmarks that make the anatomy memorable.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E07-canaliculi.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-07-canaliculi/S02E07-canaliculi.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-07-canaliculi/S02E07-canaliculi.mp3",
+        "bytes": 20946573,
+        "duration_sec": 1745.5,
+        "duration_min": 29.09,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:03:51.619383+00:00"
+    },
+    {
+      "id": "S02-S02E08",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 2,
+      "season": "Lacrimal System",
+      "episode_no": 8,
+      "title": "Lacrimal Sac",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lacrimal sac",
+        "lacrimal fossa",
+        "medial canthal tendon",
+        "Horner muscle",
+        "tear drainage",
+        "nasolacrimal duct",
+        "ocular anatomy",
+        "optometry education",
+        "dacryocystitis",
+        "lacrimal pump"
+      ],
+      "description": "The lacrimal sac is the quiet holding chamber where tears pause between the canaliculi and the nose. In this episode of Focus Cast by focuslinks we step into the lacrimal fossa, measure the sac's fundus and body, and study the medial canthal tendon and the orbicularis fibres that grip it like hands on a bellows. You will hear the standard textbook dimensions, the sac's true relations from orbit to nasal cavity, its blood supply and its infratrochlear nerve, and the anatomical reason a swollen sac announces itself below the medial canthal tendon. A precise anatomy session for optometry students and clinicians who want the drainage pathway to finally make sense.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E08-lacrimal-sac.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-08-lacrimal-sac/S02E08-lacrimal-sac.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-08-lacrimal-sac/S02E08-lacrimal-sac.mp3",
+        "bytes": 20682765,
+        "duration_sec": 1723.5,
+        "duration_min": 28.73,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:05:45.270243+00:00"
+    },
+    {
+      "id": "S02-S02E09",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 2,
+      "season": "Lacrimal System",
+      "episode_no": 9,
+      "title": "Nasolacrimal Duct",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "nasolacrimal duct",
+        "lacrimal drainage",
+        "nasolacrimal canal",
+        "valve of Hasner",
+        "inferior meatus",
+        "inferior turbinate",
+        "tear drainage anatomy",
+        "lacrimal system",
+        "epiphora",
+        "optometry anatomy"
+      ],
+      "description": "The nasolacrimal duct is the last corridor a tear travels on its way from the eye to the nose, and in this episode of Focus Cast by focuslinks we walk it from end to end. Learn how the bony nasolacrimal canal is built from three bones, why the duct opens into the inferior meatus rather than the middle meatus, and how the valve of Hasner works as a one-way gate. We also map the duct's neighbours in the nose and sinus, explain why a head cold makes eyes water, and why roughly a third of newborns are born with this exit still sealed. A precise, plain-language anatomy session for optometry students and eye care professionals.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E09-nasolacrimal-duct.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-09-nasolacrimal-duct/S02E09-nasolacrimal-duct.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-09-nasolacrimal-duct/S02E09-nasolacrimal-duct.mp3",
+        "bytes": 20222253,
+        "duration_sec": 1685.1,
+        "duration_min": 28.09,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:07:37.591902+00:00"
+    },
+    {
+      "id": "S02-S02E10",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 2,
+      "season": "Lacrimal System",
+      "episode_no": 10,
+      "title": "Complete Lacrimal Drainage Pathway",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "lacrimal drainage pathway",
+        "lacrimal pump",
+        "punctum",
+        "canaliculus",
+        "lacrimal sac",
+        "nasolacrimal duct",
+        "valve of Rosenmuller",
+        "valve of Hasner",
+        "ocular anatomy",
+        "optometry education"
+      ],
+      "description": "The season finale of the Lacrimal System. In this capstone episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks walks the entire tear drainage route in one unbroken journey, from the punctum at the lid margin, through the canaliculi and their valves, down the lacrimal sac and nasolacrimal duct, to the nose. Along the way we assemble every valve in order, Rosenmuller above and Hasner below, and meet the lacrimal pump, the blink driven mechanism that moves tears against gravity. It is the full plumbing map of the eye, told for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-02/S02E10-complete-lacrimal-drainage-pathway.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-10-complete-lacrimal-drainage-pathway/S02E10-complete-lacrimal-drainage-pathway.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-02-lacrimal-system/ep-10-complete-lacrimal-drainage-pathway/S02E10-complete-lacrimal-drainage-pathway.mp3",
+        "bytes": 19389357,
+        "duration_sec": 1615.7,
+        "duration_min": 26.93,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:09:28.234210+00:00"
+    },
+    {
+      "id": "S02-S03E01",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 3,
+      "season": "Conjunctiva and Sclera",
+      "episode_no": 1,
+      "title": "Conjunctival Anatomy",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "conjunctival anatomy",
+        "conjunctiva",
+        "palpebral conjunctiva",
+        "bulbar conjunctiva",
+        "fornix",
+        "goblet cells",
+        "conjunctival epithelium",
+        "conjunctival stroma",
+        "ocular anatomy",
+        "optometry education"
+      ],
+      "description": "The conjunctiva is one continuous mucous membrane that lines the eyelids, folds back at the fornices, and drapes the front of the eye all the way to the limbus. In this season opener of Ocular Anatomy for Optometrists, Focus Cast by focuslinks maps its three zones, its epithelial cell types including the goblet cells that supply the mucin base of the tear film, the two layers of its stroma, and the exact places where the membrane grips the eye or glides over it. The episode closes with a tour of the whole season ahead, from the bulbar and palpebral zones to the sclera itself.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E01-conjunctival-anatomy.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-01-conjunctival-anatomy/S03E01-conjunctival-anatomy.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-01-conjunctival-anatomy/S03E01-conjunctival-anatomy.mp3",
+        "bytes": 20897901,
+        "duration_sec": 1741.4,
+        "duration_min": 29.02,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:11:14.759965+00:00"
+    },
+    {
+      "id": "S02-S03E02",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 3,
+      "season": "Conjunctiva and Sclera",
+      "episode_no": 2,
+      "title": "Bulbar Conjunctiva",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "bulbar conjunctiva",
+        "ocular anatomy",
+        "limbus anatomy",
+        "tenon capsule",
+        "conjunctival zones",
+        "subconjunctival hemorrhage",
+        "chemosis",
+        "optometry education",
+        "eye anatomy podcast",
+        "optometry students"
+      ],
+      "description": "A clear anatomical tour of the bulbar conjunctiva, the thin transparent cloak that covers the front of the eye from the limbus to the fornices. In this episode of Focus Cast by focuslinks, we trace its epithelium and stroma, the firm weld at the limbus, the loose glide over the sclera, and its exact relationship to the Tenon capsule. You will also hear why a subconjunctival hemorrhage spreads so dramatically, why chemosis lifts the tissue into a gelatinous rim, and why so many surface changes gather in the exposed strip between the lids. Built for optometry students and clinicians who want anatomy that explains what they see in the chair.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E02-bulbar-conjunctiva.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-02-bulbar-conjunctiva/S03E02-bulbar-conjunctiva.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-02-bulbar-conjunctiva/S03E02-bulbar-conjunctiva.mp3",
+        "bytes": 19834605,
+        "duration_sec": 1652.8,
+        "duration_min": 27.55,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:13:08.643588+00:00"
+    },
+    {
+      "id": "S02-S03E03",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 3,
+      "season": "Conjunctiva and Sclera",
+      "episode_no": 3,
+      "title": "Palpebral Conjunctiva",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "palpebral conjunctiva",
+        "tarsal conjunctiva",
+        "subtarsal groove",
+        "conjunctival anatomy",
+        "eyelid lining",
+        "meibomian gland openings",
+        "conjunctival folds",
+        "lid wiper",
+        "ocular anatomy",
+        "optometry education"
+      ],
+      "description": "Flip the upper lid in your mind and map every millimetre of what you would see. In this anatomy episode, Focus Cast by focuslinks walks the palpebral conjunctiva zone by zone, from the mucocutaneous junction at the lid margin, across the subtarsal groove, over the smooth tarsal sheet and its vertical meibomian gland striations, to the folded orbital part that meets the fornix. Learn why this lining is welded to the tarsal plate, why that weld matters at every blink, and which landmarks hide on the everted surface. Written for optometry students and eye care teams who want anatomy with real numbers and real names.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E03-palpebral-conjunctiva.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-03-palpebral-conjunctiva/S03E03-palpebral-conjunctiva.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-03-palpebral-conjunctiva/S03E03-palpebral-conjunctiva.mp3",
+        "bytes": 19594125,
+        "duration_sec": 1632.8,
+        "duration_min": 27.21,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:14:57.219736+00:00"
+    },
+    {
+      "id": "S02-S03E04",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 3,
+      "season": "Conjunctiva and Sclera",
+      "episode_no": 4,
+      "title": "Fornices",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "fornices",
+        "conjunctival fornix",
+        "conjunctival sac",
+        "superior fornix",
+        "inferior fornix",
+        "lateral fornix",
+        "medial fornix",
+        "caruncle",
+        "plica semilunaris",
+        "ocular anatomy"
+      ],
+      "description": "Where does the conjunctiva turn the corner between the eyelid and the eye? In this episode of Focus Cast by focuslinks, we map the four conjunctival fornices, the generous hidden vaults where palpebral and bulbar conjunctiva meet. Learn the textbook depths measured from the limbus, the fascial tethers that let the fornices ride with every gaze, and the neighbours that live beside each pocket: lacrimal gland duct openings, the glands of Krause, the caruncle and the plica semilunaris. A precise anatomy tour for optometry students and clinicians who want the conjunctival sac mapped once and for all.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E04-fornices.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-04-fornices/S03E04-fornices.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-04-fornices/S03E04-fornices.mp3",
+        "bytes": 20587725,
+        "duration_sec": 1715.6,
+        "duration_min": 28.59,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:16:44.498572+00:00"
+    },
+    {
+      "id": "S02-S03E05",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 3,
+      "season": "Conjunctiva and Sclera",
+      "episode_no": 5,
+      "title": "Conjunctival Blood Supply",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "conjunctival blood supply",
+        "conjunctival vessels",
+        "marginal arcade",
+        "peripheral arcade",
+        "anterior ciliary arteries",
+        "limbal vessels",
+        "ciliary flush",
+        "bulbar conjunctiva",
+        "ocular anatomy",
+        "optometry education"
+      ],
+      "description": "Where does the thin, clear membrane over the white of the eye get its blood? In this episode of Focus Cast by focuslinks, we trace the two arterial systems that feed the conjunctiva: the lid arcades arriving from behind through the fornices, and the seven anterior ciliary arteries arriving from the front at the limbus. We lay conjunctival and ciliary vessels side by side - origin, depth, mobility, branching pattern, colour, and their response to a vasoconstrictor drop. Then we show how the geography of this dual supply explains the two opposite gradients of redness at the eye's surface, staying anatomy-first rather than turning into a red eye lecture. A precise, plain-spoken map of the front of the eye's circulation for optometry students, optical teams, and curious listeners.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E05-conjunctival-blood-supply.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-05-conjunctival-blood-supply/S03E05-conjunctival-blood-supply.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-05-conjunctival-blood-supply/S03E05-conjunctival-blood-supply.mp3",
+        "bytes": 21553677,
+        "duration_sec": 1796.1,
+        "duration_min": 29.93,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:18:36.566305+00:00"
+    },
+    {
+      "id": "S02-S03E06",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 3,
+      "season": "Conjunctiva and Sclera",
+      "episode_no": 6,
+      "title": "Conjunctival Lymphatics",
+      "keywords": [
+        "conjunctival lymphatics",
+        "focus cast",
+        "focuslinks",
+        "ocular anatomy",
+        "lymphatic drainage",
+        "preauricular lymph nodes",
+        "submandibular lymph nodes",
+        "superficial and deep plexuses",
+        "conjunctiva",
+        "optometry education",
+        "eye anatomy",
+        "lymphatic system"
+      ],
+      "description": "Where does the fluid beneath the conjunctiva actually go? In this episode of Focus Cast by focuslinks, we map the two conjunctival lymphatic plexuses, follow the drainage to the preauricular and submandibular lymph nodes, and explain why this hidden plumbing shapes what an optometrist feels during a red eye visit. It is a direct follow-up to our episode on conjunctival blood supply, and part of the Conjunctiva and Sclera season of Ocular Anatomy for Optometrists.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E06-conjunctival-lymphatics.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-06-conjunctival-lymphatics/S03E06-conjunctival-lymphatics.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-06-conjunctival-lymphatics/S03E06-conjunctival-lymphatics.mp3",
+        "bytes": 20452365,
+        "duration_sec": 1704.3,
+        "duration_min": 28.4,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:20:33.148683+00:00"
+    },
+    {
+      "id": "S02-S03E07",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 3,
+      "season": "Conjunctiva and Sclera",
+      "episode_no": 7,
+      "title": "Conjunctival Sensory Innervation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "conjunctival sensory innervation",
+        "conjunctiva nerves",
+        "trigeminal nerve",
+        "ophthalmic division",
+        "supraorbital nerve",
+        "infratrochlear nerve",
+        "infraorbital nerve",
+        "ocular anatomy",
+        "eye surface sensation",
+        "optometry education"
+      ],
+      "description": "Every gritty, watery, itchy feeling you have ever noticed on the surface of your eye arrived at your brain through a handful of named nerves, and today we trace each one. In this episode of Focus Cast by focuslinks, we follow the ophthalmic and maxillary divisions of the trigeminal nerve into the orbit and meet the five branches that carry sensation from the conjunctiva: the lacrimal, supraorbital, supratrochlear, infratrochlear and infraorbital nerves. We map which branch serves which conjunctival zone, find out where sensation is densest and where it is quietest, and explain why a lash under the upper lid is intolerable and why anesthetic drops work within seconds. A clear, clinic-ready anatomy session for optometry students, opticians and curious listeners.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E07-conjunctival-sensory-innervation.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-07-conjunctival-sensory-innervation/S03E07-conjunctival-sensory-innervation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-07-conjunctival-sensory-innervation/S03E07-conjunctival-sensory-innervation.mp3",
+        "bytes": 21927789,
+        "duration_sec": 1827.2,
+        "duration_min": 30.45,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:22:24.603297+00:00"
+    },
+    {
+      "id": "S02-S03E08",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 3,
+      "season": "Conjunctiva and Sclera",
+      "episode_no": 8,
+      "title": "Scleral Structure",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "scleral structure",
+        "sclera anatomy",
+        "scleral thickness",
+        "scleral lamellae",
+        "emissary channels",
+        "vortex veins",
+        "lamina cribrosa",
+        "limbus anatomy",
+        "blue sclera",
+        "ocular anatomy for optometrists"
+      ],
+      "description": "The sclera is the tough white coat that gives the eye its shape, and in this episode of Focus Cast by focuslinks we take it apart properly. Learn what the sclera is made of, why its irregular collagen weave scatters light into whiteness while the cornea beside it stays clear, and how its lamellae interlock for strength in every direction. Follow the thickness map from a hair-thin ring behind the rectus insertions to a full millimetre at the posterior pole, and tour the emissary channels that carry the optic nerve, the ciliary vessels, and the vortex veins through the wall. A precise, optometry-level anatomy tour, with the clinical consequences of every thin and thick region along the way.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E08-scleral-structure.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-08-scleral-structure/S03E08-scleral-structure.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-08-scleral-structure/S03E08-scleral-structure.mp3",
+        "bytes": 21729645,
+        "duration_sec": 1810.8,
+        "duration_min": 30.18,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:24:22.928366+00:00"
+    },
+    {
+      "id": "S02-S03E09",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 3,
+      "season": "Conjunctiva and Sclera",
+      "episode_no": 9,
+      "title": "Episclera and Tenon's Capsule",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "episclera",
+        "Tenon's capsule",
+        "fascia bulbi",
+        "episcleral space",
+        "fascial bulla",
+        "episcleritis anatomy",
+        "anterior ciliary arteries",
+        "ocular anatomy for optometrists"
+      ],
+      "description": "Between the white of the eye and the soft orbital fat lie two quiet sheets that decide how the globe moves, glides, and heals: the episclera and Tenon's capsule. In this episode of Focus Cast by focuslinks, we peel those layers one by one, map the attachments from the limbus back to the optic nerve, and step inside the fascial bulla, the private socket in which the globe hangs. You will learn why episcleritis blanches while scleritis does not, where the seven anterior ciliary arteries travel, and what fills the potential space between capsule and sclera. Built for optometry students and curious ears, one anatomical layer at a time.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E09-episclera-and-tenons-capsule.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-09-episclera-and-tenon-s-capsule/S03E09-episclera-and-tenons-capsule.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-09-episclera-and-tenon-s-capsule/S03E09-episclera-and-tenons-capsule.mp3",
+        "bytes": 20643885,
+        "duration_sec": 1720.3,
+        "duration_min": 28.67,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:26:19.445351+00:00"
+    },
+    {
+      "id": "S02-S03E10",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 3,
+      "season": "Conjunctiva and Sclera",
+      "episode_no": 10,
+      "title": "Conjunctiva-Sclera Relationships",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "conjunctiva",
+        "sclera",
+        "Tenon capsule",
+        "episclera",
+        "subconjunctival space",
+        "sub-Tenon injection",
+        "ocular coats",
+        "red eye anatomy",
+        "surgical planes",
+        "optometry education"
+      ],
+      "description": "The season finale of our anatomy series on the outer coats of the eye. In this capstone episode of Focus Cast by focuslinks, we stack the conjunctiva, Tenon capsule, episclera and sclera back together, learn where the layers weld and where they glide, and walk the surgical and injection planes by layer, from subconjunctival to sub-Tenon. Then we read the red eye through the stack, matching vessel beds and pain depth to anatomical layers, and close with a full synthesis of the season. It ends with a teaser for Season 4, the Cornea. Perfect for optometry students and eye care professionals who want ocular anatomy that sticks.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-03/S03E10-conjunctiva-sclera-relationships.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-10-conjunctiva-sclera-relationships/S03E10-conjunctiva-sclera-relationships.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-03-conjunctiva-and-sclera/ep-10-conjunctiva-sclera-relationships/S03E10-conjunctiva-sclera-relationships.mp3",
+        "bytes": 21762189,
+        "duration_sec": 1813.5,
+        "duration_min": 30.22,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:28:11.485593+00:00"
+    },
+    {
+      "id": "S02-S04E01",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 4,
+      "season": "Cornea",
+      "episode_no": 1,
+      "title": "Corneal Location and Dimensions",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal location and dimensions",
+        "corneal anatomy",
+        "corneal diameter",
+        "corneal curvature",
+        "corneal thickness",
+        "limbus anatomy",
+        "corneal power",
+        "ocular anatomy for optometrists",
+        "optometry education",
+        "cornea podcast"
+      ],
+      "description": "Season 4 of Ocular Anatomy for Optometrists opens with the cornea itself: where it sits on the globe, how wide, how curved and how thick it is, and where it blends into the sclera at the limbus. In this opener, Focus Cast by focuslinks tours the season ahead, from epithelium to endothelium, nerves, nutrition, transparency and contact lenses, while giving every standard textbook number an optometry student needs. A gentle, precise starting point for anyone learning the anatomy of the clear front window of the eye.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E01-corneal-location-and-dimensions.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-01-corneal-location-and-dimensions/S04E01-corneal-location-and-dimensions.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-01-corneal-location-and-dimensions/S04E01-corneal-location-and-dimensions.mp3",
+        "bytes": 22809069,
+        "duration_sec": 1900.7,
+        "duration_min": 31.68,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:30:08.292089+00:00"
+    },
+    {
+      "id": "S02-S04E02",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 4,
+      "season": "Cornea",
+      "episode_no": 2,
+      "title": "Corneal Epithelium",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal epithelium",
+        "cornea anatomy",
+        "corneal layers",
+        "basal cells",
+        "wing cells",
+        "superficial cells",
+        "tight junctions",
+        "glycocalyx",
+        "microvilli",
+        "epithelial turnover"
+      ],
+      "description": "Under every blink, the cornea hides a living shield barely fifty micrometres thick. In this episode of Focus Cast by focuslinks, we climb the corneal epithelium from its self-made basement membrane through the basal, wing and superficial cells to the microvilli and glycocalyx that let tears wet the surface. We watch five to six layers of cells rebuild themselves every week from limbal stem cells, and see how tight junctions turn this delicate film into a fortress. Essential anatomy for optometry students, contact lens wearers, and anyone curious about the eye's frontline.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E02-corneal-epithelium.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-02-corneal-epithelium/S04E02-corneal-epithelium.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-02-corneal-epithelium/S04E02-corneal-epithelium.mp3",
+        "bytes": 19969965,
+        "duration_sec": 1664.1,
+        "duration_min": 27.73,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:32:10.905758+00:00"
+    },
+    {
+      "id": "S02-S04E03",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 4,
+      "season": "Cornea",
+      "episode_no": 3,
+      "title": "Bowman's Layer",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "bowmans layer",
+        "corneal anatomy",
+        "corneal layers",
+        "anterior limiting lamella",
+        "corneal scarring",
+        "corneal healing",
+        "ocular anatomy for optometrists",
+        "optometry education",
+        "refractive surgery anatomy",
+        "corneal stroma"
+      ],
+      "description": "Just beneath the corneal epithelium lies a thin, acellular sheet called Bowman's layer, and this episode of Focus Cast by focuslinks gives it a full anatomical portrait. We walk through its position in the corneal stack, its thickness in micrometres, the randomly woven collagen that builds it, and the anchoring fibrils that tie the epithelium down. Then we tackle the question that makes this layer famous: because it contains no cells at all, it can never regenerate, so any injury that breaches it heals with permanent scar tissue. We also trace what that single anatomical fact means for surface injury, for refractive surgery, and for the stretched corneas an optometrist will one day examine.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E03-bowmans-layer.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-03-bowman-s-layer/S04E03-bowmans-layer.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-03-bowman-s-layer/S04E03-bowmans-layer.mp3",
+        "bytes": 22279725,
+        "duration_sec": 1856.6,
+        "duration_min": 30.94,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:33:59.812367+00:00"
+    },
+    {
+      "id": "S02-S04E04",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 4,
+      "season": "Cornea",
+      "episode_no": 4,
+      "title": "Corneal Stroma",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal stroma",
+        "corneal lamellae",
+        "keratocytes",
+        "corneal collagen",
+        "stromal hydration",
+        "corneal swelling",
+        "ocular anatomy",
+        "optometry education"
+      ],
+      "description": "The corneal stroma is the mattress of collagen that fills roughly ninety percent of corneal thickness, and it is where the cornea gets its body and its strength. In this episode of Focus Cast by focuslinks, we walk through the two hundred to two hundred and fifty lamellae, meet the resting keratocytes that maintain them, and explore the proteoglycan ground substance that holds water and drives swelling behavior. You will hear the real numbers - fibril diameters in nanometers, water content, swelling pressure - and learn why the lamellae double as natural surgical planes. Next stop in the season: Descemet's membrane, the endothelium's remarkable basement membrane.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E04-corneal-stroma.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-04-corneal-stroma/S04E04-corneal-stroma.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-04-corneal-stroma/S04E04-corneal-stroma.mp3",
+        "bytes": 20396781,
+        "duration_sec": 1699.7,
+        "duration_min": 28.33,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:35:59.309142+00:00"
+    },
+    {
+      "id": "S02-S04E05",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 4,
+      "season": "Cornea",
+      "episode_no": 5,
+      "title": "Descemet's Membrane",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "descemet's membrane",
+        "posterior limiting lamina",
+        "corneal anatomy",
+        "corneal layers",
+        "basement membrane",
+        "hassall-henle warts",
+        "schwalbe's line",
+        "corneal endothelium",
+        "ocular anatomy for optometrists",
+        "cornea"
+      ],
+      "description": "Descemet's Membrane is the thinnest, deepest sheet in the cornea, the true basement membrane of the corneal endothelium, and this episode of Focus Cast by focuslinks gives it the full attention it rarely gets. We trace its position between stroma and endothelium, its thickness from birth through old age, its banded fetal zone and ever growing postnatal zone, and its elasticity that folds, stretches, and scrolls. We visit the periphery too, where the membrane ends at Schwalbe's line and wears its normal fringe of Hassall-Henle warts. Built for optometry students, optical retail teams, and clinicians who want anatomy explained patiently, with real numbers and plain words.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E05-descemets-membrane.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-05-descemet-s-membrane/S04E05-descemets-membrane.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-05-descemet-s-membrane/S04E05-descemets-membrane.mp3",
+        "bytes": 21268845,
+        "duration_sec": 1772.3,
+        "duration_min": 29.54,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:37:49.777156+00:00"
+    },
+    {
+      "id": "S02-S04E06",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 4,
+      "season": "Cornea",
+      "episode_no": 6,
+      "title": "Corneal Endothelium",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal endothelium",
+        "cornea anatomy",
+        "pump and leak",
+        "endothelial cell density",
+        "hexagonal mosaic",
+        "specular microscopy",
+        "ocular anatomy for optometrists",
+        "corneal layers",
+        "descemet membrane",
+        "optometry education"
+      ],
+      "description": "Meet the innermost layer of the cornea: a single sheet of flat, hexagonal cells called the corneal endothelium. In this episode of Focus Cast by focuslinks, we count that mosaic from birth through aging, learn why the cells never divide, and unpack the pump-and-leak balance that keeps the stroma near 78 percent water and about half a millimeter thick. We define polymegathism, pleomorphism, and hexagonality, and explain how a specular microscope turns the living endothelium into a photograph. Pure anatomy for optometry students, optical teams, and curious ears, told one layer at a time.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E06-corneal-endothelium.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-06-corneal-endothelium/S04E06-corneal-endothelium.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-06-corneal-endothelium/S04E06-corneal-endothelium.mp3",
+        "bytes": 20932461,
+        "duration_sec": 1744.3,
+        "duration_min": 29.07,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:39:44.492121+00:00"
+    },
+    {
+      "id": "S02-S04E07",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 4,
+      "season": "Cornea",
+      "episode_no": 7,
+      "title": "Corneal Nerves",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal nerves",
+        "corneal innervation",
+        "nasociliary nerve",
+        "long ciliary nerves",
+        "trigeminal nerve",
+        "subbasal nerve plexus",
+        "corneal sensitivity",
+        "ocular anatomy",
+        "corneal anatomy",
+        "optometry education"
+      ],
+      "description": "Why is the clear front window of the eye the most sensitive surface in the whole body? In this episode of Focus Cast by focuslinks, we follow the corneal nerves from the nasociliary nerve of the trigeminal system, through the long ciliary nerves and the radial stromal trunks, out into the whorl of the subbasal plexus. You will hear why the cornea is often quoted as four hundred to six hundred times more sensitive than skin, what the three families of corneal endings do, and how sensation, reflex blinking, and trophic care keep that surface alive. Made for optometry students and practicing clinicians who want the anatomy behind every corneal touch.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E07-corneal-nerves.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-07-corneal-nerves/S04E07-corneal-nerves.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-07-corneal-nerves/S04E07-corneal-nerves.mp3",
+        "bytes": 20270637,
+        "duration_sec": 1689.1,
+        "duration_min": 28.15,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:41:37.451886+00:00"
+    },
+    {
+      "id": "S02-S04E08",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 4,
+      "season": "Cornea",
+      "episode_no": 8,
+      "title": "Corneal Blood and Nutritional Supply",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal blood supply",
+        "corneal nutrition",
+        "corneal avascularity",
+        "limbal vascular arcade",
+        "aqueous humor nutrition",
+        "tear film oxygen",
+        "corneal neovascularization",
+        "ocular anatomy",
+        "cornea anatomy",
+        "optometry education"
+      ],
+      "description": "How does the clearest tissue in the body stay alive with no blood vessels inside it? In episode eight of the Cornea season, Focus Cast by focuslinks explores corneal avascularity, the limbal vascular arcade standing guard at the border, and the two nutrient routes that feed the cornea, oxygen from the tear film in front and glucose carried by the aqueous humor behind. Learn where the seven anterior ciliary arteries come from, why limbal capillary loops stop within half a millimeter of the clear tissue, how epithelium and endothelium spend their fuel, and why any new vessel that grows inward would ruin the optics. Essential anatomy listening for optometry students, optical teams, and curious minds.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E08-corneal-blood-and-nutritional-supply.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-08-corneal-blood-and-nutritional-supply/S04E08-corneal-blood-and-nutritional-supply.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-08-corneal-blood-and-nutritional-supply/S04E08-corneal-blood-and-nutritional-supply.mp3",
+        "bytes": 21239181,
+        "duration_sec": 1769.9,
+        "duration_min": 29.5,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:43:27.503110+00:00"
+    },
+    {
+      "id": "S02-S04E09",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 4,
+      "season": "Cornea",
+      "episode_no": 9,
+      "title": "Corneal Transparency",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal transparency",
+        "cornea anatomy",
+        "corneal stroma",
+        "collagen fibrils",
+        "corneal edema",
+        "endothelial pump",
+        "lattice theory",
+        "corneal clarity",
+        "ocular anatomy for optometrists",
+        "optometry podcast"
+      ],
+      "description": "Why is the cornea perfectly clear while the sclera right beside it is milk white? In this synthesis episode of Focus Cast by focuslinks, we gather the whole season's anatomy to answer that single question: the uniform lattice of collagen fibrils, the endothelial pump that guards hydration, the deliberate absence of blood vessels, and cells and nerves tuned to scatter almost nothing. Learn how scattered light cancels itself out, why swelling clouds the cornea while scars make the cloud permanent, and how to think through haze using anatomy alone. A capstone listen for optometry students and clinicians studying ocular anatomy.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E09-corneal-transparency.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-09-corneal-transparency/S04E09-corneal-transparency.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-09-corneal-transparency/S04E09-corneal-transparency.mp3",
+        "bytes": 20874861,
+        "duration_sec": 1739.5,
+        "duration_min": 28.99,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:45:22.142593+00:00"
+    },
+    {
+      "id": "S02-S04E10",
+      "series_no": 2,
+      "series": "Ocular Anatomy for Optometrists",
+      "season_no": 4,
+      "season": "Cornea",
+      "episode_no": 10,
+      "title": "Corneal Anatomy and Contact Lenses",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal anatomy",
+        "contact lenses",
+        "tear lens",
+        "corneal layers",
+        "corneal endothelium",
+        "limbus",
+        "scleral lenses",
+        "rigid gas permeable",
+        "corneal clearance",
+        "optometry education"
+      ],
+      "description": "The season finale of our anatomy season on the cornea. In this capstone episode of Focus Cast by focuslinks, we turn the whole season inside out and read the cornea through the lens that rests on it: how the tear film becomes an optical element, why a rigid lens builds a tear lens that cancels surface toricity, and how clearance over epithelium, stroma, limbus and endothelium follows directly from the anatomy of each layer. We walk anatomy-first fitting logic for soft, rigid and scleral designs, revisit the oxygen economics of the avascular cornea, and close with a synthesis of all ten episodes. Then we step through the endothelium and tease Season 5, the Anterior Chamber and Uveal Tract. Perfect for optometry students and eye care professionals who want anatomy that explains practice.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-02-ocular-anatomy-for-optometrists/season-04/S04E10-corneal-anatomy-and-contact-lenses.txt",
+      "audio": {
+        "mp3": "rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-10-corneal-anatomy-and-contact-lenses/S04E10-corneal-anatomy-and-contact-lenses.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-02-ocular-anatomy-for-optometrists/season-04-cornea/ep-10-corneal-anatomy-and-contact-lenses/S04E10-corneal-anatomy-and-contact-lenses.mp3",
+        "bytes": 21392685,
+        "duration_sec": 1782.7,
+        "duration_min": 29.71,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T08:47:14.930817+00:00"
     }
   ]
 }

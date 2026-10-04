@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S03E03-palpebral-conjunctiva.txt",
+  "stem": "S03E03-palpebral-conjunctiva",
+  "words": 4017,
+  "generated_at_utc": "2026-10-04T08:14:57.219736+00:00",
+  "title": "Palpebral Conjunctiva",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Conjunctiva and Sclera",
+  "season_no": "3",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "palpebral conjunctiva",
+    "tarsal conjunctiva",
+    "subtarsal groove",
+    "conjunctival anatomy",
+    "eyelid lining",
+    "meibomian gland openings",
+    "conjunctival folds",
+    "lid wiper",
+    "ocular anatomy",
+    "optometry education"
+  ],
+  "description": "Flip the upper lid in your mind and map every millimetre of what you would see. In this anatomy episode, Focus Cast by focuslinks walks the palpebral conjunctiva zone by zone, from the mucocutaneous junction at the lid margin, across the subtarsal groove, over the smooth tarsal sheet and its vertical meibomian gland striations, to the folded orbital part that meets the fornix. Learn why this lining is welded to the tarsal plate, why that weld matters at every blink, and which landmarks hide on the everted surface. Written for optometry students and eye care teams who want anatomy with real numbers and real names.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1632.8,
+  "duration_min": 27.21,
+  "files": [
+    "S03E03-palpebral-conjunctiva.wav",
+    "S03E03-palpebral-conjunctiva.mp3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S02E05-conjunctival-sac.txt",
+  "stem": "S02E05-conjunctival-sac",
+  "words": 4008,
+  "generated_at_utc": "2026-10-04T08:00:22.611385+00:00",
+  "title": "Conjunctival Sac",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Lacrimal System",
+  "season_no": "2",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "conjunctival sac",
+    "tear reservoir",
+    "tear meniscus",
+    "fornix anatomy",
+    "palpebral conjunctiva",
+    "bulbar conjunctiva",
+    "lacrimal caruncle",
+    "plica semilunaris",
+    "marginal tear strip",
+    "ocular anatomy"
+  ],
+  "description": "Where do tears actually live between blinks? In this episode of Ocular Anatomy for Optometrists, Focus Cast by focuslinks opens the conjunctival sac, the thin continuous lining that turns eyelids and eyeball into a sealed tear reservoir. Learn how the palpebral and bulbar sheets meet at the fornices, why the marginal tear strips and the tear meniscus hold most of the seven microlitres the sac owns, and what the lacrimal caruncle and the plica semilunaris really are. A clear anatomical map for optometry students, and the perfect on-ramp to the drainage episodes ahead.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1569.3,
+  "duration_min": 26.16,
+  "files": [
+    "S02E05-conjunctival-sac.wav",
+    "S02E05-conjunctival-sac.mp3"
+  ]
+}

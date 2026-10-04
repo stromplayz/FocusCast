@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S04E05-descemets-membrane.txt",
+  "stem": "S04E05-descemets-membrane",
+  "words": 4342,
+  "generated_at_utc": "2026-10-04T08:37:49.777156+00:00",
+  "title": "Descemet's Membrane",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Cornea",
+  "season_no": "4",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "descemet's membrane",
+    "posterior limiting lamina",
+    "corneal anatomy",
+    "corneal layers",
+    "basement membrane",
+    "hassall-henle warts",
+    "schwalbe's line",
+    "corneal endothelium",
+    "ocular anatomy for optometrists",
+    "cornea"
+  ],
+  "description": "Descemet's Membrane is the thinnest, deepest sheet in the cornea, the true basement membrane of the corneal endothelium, and this episode of Focus Cast by focuslinks gives it the full attention it rarely gets. We trace its position between stroma and endothelium, its thickness from birth through old age, its banded fetal zone and ever growing postnatal zone, and its elasticity that folds, stretches, and scrolls. We visit the periphery too, where the membrane ends at Schwalbe's line and wears its normal fringe of Hassall-Henle warts. Built for optometry students, optical retail teams, and clinicians who want anatomy explained patiently, with real numbers and plain words.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1772.3,
+  "duration_min": 29.54,
+  "files": [
+    "S04E05-descemets-membrane.wav",
+    "S04E05-descemets-membrane.mp3"
+  ]
+}

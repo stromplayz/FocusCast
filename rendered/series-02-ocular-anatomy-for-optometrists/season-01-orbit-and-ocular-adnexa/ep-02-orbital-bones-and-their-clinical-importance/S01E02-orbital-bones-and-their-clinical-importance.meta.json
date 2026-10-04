@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E02-orbital-bones-and-their-clinical-importance.txt",
+  "stem": "S01E02-orbital-bones-and-their-clinical-importance",
+  "words": 4156,
+  "generated_at_utc": "2026-10-04T07:35:57.549687+00:00",
+  "title": "Orbital Bones and Their Clinical Importance",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Orbit and Ocular Adnexa",
+  "season_no": "1",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "orbital bones",
+    "seven bones of the orbit",
+    "orbital sutures",
+    "blowout fracture",
+    "lamina papyracea",
+    "orbital floor fracture",
+    "orbital rim",
+    "ocular adnexa",
+    "orbital anatomy",
+    "optometry education"
+  ],
+  "description": "Seven bones, a family of sutures, and a socket that is paper thin on two sides and rock solid at the rim. In episode two of Ocular Anatomy for Optometrists, Focus Cast by focuslinks names every bone that builds the orbit, explains how the bones meet at their sutures, and shows why the thin areas and strong struts of this little room decide so much in practice, from blowout fractures after a ball strike to the spread of sinus infection toward the eye. Made for optometry students who want the anatomy exam ready, and for practicing optometrists who want the story behind the findings. The walls come next episode; today, the bricks and the joints.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1654.1,
+  "duration_min": 27.57,
+  "files": [
+    "S01E02-orbital-bones-and-their-clinical-importance.wav",
+    "S01E02-orbital-bones-and-their-clinical-importance.mp3"
+  ]
+}

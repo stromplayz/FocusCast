@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S04E07-corneal-nerves.txt",
+  "stem": "S04E07-corneal-nerves",
+  "words": 4091,
+  "generated_at_utc": "2026-10-04T08:41:37.451886+00:00",
+  "title": "Corneal Nerves",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Cornea",
+  "season_no": "4",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal nerves",
+    "corneal innervation",
+    "nasociliary nerve",
+    "long ciliary nerves",
+    "trigeminal nerve",
+    "subbasal nerve plexus",
+    "corneal sensitivity",
+    "ocular anatomy",
+    "corneal anatomy",
+    "optometry education"
+  ],
+  "description": "Why is the clear front window of the eye the most sensitive surface in the whole body? In this episode of Focus Cast by focuslinks, we follow the corneal nerves from the nasociliary nerve of the trigeminal system, through the long ciliary nerves and the radial stromal trunks, out into the whorl of the subbasal plexus. You will hear why the cornea is often quoted as four hundred to six hundred times more sensitive than skin, what the three families of corneal endings do, and how sensation, reflex blinking, and trophic care keep that surface alive. Made for optometry students and practicing clinicians who want the anatomy behind every corneal touch.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1689.1,
+  "duration_min": 28.15,
+  "files": [
+    "S04E07-corneal-nerves.wav",
+    "S04E07-corneal-nerves.mp3"
+  ]
+}

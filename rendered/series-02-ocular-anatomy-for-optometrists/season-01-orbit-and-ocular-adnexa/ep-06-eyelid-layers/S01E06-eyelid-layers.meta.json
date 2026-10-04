@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E06-eyelid-layers.txt",
+  "stem": "S01E06-eyelid-layers",
+  "words": 4119,
+  "generated_at_utc": "2026-10-04T07:43:33.197399+00:00",
+  "title": "Eyelid Layers",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Orbit and Ocular Adnexa",
+  "season_no": "1",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "eyelid layers",
+    "eyelid anatomy",
+    "orbital septum",
+    "preaponeurotic fat",
+    "levator aponeurosis",
+    "Muller muscle",
+    "tarsal plate",
+    "palpebral conjunctiva",
+    "ocular adnexa",
+    "lid retractors"
+  ],
+  "description": "What is the eyelid made of, layer by layer? In this episode of Focus Cast by focuslinks, we walk the full front to back stack of the upper and lower lids: the thinnest skin in the body, the orbicularis layer, the orbital septum, the fat pockets, the retractor sheets, a tarsal overview, and the palpebral conjunctiva that lines the inside. You will hear why the septum is the fence between lid and orbit, how the levator aponeurosis writes the lid crease, and how the seven layers fold into three clinical lamellae. Made for optometry students and clinicians who want real names and real numbers, from the arcus marginalis to the glands of Krause.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1641.8,
+  "duration_min": 27.36,
+  "files": [
+    "S01E06-eyelid-layers.wav",
+    "S01E06-eyelid-layers.mp3"
+  ]
+}

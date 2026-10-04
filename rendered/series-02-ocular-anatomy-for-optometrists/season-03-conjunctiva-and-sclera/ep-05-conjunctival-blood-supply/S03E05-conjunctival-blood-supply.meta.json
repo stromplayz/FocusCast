@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S03E05-conjunctival-blood-supply.txt",
+  "stem": "S03E05-conjunctival-blood-supply",
+  "words": 4245,
+  "generated_at_utc": "2026-10-04T08:18:36.566305+00:00",
+  "title": "Conjunctival Blood Supply",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Conjunctiva and Sclera",
+  "season_no": "3",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "conjunctival blood supply",
+    "conjunctival vessels",
+    "marginal arcade",
+    "peripheral arcade",
+    "anterior ciliary arteries",
+    "limbal vessels",
+    "ciliary flush",
+    "bulbar conjunctiva",
+    "ocular anatomy",
+    "optometry education"
+  ],
+  "description": "Where does the thin, clear membrane over the white of the eye get its blood? In this episode of Focus Cast by focuslinks, we trace the two arterial systems that feed the conjunctiva: the lid arcades arriving from behind through the fornices, and the seven anterior ciliary arteries arriving from the front at the limbus. We lay conjunctival and ciliary vessels side by side - origin, depth, mobility, branching pattern, colour, and their response to a vasoconstrictor drop. Then we show how the geography of this dual supply explains the two opposite gradients of redness at the eye's surface, staying anatomy-first rather than turning into a red eye lecture. A precise, plain-spoken map of the front of the eye's circulation for optometry students, optical teams, and curious listeners.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1796.1,
+  "duration_min": 29.93,
+  "files": [
+    "S03E05-conjunctival-blood-supply.wav",
+    "S03E05-conjunctival-blood-supply.mp3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E04-orbital-openings-and-communications.txt",
+  "stem": "S01E04-orbital-openings-and-communications",
+  "words": 4509,
+  "generated_at_utc": "2026-10-04T07:39:38.769553+00:00",
+  "title": "Orbital Openings and Communications",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Orbit and Ocular Adnexa",
+  "season_no": "1",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "orbital openings",
+    "optic canal",
+    "superior orbital fissure",
+    "inferior orbital fissure",
+    "annulus of Zinn",
+    "ophthalmic artery",
+    "cavernous sinus",
+    "infraorbital nerve",
+    "orbital foramina",
+    "orbital anatomy optometry"
+  ],
+  "description": "Every door into the orbit has a name, a size, and a passenger list. In this episode of Focus Cast by focuslinks, we walk to the orbital apex and map the optic canal, the superior and inferior orbital fissures, and the smaller foramina that carry nerves and vessels in and out of the socket. Learn exactly what passes through each opening, how the annulus of Zinn organizes the traffic, and how the orbit talks to the middle cranial fossa, the pterygopalatine fossa, the nasal cavity, and the face. Essential anatomy listening for optometry students, clinicians, and anyone who wants the orbit to finally make sense.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1842.0,
+  "duration_min": 30.7,
+  "files": [
+    "S01E04-orbital-openings-and-communications.wav",
+    "S01E04-orbital-openings-and-communications.mp3"
+  ]
+}
