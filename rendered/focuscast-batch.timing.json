@@ -1,21 +1,12 @@
 {
-  "episodes": 10,
-  "words_total": 41694,
-  "eta_render_min": 23.7,
-  "actual_push_to_complete_min": 20.5,
-  "actual_total_min": 21.1,
+  "episodes": 1,
+  "words_total": 4119,
+  "eta_render_min": 4.1,
+  "actual_push_to_complete_min": 4.6,
+  "actual_total_min": 4.7,
   "kernel": "phantoz/focuscast-batch",
   "delivered": [
-    "series-01-optometry-foundations/season-10-foundation-cases/ep-01-patient-with-blurred-distance-vision/S10E01-patient-with-blurred-distance-vision.mp3",
-    "series-01-optometry-foundations/season-10-foundation-cases/ep-02-patient-with-blurred-near-vision/S10E02-patient-with-blurred-near-vision.mp3",
-    "series-01-optometry-foundations/season-10-foundation-cases/ep-03-patient-with-headache/S10E03-patient-with-headache.mp3",
-    "series-01-optometry-foundations/season-10-foundation-cases/ep-04-patient-with-eye-strain/S10E04-patient-with-eye-strain.mp3",
-    "series-01-optometry-foundations/season-10-foundation-cases/ep-05-patient-with-red-eye/S10E05-patient-with-red-eye.mp3",
-    "series-01-optometry-foundations/season-10-foundation-cases/ep-06-patient-with-eye-pain/S10E06-patient-with-eye-pain.mp3",
-    "series-01-optometry-foundations/season-10-foundation-cases/ep-07-patient-with-sudden-vision-change/S10E07-patient-with-sudden-vision-change.mp3",
-    "series-01-optometry-foundations/season-10-foundation-cases/ep-08-child-with-poor-vision/S10E08-child-with-poor-vision.mp3",
-    "series-01-optometry-foundations/season-10-foundation-cases/ep-09-older-patient-with-reduced-vision/S10E09-older-patient-with-reduced-vision.mp3",
-    "series-01-optometry-foundations/season-10-foundation-cases/ep-10-the-complete-optometry-examination-grand-case-series-finale/S10E10-the-complete-optometry-examination-grand-case.mp3"
+    "series-02-ocular-anatomy-for-optometrists/season-01-orbit-and-ocular-adnexa/ep-01-the-orbit-an-optometrist-s-anatomical-map/S01E01-the-orbit-an-optometrists-anatomical-map.mp3"
   ],
-  "started_at_utc": "2026-10-02T21:18:19.886548+00:00"
+  "started_at_utc": "2026-10-04T07:26:46.271454+00:00"
 }

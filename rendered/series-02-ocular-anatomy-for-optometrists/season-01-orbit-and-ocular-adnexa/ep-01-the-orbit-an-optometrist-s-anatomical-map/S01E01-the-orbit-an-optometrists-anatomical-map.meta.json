@@ -1,0 +1,42 @@
+{
+  "episode_file": "episode/S01E01-the-orbit-an-optometrists-anatomical-map.txt",
+  "stem": "S01E01-the-orbit-an-optometrists-anatomical-map",
+  "words": 4119,
+  "generated_at_utc": "2026-10-04T07:23:30.156728+00:00",
+  "title": "The Orbit: An Optometrist's Anatomical Map",
+  "series": "Ocular Anatomy for Optometrists",
+  "series_no": "2",
+  "season": "Orbit and Ocular Adnexa",
+  "season_no": "1",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "orbit anatomy",
+    "bony orbit",
+    "orbital pyramid",
+    "ocular adnexa",
+    "orbital dimensions",
+    "orbital rim",
+    "paranasal sinuses",
+    "orbital openings",
+    "anatomy for optometrists",
+    "optometry education"
+  ],
+  "description": "The bony orbit is the room the eye lives in, and this season opener of Focus Cast by focuslinks opens Series 2, Ocular Anatomy for Optometrists, with a guided walk around that socket. Learn the orbit's four-sided pyramid shape, its volume of about thirty millilitres, its entrance measuring about thirty-five by forty millimetres, and why the medial walls run parallel while the lateral walls sit at a right angle. Meet the orbit's neighbours among the paranasal sinuses and the cranial fossae, and hear the full map of the season from orbital bones to eyelid anatomy in clinical practice. Made for optometry students and practising optometrists who want real anatomy explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1665.6,
+  "duration_min": 27.76,
+  "files": [
+    "S01E01-the-orbit-an-optometrists-anatomical-map.wav",
+    "S01E01-the-orbit-an-optometrists-anatomical-map.mp3"
+  ]
+}
