@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S02E01-why-we-need-tears.txt",
+  "stem": "S02E01-why-we-need-tears",
+  "words": 4219,
+  "generated_at_utc": "2026-10-04T20:05:02.677687+00:00",
+  "title": "Why We Need Tears",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Tear Film and Ocular Surface Physiology",
+  "season_no": "2",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "tear film",
+    "why we need tears",
+    "tear functions",
+    "ocular surface physiology",
+    "tear protection",
+    "corneal wetting",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Welcome back to Ocular Physiology, as Focus Cast by focuslinks opens Season 2 on the tear film and the ocular surface, after a first season that built the homeostasis framework. This episode makes the case for tears, function by function: the optical case, where the air-tear surface does more refracting work than the cornea itself, then lubrication, protection, nutrition, and waste and signalling. Hear the antimicrobial patrol of lysozyme, lactoferrin and immunoglobulin A, and a thought experiment that strips the tear system away and watches comfort, optics and tissue fail in order. Learn why the blink-tear partnership is the surface's heartbeat, and what each tear function looks like in the examination chair. Made for optometry students and practising optometrists who want surface physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1738.6,
+  "duration_min": 28.98,
+  "files": [
+    "S02E01-why-we-need-tears.wav",
+    "S02E01-why-we-need-tears.mp3"
+  ]
+}

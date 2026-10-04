@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S02E02-tear-film-organisation.txt",
+  "stem": "S02E02-tear-film-organisation",
+  "words": 4187,
+  "generated_at_utc": "2026-10-04T20:07:36.159265+00:00",
+  "title": "Tear Film Organisation",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Tear Film and Ocular Surface Physiology",
+  "season_no": "2",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "tear film layers",
+    "lipid layer",
+    "aqueous layer",
+    "mucin layer",
+    "tear film thickness",
+    "tear film model",
+    "ocular surface",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Every blink lays down a fresh tear film, and this episode of Focus Cast by focuslinks explains how that film is organised, layer by layer, and why the organisation matters. Learn the classic three-layer picture of an oil lid floating on watery tears above a bed of mucin, and then the honest modern refinement of a mucin-rich aqueous gel with an oil lid on top. Hear the numbers in words, a total thickness of about three to four and a half micrometres, most of it water. Find out what each component buys, why the film is rebuilt with every blink, and why that makes the ocular surface the most renewable tissue interface in the body. Made for optometry students, optical shop teams and curious listeners who want ocular surface physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1710.7,
+  "duration_min": 28.51,
+  "files": [
+    "S02E02-tear-film-organisation.wav",
+    "S02E02-tear-film-organisation.mp3"
+  ]
+}

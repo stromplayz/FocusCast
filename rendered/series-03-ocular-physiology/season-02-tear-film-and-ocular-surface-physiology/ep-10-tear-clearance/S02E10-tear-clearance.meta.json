@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S02E10-tear-clearance.txt",
+  "stem": "S02E10-tear-clearance",
+  "words": 4188,
+  "generated_at_utc": "2026-10-04T20:22:57.282048+00:00",
+  "title": "Tear Clearance",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Tear Film and Ocular Surface Physiology",
+  "season_no": "2",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "tear clearance",
+    "tear drainage",
+    "lacrimal pump",
+    "tear turnover",
+    "nasolacrimal duct",
+    "tear outflow",
+    "ocular surface housekeeping",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Every tap needs a drain, and this season finale of Focus Cast by focuslinks walks the exit door of the tear system, from the pooled tears at the lid margins through the puncta, canaliculi, lacrimal sac and nasolacrimal duct to the nose. Learn how each blink drives the lacrimal pump, why the tear film is replaced many times over in a waking hour, and how turnover and clearance carry away debris, shed cells and worn proteins so the surface chemistry stays fresh and stable. The episode then assembles secretion, distribution, layer function, evaporation and clearance into one closed loop with the blink as its engine stroke, and recaps episodes one through nine by title before teasing the corneal season ahead. Made for optometry students and practising optometrists who want physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1646.3,
+  "duration_min": 27.44,
+  "files": [
+    "S02E10-tear-clearance.wav",
+    "S02E10-tear-clearance.mp3"
+  ]
+}

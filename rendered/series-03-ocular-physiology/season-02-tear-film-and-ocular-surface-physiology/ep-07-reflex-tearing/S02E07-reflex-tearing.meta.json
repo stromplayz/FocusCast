@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S02E07-reflex-tearing.txt",
+  "stem": "S02E07-reflex-tearing",
+  "words": 4240,
+  "generated_at_utc": "2026-10-04T20:17:13.017840+00:00",
+  "title": "Reflex Tearing",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Tear Film and Ocular Surface Physiology",
+  "season_no": "2",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "reflex tears",
+    "tear reflex arc",
+    "trigeminal afferent",
+    "emotional tearing",
+    "lacrimal reflex",
+    "tear flood",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The ocular surface runs a fire alarm, and this episode of Focus Cast by focuslinks traces the whole circuit from spark to flood. Learn how trigeminal sensors across the cornea, conjunctiva and lid margins report a lash, cold wind, onion vapour or bright glare; how the afferent signal rides the ophthalmic branch to the brainstem tear centre; and how the parasympathetic answer fires the lacrimal gland into pouring watery tears within seconds. Discover why the response is usually bilateral, why reflex tears differ from basal tears in volume and protein mix, and how emotion, bright light and even a deep yawn feed the same shared centre. Understand the purpose of the flood: dilution, flushing and enzyme-rich protection delivered exactly where the report came from. Made for optometry students and practising optometrists who want tear physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1777.8,
+  "duration_min": 29.63,
+  "files": [
+    "S02E07-reflex-tearing.wav",
+    "S02E07-reflex-tearing.mp3"
+  ]
+}

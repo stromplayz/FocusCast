@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S02E08-tear-distribution-during-blinking.txt",
+  "stem": "S02E08-tear-distribution-during-blinking",
+  "words": 4374,
+  "generated_at_utc": "2026-10-04T20:19:10.441022+00:00",
+  "title": "Tear Distribution During Blinking",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Tear Film and Ocular Surface Physiology",
+  "season_no": "2",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "blink physiology",
+    "tear distribution",
+    "lacrimal pump",
+    "lid movement",
+    "tear spreading",
+    "blink cycle",
+    "tear reservoirs",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Every blink is a pump stroke, and this episode of Focus Cast by focuslinks walks one complete blink cycle in slow motion to show how tears are spread and drained by the same movement. Learn what the closing lid does to the tear film as it sweeps down like a squeegee, how the lid-margin reservoirs are compressed, and how the canaliculi and the lacrimal sac are squeezed to push tears toward the nose. Then follow the reopening, as fresh tears are pulled up from the reservoirs, the lipid layer spreads across the surface in a wave, and the drainage system refills by suction, priming the next stroke. Hear the numbers in words, from a resting blink rate of roughly fifteen to twenty blinks per minute to closures lasting about a tenth of a second, and learn why the tear meniscus at the lid margins is the film's supply buffer between blinks. Made for optometry students and practising optometrists, with curious listeners welcome.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1724.5,
+  "duration_min": 28.74,
+  "files": [
+    "S02E08-tear-distribution-during-blinking.wav",
+    "S02E08-tear-distribution-during-blinking.mp3"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S02E04-aqueous-layer-function.txt",
+  "stem": "S02E04-aqueous-layer-function",
+  "words": 4150,
+  "generated_at_utc": "2026-10-04T20:11:27.340191+00:00",
+  "title": "Aqueous Layer Function",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Tear Film and Ocular Surface Physiology",
+  "season_no": "2",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "aqueous layer",
+    "tear water phase",
+    "lysozyme",
+    "lactoferrin",
+    "tear proteins",
+    "tear electrolytes",
+    "corneal nutrition",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Deep under the oil and just above the mucin, the tear film carries its working water, and this episode of Focus Cast by focuslinks opens that middle layer and inventories its four cargoes. Learn how sodium, potassium, chloride and bicarbonate set the film's osmolarity and buffer its acidity, and meet the protein team one name at a time: lysozyme breaking bacterial walls, lactoferrin locking iron away, lipocalin carrying and scavenging fat, and immunoglobulin A remembering what the surface has met. Follow the nutrients too, glucose as the cornea's lunchbox and atmospheric oxygen as its lung, dissolved into the layer and handed across to the epithelium. Then trace the logistics, from the main lacrimal gland's reflex floods and the accessory glands' basal trickle to the blink that renews the whole consignment several times a minute. Made for optometry students and practising optometrists who want tear film physiology explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1749.0,
+  "duration_min": 29.15,
+  "files": [
+    "S02E04-aqueous-layer-function.wav",
+    "S02E04-aqueous-layer-function.mp3"
+  ]
+}

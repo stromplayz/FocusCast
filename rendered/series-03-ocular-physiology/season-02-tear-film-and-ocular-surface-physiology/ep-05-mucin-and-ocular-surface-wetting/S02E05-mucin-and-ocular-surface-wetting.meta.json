@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S02E05-mucin-and-ocular-surface-wetting.txt",
+  "stem": "S02E05-mucin-and-ocular-surface-wetting",
+  "words": 4221,
+  "generated_at_utc": "2026-10-04T20:13:23.308408+00:00",
+  "title": "Mucin and Ocular Surface Wetting",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Tear Film and Ocular Surface Physiology",
+  "season_no": "2",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "mucin",
+    "glycocalyx",
+    "ocular surface wetting",
+    "goblet cells",
+    "wettability",
+    "tear spreading",
+    "corneal epithelium surface",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "This episode of Focus Cast by focuslinks solves the oldest problem on the eye's front surface: how to make water spread smoothly over a naturally water-hating epithelium. Meet mucins, the enormous sugar-decorated proteins that arrive in two populations: membrane-spanning mucins rooted in the corneal and conjunctival epithelial cells to form the glycocalyx, and secreted gel-forming mucins from conjunctival goblet cells that thicken the base of the tear film into a slippery gel. Learn what the design buys: full wettability, so tears spread into one continuous sheet instead of beading; near-frictionless lubrication, so the lids glide over the globe all day; and protection that traps debris and gives the antimicrobial proteins a working medium. Hear how mucin at the base and lipid on top hold the film flat and smooth between blinks, and why the optics of every glance depend on that partnership. Made for optometry students and practising optometrists who want ocular surface physiology explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1711.0,
+  "duration_min": 28.52,
+  "files": [
+    "S02E05-mucin-and-ocular-surface-wetting.wav",
+    "S02E05-mucin-and-ocular-surface-wetting.mp3"
+  ]
+}

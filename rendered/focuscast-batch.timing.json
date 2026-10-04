@@ -1,21 +1,21 @@
 {
   "episodes": 10,
-  "words_total": 43181,
-  "eta_render_min": 24.3,
-  "actual_push_to_complete_min": 22.8,
-  "actual_total_min": 23.6,
+  "words_total": 42376,
+  "eta_render_min": 24.0,
+  "actual_push_to_complete_min": 22.0,
+  "actual_total_min": 22.7,
   "kernel": "phantoz/focuscast-batch",
   "delivered": [
-    "series-03-ocular-physiology/season-01-ocular-homeostasis/ep-01-what-is-ocular-physiology/S01E01-what-is-ocular-physiology.mp3",
-    "series-03-ocular-physiology/season-01-ocular-homeostasis/ep-02-maintaining-a-healthy-ocular-environment/S01E02-maintaining-a-healthy-ocular-environment.mp3",
-    "series-03-ocular-physiology/season-01-ocular-homeostasis/ep-03-ocular-homeostasis/S01E03-ocular-homeostasis.mp3",
-    "series-03-ocular-physiology/season-01-ocular-homeostasis/ep-04-cellular-function-of-ocular-tissues/S01E04-cellular-function-of-ocular-tissues.mp3",
-    "series-03-ocular-physiology/season-01-ocular-homeostasis/ep-05-ocular-metabolism/S01E05-ocular-metabolism.mp3",
-    "series-03-ocular-physiology/season-01-ocular-homeostasis/ep-06-oxygen-requirements-of-the-eye/S01E06-oxygen-requirements-of-the-eye.mp3",
-    "series-03-ocular-physiology/season-01-ocular-homeostasis/ep-07-nutrient-transport-in-ocular-tissues/S01E07-nutrient-transport-in-ocular-tissues.mp3",
-    "series-03-ocular-physiology/season-01-ocular-homeostasis/ep-08-waste-removal-from-the-eye/S01E08-waste-removal-from-the-eye.mp3",
-    "series-03-ocular-physiology/season-01-ocular-homeostasis/ep-09-fluid-balance-in-the-eye/S01E09-fluid-balance-in-the-eye.mp3",
-    "series-03-ocular-physiology/season-01-ocular-homeostasis/ep-10-how-the-eye-maintains-normal-function/S01E10-how-the-eye-maintains-normal-function.mp3"
+    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-01-why-we-need-tears/S02E01-why-we-need-tears.mp3",
+    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-02-tear-film-organisation/S02E02-tear-film-organisation.mp3",
+    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-03-lipid-layer-function/S02E03-lipid-layer-function.mp3",
+    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-04-aqueous-layer-function/S02E04-aqueous-layer-function.mp3",
+    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-05-mucin-and-ocular-surface-wetting/S02E05-mucin-and-ocular-surface-wetting.mp3",
+    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-06-tear-secretion/S02E06-tear-secretion.mp3",
+    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-07-reflex-tearing/S02E07-reflex-tearing.mp3",
+    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-08-tear-distribution-during-blinking/S02E08-tear-distribution-during-blinking.mp3",
+    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-09-tear-evaporation/S02E09-tear-evaporation.mp3",
+    "series-03-ocular-physiology/season-02-tear-film-and-ocular-surface-physiology/ep-10-tear-clearance/S02E10-tear-clearance.mp3"
   ],
-  "started_at_utc": "2026-10-04T19:22:15.617258+00:00"
+  "started_at_utc": "2026-10-04T20:26:25.787555+00:00"
 }
