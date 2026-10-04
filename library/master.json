@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-04T23:06:11.601839+00:00",
-  "episode_count": 260,
+  "updated_at": "2026-10-04T23:45:51.000096+00:00",
+  "episode_count": 270,
   "episodes": [
     {
       "id": "S01-S01E01",
@@ -10004,6 +10004,399 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-04T23:02:45.293579+00:00"
+    },
+    {
+      "id": "S03-S06E01",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 6,
+      "season": "Retina Physiology",
+      "episode_no": 1,
+      "title": "Why the Retina Is a Neural Tissue",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "retina neural tissue",
+        "retina brain",
+        "retinal neurons",
+        "muller cells",
+        "retinal processing",
+        "layered retina",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Season six of Series 3 opens in the deepest room of the eye, and this episode of Focus Cast by focuslinks retires the oldest metaphor in optics: the retina is not camera film, it is a living piece of the brain parked inside the eye. Learn the three lines of evidence, how the retina grows directly out of embryonic brain tissue, how it is packed with neurons, synapses and supporting glia such as the Muller cells, and how it performs real computation, editing the visual world down to what is worth sending before anything leaves the eye. Hear why the inverted design, with light crossing transparent neural layers before it reaches its receptors, is elegant physiology rather than a fault, and how the pigment epithelium behind them runs the recycling plant. Made for optometry students, optical teams and curious listeners who want the retina explained as the brain's outpost, and the season ahead runs from photoreceptors to retinal information coding.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-06/S06E01-why-the-retina-is-a-neural-tissue.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-01-why-the-retina-is-a-neural-tissue/S06E01-why-the-retina-is-a-neural-tissue.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-01-why-the-retina-is-a-neural-tissue/S06E01-why-the-retina-is-a-neural-tissue.mp3",
+        "bytes": 21217869,
+        "duration_sec": 1768.1,
+        "duration_min": 29.47,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T23:23:20.874097+00:00"
+    },
+    {
+      "id": "S03-S06E02",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 6,
+      "season": "Retina Physiology",
+      "episode_no": 2,
+      "title": "Photoreceptors",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "photoreceptors",
+        "rods and cones",
+        "fovea",
+        "photoreceptor distribution",
+        "duplex retina",
+        "outer segments",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Photoreceptors are the retina's light-sensing cells, and this episode of Focus Cast by focuslinks introduces both families, the rods and the cones, side by side. Learn the shared design every photoreceptor follows: an outer segment packed with light-catching membrane discs, an inner segment crowded with mitochondria as the energy plant, and a synaptic ending that hands its signal to the retina's first relays. Hear the full census in words, about one hundred and twenty million rods spread thin across the periphery and six to seven million cones gathered toward the fovea at the retina's finest sampling pitch, plus the blind spot explained as pure wiring. Then the episode frames the duplex retina, one system tuned for starlight and one for sunshine, sharing a single sheet of neural tissue. Made for optometry students, optical shop teams and curious listeners who finished Series 1 and Series 2 and want the eye's physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-06/S06E02-photoreceptors.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-02-photoreceptors/S06E02-photoreceptors.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-02-photoreceptors/S06E02-photoreceptors.mp3",
+        "bytes": 20935341,
+        "duration_sec": 1744.6,
+        "duration_min": 29.08,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T23:26:00.049698+00:00"
+    },
+    {
+      "id": "S03-S06E03",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 6,
+      "season": "Retina Physiology",
+      "episode_no": 3,
+      "title": "Rod Physiology",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "rod physiology",
+        "rhodopsin",
+        "scotopic vision",
+        "rod sensitivity",
+        "night vision",
+        "rod saturation",
+        "dark current",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "This episode of Focus Cast by focuslinks steps into the night shift of the retina and teaches rod physiology as a design story: how one hundred and twenty million dim-light sensors turn a faint world into a signal the brain can read. Learn what rhodopsin is, an opsin protein holding a vitamin A derived chromophore, and why a single pigment tuned near five hundred nanometres makes the rod world grey. Hear how amplification and heavy convergence buy a sensitivity so extreme that a single caught photon can register, why rods saturate at daylight levels and hand the day shift to the cones, and how the dark current makes light a subtraction rather than a switch. Then step into the scotopic world itself: grey tones, rich motion sense in the periphery, superb dusk and night performance, and the honest price in colour and acuity. Made for optometry students and practising optometrists who want normal retinal physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-06/S06E03-rod-physiology.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-03-rod-physiology/S06E03-rod-physiology.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-03-rod-physiology/S06E03-rod-physiology.mp3",
+        "bytes": 22132845,
+        "duration_sec": 1844.3,
+        "duration_min": 30.74,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T23:28:00.513126+00:00"
+    },
+    {
+      "id": "S03-S06E04",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 6,
+      "season": "Retina Physiology",
+      "episode_no": 4,
+      "title": "Cone Physiology",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "cone physiology",
+        "cone types",
+        "photopic vision",
+        "cone acuity",
+        "colour daylight",
+        "foveal wiring",
+        "cone pigments",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The cone is the eye's daylight sensor, and this episode of Focus Cast by focuslinks gives that sensor its full physiology tour. Learn how three cone pigments tune to long, middle and short wavelengths, peaking near five hundred and sixty, five hundred and thirty and four hundred and twenty nanometres, and why their broad overlap is the raw material of colour rather than a flaw. Hear the speed versus sensitivity trade explained: cones respond faster than rods, need far more photons to wake, and span candlelight to noon sunlight without saturating. Then meet the foveal wiring, where cones feed onward through near one-to-one private lines with the retina's own layers pushed aside, the hardware behind sharp acuity. Made for optometry students and practising optometrists who want photopic vision explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-06/S06E04-cone-physiology.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-04-cone-physiology/S06E04-cone-physiology.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-04-cone-physiology/S06E04-cone-physiology.mp3",
+        "bytes": 21516237,
+        "duration_sec": 1793.0,
+        "duration_min": 29.88,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T23:30:07.800147+00:00"
+    },
+    {
+      "id": "S03-S06E05",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 6,
+      "season": "Retina Physiology",
+      "episode_no": 5,
+      "title": "Phototransduction",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "phototransduction",
+        "visual cascade",
+        "rhodopsin activation",
+        "cyclic GMP",
+        "hyperpolarization",
+        "glutamate",
+        "signal amplification",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "One photon of light becomes a nerve signal through a six-leg molecular relay inside every photoreceptor, and this episode of Focus Cast by focuslinks walks that visual cascade leg by leg. Learn how rhodopsin activation begins with a single caught photon, how the messenger transducin and the demolition enzyme phosphodiesterase multiply the event, and how the quiet-keeper molecule cyclic GMP loses its grip on the channels that hold the dark current open. Follow the signal to its strange ending: hyperpolarization quiets the cell, and the thinning trickle of glutamate is itself the message the retina reads. Hear the two wonders of the design, amplification that lets a single rod answer to a single photon, and the inversion that makes photoreceptors busiest in darkness, then watch calcium feedback and the pigment epithelium reload the system. Made for optometry students and practising optometrists who want visual physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-06/S06E05-phototransduction.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-05-phototransduction/S06E05-phototransduction.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-05-phototransduction/S06E05-phototransduction.mp3",
+        "bytes": 20836557,
+        "duration_sec": 1736.3,
+        "duration_min": 28.94,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T23:32:11.901656+00:00"
+    },
+    {
+      "id": "S03-S06E06",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 6,
+      "season": "Retina Physiology",
+      "episode_no": 6,
+      "title": "Dark Adaptation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "dark adaptation",
+        "rhodopsin regeneration",
+        "scotopic sensitivity",
+        "adaptation curve",
+        "rod recovery",
+        "light sensitivity",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Dark adaptation is the eye's slow boot-up sequence for the night shift, and this episode of Focus Cast by focuslinks follows it all the way down to the photoreceptors. Walk with us from noon daylight into a dark cinema and learn why vision fails at first, as drained rods and out-of-range cones leave both channels offline together. Hear the classic two-branch recovery curve told in words, from the cone branch that claws back in the first five to ten minutes, through the rod-cone break, to the long rod climb that rebuilds rhodopsin over roughly half an hour. Follow the chemistry as a supply chain, with the bleached chromophore travelling to the pigment epithelium for restoration before returning to its opsin. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-06/S06E06-dark-adaptation.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-06-dark-adaptation/S06E06-dark-adaptation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-06-dark-adaptation/S06E06-dark-adaptation.mp3",
+        "bytes": 20665197,
+        "duration_sec": 1722.0,
+        "duration_min": 28.7,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T23:34:12.409668+00:00"
+    },
+    {
+      "id": "S03-S06E07",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 6,
+      "season": "Retina Physiology",
+      "episode_no": 7,
+      "title": "Light Adaptation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "light adaptation",
+        "photoreceptor gain",
+        "bleaching",
+        "calcium feedback",
+        "dynamic range",
+        "light sensitivity adjustment",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Step out of a dark cinema into noon sunshine and you can see almost at once, and this episode of Focus Cast by focuslinks explains how the retina pulls off that instant reversal. Learn the three mechanisms that turn sensitivity down, from photopigment bleaching that quietly takes sensors out of service, to the falling calcium signal inside the photoreceptor that recalibrates the cascade's gain, to the downstream neural circuits that re-balance within moments. Discover why adaptation toward light runs in seconds while its twin needs half an hour, and how together these controls give human vision an operating range of about ten billion fold, from starlight to noon sunshine. Understand the price of the whole design: a retina that trades absolute light readings to keep reporting differences and changes. Made for optometry students, optical teams and curious listeners who want light adaptation explained as normal physiology.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-06/S06E07-light-adaptation.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-07-light-adaptation/S06E07-light-adaptation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-07-light-adaptation/S06E07-light-adaptation.mp3",
+        "bytes": 21604653,
+        "duration_sec": 1800.3,
+        "duration_min": 30.01,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T23:36:11.962929+00:00"
+    },
+    {
+      "id": "S03-S06E08",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 6,
+      "season": "Retina Physiology",
+      "episode_no": 8,
+      "title": "Retinal Signal Processing",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "retinal processing",
+        "bipolar cells",
+        "horizontal cells",
+        "amacrine cells",
+        "on and off pathways",
+        "retinal circuits",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Deep inside the retina, between the photoreceptors and the optic nerve, sits an editing workroom where raw light signals are sorted, compared and sharpened before they leave the eye. This episode of Focus Cast by focuslinks walks through the retinal circuits that perform that editing: bipolar cells as the main bridge, horizontal cells as the sideways negotiators of the outer retina, and amacrine cells as the modulators of the inner retina. Hear the elegant ON and OFF story, in which photoreceptors dim their glutamate in light and two families of bipolar cells read that dimming in opposite ways, creating two parallel streams from one neurotransmitter. Follow the rod pathway, the detour by which the whispers of night vision join the cone bipolar system through a dedicated amacrine relay. Made for optometry students and practising optometrists who want retinal physiology explained clearly for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-06/S06E08-retinal-signal-processing.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-08-retinal-signal-processing/S06E08-retinal-signal-processing.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-08-retinal-signal-processing/S06E08-retinal-signal-processing.mp3",
+        "bytes": 21620781,
+        "duration_sec": 1801.7,
+        "duration_min": 30.03,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T23:38:16.191256+00:00"
+    },
+    {
+      "id": "S03-S06E09",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 6,
+      "season": "Retina Physiology",
+      "episode_no": 9,
+      "title": "Retinal Ganglion Cells",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "retinal ganglion cells",
+        "receptive fields",
+        "midget cells",
+        "parasol cells",
+        "optic nerve fibres",
+        "visual output",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Every fibre of the optic nerve belongs to a retinal ganglion cell, and this episode of Focus Cast by focuslinks introduces the output neurons that finally speak to the brain. Learn the census in words, roughly one and a half million ganglion cells gathering their axons at the optic disc while more than a hundred million photoreceptors funnel into about a million cables. Understand the receptive field, the small territory of the visual scene each cell owns, with a centre that reports one thing and a ring that reports the opposite. Meet the three work families, the midget cells that carry fine detail and colour, the parasol cells that carry motion and timing, and the smaller blue-yellow comparison family. Made for optometry students, practising optometrists and curious listeners who want the retina's output explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-06/S06E09-retinal-ganglion-cells.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-09-retinal-ganglion-cells/S06E09-retinal-ganglion-cells.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-09-retinal-ganglion-cells/S06E09-retinal-ganglion-cells.mp3",
+        "bytes": 21621069,
+        "duration_sec": 1801.7,
+        "duration_min": 30.03,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T23:40:20.583281+00:00"
+    },
+    {
+      "id": "S03-S06E10",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 6,
+      "season": "Retina Physiology",
+      "episode_no": 10,
+      "title": "Retinal Information Coding",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "retinal coding",
+        "visual information",
+        "neural coding",
+        "contrast coding",
+        "parallel channels",
+        "optic nerve output",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "This season finale of Focus Cast by focuslinks closes Series 3, Season 6, Retina Physiology, by reading the shipping list: what the finished retina actually sends up the optic nerve to the brain. Learn the five headline transformations, from brightness recoded as contrast and steady scenes reported as change, to one image split into parallel channels, spikes tagged with location, and one hundred million sensors compressed into roughly a million and a half cables. Then walk the whole season again episode by episode, from why the retina is neural tissue through photoreceptors, adaptation and ganglion cells, and hear where the signal travels next in Season 7, Visual Physiology. Made for optometry students and practising optometrists who want retinal physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-06/S06E10-retinal-information-coding.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-10-retinal-information-coding/S06E10-retinal-information-coding.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-06-retina-physiology/ep-10-retinal-information-coding/S06E10-retinal-information-coding.mp3",
+        "bytes": 22074957,
+        "duration_sec": 1839.5,
+        "duration_min": 30.66,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T23:42:25.783262+00:00"
     },
     {
       "id": "S03-S10E01",

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S06E07-light-adaptation.txt",
+  "stem": "S06E07-light-adaptation",
+  "words": 4337,
+  "generated_at_utc": "2026-10-04T23:36:11.962929+00:00",
+  "title": "Light Adaptation",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Retina Physiology",
+  "season_no": "6",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "light adaptation",
+    "photoreceptor gain",
+    "bleaching",
+    "calcium feedback",
+    "dynamic range",
+    "light sensitivity adjustment",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Step out of a dark cinema into noon sunshine and you can see almost at once, and this episode of Focus Cast by focuslinks explains how the retina pulls off that instant reversal. Learn the three mechanisms that turn sensitivity down, from photopigment bleaching that quietly takes sensors out of service, to the falling calcium signal inside the photoreceptor that recalibrates the cascade's gain, to the downstream neural circuits that re-balance within moments. Discover why adaptation toward light runs in seconds while its twin needs half an hour, and how together these controls give human vision an operating range of about ten billion fold, from starlight to noon sunshine. Understand the price of the whole design: a retina that trades absolute light readings to keep reporting differences and changes. Made for optometry students, optical teams and curious listeners who want light adaptation explained as normal physiology.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1800.3,
+  "duration_min": 30.01,
+  "files": [
+    "S06E07-light-adaptation.wav",
+    "S06E07-light-adaptation.mp3"
+  ]
+}

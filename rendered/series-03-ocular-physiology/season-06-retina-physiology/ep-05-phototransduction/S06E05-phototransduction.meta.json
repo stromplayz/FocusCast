@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S06E05-phototransduction.txt",
+  "stem": "S06E05-phototransduction",
+  "words": 4246,
+  "generated_at_utc": "2026-10-04T23:32:11.901656+00:00",
+  "title": "Phototransduction",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Retina Physiology",
+  "season_no": "6",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "phototransduction",
+    "visual cascade",
+    "rhodopsin activation",
+    "cyclic GMP",
+    "hyperpolarization",
+    "glutamate",
+    "signal amplification",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "One photon of light becomes a nerve signal through a six-leg molecular relay inside every photoreceptor, and this episode of Focus Cast by focuslinks walks that visual cascade leg by leg. Learn how rhodopsin activation begins with a single caught photon, how the messenger transducin and the demolition enzyme phosphodiesterase multiply the event, and how the quiet-keeper molecule cyclic GMP loses its grip on the channels that hold the dark current open. Follow the signal to its strange ending: hyperpolarization quiets the cell, and the thinning trickle of glutamate is itself the message the retina reads. Hear the two wonders of the design, amplification that lets a single rod answer to a single photon, and the inversion that makes photoreceptors busiest in darkness, then watch calcium feedback and the pigment epithelium reload the system. Made for optometry students and practising optometrists who want visual physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1736.3,
+  "duration_min": 28.94,
+  "files": [
+    "S06E05-phototransduction.wav",
+    "S06E05-phototransduction.mp3"
+  ]
+}

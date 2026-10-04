@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S06E06-dark-adaptation.txt",
+  "stem": "S06E06-dark-adaptation",
+  "words": 4288,
+  "generated_at_utc": "2026-10-04T23:34:12.409668+00:00",
+  "title": "Dark Adaptation",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Retina Physiology",
+  "season_no": "6",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "dark adaptation",
+    "rhodopsin regeneration",
+    "scotopic sensitivity",
+    "adaptation curve",
+    "rod recovery",
+    "light sensitivity",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Dark adaptation is the eye's slow boot-up sequence for the night shift, and this episode of Focus Cast by focuslinks follows it all the way down to the photoreceptors. Walk with us from noon daylight into a dark cinema and learn why vision fails at first, as drained rods and out-of-range cones leave both channels offline together. Hear the classic two-branch recovery curve told in words, from the cone branch that claws back in the first five to ten minutes, through the rod-cone break, to the long rod climb that rebuilds rhodopsin over roughly half an hour. Follow the chemistry as a supply chain, with the bleached chromophore travelling to the pigment epithelium for restoration before returning to its opsin. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1722.0,
+  "duration_min": 28.7,
+  "files": [
+    "S06E06-dark-adaptation.wav",
+    "S06E06-dark-adaptation.mp3"
+  ]
+}

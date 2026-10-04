@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S06E02-photoreceptors.txt",
+  "stem": "S06E02-photoreceptors",
+  "words": 4266,
+  "generated_at_utc": "2026-10-04T23:26:00.049698+00:00",
+  "title": "Photoreceptors",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Retina Physiology",
+  "season_no": "6",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "photoreceptors",
+    "rods and cones",
+    "fovea",
+    "photoreceptor distribution",
+    "duplex retina",
+    "outer segments",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Photoreceptors are the retina's light-sensing cells, and this episode of Focus Cast by focuslinks introduces both families, the rods and the cones, side by side. Learn the shared design every photoreceptor follows: an outer segment packed with light-catching membrane discs, an inner segment crowded with mitochondria as the energy plant, and a synaptic ending that hands its signal to the retina's first relays. Hear the full census in words, about one hundred and twenty million rods spread thin across the periphery and six to seven million cones gathered toward the fovea at the retina's finest sampling pitch, plus the blind spot explained as pure wiring. Then the episode frames the duplex retina, one system tuned for starlight and one for sunshine, sharing a single sheet of neural tissue. Made for optometry students, optical shop teams and curious listeners who finished Series 1 and Series 2 and want the eye's physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1744.6,
+  "duration_min": 29.08,
+  "files": [
+    "S06E02-photoreceptors.wav",
+    "S06E02-photoreceptors.mp3"
+  ]
+}

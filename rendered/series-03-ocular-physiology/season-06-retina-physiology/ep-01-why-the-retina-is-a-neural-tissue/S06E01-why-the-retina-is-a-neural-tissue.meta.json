@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S06E01-why-the-retina-is-a-neural-tissue.txt",
+  "stem": "S06E01-why-the-retina-is-a-neural-tissue",
+  "words": 4282,
+  "generated_at_utc": "2026-10-04T23:23:20.874097+00:00",
+  "title": "Why the Retina Is a Neural Tissue",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Retina Physiology",
+  "season_no": "6",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "retina neural tissue",
+    "retina brain",
+    "retinal neurons",
+    "muller cells",
+    "retinal processing",
+    "layered retina",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Season six of Series 3 opens in the deepest room of the eye, and this episode of Focus Cast by focuslinks retires the oldest metaphor in optics: the retina is not camera film, it is a living piece of the brain parked inside the eye. Learn the three lines of evidence, how the retina grows directly out of embryonic brain tissue, how it is packed with neurons, synapses and supporting glia such as the Muller cells, and how it performs real computation, editing the visual world down to what is worth sending before anything leaves the eye. Hear why the inverted design, with light crossing transparent neural layers before it reaches its receptors, is elegant physiology rather than a fault, and how the pigment epithelium behind them runs the recycling plant. Made for optometry students, optical teams and curious listeners who want the retina explained as the brain's outpost, and the season ahead runs from photoreceptors to retinal information coding.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1768.1,
+  "duration_min": 29.47,
+  "files": [
+    "S06E01-why-the-retina-is-a-neural-tissue.wav",
+    "S06E01-why-the-retina-is-a-neural-tissue.mp3"
+  ]
+}

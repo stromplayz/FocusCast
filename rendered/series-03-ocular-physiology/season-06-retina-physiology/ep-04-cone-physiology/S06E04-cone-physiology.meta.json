@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S06E04-cone-physiology.txt",
+  "stem": "S06E04-cone-physiology",
+  "words": 4207,
+  "generated_at_utc": "2026-10-04T23:30:07.800147+00:00",
+  "title": "Cone Physiology",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Retina Physiology",
+  "season_no": "6",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "cone physiology",
+    "cone types",
+    "photopic vision",
+    "cone acuity",
+    "colour daylight",
+    "foveal wiring",
+    "cone pigments",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The cone is the eye's daylight sensor, and this episode of Focus Cast by focuslinks gives that sensor its full physiology tour. Learn how three cone pigments tune to long, middle and short wavelengths, peaking near five hundred and sixty, five hundred and thirty and four hundred and twenty nanometres, and why their broad overlap is the raw material of colour rather than a flaw. Hear the speed versus sensitivity trade explained: cones respond faster than rods, need far more photons to wake, and span candlelight to noon sunlight without saturating. Then meet the foveal wiring, where cones feed onward through near one-to-one private lines with the retina's own layers pushed aside, the hardware behind sharp acuity. Made for optometry students and practising optometrists who want photopic vision explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1793.0,
+  "duration_min": 29.88,
+  "files": [
+    "S06E04-cone-physiology.wav",
+    "S06E04-cone-physiology.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S06E09-retinal-ganglion-cells.txt",
+  "stem": "S06E09-retinal-ganglion-cells",
+  "words": 4366,
+  "generated_at_utc": "2026-10-04T23:40:20.583281+00:00",
+  "title": "Retinal Ganglion Cells",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Retina Physiology",
+  "season_no": "6",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "retinal ganglion cells",
+    "receptive fields",
+    "midget cells",
+    "parasol cells",
+    "optic nerve fibres",
+    "visual output",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Every fibre of the optic nerve belongs to a retinal ganglion cell, and this episode of Focus Cast by focuslinks introduces the output neurons that finally speak to the brain. Learn the census in words, roughly one and a half million ganglion cells gathering their axons at the optic disc while more than a hundred million photoreceptors funnel into about a million cables. Understand the receptive field, the small territory of the visual scene each cell owns, with a centre that reports one thing and a ring that reports the opposite. Meet the three work families, the midget cells that carry fine detail and colour, the parasol cells that carry motion and timing, and the smaller blue-yellow comparison family. Made for optometry students, practising optometrists and curious listeners who want the retina's output explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1801.7,
+  "duration_min": 30.03,
+  "files": [
+    "S06E09-retinal-ganglion-cells.wav",
+    "S06E09-retinal-ganglion-cells.mp3"
+  ]
+}

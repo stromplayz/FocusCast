@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S06E03-rod-physiology.txt",
+  "stem": "S06E03-rod-physiology",
+  "words": 4409,
+  "generated_at_utc": "2026-10-04T23:28:00.513126+00:00",
+  "title": "Rod Physiology",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Retina Physiology",
+  "season_no": "6",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "rod physiology",
+    "rhodopsin",
+    "scotopic vision",
+    "rod sensitivity",
+    "night vision",
+    "rod saturation",
+    "dark current",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "This episode of Focus Cast by focuslinks steps into the night shift of the retina and teaches rod physiology as a design story: how one hundred and twenty million dim-light sensors turn a faint world into a signal the brain can read. Learn what rhodopsin is, an opsin protein holding a vitamin A derived chromophore, and why a single pigment tuned near five hundred nanometres makes the rod world grey. Hear how amplification and heavy convergence buy a sensitivity so extreme that a single caught photon can register, why rods saturate at daylight levels and hand the day shift to the cones, and how the dark current makes light a subtraction rather than a switch. Then step into the scotopic world itself: grey tones, rich motion sense in the periphery, superb dusk and night performance, and the honest price in colour and acuity. Made for optometry students and practising optometrists who want normal retinal physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1844.3,
+  "duration_min": 30.74,
+  "files": [
+    "S06E03-rod-physiology.wav",
+    "S06E03-rod-physiology.mp3"
+  ]
+}

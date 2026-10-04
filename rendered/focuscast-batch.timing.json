@@ -1,21 +1,21 @@
 {
   "episodes": 10,
-  "words_total": 43005,
+  "words_total": 42970,
   "eta_render_min": 24.2,
   "actual_push_to_complete_min": 23.5,
-  "actual_total_min": 24.2,
+  "actual_total_min": 23.8,
   "kernel": "phantoz/focuscast-batch",
   "delivered": [
-    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-01-lens-physiology/S05E01-lens-physiology.mp3",
-    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-02-lens-nutrition-and-metabolism/S05E02-lens-nutrition-and-metabolism.mp3",
-    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-03-lens-transparency/S05E03-lens-transparency.mp3",
-    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-04-lens-growth/S05E04-lens-growth.mp3",
-    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-05-what-happens-during-accommodation/S05E05-what-happens-during-accommodation.mp3",
-    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-06-ciliary-muscle-function/S05E06-ciliary-muscle-function.mp3",
-    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-07-zonular-changes-during-accommodation/S05E07-zonular-changes-during-accommodation.mp3",
-    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-08-lens-shape-changes/S05E08-lens-shape-changes.mp3",
-    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-09-relaxation-of-accommodation/S05E09-relaxation-of-accommodation.mp3",
-    "series-03-ocular-physiology/season-05-lens-and-accommodation/ep-10-accommodation-through-the-lifespan/S05E10-accommodation-through-the-lifespan.mp3"
+    "series-03-ocular-physiology/season-06-retina-physiology/ep-01-why-the-retina-is-a-neural-tissue/S06E01-why-the-retina-is-a-neural-tissue.mp3",
+    "series-03-ocular-physiology/season-06-retina-physiology/ep-02-photoreceptors/S06E02-photoreceptors.mp3",
+    "series-03-ocular-physiology/season-06-retina-physiology/ep-03-rod-physiology/S06E03-rod-physiology.mp3",
+    "series-03-ocular-physiology/season-06-retina-physiology/ep-04-cone-physiology/S06E04-cone-physiology.mp3",
+    "series-03-ocular-physiology/season-06-retina-physiology/ep-05-phototransduction/S06E05-phototransduction.mp3",
+    "series-03-ocular-physiology/season-06-retina-physiology/ep-06-dark-adaptation/S06E06-dark-adaptation.mp3",
+    "series-03-ocular-physiology/season-06-retina-physiology/ep-07-light-adaptation/S06E07-light-adaptation.mp3",
+    "series-03-ocular-physiology/season-06-retina-physiology/ep-08-retinal-signal-processing/S06E08-retinal-signal-processing.mp3",
+    "series-03-ocular-physiology/season-06-retina-physiology/ep-09-retinal-ganglion-cells/S06E09-retinal-ganglion-cells.mp3",
+    "series-03-ocular-physiology/season-06-retina-physiology/ep-10-retinal-information-coding/S06E10-retinal-information-coding.mp3"
   ],
-  "started_at_utc": "2026-10-04T23:06:11.493009+00:00"
+  "started_at_utc": "2026-10-04T23:45:50.888066+00:00"
 }

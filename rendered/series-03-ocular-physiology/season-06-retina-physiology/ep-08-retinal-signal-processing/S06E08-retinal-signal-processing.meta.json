@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S06E08-retinal-signal-processing.txt",
+  "stem": "S06E08-retinal-signal-processing",
+  "words": 4234,
+  "generated_at_utc": "2026-10-04T23:38:16.191256+00:00",
+  "title": "Retinal Signal Processing",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Retina Physiology",
+  "season_no": "6",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "retinal processing",
+    "bipolar cells",
+    "horizontal cells",
+    "amacrine cells",
+    "on and off pathways",
+    "retinal circuits",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Deep inside the retina, between the photoreceptors and the optic nerve, sits an editing workroom where raw light signals are sorted, compared and sharpened before they leave the eye. This episode of Focus Cast by focuslinks walks through the retinal circuits that perform that editing: bipolar cells as the main bridge, horizontal cells as the sideways negotiators of the outer retina, and amacrine cells as the modulators of the inner retina. Hear the elegant ON and OFF story, in which photoreceptors dim their glutamate in light and two families of bipolar cells read that dimming in opposite ways, creating two parallel streams from one neurotransmitter. Follow the rod pathway, the detour by which the whispers of night vision join the cone bipolar system through a dedicated amacrine relay. Made for optometry students and practising optometrists who want retinal physiology explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1801.7,
+  "duration_min": 30.03,
+  "files": [
+    "S06E08-retinal-signal-processing.wav",
+    "S06E08-retinal-signal-processing.mp3"
+  ]
+}

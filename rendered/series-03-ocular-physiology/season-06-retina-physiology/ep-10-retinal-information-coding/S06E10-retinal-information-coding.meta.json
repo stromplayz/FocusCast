@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S06E10-retinal-information-coding.txt",
+  "stem": "S06E10-retinal-information-coding",
+  "words": 4335,
+  "generated_at_utc": "2026-10-04T23:42:25.783262+00:00",
+  "title": "Retinal Information Coding",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Retina Physiology",
+  "season_no": "6",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "retinal coding",
+    "visual information",
+    "neural coding",
+    "contrast coding",
+    "parallel channels",
+    "optic nerve output",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "This season finale of Focus Cast by focuslinks closes Series 3, Season 6, Retina Physiology, by reading the shipping list: what the finished retina actually sends up the optic nerve to the brain. Learn the five headline transformations, from brightness recoded as contrast and steady scenes reported as change, to one image split into parallel channels, spikes tagged with location, and one hundred million sensors compressed into roughly a million and a half cables. Then walk the whole season again episode by episode, from why the retina is neural tissue through photoreceptors, adaptation and ganglion cells, and hear where the signal travels next in Season 7, Visual Physiology. Made for optometry students and practising optometrists who want retinal physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1839.5,
+  "duration_min": 30.66,
+  "files": [
+    "S06E10-retinal-information-coding.wav",
+    "S06E10-retinal-information-coding.mp3"
+  ]
+}
