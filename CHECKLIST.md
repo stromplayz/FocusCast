@@ -1,7 +1,7 @@
 # FocusLinks Listen · Focus Cast — Production Checklist
 
 > **FocusLinks Listen** · listen.focuslinks.in — *Listen. Learn. See better.*
-> Show: **Focus Cast by focuslinks** · Series 1 (Optometry Foundations, 100 eps) · Series 2 (Ocular Anatomy for Optometrists, 100 eps)
+> Show: **Focus Cast by focuslinks** · Series 1 (Optometry Foundations, 100 eps) · Series 2 (Ocular Anatomy for Optometrists, 100 eps) · Series 3 (Ocular Physiology, 100 eps)
 > Track every artifact here. Tick a box only when the thing is real and verified.
 
 ---
@@ -110,6 +110,29 @@ Written by 10 batches × 10 agents, one agent per episode; every script PASS (`s
 Scripts live in `library/series/series-02-ocular-anatomy-for-optometrists/season-01/` … `season-10/` as `SNNENN-<slug>.txt` (S-number = season within the series; series is distinguished by the folder, matching Series 1 convention).
 Season titles in headers use "and" (ampersand banned); Episode 100 title written "Complete Visual Pathway - Retina to Cortex" (ASCII hyphen).
 
+## 5c · Series 3 · "Ocular Physiology" — scripted (100 episodes, 10 seasons × 10)
+
+How the normal eye and visual system actually function, building directly on Series 1 (foundations) and Series 2 (anatomy).
+Explains NORMAL function only: no disease, diagnosis or treatment (later series own those); no anatomy re-teaching (Series 2 owns structure — recalled only by explicit back-reference).
+Written by 10 batches × 10 agents, one agent per episode; every script PASS (`scripts/verify_ep.py`); 429,553 words ≈ 47.7 h audio; every season E01 opener + E10 finale with next-season tease chain; every episode carries Series 1 + Series 2 + intra-series cross-references.
+Duplicate-title lane split: S6E6 Dark Adaptation and S6E7 Light Adaptation own photoreceptor photochemistry; S10E3 and S10E4 own the whole-system integrated view and bridge back explicitly.
+
+| Season | Title | Script | Rendered | In master.json |
+|--------|-------|--------|----------|----------------|
+| 01 | Ocular Homeostasis | [x] 10/10 | [ ] | [ ] |
+| 02 | Tear Film and Ocular Surface Physiology | [x] 10/10 | [ ] | [ ] |
+| 03 | Corneal Physiology | [x] 10/10 | [ ] | [ ] |
+| 04 | Aqueous and Intraocular Pressure | [x] 10/10 | [ ] | [ ] |
+| 05 | Lens and Accommodation | [x] 10/10 | [ ] | [ ] |
+| 06 | Retina Physiology | [x] 10/10 | [ ] | [ ] |
+| 07 | Visual Physiology | [x] 10/10 | [ ] | [ ] |
+| 08 | Colour and Contrast Vision | [x] 10/10 | [ ] | [ ] |
+| 09 | Binocular and Oculomotor Physiology | [x] 10/10 | [ ] | [ ] |
+| 10 | Visual Adaptation and Integration | [x] 10/10 | [ ] | [ ] |
+
+Scripts live in `library/series/series-03-ocular-physiology/season-01/` … `season-10/` as `SNNENN-<slug>.txt` (matching Series 2 convention).
+Season titles use "and" (ampersand banned); Episode 88 title written "Accommodation and Vergence Relationship" (en-dash replaced); ratios written in words ("the ratio that links accommodation to convergence") because the slash character is banned.
+
 ## 6 · Release tasks
 
 - [x] Old 5-episode test batch deleted (scripts + rendered audio + catalog entries)
@@ -130,6 +153,10 @@ Season titles in headers use "and" (ampersand banned); Episode 100 title written
 - [x] master.json shows 200 episodes (Series 1 + Series 2) with raw mp3 URLs
 - [x] Series 2 Ocular Anatomy for Optometrists COMPLETE: 10 seasons, 100 episodes, 47.63 hours audio (24 kHz)
 - [x] Focus Cast library total: 2 series, 200 episodes, 93.10 hours of audio
+- [ ] Series 3 100/100 scripts written and validated (10 seasons × 10, all PASS) + series.json bible — RENDER PENDING
+- [ ] Render Series 3 via workflow (10 seasonal dispatches, kokoro)
+- [ ] master.json shows 300 episodes (Series 1 + 2 + 3) with raw mp3 URLs
+- [ ] Series 3 Ocular Physiology COMPLETE: 10 seasons, 100 episodes rendered
 
 ## 7 · Series 1 roadmap (Seasons 3–10, planned — do NOT script before S1–S2 are rendered & locked)
 

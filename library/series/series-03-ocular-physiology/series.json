@@ -1,0 +1,987 @@
+{
+  "library": "FocusLinks Listen",
+  "platform": "Focus Cast by focuslinks",
+  "home": "listen.focuslinks.in",
+  "tagline": "Listen. Learn. See better.",
+  "series_no": 3,
+  "id": "series-03",
+  "slug": "series-03-ocular-physiology",
+  "title": "Ocular Physiology",
+  "status": "scripted",
+  "purpose": "Explain how the normal eye and visual system actually function, building directly on Series 1 (Optometry Foundations) and Series 2 (Ocular Anatomy for Optometrists). One hundred episodes: how every ocular structure does its job, from tear film to visual cortex.",
+  "boundary": "Explains NORMAL function only. Disease, diagnosis, treatment and detailed clinical management are saved for later series. Does NOT re-teach Series 1 basics (what optometry is, basic visual concepts, terminology, examination workflow) and does NOT re-teach Series 2 anatomy (how structures are built, connected, supplied and innervated). Where structure is needed, it is recalled briefly with an explicit back-reference by series, season and episode. Example: Series 2 explained the ciliary muscle's anatomy; Series 3 explains how ciliary muscle contraction changes accommodation.",
+  "audience": "Optometry students, optical shop teams, curious listeners who finished Series 1 and 2",
+  "language": "en",
+  "format": "dual narrator (Host + Guide), kokoro, about 30 minutes per episode",
+  "totals": {
+    "seasons": 10,
+    "episodes": 100
+  },
+  "master_rule": "one concept, one primary teaching home; every episode is strictly physiology-focused (normal function only)",
+  "anti_repetition": "each episode owns exactly its scope lane from the map; overlap is allowed only as explicit back-references by number and title; known duplicate titles are lane-split: S6E6 Dark Adaptation and S6E7 Light Adaptation own photoreceptor photochemistry, S10E3 and S10E4 own the whole-system integrated view and point back to the season six episodes",
+  "next_series": "Series 4 - Optics for Optometrists (planned): from the biological eye into the optical principles needed to understand refraction and lenses",
+  "seasons": [
+    {
+      "no": 1,
+      "name": "Ocular Homeostasis",
+      "status": "scripted",
+      "episodes": 10
+    },
+    {
+      "no": 2,
+      "name": "Tear Film and Ocular Surface Physiology",
+      "status": "scripted",
+      "episodes": 10
+    },
+    {
+      "no": 3,
+      "name": "Corneal Physiology",
+      "status": "scripted",
+      "episodes": 10
+    },
+    {
+      "no": 4,
+      "name": "Aqueous and Intraocular Pressure",
+      "status": "scripted",
+      "episodes": 10
+    },
+    {
+      "no": 5,
+      "name": "Lens and Accommodation",
+      "status": "scripted",
+      "episodes": 10
+    },
+    {
+      "no": 6,
+      "name": "Retina Physiology",
+      "status": "scripted",
+      "episodes": 10
+    },
+    {
+      "no": 7,
+      "name": "Visual Physiology",
+      "status": "scripted",
+      "episodes": 10
+    },
+    {
+      "no": 8,
+      "name": "Colour and Contrast Vision",
+      "status": "scripted",
+      "episodes": 10
+    },
+    {
+      "no": 9,
+      "name": "Binocular and Oculomotor Physiology",
+      "status": "scripted",
+      "episodes": 10
+    },
+    {
+      "no": 10,
+      "name": "Visual Adaptation and Integration",
+      "status": "scripted",
+      "episodes": 10
+    }
+  ],
+  "episodes": [
+    {
+      "no": 1,
+      "season_no": 1,
+      "episode_no": 1,
+      "title": "What Is Ocular Physiology?",
+      "slug": "what-is-ocular-physiology",
+      "file": "library/series/series-03-ocular-physiology/season-01/S01E01-what-is-ocular-physiology.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 2,
+      "season_no": 1,
+      "episode_no": 2,
+      "title": "Maintaining a Healthy Ocular Environment",
+      "slug": "maintaining-a-healthy-ocular-environment",
+      "file": "library/series/series-03-ocular-physiology/season-01/S01E02-maintaining-a-healthy-ocular-environment.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 3,
+      "season_no": 1,
+      "episode_no": 3,
+      "title": "Ocular Homeostasis",
+      "slug": "ocular-homeostasis",
+      "file": "library/series/series-03-ocular-physiology/season-01/S01E03-ocular-homeostasis.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 4,
+      "season_no": 1,
+      "episode_no": 4,
+      "title": "Cellular Function of Ocular Tissues",
+      "slug": "cellular-function-of-ocular-tissues",
+      "file": "library/series/series-03-ocular-physiology/season-01/S01E04-cellular-function-of-ocular-tissues.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 5,
+      "season_no": 1,
+      "episode_no": 5,
+      "title": "Ocular Metabolism",
+      "slug": "ocular-metabolism",
+      "file": "library/series/series-03-ocular-physiology/season-01/S01E05-ocular-metabolism.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 6,
+      "season_no": 1,
+      "episode_no": 6,
+      "title": "Oxygen Requirements of the Eye",
+      "slug": "oxygen-requirements-of-the-eye",
+      "file": "library/series/series-03-ocular-physiology/season-01/S01E06-oxygen-requirements-of-the-eye.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 7,
+      "season_no": 1,
+      "episode_no": 7,
+      "title": "Nutrient Transport in Ocular Tissues",
+      "slug": "nutrient-transport-in-ocular-tissues",
+      "file": "library/series/series-03-ocular-physiology/season-01/S01E07-nutrient-transport-in-ocular-tissues.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 8,
+      "season_no": 1,
+      "episode_no": 8,
+      "title": "Waste Removal From the Eye",
+      "slug": "waste-removal-from-the-eye",
+      "file": "library/series/series-03-ocular-physiology/season-01/S01E08-waste-removal-from-the-eye.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 9,
+      "season_no": 1,
+      "episode_no": 9,
+      "title": "Fluid Balance in the Eye",
+      "slug": "fluid-balance-in-the-eye",
+      "file": "library/series/series-03-ocular-physiology/season-01/S01E09-fluid-balance-in-the-eye.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 10,
+      "season_no": 1,
+      "episode_no": 10,
+      "title": "How the Eye Maintains Normal Function",
+      "slug": "how-the-eye-maintains-normal-function",
+      "file": "library/series/series-03-ocular-physiology/season-01/S01E10-how-the-eye-maintains-normal-function.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 11,
+      "season_no": 2,
+      "episode_no": 1,
+      "title": "Why We Need Tears",
+      "slug": "why-we-need-tears",
+      "file": "library/series/series-03-ocular-physiology/season-02/S02E01-why-we-need-tears.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 12,
+      "season_no": 2,
+      "episode_no": 2,
+      "title": "Tear Film Organisation",
+      "slug": "tear-film-organisation",
+      "file": "library/series/series-03-ocular-physiology/season-02/S02E02-tear-film-organisation.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 13,
+      "season_no": 2,
+      "episode_no": 3,
+      "title": "Lipid Layer Function",
+      "slug": "lipid-layer-function",
+      "file": "library/series/series-03-ocular-physiology/season-02/S02E03-lipid-layer-function.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 14,
+      "season_no": 2,
+      "episode_no": 4,
+      "title": "Aqueous Layer Function",
+      "slug": "aqueous-layer-function",
+      "file": "library/series/series-03-ocular-physiology/season-02/S02E04-aqueous-layer-function.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 15,
+      "season_no": 2,
+      "episode_no": 5,
+      "title": "Mucin and Ocular Surface Wetting",
+      "slug": "mucin-and-ocular-surface-wetting",
+      "file": "library/series/series-03-ocular-physiology/season-02/S02E05-mucin-and-ocular-surface-wetting.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 16,
+      "season_no": 2,
+      "episode_no": 6,
+      "title": "Tear Secretion",
+      "slug": "tear-secretion",
+      "file": "library/series/series-03-ocular-physiology/season-02/S02E06-tear-secretion.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 17,
+      "season_no": 2,
+      "episode_no": 7,
+      "title": "Reflex Tearing",
+      "slug": "reflex-tearing",
+      "file": "library/series/series-03-ocular-physiology/season-02/S02E07-reflex-tearing.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 18,
+      "season_no": 2,
+      "episode_no": 8,
+      "title": "Tear Distribution During Blinking",
+      "slug": "tear-distribution-during-blinking",
+      "file": "library/series/series-03-ocular-physiology/season-02/S02E08-tear-distribution-during-blinking.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 19,
+      "season_no": 2,
+      "episode_no": 9,
+      "title": "Tear Evaporation",
+      "slug": "tear-evaporation",
+      "file": "library/series/series-03-ocular-physiology/season-02/S02E09-tear-evaporation.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 20,
+      "season_no": 2,
+      "episode_no": 10,
+      "title": "Tear Clearance",
+      "slug": "tear-clearance",
+      "file": "library/series/series-03-ocular-physiology/season-02/S02E10-tear-clearance.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 21,
+      "season_no": 3,
+      "episode_no": 1,
+      "title": "How the Cornea Maintains Transparency",
+      "slug": "how-the-cornea-maintains-transparency",
+      "file": "library/series/series-03-ocular-physiology/season-03/S03E01-how-the-cornea-maintains-transparency.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 22,
+      "season_no": 3,
+      "episode_no": 2,
+      "title": "Corneal Hydration",
+      "slug": "corneal-hydration",
+      "file": "library/series/series-03-ocular-physiology/season-03/S03E02-corneal-hydration.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 23,
+      "season_no": 3,
+      "episode_no": 3,
+      "title": "Corneal Endothelial Pump Function",
+      "slug": "corneal-endothelial-pump-function",
+      "file": "library/series/series-03-ocular-physiology/season-03/S03E03-corneal-endothelial-pump-function.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 24,
+      "season_no": 3,
+      "episode_no": 4,
+      "title": "Corneal Epithelial Renewal",
+      "slug": "corneal-epithelial-renewal",
+      "file": "library/series/series-03-ocular-physiology/season-03/S03E04-corneal-epithelial-renewal.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 25,
+      "season_no": 3,
+      "episode_no": 5,
+      "title": "Corneal Barrier Function",
+      "slug": "corneal-barrier-function",
+      "file": "library/series/series-03-ocular-physiology/season-03/S03E05-corneal-barrier-function.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 26,
+      "season_no": 3,
+      "episode_no": 6,
+      "title": "Corneal Metabolism",
+      "slug": "corneal-metabolism",
+      "file": "library/series/series-03-ocular-physiology/season-03/S03E06-corneal-metabolism.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 27,
+      "season_no": 3,
+      "episode_no": 7,
+      "title": "Corneal Oxygenation",
+      "slug": "corneal-oxygenation",
+      "file": "library/series/series-03-ocular-physiology/season-03/S03E07-corneal-oxygenation.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 28,
+      "season_no": 3,
+      "episode_no": 8,
+      "title": "Corneal Nutritional Support",
+      "slug": "corneal-nutritional-support",
+      "file": "library/series/series-03-ocular-physiology/season-03/S03E08-corneal-nutritional-support.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 29,
+      "season_no": 3,
+      "episode_no": 9,
+      "title": "Corneal Wound Healing",
+      "slug": "corneal-wound-healing",
+      "file": "library/series/series-03-ocular-physiology/season-03/S03E09-corneal-wound-healing.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 30,
+      "season_no": 3,
+      "episode_no": 10,
+      "title": "Corneal Sensory Function",
+      "slug": "corneal-sensory-function",
+      "file": "library/series/series-03-ocular-physiology/season-03/S03E10-corneal-sensory-function.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 31,
+      "season_no": 4,
+      "episode_no": 1,
+      "title": "Why the Eye Produces Aqueous Humour",
+      "slug": "why-the-eye-produces-aqueous-humour",
+      "file": "library/series/series-03-ocular-physiology/season-04/S04E01-why-the-eye-produces-aqueous-humour.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 32,
+      "season_no": 4,
+      "episode_no": 2,
+      "title": "Aqueous Humour Production",
+      "slug": "aqueous-humour-production",
+      "file": "library/series/series-03-ocular-physiology/season-04/S04E02-aqueous-humour-production.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 33,
+      "season_no": 4,
+      "episode_no": 3,
+      "title": "Ciliary Processes and Aqueous Formation",
+      "slug": "ciliary-processes-and-aqueous-formation",
+      "file": "library/series/series-03-ocular-physiology/season-04/S04E03-ciliary-processes-and-aqueous-formation.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 34,
+      "season_no": 4,
+      "episode_no": 4,
+      "title": "Aqueous Composition",
+      "slug": "aqueous-composition",
+      "file": "library/series/series-03-ocular-physiology/season-04/S04E04-aqueous-composition.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 35,
+      "season_no": 4,
+      "episode_no": 5,
+      "title": "Aqueous Flow",
+      "slug": "aqueous-flow",
+      "file": "library/series/series-03-ocular-physiology/season-04/S04E05-aqueous-flow.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 36,
+      "season_no": 4,
+      "episode_no": 6,
+      "title": "Aqueous Humour Circulation",
+      "slug": "aqueous-humour-circulation",
+      "file": "library/series/series-03-ocular-physiology/season-04/S04E06-aqueous-humour-circulation.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 37,
+      "season_no": 4,
+      "episode_no": 7,
+      "title": "Trabecular Outflow",
+      "slug": "trabecular-outflow",
+      "file": "library/series/series-03-ocular-physiology/season-04/S04E07-trabecular-outflow.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 38,
+      "season_no": 4,
+      "episode_no": 8,
+      "title": "Uveoscleral Outflow",
+      "slug": "uveoscleral-outflow",
+      "file": "library/series/series-03-ocular-physiology/season-04/S04E08-uveoscleral-outflow.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 39,
+      "season_no": 4,
+      "episode_no": 9,
+      "title": "Intraocular Pressure Regulation",
+      "slug": "intraocular-pressure-regulation",
+      "file": "library/series/series-03-ocular-physiology/season-04/S04E09-intraocular-pressure-regulation.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 40,
+      "season_no": 4,
+      "episode_no": 10,
+      "title": "Normal IOP Physiology",
+      "slug": "normal-iop-physiology",
+      "file": "library/series/series-03-ocular-physiology/season-04/S04E10-normal-iop-physiology.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 41,
+      "season_no": 5,
+      "episode_no": 1,
+      "title": "Lens Physiology",
+      "slug": "lens-physiology",
+      "file": "library/series/series-03-ocular-physiology/season-05/S05E01-lens-physiology.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 42,
+      "season_no": 5,
+      "episode_no": 2,
+      "title": "Lens Nutrition and Metabolism",
+      "slug": "lens-nutrition-and-metabolism",
+      "file": "library/series/series-03-ocular-physiology/season-05/S05E02-lens-nutrition-and-metabolism.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 43,
+      "season_no": 5,
+      "episode_no": 3,
+      "title": "Lens Transparency",
+      "slug": "lens-transparency",
+      "file": "library/series/series-03-ocular-physiology/season-05/S05E03-lens-transparency.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 44,
+      "season_no": 5,
+      "episode_no": 4,
+      "title": "Lens Growth",
+      "slug": "lens-growth",
+      "file": "library/series/series-03-ocular-physiology/season-05/S05E04-lens-growth.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 45,
+      "season_no": 5,
+      "episode_no": 5,
+      "title": "What Happens During Accommodation?",
+      "slug": "what-happens-during-accommodation",
+      "file": "library/series/series-03-ocular-physiology/season-05/S05E05-what-happens-during-accommodation.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 46,
+      "season_no": 5,
+      "episode_no": 6,
+      "title": "Ciliary Muscle Function",
+      "slug": "ciliary-muscle-function",
+      "file": "library/series/series-03-ocular-physiology/season-05/S05E06-ciliary-muscle-function.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 47,
+      "season_no": 5,
+      "episode_no": 7,
+      "title": "Zonular Changes During Accommodation",
+      "slug": "zonular-changes-during-accommodation",
+      "file": "library/series/series-03-ocular-physiology/season-05/S05E07-zonular-changes-during-accommodation.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 48,
+      "season_no": 5,
+      "episode_no": 8,
+      "title": "Lens Shape Changes",
+      "slug": "lens-shape-changes",
+      "file": "library/series/series-03-ocular-physiology/season-05/S05E08-lens-shape-changes.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 49,
+      "season_no": 5,
+      "episode_no": 9,
+      "title": "Relaxation of Accommodation",
+      "slug": "relaxation-of-accommodation",
+      "file": "library/series/series-03-ocular-physiology/season-05/S05E09-relaxation-of-accommodation.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 50,
+      "season_no": 5,
+      "episode_no": 10,
+      "title": "Accommodation Through the Lifespan",
+      "slug": "accommodation-through-the-lifespan",
+      "file": "library/series/series-03-ocular-physiology/season-05/S05E10-accommodation-through-the-lifespan.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 51,
+      "season_no": 6,
+      "episode_no": 1,
+      "title": "Why the Retina Is a Neural Tissue",
+      "slug": "why-the-retina-is-a-neural-tissue",
+      "file": "library/series/series-03-ocular-physiology/season-06/S06E01-why-the-retina-is-a-neural-tissue.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 52,
+      "season_no": 6,
+      "episode_no": 2,
+      "title": "Photoreceptors",
+      "slug": "photoreceptors",
+      "file": "library/series/series-03-ocular-physiology/season-06/S06E02-photoreceptors.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 53,
+      "season_no": 6,
+      "episode_no": 3,
+      "title": "Rod Physiology",
+      "slug": "rod-physiology",
+      "file": "library/series/series-03-ocular-physiology/season-06/S06E03-rod-physiology.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 54,
+      "season_no": 6,
+      "episode_no": 4,
+      "title": "Cone Physiology",
+      "slug": "cone-physiology",
+      "file": "library/series/series-03-ocular-physiology/season-06/S06E04-cone-physiology.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 55,
+      "season_no": 6,
+      "episode_no": 5,
+      "title": "Phototransduction",
+      "slug": "phototransduction",
+      "file": "library/series/series-03-ocular-physiology/season-06/S06E05-phototransduction.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 56,
+      "season_no": 6,
+      "episode_no": 6,
+      "title": "Dark Adaptation",
+      "slug": "dark-adaptation",
+      "file": "library/series/series-03-ocular-physiology/season-06/S06E06-dark-adaptation.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 57,
+      "season_no": 6,
+      "episode_no": 7,
+      "title": "Light Adaptation",
+      "slug": "light-adaptation",
+      "file": "library/series/series-03-ocular-physiology/season-06/S06E07-light-adaptation.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 58,
+      "season_no": 6,
+      "episode_no": 8,
+      "title": "Retinal Signal Processing",
+      "slug": "retinal-signal-processing",
+      "file": "library/series/series-03-ocular-physiology/season-06/S06E08-retinal-signal-processing.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 59,
+      "season_no": 6,
+      "episode_no": 9,
+      "title": "Retinal Ganglion Cells",
+      "slug": "retinal-ganglion-cells",
+      "file": "library/series/series-03-ocular-physiology/season-06/S06E09-retinal-ganglion-cells.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 60,
+      "season_no": 6,
+      "episode_no": 10,
+      "title": "Retinal Information Coding",
+      "slug": "retinal-information-coding",
+      "file": "library/series/series-03-ocular-physiology/season-06/S06E10-retinal-information-coding.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 61,
+      "season_no": 7,
+      "episode_no": 1,
+      "title": "From Photoreceptor to Brain",
+      "slug": "from-photoreceptor-to-brain",
+      "file": "library/series/series-03-ocular-physiology/season-07/S07E01-from-photoreceptor-to-brain.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 62,
+      "season_no": 7,
+      "episode_no": 2,
+      "title": "Retinal Neural Circuits",
+      "slug": "retinal-neural-circuits",
+      "file": "library/series/series-03-ocular-physiology/season-07/S07E02-retinal-neural-circuits.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 63,
+      "season_no": 7,
+      "episode_no": 3,
+      "title": "Centre-Surround Processing",
+      "slug": "centre-surround-processing",
+      "file": "library/series/series-03-ocular-physiology/season-07/S07E03-centre-surround-processing.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 64,
+      "season_no": 7,
+      "episode_no": 4,
+      "title": "Spatial Resolution",
+      "slug": "spatial-resolution",
+      "file": "library/series/series-03-ocular-physiology/season-07/S07E04-spatial-resolution.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 65,
+      "season_no": 7,
+      "episode_no": 5,
+      "title": "Temporal Resolution",
+      "slug": "temporal-resolution",
+      "file": "library/series/series-03-ocular-physiology/season-07/S07E05-temporal-resolution.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 66,
+      "season_no": 7,
+      "episode_no": 6,
+      "title": "Contrast Processing",
+      "slug": "contrast-processing",
+      "file": "library/series/series-03-ocular-physiology/season-07/S07E06-contrast-processing.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 67,
+      "season_no": 7,
+      "episode_no": 7,
+      "title": "Motion Detection",
+      "slug": "motion-detection",
+      "file": "library/series/series-03-ocular-physiology/season-07/S07E07-motion-detection.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 68,
+      "season_no": 7,
+      "episode_no": 8,
+      "title": "Edge Detection",
+      "slug": "edge-detection",
+      "file": "library/series/series-03-ocular-physiology/season-07/S07E08-edge-detection.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 69,
+      "season_no": 7,
+      "episode_no": 9,
+      "title": "Visual Information Processing",
+      "slug": "visual-information-processing",
+      "file": "library/series/series-03-ocular-physiology/season-07/S07E09-visual-information-processing.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 70,
+      "season_no": 7,
+      "episode_no": 10,
+      "title": "How the Retina Builds a Visual Signal",
+      "slug": "how-the-retina-builds-a-visual-signal",
+      "file": "library/series/series-03-ocular-physiology/season-07/S07E10-how-the-retina-builds-a-visual-signal.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 71,
+      "season_no": 8,
+      "episode_no": 1,
+      "title": "Physiology of Colour Vision",
+      "slug": "physiology-of-colour-vision",
+      "file": "library/series/series-03-ocular-physiology/season-08/S08E01-physiology-of-colour-vision.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 72,
+      "season_no": 8,
+      "episode_no": 2,
+      "title": "Cone Types and Colour Detection",
+      "slug": "cone-types-and-colour-detection",
+      "file": "library/series/series-03-ocular-physiology/season-08/S08E02-cone-types-and-colour-detection.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 73,
+      "season_no": 8,
+      "episode_no": 3,
+      "title": "Trichromatic Vision",
+      "slug": "trichromatic-vision",
+      "file": "library/series/series-03-ocular-physiology/season-08/S08E03-trichromatic-vision.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 74,
+      "season_no": 8,
+      "episode_no": 4,
+      "title": "Opponent-Process Mechanisms",
+      "slug": "opponent-process-mechanisms",
+      "file": "library/series/series-03-ocular-physiology/season-08/S08E04-opponent-process-mechanisms.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 75,
+      "season_no": 8,
+      "episode_no": 5,
+      "title": "Colour Information Processing",
+      "slug": "colour-information-processing",
+      "file": "library/series/series-03-ocular-physiology/season-08/S08E05-colour-information-processing.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 76,
+      "season_no": 8,
+      "episode_no": 6,
+      "title": "Contrast Sensitivity",
+      "slug": "contrast-sensitivity",
+      "file": "library/series/series-03-ocular-physiology/season-08/S08E06-contrast-sensitivity.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 77,
+      "season_no": 8,
+      "episode_no": 7,
+      "title": "Spatial Frequency",
+      "slug": "spatial-frequency",
+      "file": "library/series/series-03-ocular-physiology/season-08/S08E07-spatial-frequency.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 78,
+      "season_no": 8,
+      "episode_no": 8,
+      "title": "Contrast Detection",
+      "slug": "contrast-detection",
+      "file": "library/series/series-03-ocular-physiology/season-08/S08E08-contrast-detection.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 79,
+      "season_no": 8,
+      "episode_no": 9,
+      "title": "Luminance and Brightness",
+      "slug": "luminance-and-brightness",
+      "file": "library/series/series-03-ocular-physiology/season-08/S08E09-luminance-and-brightness.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 80,
+      "season_no": 8,
+      "episode_no": 10,
+      "title": "Physiological Basis of Colour and Contrast",
+      "slug": "physiological-basis-of-colour-and-contrast",
+      "file": "library/series/series-03-ocular-physiology/season-08/S08E10-physiological-basis-of-colour-and-contrast.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 81,
+      "season_no": 9,
+      "episode_no": 1,
+      "title": "Why We Have Two Eyes",
+      "slug": "why-we-have-two-eyes",
+      "file": "library/series/series-03-ocular-physiology/season-09/S09E01-why-we-have-two-eyes.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 82,
+      "season_no": 9,
+      "episode_no": 2,
+      "title": "Physiological Basis of Binocular Vision",
+      "slug": "physiological-basis-of-binocular-vision",
+      "file": "library/series/series-03-ocular-physiology/season-09/S09E02-physiological-basis-of-binocular-vision.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 83,
+      "season_no": 9,
+      "episode_no": 3,
+      "title": "Retinal Correspondence",
+      "slug": "retinal-correspondence",
+      "file": "library/series/series-03-ocular-physiology/season-09/S09E03-retinal-correspondence.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 84,
+      "season_no": 9,
+      "episode_no": 4,
+      "title": "Fusion",
+      "slug": "fusion",
+      "file": "library/series/series-03-ocular-physiology/season-09/S09E04-fusion.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 85,
+      "season_no": 9,
+      "episode_no": 5,
+      "title": "Sensory Fusion",
+      "slug": "sensory-fusion",
+      "file": "library/series/series-03-ocular-physiology/season-09/S09E05-sensory-fusion.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 86,
+      "season_no": 9,
+      "episode_no": 6,
+      "title": "Motor Fusion",
+      "slug": "motor-fusion",
+      "file": "library/series/series-03-ocular-physiology/season-09/S09E06-motor-fusion.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 87,
+      "season_no": 9,
+      "episode_no": 7,
+      "title": "Vergence Physiology",
+      "slug": "vergence-physiology",
+      "file": "library/series/series-03-ocular-physiology/season-09/S09E07-vergence-physiology.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 88,
+      "season_no": 9,
+      "episode_no": 8,
+      "title": "Accommodation and Vergence Relationship",
+      "slug": "accommodation-and-vergence-relationship",
+      "file": "library/series/series-03-ocular-physiology/season-09/S09E08-accommodation-and-vergence-relationship.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 89,
+      "season_no": 9,
+      "episode_no": 9,
+      "title": "Oculomotor Control",
+      "slug": "oculomotor-control",
+      "file": "library/series/series-03-ocular-physiology/season-09/S09E09-oculomotor-control.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 90,
+      "season_no": 9,
+      "episode_no": 10,
+      "title": "Coordinated Eye Movements",
+      "slug": "coordinated-eye-movements",
+      "file": "library/series/series-03-ocular-physiology/season-09/S09E10-coordinated-eye-movements.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 91,
+      "season_no": 10,
+      "episode_no": 1,
+      "title": "Pupillary Light Reflex Physiology",
+      "slug": "pupillary-light-reflex-physiology",
+      "file": "library/series/series-03-ocular-physiology/season-10/S10E01-pupillary-light-reflex-physiology.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 92,
+      "season_no": 10,
+      "episode_no": 2,
+      "title": "Near Response",
+      "slug": "near-response",
+      "file": "library/series/series-03-ocular-physiology/season-10/S10E02-near-response.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 93,
+      "season_no": 10,
+      "episode_no": 3,
+      "title": "Dark Adaptation",
+      "slug": "dark-adaptation",
+      "file": "library/series/series-03-ocular-physiology/season-10/S10E03-dark-adaptation.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 94,
+      "season_no": 10,
+      "episode_no": 4,
+      "title": "Light Adaptation",
+      "slug": "light-adaptation",
+      "file": "library/series/series-03-ocular-physiology/season-10/S10E04-light-adaptation.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 95,
+      "season_no": 10,
+      "episode_no": 5,
+      "title": "Visual Attention",
+      "slug": "visual-attention",
+      "file": "library/series/series-03-ocular-physiology/season-10/S10E05-visual-attention.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 96,
+      "season_no": 10,
+      "episode_no": 6,
+      "title": "Visual Perception",
+      "slug": "visual-perception",
+      "file": "library/series/series-03-ocular-physiology/season-10/S10E06-visual-perception.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 97,
+      "season_no": 10,
+      "episode_no": 7,
+      "title": "Depth Perception Physiology",
+      "slug": "depth-perception-physiology",
+      "file": "library/series/series-03-ocular-physiology/season-10/S10E07-depth-perception-physiology.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 98,
+      "season_no": 10,
+      "episode_no": 8,
+      "title": "Spatial Orientation and Vision",
+      "slug": "spatial-orientation-and-vision",
+      "file": "library/series/series-03-ocular-physiology/season-10/S10E08-spatial-orientation-and-vision.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 99,
+      "season_no": 10,
+      "episode_no": 9,
+      "title": "Integrating Ocular and Visual Functions",
+      "slug": "integrating-ocular-and-visual-functions",
+      "file": "library/series/series-03-ocular-physiology/season-10/S10E09-integrating-ocular-and-visual-functions.txt",
+      "status": "scripted"
+    },
+    {
+      "no": 100,
+      "season_no": 10,
+      "episode_no": 10,
+      "title": "The Complete Physiology of Vision",
+      "slug": "the-complete-physiology-of-vision",
+      "file": "library/series/series-03-ocular-physiology/season-10/S10E10-the-complete-physiology-of-vision.txt",
+      "status": "scripted"
+    }
+  ]
+}
