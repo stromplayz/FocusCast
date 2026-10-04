@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S03E07-corneal-oxygenation.txt",
+  "stem": "S03E07-corneal-oxygenation",
+  "words": 4239,
+  "generated_at_utc": "2026-10-04T21:38:03.323061+00:00",
+  "title": "Corneal Oxygenation",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Corneal Physiology",
+  "season_no": "3",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal oxygenation",
+    "corneal oxygen supply",
+    "open eye oxygen",
+    "closed eye oxygen",
+    "oxygen tension",
+    "limbal vessels",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The cornea is the only tissue in the body that lives directly on air, and this episode of Focus Cast by focuslinks tells the full story of how it breathes. Follow oxygen from the atmosphere into the tear film, down through the epithelium and stroma to the endothelium, and meet the two supply fronts, air in front and aqueous behind, that meet in the middle of the cornea. Then close your eyes with us and watch the supply reroute, as the lids seal the air away and the conjunctival vessels take over at roughly half the tension. Learn why the corneal centre carries no backup vessel by design, because clarity outranks resilience, and how every layer is tuned to the exact oxygen budget its position receives. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1725.7,
+  "duration_min": 28.76,
+  "files": [
+    "S03E07-corneal-oxygenation.wav",
+    "S03E07-corneal-oxygenation.mp3"
+  ]
+}

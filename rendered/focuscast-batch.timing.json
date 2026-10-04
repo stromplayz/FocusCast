@@ -1,21 +1,21 @@
 {
   "episodes": 10,
-  "words_total": 42846,
-  "eta_render_min": 24.1,
-  "actual_push_to_complete_min": 22.0,
-  "actual_total_min": 22.6,
+  "words_total": 43372,
+  "eta_render_min": 24.3,
+  "actual_push_to_complete_min": 24.3,
+  "actual_total_min": 24.8,
   "kernel": "phantoz/focuscast-batch",
   "delivered": [
-    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-01-pupillary-light-reflex-physiology/S10E01-pupillary-light-reflex-physiology.mp3",
-    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-02-near-response/S10E02-near-response.mp3",
-    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-03-dark-adaptation/S10E03-dark-adaptation.mp3",
-    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-04-light-adaptation/S10E04-light-adaptation.mp3",
-    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-05-visual-attention/S10E05-visual-attention.mp3",
-    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-06-visual-perception/S10E06-visual-perception.mp3",
-    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-07-depth-perception-physiology/S10E07-depth-perception-physiology.mp3",
-    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-08-spatial-orientation-and-vision/S10E08-spatial-orientation-and-vision.mp3",
-    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-09-integrating-ocular-and-visual-functions/S10E09-integrating-ocular-and-visual-functions.mp3",
-    "series-03-ocular-physiology/season-10-visual-adaptation-and-integration/ep-10-the-complete-physiology-of-vision/S10E10-the-complete-physiology-of-vision.mp3"
+    "series-03-ocular-physiology/season-03-corneal-physiology/ep-01-how-the-cornea-maintains-transparency/S03E01-how-the-cornea-maintains-transparency.mp3",
+    "series-03-ocular-physiology/season-03-corneal-physiology/ep-02-corneal-hydration/S03E02-corneal-hydration.mp3",
+    "series-03-ocular-physiology/season-03-corneal-physiology/ep-03-corneal-endothelial-pump-function/S03E03-corneal-endothelial-pump-function.mp3",
+    "series-03-ocular-physiology/season-03-corneal-physiology/ep-04-corneal-epithelial-renewal/S03E04-corneal-epithelial-renewal.mp3",
+    "series-03-ocular-physiology/season-03-corneal-physiology/ep-05-corneal-barrier-function/S03E05-corneal-barrier-function.mp3",
+    "series-03-ocular-physiology/season-03-corneal-physiology/ep-06-corneal-metabolism/S03E06-corneal-metabolism.mp3",
+    "series-03-ocular-physiology/season-03-corneal-physiology/ep-07-corneal-oxygenation/S03E07-corneal-oxygenation.mp3",
+    "series-03-ocular-physiology/season-03-corneal-physiology/ep-08-corneal-nutritional-support/S03E08-corneal-nutritional-support.mp3",
+    "series-03-ocular-physiology/season-03-corneal-physiology/ep-09-corneal-wound-healing/S03E09-corneal-wound-healing.mp3",
+    "series-03-ocular-physiology/season-03-corneal-physiology/ep-10-corneal-sensory-function/S03E10-corneal-sensory-function.mp3"
   ],
-  "started_at_utc": "2026-10-04T21:06:12.981967+00:00"
+  "started_at_utc": "2026-10-04T21:47:53.500136+00:00"
 }

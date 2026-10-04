@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-04T21:06:13.065560+00:00",
-  "episode_count": 230,
+  "updated_at": "2026-10-04T21:47:53.632820+00:00",
+  "episode_count": 240,
   "episodes": [
     {
       "id": "S01-S01E01",
@@ -8833,6 +8833,397 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-04T20:22:57.282048+00:00"
+    },
+    {
+      "id": "S03-S03E01",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 3,
+      "season": "Corneal Physiology",
+      "episode_no": 1,
+      "title": "How the Cornea Maintains Transparency",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal transparency",
+        "cornea clear",
+        "light scattering",
+        "collagen lattice",
+        "corneal hydration",
+        "corneal physiology",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Welcome to Season 3 of Ocular Physiology, as Focus Cast by focuslinks opens the corneal physiology season, following last season's tour of the tear film and the ocular surface it serves. This episode teaches the physics and biology of being invisible to light through the cornea's four requirements: a collagen lattice regular enough that scattered light cancels itself out, hydration held near seventy-eight per cent water against the stroma's own swelling tendency, a tissue kept deliberately free of blood vessels, and a front face polished by the tear film with every blink. Hear why the lattice is regular precisely so that it does not scatter, why a little extra water alone is enough to fog a living window, and why transparency is an actively defended state rather than a passive property. Made for optometry students and practising optometrists who want corneal physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-03/S03E01-how-the-cornea-maintains-transparency.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-01-how-the-cornea-maintains-transparency/S03E01-how-the-cornea-maintains-transparency.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-01-how-the-cornea-maintains-transparency/S03E01-how-the-cornea-maintains-transparency.mp3",
+        "bytes": 21142413,
+        "duration_sec": 1761.8,
+        "duration_min": 29.36,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T21:24:31.140346+00:00"
+    },
+    {
+      "id": "S03-S03E02",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 3,
+      "season": "Corneal Physiology",
+      "episode_no": 2,
+      "title": "Corneal Hydration",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal hydration",
+        "stromal swelling",
+        "pump leak model",
+        "corneal water content",
+        "proteoglycans",
+        "corneal thickness",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "This episode of Focus Cast by focuslinks takes on the cornea's water problem: why the clear window of the eye is always trying to swell, and how it stays clear anyway. Learn how stromal proteoglycans pull water inward, how the pump and leak balance holds the tissue at about seventy-eight percent water, and why corneal thickness is the visible readout of hydration, rising a little overnight and settling within an hour or two of waking. Follow the whole chain from water content to lattice spacing to scatter to clarity, and hear why a thicker cornea is a wetter cornea. Made for optometry students and practising optometrists who want normal corneal physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-03/S03E02-corneal-hydration.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-02-corneal-hydration/S03E02-corneal-hydration.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-02-corneal-hydration/S03E02-corneal-hydration.mp3",
+        "bytes": 20590317,
+        "duration_sec": 1715.8,
+        "duration_min": 28.6,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T21:27:19.627498+00:00"
+    },
+    {
+      "id": "S03-S03E03",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 3,
+      "season": "Corneal Physiology",
+      "episode_no": 3,
+      "title": "Corneal Endothelial Pump Function",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal endothelium",
+        "endothelial pump",
+        "sodium potassium pump",
+        "bicarbonate transport",
+        "pump leak",
+        "corneal deturgescence",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Behind the cornea's clarity stands a single sheet of cells that works two shifts at once, and this episode of Focus Cast by focuslinks opens the machinery of that sheet, the corneal endothelial pump. Learn how the endothelium serves as both barrier and pump, with tight junctions slowing the leak while sodium-potassium pumps trade three sodium ions out for two potassium in on every unit of energy they spend. Follow the salt as bicarbonate and chloride ride alongside sodium, and hear how water follows the ions out of the stroma to hold the cornea at its set point of deturgescence. Understand the energy bill, the birth census of three to four thousand cells per square millimetre, and the generous reserve that lets the count decline across a lifetime while clarity holds. Made for optometry students, optical shop teams and curious listeners who want corneal physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-03/S03E03-corneal-endothelial-pump-function.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-03-corneal-endothelial-pump-function/S03E03-corneal-endothelial-pump-function.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-03-corneal-endothelial-pump-function/S03E03-corneal-endothelial-pump-function.mp3",
+        "bytes": 21913101,
+        "duration_sec": 1826.0,
+        "duration_min": 30.43,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T21:29:23.625575+00:00"
+    },
+    {
+      "id": "S03-S03E04",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 3,
+      "season": "Corneal Physiology",
+      "episode_no": 4,
+      "title": "Corneal Epithelial Renewal",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal epithelium renewal",
+        "limbal stem cells",
+        "epithelial turnover",
+        "cell migration",
+        "desquamation",
+        "corneal healing physiology",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Every surface you examine at the slit lamp is younger than it looks, and this episode of Focus Cast by focuslinks follows the conveyor belt that keeps the corneal epithelium forever young. Learn how stem cells sheltered at the limbus feed daughter cells into the basal layer, how those cells migrate centripetally across the cornea like a slow coordinated parade, and how mature cells are shed into the tears at the surface. Hear the numbers in plain words, from the one to two weeks it takes the whole epithelium to replace itself, to the balance equation that keeps production and shedding matched every minute of every day. Understand how renewal couples to the tear film, to the growth factors the tears deliver, and to the sleep-wake rhythm, and why the epithelium you see today is younger than your patient by a fortnight. Made for optometry students and practising optometrists who want physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-03/S03E04-corneal-epithelial-renewal.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-04-corneal-epithelial-renewal/S03E04-corneal-epithelial-renewal.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-04-corneal-epithelial-renewal/S03E04-corneal-epithelial-renewal.mp3",
+        "bytes": 21147309,
+        "duration_sec": 1762.2,
+        "duration_min": 29.37,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T21:31:33.814845+00:00"
+    },
+    {
+      "id": "S03-S03E05",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 3,
+      "season": "Corneal Physiology",
+      "episode_no": 5,
+      "title": "Corneal Barrier Function",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal barrier",
+        "epithelial barrier",
+        "tight junctions",
+        "endothelial barrier",
+        "permeability",
+        "corneal defence",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The cornea stands at the border between the outside world and the eye's interior, and this episode of Focus Cast by focuslinks walks that border and reads its customs rules. Learn how the epithelium works as the strong, selective checkpoint, five or six cell layers with tight junctions sealed between its surface cells, while the endothelium acts as the softer inner fence whose real job is transport rather than exclusion. Follow the traffic lanes, oxygen and carbon dioxide slipping through easily, water on a controlled pass, glucose riding dedicated carriers, and large molecules, particles and bacteria turned away in normal conditions. Hear why the design is a trade-off, a wall strong enough to exclude the world that still admits its groceries by routing them, with the tears as the barrier's first assistant and pain as the backstop alarm. Made for optometry students and practising optometrists who want corneal physiology explained clearly for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-03/S03E05-corneal-barrier-function.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-05-corneal-barrier-function/S03E05-corneal-barrier-function.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-05-corneal-barrier-function/S03E05-corneal-barrier-function.mp3",
+        "bytes": 21850317,
+        "duration_sec": 1820.8,
+        "duration_min": 30.35,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T21:33:40.081170+00:00"
+    },
+    {
+      "id": "S03-S03E06",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 3,
+      "season": "Corneal Physiology",
+      "episode_no": 6,
+      "title": "Corneal Metabolism",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal metabolism",
+        "corneal glucose",
+        "glycolysis",
+        "corneal lactate",
+        "corneal energy",
+        "endothelial pump energy",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The cornea is a transparent, blood-free tissue that still has to pay an energy bill every minute of every day, and this episode of Focus Cast by focuslinks follows the money. Learn where the glucose arrives on its two supply fronts, why the cornea ferments roughly eighty-five percent of its epithelial glucose even when oxygen is available, and what becomes of the lactate that this leaves behind, freight that carries water with it as it exits. Meet the oxygen-hungry remainder running the citric acid cycle in the mitochondria of the busy layers, and the pentose phosphate sideline that stocks the epithelium with building materials and recycled antioxidants. The story stays with normal function and localises the whole-eye metabolic framework of Season 1 into one remarkable half millimetre of tissue. Made for optometry students, optical teams and curious listeners who want corneal physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-03/S03E06-corneal-metabolism.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-06-corneal-metabolism/S03E06-corneal-metabolism.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-06-corneal-metabolism/S03E06-corneal-metabolism.mp3",
+        "bytes": 22228461,
+        "duration_sec": 1852.3,
+        "duration_min": 30.87,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T21:35:50.361321+00:00"
+    },
+    {
+      "id": "S03-S03E07",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 3,
+      "season": "Corneal Physiology",
+      "episode_no": 7,
+      "title": "Corneal Oxygenation",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal oxygenation",
+        "corneal oxygen supply",
+        "open eye oxygen",
+        "closed eye oxygen",
+        "oxygen tension",
+        "limbal vessels",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The cornea is the only tissue in the body that lives directly on air, and this episode of Focus Cast by focuslinks tells the full story of how it breathes. Follow oxygen from the atmosphere into the tear film, down through the epithelium and stroma to the endothelium, and meet the two supply fronts, air in front and aqueous behind, that meet in the middle of the cornea. Then close your eyes with us and watch the supply reroute, as the lids seal the air away and the conjunctival vessels take over at roughly half the tension. Learn why the corneal centre carries no backup vessel by design, because clarity outranks resilience, and how every layer is tuned to the exact oxygen budget its position receives. Made for optometry students and practising optometrists who want ocular physiology explained clearly for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-03/S03E07-corneal-oxygenation.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-07-corneal-oxygenation/S03E07-corneal-oxygenation.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-07-corneal-oxygenation/S03E07-corneal-oxygenation.mp3",
+        "bytes": 20709549,
+        "duration_sec": 1725.7,
+        "duration_min": 28.76,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T21:38:03.323061+00:00"
+    },
+    {
+      "id": "S03-S03E08",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 3,
+      "season": "Corneal Physiology",
+      "episode_no": 8,
+      "title": "Corneal Nutritional Support",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal nutrition",
+        "corneal glucose supply",
+        "amino acids",
+        "ascorbate",
+        "tear growth factors",
+        "corneal nourishment",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The cornea has no blood vessels of its own, so every working day it must be fed from two directions at once, and this episode of Focus Cast by focuslinks walks both delivery routes. Learn how glucose, the cornea's staple fuel, arrives mainly from the aqueous humour through the endothelium and secondarily as a trickle from the tear film through the epithelium, and how amino acids are hauled inward by active transport to keep a surface that renews itself. Meet the vitamins, from ascorbate concentrated into the aqueous at levels far above blood to the B family riding along for the enzyme machinery, and hear how the tears deliver epithelial maintenance signals such as epidermal growth factor with every blink. Water and ions complete the grocery list, and the episode closes with the design lesson that a two-front supply system exists because a single supply line would be a single point of failure for transparency. Made for optometry students and practising optometrists who want corneal nourishment explained clearly for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-03/S03E08-corneal-nutritional-support.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-08-corneal-nutritional-support/S03E08-corneal-nutritional-support.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-08-corneal-nutritional-support/S03E08-corneal-nutritional-support.mp3",
+        "bytes": 21441933,
+        "duration_sec": 1786.8,
+        "duration_min": 29.78,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T21:40:07.185305+00:00"
+    },
+    {
+      "id": "S03-S03E09",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 3,
+      "season": "Corneal Physiology",
+      "episode_no": 9,
+      "title": "Corneal Wound Healing",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal wound healing",
+        "epithelial healing",
+        "stromal repair",
+        "keratocyte activation",
+        "endothelial response",
+        "corneal repair physiology",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "When the cornea is cut, the body does not improvise. It runs a repair playbook written into every layer of the tissue. This episode of Focus Cast by focuslinks teaches the normal physiology of corneal wound healing layer by layer: the epithelium's hour of standby and its day-long sliding sheet, the keratocytes' weeks of stromal remodelling, the endothelium's slide and enlarge response, and the slow regrowth of corneal nerves, with the tear film and the blinking lid as the supporting cast. The frame throughout is renewal with a purpose: the same machinery that maintains the cornea every day simply switches from maintenance to patching. Made for optometry students and practising optometrists who want the repair story told as physiology, never as wound management.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-03/S03E09-corneal-wound-healing.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-09-corneal-wound-healing/S03E09-corneal-wound-healing.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-09-corneal-wound-healing/S03E09-corneal-wound-healing.mp3",
+        "bytes": 22276269,
+        "duration_sec": 1856.3,
+        "duration_min": 30.94,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T21:42:14.549254+00:00"
+    },
+    {
+      "id": "S03-S03E10",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 3,
+      "season": "Corneal Physiology",
+      "episode_no": 10,
+      "title": "Corneal Sensory Function",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "corneal sensation",
+        "corneal nerves",
+        "trigeminal",
+        "blink reflex",
+        "corneal pain",
+        "trophic function",
+        "axon reflex",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Corneal Sensory Function closes the Corneal Physiology season of Focus Cast by focuslinks by asking why the clear window of the eye is also the most richly innervated surface in the body. Trace the trigeminal wiring from the ophthalmic division through the nasociliary and long ciliary nerves to the dense plexus beneath the epithelium, and meet the three families of sensors that patrol it: mechanical alarms, polymodal responders and cold receptors. Learn how a single corneal alarm produces two outputs, a conscious report of pain bundled with reflexive watering and lid closure, and a lightning-fast local axon reflex that arms the surface without waiting for the brain. Discover the trophic secret, that corneal nerves chemically feed the very epithelium they guard, which is why sensation and surface health always travel together, and hear the whole season recapped in one breath per episode. Made for optometry students, optical teams and curious listeners who want ocular physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-03/S03E10-corneal-sensory-function.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-10-corneal-sensory-function/S03E10-corneal-sensory-function.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-03-corneal-physiology/ep-10-corneal-sensory-function/S03E10-corneal-sensory-function.mp3",
+        "bytes": 21915117,
+        "duration_sec": 1826.2,
+        "duration_min": 30.44,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T21:44:26.805592+00:00"
     },
     {
       "id": "S03-S10E01",

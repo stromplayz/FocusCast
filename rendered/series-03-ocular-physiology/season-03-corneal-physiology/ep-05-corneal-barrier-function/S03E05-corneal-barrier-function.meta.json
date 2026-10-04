@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S03E05-corneal-barrier-function.txt",
+  "stem": "S03E05-corneal-barrier-function",
+  "words": 4477,
+  "generated_at_utc": "2026-10-04T21:33:40.081170+00:00",
+  "title": "Corneal Barrier Function",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Corneal Physiology",
+  "season_no": "3",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal barrier",
+    "epithelial barrier",
+    "tight junctions",
+    "endothelial barrier",
+    "permeability",
+    "corneal defence",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The cornea stands at the border between the outside world and the eye's interior, and this episode of Focus Cast by focuslinks walks that border and reads its customs rules. Learn how the epithelium works as the strong, selective checkpoint, five or six cell layers with tight junctions sealed between its surface cells, while the endothelium acts as the softer inner fence whose real job is transport rather than exclusion. Follow the traffic lanes, oxygen and carbon dioxide slipping through easily, water on a controlled pass, glucose riding dedicated carriers, and large molecules, particles and bacteria turned away in normal conditions. Hear why the design is a trade-off, a wall strong enough to exclude the world that still admits its groceries by routing them, with the tears as the barrier's first assistant and pain as the backstop alarm. Made for optometry students and practising optometrists who want corneal physiology explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1820.8,
+  "duration_min": 30.35,
+  "files": [
+    "S03E05-corneal-barrier-function.wav",
+    "S03E05-corneal-barrier-function.mp3"
+  ]
+}

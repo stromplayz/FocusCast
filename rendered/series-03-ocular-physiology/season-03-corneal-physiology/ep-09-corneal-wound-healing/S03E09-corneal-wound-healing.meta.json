@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S03E09-corneal-wound-healing.txt",
+  "stem": "S03E09-corneal-wound-healing",
+  "words": 4368,
+  "generated_at_utc": "2026-10-04T21:42:14.549254+00:00",
+  "title": "Corneal Wound Healing",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Corneal Physiology",
+  "season_no": "3",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal wound healing",
+    "epithelial healing",
+    "stromal repair",
+    "keratocyte activation",
+    "endothelial response",
+    "corneal repair physiology",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "When the cornea is cut, the body does not improvise. It runs a repair playbook written into every layer of the tissue. This episode of Focus Cast by focuslinks teaches the normal physiology of corneal wound healing layer by layer: the epithelium's hour of standby and its day-long sliding sheet, the keratocytes' weeks of stromal remodelling, the endothelium's slide and enlarge response, and the slow regrowth of corneal nerves, with the tear film and the blinking lid as the supporting cast. The frame throughout is renewal with a purpose: the same machinery that maintains the cornea every day simply switches from maintenance to patching. Made for optometry students and practising optometrists who want the repair story told as physiology, never as wound management.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1856.3,
+  "duration_min": 30.94,
+  "files": [
+    "S03E09-corneal-wound-healing.wav",
+    "S03E09-corneal-wound-healing.mp3"
+  ]
+}

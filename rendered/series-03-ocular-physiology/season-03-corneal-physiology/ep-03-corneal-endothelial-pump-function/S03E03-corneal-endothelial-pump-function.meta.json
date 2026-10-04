@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S03E03-corneal-endothelial-pump-function.txt",
+  "stem": "S03E03-corneal-endothelial-pump-function",
+  "words": 4418,
+  "generated_at_utc": "2026-10-04T21:29:23.625575+00:00",
+  "title": "Corneal Endothelial Pump Function",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Corneal Physiology",
+  "season_no": "3",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal endothelium",
+    "endothelial pump",
+    "sodium potassium pump",
+    "bicarbonate transport",
+    "pump leak",
+    "corneal deturgescence",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Behind the cornea's clarity stands a single sheet of cells that works two shifts at once, and this episode of Focus Cast by focuslinks opens the machinery of that sheet, the corneal endothelial pump. Learn how the endothelium serves as both barrier and pump, with tight junctions slowing the leak while sodium-potassium pumps trade three sodium ions out for two potassium in on every unit of energy they spend. Follow the salt as bicarbonate and chloride ride alongside sodium, and hear how water follows the ions out of the stroma to hold the cornea at its set point of deturgescence. Understand the energy bill, the birth census of three to four thousand cells per square millimetre, and the generous reserve that lets the count decline across a lifetime while clarity holds. Made for optometry students, optical shop teams and curious listeners who want corneal physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1826.0,
+  "duration_min": 30.43,
+  "files": [
+    "S03E03-corneal-endothelial-pump-function.wav",
+    "S03E03-corneal-endothelial-pump-function.mp3"
+  ]
+}

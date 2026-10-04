@@ -1,0 +1,41 @@
+{
+  "episode_file": "episode/S03E10-corneal-sensory-function.txt",
+  "stem": "S03E10-corneal-sensory-function",
+  "words": 4342,
+  "generated_at_utc": "2026-10-04T21:44:26.805592+00:00",
+  "title": "Corneal Sensory Function",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Corneal Physiology",
+  "season_no": "3",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal sensation",
+    "corneal nerves",
+    "trigeminal",
+    "blink reflex",
+    "corneal pain",
+    "trophic function",
+    "axon reflex",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Corneal Sensory Function closes the Corneal Physiology season of Focus Cast by focuslinks by asking why the clear window of the eye is also the most richly innervated surface in the body. Trace the trigeminal wiring from the ophthalmic division through the nasociliary and long ciliary nerves to the dense plexus beneath the epithelium, and meet the three families of sensors that patrol it: mechanical alarms, polymodal responders and cold receptors. Learn how a single corneal alarm produces two outputs, a conscious report of pain bundled with reflexive watering and lid closure, and a lightning-fast local axon reflex that arms the surface without waiting for the brain. Discover the trophic secret, that corneal nerves chemically feed the very epithelium they guard, which is why sensation and surface health always travel together, and hear the whole season recapped in one breath per episode. Made for optometry students, optical teams and curious listeners who want ocular physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1826.2,
+  "duration_min": 30.44,
+  "files": [
+    "S03E10-corneal-sensory-function.wav",
+    "S03E10-corneal-sensory-function.mp3"
+  ]
+}

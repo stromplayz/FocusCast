@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S03E01-how-the-cornea-maintains-transparency.txt",
+  "stem": "S03E01-how-the-cornea-maintains-transparency",
+  "words": 4329,
+  "generated_at_utc": "2026-10-04T21:24:31.140346+00:00",
+  "title": "How the Cornea Maintains Transparency",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Corneal Physiology",
+  "season_no": "3",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal transparency",
+    "cornea clear",
+    "light scattering",
+    "collagen lattice",
+    "corneal hydration",
+    "corneal physiology",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Welcome to Season 3 of Ocular Physiology, as Focus Cast by focuslinks opens the corneal physiology season, following last season's tour of the tear film and the ocular surface it serves. This episode teaches the physics and biology of being invisible to light through the cornea's four requirements: a collagen lattice regular enough that scattered light cancels itself out, hydration held near seventy-eight per cent water against the stroma's own swelling tendency, a tissue kept deliberately free of blood vessels, and a front face polished by the tear film with every blink. Hear why the lattice is regular precisely so that it does not scatter, why a little extra water alone is enough to fog a living window, and why transparency is an actively defended state rather than a passive property. Made for optometry students and practising optometrists who want corneal physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1761.8,
+  "duration_min": 29.36,
+  "files": [
+    "S03E01-how-the-cornea-maintains-transparency.wav",
+    "S03E01-how-the-cornea-maintains-transparency.mp3"
+  ]
+}

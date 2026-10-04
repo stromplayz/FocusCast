@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S03E02-corneal-hydration.txt",
+  "stem": "S03E02-corneal-hydration",
+  "words": 4201,
+  "generated_at_utc": "2026-10-04T21:27:19.627498+00:00",
+  "title": "Corneal Hydration",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Corneal Physiology",
+  "season_no": "3",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal hydration",
+    "stromal swelling",
+    "pump leak model",
+    "corneal water content",
+    "proteoglycans",
+    "corneal thickness",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "This episode of Focus Cast by focuslinks takes on the cornea's water problem: why the clear window of the eye is always trying to swell, and how it stays clear anyway. Learn how stromal proteoglycans pull water inward, how the pump and leak balance holds the tissue at about seventy-eight percent water, and why corneal thickness is the visible readout of hydration, rising a little overnight and settling within an hour or two of waking. Follow the whole chain from water content to lattice spacing to scatter to clarity, and hear why a thicker cornea is a wetter cornea. Made for optometry students and practising optometrists who want normal corneal physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1715.8,
+  "duration_min": 28.6,
+  "files": [
+    "S03E02-corneal-hydration.wav",
+    "S03E02-corneal-hydration.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S03E06-corneal-metabolism.txt",
+  "stem": "S03E06-corneal-metabolism",
+  "words": 4439,
+  "generated_at_utc": "2026-10-04T21:35:50.361321+00:00",
+  "title": "Corneal Metabolism",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Corneal Physiology",
+  "season_no": "3",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal metabolism",
+    "corneal glucose",
+    "glycolysis",
+    "corneal lactate",
+    "corneal energy",
+    "endothelial pump energy",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The cornea is a transparent, blood-free tissue that still has to pay an energy bill every minute of every day, and this episode of Focus Cast by focuslinks follows the money. Learn where the glucose arrives on its two supply fronts, why the cornea ferments roughly eighty-five percent of its epithelial glucose even when oxygen is available, and what becomes of the lactate that this leaves behind, freight that carries water with it as it exits. Meet the oxygen-hungry remainder running the citric acid cycle in the mitochondria of the busy layers, and the pentose phosphate sideline that stocks the epithelium with building materials and recycled antioxidants. The story stays with normal function and localises the whole-eye metabolic framework of Season 1 into one remarkable half millimetre of tissue. Made for optometry students, optical teams and curious listeners who want corneal physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1852.3,
+  "duration_min": 30.87,
+  "files": [
+    "S03E06-corneal-metabolism.wav",
+    "S03E06-corneal-metabolism.mp3"
+  ]
+}

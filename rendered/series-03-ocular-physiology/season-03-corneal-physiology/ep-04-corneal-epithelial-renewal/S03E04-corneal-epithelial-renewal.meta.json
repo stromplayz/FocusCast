@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S03E04-corneal-epithelial-renewal.txt",
+  "stem": "S03E04-corneal-epithelial-renewal",
+  "words": 4291,
+  "generated_at_utc": "2026-10-04T21:31:33.814845+00:00",
+  "title": "Corneal Epithelial Renewal",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Corneal Physiology",
+  "season_no": "3",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal epithelium renewal",
+    "limbal stem cells",
+    "epithelial turnover",
+    "cell migration",
+    "desquamation",
+    "corneal healing physiology",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Every surface you examine at the slit lamp is younger than it looks, and this episode of Focus Cast by focuslinks follows the conveyor belt that keeps the corneal epithelium forever young. Learn how stem cells sheltered at the limbus feed daughter cells into the basal layer, how those cells migrate centripetally across the cornea like a slow coordinated parade, and how mature cells are shed into the tears at the surface. Hear the numbers in plain words, from the one to two weeks it takes the whole epithelium to replace itself, to the balance equation that keeps production and shedding matched every minute of every day. Understand how renewal couples to the tear film, to the growth factors the tears deliver, and to the sleep-wake rhythm, and why the epithelium you see today is younger than your patient by a fortnight. Made for optometry students and practising optometrists who want physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1762.2,
+  "duration_min": 29.37,
+  "files": [
+    "S03E04-corneal-epithelial-renewal.wav",
+    "S03E04-corneal-epithelial-renewal.mp3"
+  ]
+}

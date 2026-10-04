@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S03E08-corneal-nutritional-support.txt",
+  "stem": "S03E08-corneal-nutritional-support",
+  "words": 4268,
+  "generated_at_utc": "2026-10-04T21:40:07.185305+00:00",
+  "title": "Corneal Nutritional Support",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Corneal Physiology",
+  "season_no": "3",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "corneal nutrition",
+    "corneal glucose supply",
+    "amino acids",
+    "ascorbate",
+    "tear growth factors",
+    "corneal nourishment",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The cornea has no blood vessels of its own, so every working day it must be fed from two directions at once, and this episode of Focus Cast by focuslinks walks both delivery routes. Learn how glucose, the cornea's staple fuel, arrives mainly from the aqueous humour through the endothelium and secondarily as a trickle from the tear film through the epithelium, and how amino acids are hauled inward by active transport to keep a surface that renews itself. Meet the vitamins, from ascorbate concentrated into the aqueous at levels far above blood to the B family riding along for the enzyme machinery, and hear how the tears deliver epithelial maintenance signals such as epidermal growth factor with every blink. Water and ions complete the grocery list, and the episode closes with the design lesson that a two-front supply system exists because a single supply line would be a single point of failure for transparency. Made for optometry students and practising optometrists who want corneal nourishment explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1786.8,
+  "duration_min": 29.78,
+  "files": [
+    "S03E08-corneal-nutritional-support.wav",
+    "S03E08-corneal-nutritional-support.mp3"
+  ]
+}
