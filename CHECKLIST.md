@@ -119,16 +119,16 @@ Duplicate-title lane split: S6E6 Dark Adaptation and S6E7 Light Adaptation own p
 
 | Season | Title | Script | Rendered | In master.json |
 |--------|-------|--------|----------|----------------|
-| 01 | Ocular Homeostasis | [x] 10/10 | [ ] | [ ] |
-| 02 | Tear Film and Ocular Surface Physiology | [x] 10/10 | [ ] | [ ] |
-| 03 | Corneal Physiology | [x] 10/10 | [ ] | [ ] |
-| 04 | Aqueous and Intraocular Pressure | [x] 10/10 | [ ] | [ ] |
-| 05 | Lens and Accommodation | [x] 10/10 | [ ] | [ ] |
-| 06 | Retina Physiology | [x] 10/10 | [ ] | [ ] |
-| 07 | Visual Physiology | [x] 10/10 | [ ] | [ ] |
-| 08 | Colour and Contrast Vision | [x] 10/10 | [ ] | [ ] |
-| 09 | Binocular and Oculomotor Physiology | [x] 10/10 | [ ] | [ ] |
-| 10 | Visual Adaptation and Integration | [x] 10/10 | [ ] | [ ] |
+| 01 | Ocular Homeostasis | [x] 10/10 | [x] | [x] |
+| 02 | Tear Film and Ocular Surface Physiology | [x] 10/10 | [x] | [x] |
+| 03 | Corneal Physiology | [x] 10/10 | [x] | [x] |
+| 04 | Aqueous and Intraocular Pressure | [x] 10/10 | [x] | [x] |
+| 05 | Lens and Accommodation | [x] 10/10 | [x] | [x] |
+| 06 | Retina Physiology | [x] 10/10 | [x] | [x] |
+| 07 | Visual Physiology | [x] 10/10 | [x] | [x] |
+| 08 | Colour and Contrast Vision | [x] 10/10 | [x] | [x] |
+| 09 | Binocular and Oculomotor Physiology | [x] 10/10 | [x] | [x] |
+| 10 | Visual Adaptation and Integration | [x] 10/10 | [x] | [x] |
 
 Scripts live in `library/series/series-03-ocular-physiology/season-01/` … `season-10/` as `SNNENN-<slug>.txt` (matching Series 2 convention).
 Season titles use "and" (ampersand banned); Episode 88 title written "Accommodation and Vergence Relationship" (en-dash replaced); ratios written in words ("the ratio that links accommodation to convergence") because the slash character is banned.
@@ -153,10 +153,11 @@ Season titles use "and" (ampersand banned); Episode 88 title written "Accommodat
 - [x] master.json shows 200 episodes (Series 1 + Series 2) with raw mp3 URLs
 - [x] Series 2 Ocular Anatomy for Optometrists COMPLETE: 10 seasons, 100 episodes, 47.63 hours audio (24 kHz)
 - [x] Focus Cast library total: 2 series, 200 episodes, 93.10 hours of audio
-- [ ] Series 3 100/100 scripts written and validated (10 seasons × 10, all PASS) + series.json bible — RENDER PENDING
-- [ ] Render Series 3 via workflow (10 seasonal dispatches, kokoro)
-- [ ] master.json shows 300 episodes (Series 1 + 2 + 3) with raw mp3 URLs
-- [ ] Series 3 Ocular Physiology COMPLETE: 10 seasons, 100 episodes rendered
+- [x] Series 3 100/100 scripts written and validated (10 seasons × 10, all PASS) + series.json bible
+- [x] Render Series 3 via workflow (kokoro; runs 37226072850, 37228795037, 37232811938 S10 rerun, 37235404962, 37237989601, 37240489703, 37242882410, 37245160328, 37246991101, 37249415733; strict sequential dispatch after concurrency auto-cancel lesson; commit step rebases before push - fix 9d34927)
+- [x] master.json shows 300 episodes (Series 1 + 2 + 3) with raw mp3 URLs
+- [x] Series 3 Ocular Physiology COMPLETE: 10 seasons, 100 episodes, 48.96 hours audio (24 kHz)
+- [x] Focus Cast library total: 3 series, 300 episodes, 142.06 hours of audio
 
 ## 7 · Series 1 roadmap (Seasons 3–10, planned — do NOT script before S1–S2 are rendered & locked)
 
