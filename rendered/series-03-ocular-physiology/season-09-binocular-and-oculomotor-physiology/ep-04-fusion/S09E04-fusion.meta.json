@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E04-fusion.txt",
+  "stem": "S09E04-fusion",
+  "words": 4310,
+  "generated_at_utc": "2026-10-05T01:09:08.675469+00:00",
+  "title": "Fusion",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Binocular and Oculomotor Physiology",
+  "season_no": "9",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "fusion",
+    "binocular fusion",
+    "single vision",
+    "Panum fusional",
+    "image combining",
+    "binocular single vision",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Two eyes, two retinal images, one world: this episode of Focus Cast by focuslinks teaches fusion, the active neural process that binds a pair of pictures into a single visual experience. Learn why fusion is selective binding rather than a passive overlay, how matching features are locked into single percepts while small differences are kept and read as depth, and the three conditions the merge demands: coordinated aim, similar images, and differences within the tolerance zone. Hear why fusion is maintained rather than merely achieved, quietly spending attention and muscle tone every waking minute, and why the machinery keeps a motor partner for the reflex corrections that hold the merge steady through every jostle of ordinary life. Made for optometry students and practising optometrists who want binocular physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1769.5,
+  "duration_min": 29.49,
+  "files": [
+    "S09E04-fusion.wav",
+    "S09E04-fusion.mp3"
+  ]
+}

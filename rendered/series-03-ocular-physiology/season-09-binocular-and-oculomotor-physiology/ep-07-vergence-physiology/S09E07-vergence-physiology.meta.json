@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E07-vergence-physiology.txt",
+  "stem": "S09E07-vergence-physiology",
+  "words": 4325,
+  "generated_at_utc": "2026-10-05T01:15:17.174086+00:00",
+  "title": "Vergence Physiology",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Binocular and Oculomotor Physiology",
+  "season_no": "9",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "vergence physiology",
+    "tonic vergence",
+    "accommodative vergence",
+    "proximal vergence",
+    "fusional vergence",
+    "eye teaming",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Vergence physiology is the story of the one movement family where the two eyes stop copying each other and rotate in opposite directions at the same moment, both inward to converge and both outward to diverge. This episode of Focus Cast by focuslinks opens the command room of eye teaming, teaching the four streams that the brain adds together to aim both eyes at a single near point: tonic vergence, the resting inward posture; accommodative vergence, the turn that rides along with focusing; proximal vergence, the turn summoned by the mere feel of nearness; and fusional vergence, the fine corrector that trims the total until single vision is secure. Hear why three estimated streams and one feedback corrector working together make near vision feel effortless, and why vergence runs slower and smoother than the jumping movements, built for sustained precision. Made for optometry students, optical shop teams and curious listeners who want the physiology of eye teaming explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1764.8,
+  "duration_min": 29.41,
+  "files": [
+    "S09E07-vergence-physiology.wav",
+    "S09E07-vergence-physiology.mp3"
+  ]
+}

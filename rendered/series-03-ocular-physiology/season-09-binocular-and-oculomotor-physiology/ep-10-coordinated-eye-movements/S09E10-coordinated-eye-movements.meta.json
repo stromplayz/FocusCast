@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E10-coordinated-eye-movements.txt",
+  "stem": "S09E10-coordinated-eye-movements",
+  "words": 4289,
+  "generated_at_utc": "2026-10-05T01:21:22.664695+00:00",
+  "title": "Coordinated Eye Movements",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Binocular and Oculomotor Physiology",
+  "season_no": "9",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "coordinated eye movements",
+    "saccade fixate rhythm",
+    "reading eye movements",
+    "yoked eyes",
+    "microsaccades",
+    "eye movement symphony",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Season nine of Series 3, Ocular Physiology, closes with the whole movement repertoire playing in concert, and this finale of Focus Cast by focuslinks teaches how the two eyes move as one. Learn the yoking law that pairs the eyes for every jump and tracking glide, with vergence as the one deliberate exception that turns the eyes in opposite directions for near and far. Walk through reading a line of text end to end, where saccades land in a few hundredths of a second, vision dims in mid flight, and microsaccades refresh the image during each hold. Hear how the three tempos of saccade, pursuit and vergence fit together, and revisit all nine earlier episodes of the season one breath at a time. Made for optometry students and practising optometrists who want the season gathered into one story before the series turns to its final chapter on adaptation and integration.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1732.0,
+  "duration_min": 28.87,
+  "files": [
+    "S09E10-coordinated-eye-movements.wav",
+    "S09E10-coordinated-eye-movements.mp3"
+  ]
+}

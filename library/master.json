@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-05T00:45:08.405144+00:00",
-  "episode_count": 290,
+  "updated_at": "2026-10-05T01:24:20.467352+00:00",
+  "episode_count": 300,
   "episodes": [
     {
       "id": "S01-S01E01",
@@ -11179,6 +11179,395 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-05T00:41:43.097630+00:00"
+    },
+    {
+      "id": "S03-S09E01",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 9,
+      "season": "Binocular and Oculomotor Physiology",
+      "episode_no": 1,
+      "title": "Why We Have Two Eyes",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "why two eyes",
+        "binocular advantages",
+        "stereopsis",
+        "binocular summation",
+        "visual field overlap",
+        "two eye design",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Why do we have two eyes instead of one bigger eye? This season opener of Focus Cast by focuslinks opens Season 9 of Series 3, Ocular Physiology, following the colour and contrast season, and it makes the design case for the two-eye layout. Learn the four advantages of paired forward-facing eyes, redundancy, a wider field of view, pooled sensitivity for faint targets, and stereopsis, the depth signal born of two viewpoints a couple of inches apart, and hear the honest cost of that design in continuous aiming precision. The episode also walks the animal kingdom trade between depth and panorama, and maps the nine episodes of binocular and oculomotor physiology ahead. Made for optometry students and practising optometrists who want the reasons behind the layout they test every day.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-09/S09E01-why-we-have-two-eyes.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-01-why-we-have-two-eyes/S09E01-why-we-have-two-eyes.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-01-why-we-have-two-eyes/S09E01-why-we-have-two-eyes.mp3",
+        "bytes": 21025485,
+        "duration_sec": 1752.0,
+        "duration_min": 29.2,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T01:02:30.125371+00:00"
+    },
+    {
+      "id": "S03-S09E02",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 9,
+      "season": "Binocular and Oculomotor Physiology",
+      "episode_no": 2,
+      "title": "Physiological Basis of Binocular Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "binocular vision basis",
+        "single vision",
+        "corresponding points",
+        "Panum area",
+        "binocular cooperation",
+        "fusion requirements",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Two eyes deliver two pictures, yet you see one world, and this episode of Focus Cast by focuslinks explains what single vision actually requires. Learn the three requirements in order: a matched pair of retinal maps aligned point for point, two foveas aimed at the same target within minutes of arc, and two images similar enough in size, brightness and clarity for the brain to merge. Meet the fusional tolerance zone, the small generous window around the fixated point where small mismatches are forgiven, and discover why that same generosity is the raw material of depth. Climb the grades of cooperation from seeing with both eyes, to merging the pictures, to reading depth from difference. Made for optometry students and practising optometrists who want the physiology of binocular vision explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-09/S09E02-physiological-basis-of-binocular-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-02-physiological-basis-of-binocular-vision/S09E02-physiological-basis-of-binocular-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-02-physiological-basis-of-binocular-vision/S09E02-physiological-basis-of-binocular-vision.mp3",
+        "bytes": 20780973,
+        "duration_sec": 1731.7,
+        "duration_min": 28.86,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T01:05:10.451258+00:00"
+    },
+    {
+      "id": "S03-S09E03",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 9,
+      "season": "Binocular and Oculomotor Physiology",
+      "episode_no": 3,
+      "title": "Retinal Correspondence",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "retinal correspondence",
+        "horopter",
+        "corresponding points",
+        "visual direction",
+        "stereoscopic disparity",
+        "binocular geometry",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Two flat retinal images become one solid world, and this episode of Focus Cast by focuslinks teaches the geometry that makes it happen. Learn how corresponding points pair locations across the two retinas by shared visual direction, why the two foveas are the founding pair, and how the horopter marks the surface of perfect matching at each fixation. Then follow the objects that fall off that surface, where the mismatch called disparity is measured by the brain and read as depth. Hear also why correspondence is fixed hardware set early in life while the horopter moves with every glance. Made for optometry students and practising optometrists who want binocular vision explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-09/S09E03-retinal-correspondence.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-03-retinal-correspondence/S09E03-retinal-correspondence.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-03-retinal-correspondence/S09E03-retinal-correspondence.mp3",
+        "bytes": 20083725,
+        "duration_sec": 1673.6,
+        "duration_min": 27.89,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T01:07:10.943020+00:00"
+    },
+    {
+      "id": "S03-S09E04",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 9,
+      "season": "Binocular and Oculomotor Physiology",
+      "episode_no": 4,
+      "title": "Fusion",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "fusion",
+        "binocular fusion",
+        "single vision",
+        "Panum fusional",
+        "image combining",
+        "binocular single vision",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Two eyes, two retinal images, one world: this episode of Focus Cast by focuslinks teaches fusion, the active neural process that binds a pair of pictures into a single visual experience. Learn why fusion is selective binding rather than a passive overlay, how matching features are locked into single percepts while small differences are kept and read as depth, and the three conditions the merge demands: coordinated aim, similar images, and differences within the tolerance zone. Hear why fusion is maintained rather than merely achieved, quietly spending attention and muscle tone every waking minute, and why the machinery keeps a motor partner for the reflex corrections that hold the merge steady through every jostle of ordinary life. Made for optometry students and practising optometrists who want binocular physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-09/S09E04-fusion.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-04-fusion/S09E04-fusion.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-04-fusion/S09E04-fusion.mp3",
+        "bytes": 21234573,
+        "duration_sec": 1769.5,
+        "duration_min": 29.49,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T01:09:08.675469+00:00"
+    },
+    {
+      "id": "S03-S09E05",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 9,
+      "season": "Binocular and Oculomotor Physiology",
+      "episode_no": 5,
+      "title": "Sensory Fusion",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "sensory fusion",
+        "Panum area",
+        "physiological diplopia",
+        "binocular locking",
+        "image combining",
+        "rivalry",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Two eyes deliver two slightly different pictures, and the brain turns them into one: this episode of Focus Cast by focuslinks teaches sensory fusion, the sensory half of the binocular merge. Learn how a small tolerance window around each matched point keeps tiny eye drifts from ever doubling the world, and how the differences that survive inside that same window are read as depth rather than doubling. Hear the classic finger demonstration of physiological diplopia, why the brain normally ignores the doubling that surrounds every fixation, and what vertical lines shown to one eye against horizontal lines shown to the other reveal about the competition behind single vision. Made for optometry students and practising optometrists who want binocular physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-09/S09E05-sensory-fusion.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-05-sensory-fusion/S09E05-sensory-fusion.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-05-sensory-fusion/S09E05-sensory-fusion.mp3",
+        "bytes": 20711277,
+        "duration_sec": 1725.9,
+        "duration_min": 28.76,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T01:11:11.911833+00:00"
+    },
+    {
+      "id": "S03-S09E06",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 9,
+      "season": "Binocular and Oculomotor Physiology",
+      "episode_no": 6,
+      "title": "Motor Fusion",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "motor fusion",
+        "fusional vergence",
+        "eye alignment effort",
+        "convergence reserve",
+        "divergence reserve",
+        "sustained near work",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Motor fusion is the muscular half of single vision, and this episode of Focus Cast by focuslinks teaches how the eyes hold their two pictures inside the combining window by muscular force whenever their aim drifts. Learn what corrective vergence is, how the brain reads a tiny mismatch between the two images and answers with a perfectly scaled command, and how the inward and outward reserves form a physiological budget. Hear why every minute of sustained near work spends that budget continuously, why reading is a sustained muscular negotiation rather than a still posture, and why the effort you feel after a long study session is normal physiology at work. Made for optometry students, optical teams and curious listeners who want the working machinery of binocular vision explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-09/S09E06-motor-fusion.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-06-motor-fusion/S09E06-motor-fusion.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-06-motor-fusion/S09E06-motor-fusion.mp3",
+        "bytes": 21543021,
+        "duration_sec": 1795.2,
+        "duration_min": 29.92,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T01:13:12.707941+00:00"
+    },
+    {
+      "id": "S03-S09E07",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 9,
+      "season": "Binocular and Oculomotor Physiology",
+      "episode_no": 7,
+      "title": "Vergence Physiology",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "vergence physiology",
+        "tonic vergence",
+        "accommodative vergence",
+        "proximal vergence",
+        "fusional vergence",
+        "eye teaming",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Vergence physiology is the story of the one movement family where the two eyes stop copying each other and rotate in opposite directions at the same moment, both inward to converge and both outward to diverge. This episode of Focus Cast by focuslinks opens the command room of eye teaming, teaching the four streams that the brain adds together to aim both eyes at a single near point: tonic vergence, the resting inward posture; accommodative vergence, the turn that rides along with focusing; proximal vergence, the turn summoned by the mere feel of nearness; and fusional vergence, the fine corrector that trims the total until single vision is secure. Hear why three estimated streams and one feedback corrector working together make near vision feel effortless, and why vergence runs slower and smoother than the jumping movements, built for sustained precision. Made for optometry students, optical shop teams and curious listeners who want the physiology of eye teaming explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-09/S09E07-vergence-physiology.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-07-vergence-physiology/S09E07-vergence-physiology.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-07-vergence-physiology/S09E07-vergence-physiology.mp3",
+        "bytes": 21178125,
+        "duration_sec": 1764.8,
+        "duration_min": 29.41,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T01:15:17.174086+00:00"
+    },
+    {
+      "id": "S03-S09E08",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 9,
+      "season": "Binocular and Oculomotor Physiology",
+      "episode_no": 8,
+      "title": "Accommodation and Vergence Relationship",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "accommodation vergence relationship",
+        "near response coupling",
+        "accommodative convergence",
+        "convergence accommodation",
+        "focus near triad",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The accommodation and vergence relationship is the wiring that lets one nearness command drive two engines at once, and this episode of Focus Cast by focuslinks teaches it in plain words. Learn how focusing the eyes for a near target recruits a lawfully proportional amount of inward turning, and how turning the eyes in makes focusing ride along in return, through a two-way link between the focusing engine and the turning engine. Hear the ratio that links accommodation to convergence and its mirror ratio explained entirely in words, both personal like a gear ratio, steady within one person yet different between people. Understand why this coupling halves the brain's control problem for near viewing, and how the fine fusion system trims whatever small error remains. Made for optometry students and practising optometrists who want the normal physiology of near vision explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-09/S09E08-accommodation-and-vergence-relationship.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-08-accommodation-and-vergence-relationship/S09E08-accommodation-and-vergence-relationship.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-08-accommodation-and-vergence-relationship/S09E08-accommodation-and-vergence-relationship.mp3",
+        "bytes": 21661965,
+        "duration_sec": 1805.1,
+        "duration_min": 30.09,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T01:17:20.804053+00:00"
+    },
+    {
+      "id": "S03-S09E09",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 9,
+      "season": "Binocular and Oculomotor Physiology",
+      "episode_no": 9,
+      "title": "Oculomotor Control",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "oculomotor control",
+        "saccades",
+        "smooth pursuit",
+        "gaze holding",
+        "vestibulo ocular reflex",
+        "eye movement control",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Deep in the brain sits a control room that decides where your eyes point, and this episode of Focus Cast by focuslinks opens it room by room. Meet the four specialist systems of eye movement: saccades, the ballistic flicks that reposition the fovea in a few hundredths of a second; smooth pursuit, the tracking system that matches a moving target's velocity and is the only movement that needs one; vergence, the near and far teaming of the two eyes; and gaze holding, the inner-ear stabiliser that drives the eyes against every head movement. Then climb the hierarchy: cortical decisions choose the targets, brainstem networks execute the patterns, and the cerebellum calibrates the accuracy, so that every glance is a committee decision executed in milliseconds. The muscles and their nerves are recalled briefly with back-references, and the whole story stays inside normal function. Made for optometry students and practising optometrists who want eye movement control explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-09/S09E09-oculomotor-control.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-09-oculomotor-control/S09E09-oculomotor-control.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-09-oculomotor-control/S09E09-oculomotor-control.mp3",
+        "bytes": 20318445,
+        "duration_sec": 1693.1,
+        "duration_min": 28.22,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T01:19:25.496475+00:00"
+    },
+    {
+      "id": "S03-S09E10",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 9,
+      "season": "Binocular and Oculomotor Physiology",
+      "episode_no": 10,
+      "title": "Coordinated Eye Movements",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "coordinated eye movements",
+        "saccade fixate rhythm",
+        "reading eye movements",
+        "yoked eyes",
+        "microsaccades",
+        "eye movement symphony",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Season nine of Series 3, Ocular Physiology, closes with the whole movement repertoire playing in concert, and this finale of Focus Cast by focuslinks teaches how the two eyes move as one. Learn the yoking law that pairs the eyes for every jump and tracking glide, with vergence as the one deliberate exception that turns the eyes in opposite directions for near and far. Walk through reading a line of text end to end, where saccades land in a few hundredths of a second, vision dims in mid flight, and microsaccades refresh the image during each hold. Hear how the three tempos of saccade, pursuit and vergence fit together, and revisit all nine earlier episodes of the season one breath at a time. Made for optometry students and practising optometrists who want the season gathered into one story before the series turns to its final chapter on adaptation and integration.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-09/S09E10-coordinated-eye-movements.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-10-coordinated-eye-movements/S09E10-coordinated-eye-movements.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-09-binocular-and-oculomotor-physiology/ep-10-coordinated-eye-movements/S09E10-coordinated-eye-movements.mp3",
+        "bytes": 20785005,
+        "duration_sec": 1732.0,
+        "duration_min": 28.87,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T01:21:22.664695+00:00"
     },
     {
       "id": "S03-S10E01",

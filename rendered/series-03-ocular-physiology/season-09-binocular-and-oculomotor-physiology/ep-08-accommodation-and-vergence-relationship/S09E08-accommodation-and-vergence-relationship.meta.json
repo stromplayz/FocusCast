@@ -1,0 +1,39 @@
+{
+  "episode_file": "episode/S09E08-accommodation-and-vergence-relationship.txt",
+  "stem": "S09E08-accommodation-and-vergence-relationship",
+  "words": 4433,
+  "generated_at_utc": "2026-10-05T01:17:20.804053+00:00",
+  "title": "Accommodation and Vergence Relationship",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Binocular and Oculomotor Physiology",
+  "season_no": "9",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "accommodation vergence relationship",
+    "near response coupling",
+    "accommodative convergence",
+    "convergence accommodation",
+    "focus near triad",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The accommodation and vergence relationship is the wiring that lets one nearness command drive two engines at once, and this episode of Focus Cast by focuslinks teaches it in plain words. Learn how focusing the eyes for a near target recruits a lawfully proportional amount of inward turning, and how turning the eyes in makes focusing ride along in return, through a two-way link between the focusing engine and the turning engine. Hear the ratio that links accommodation to convergence and its mirror ratio explained entirely in words, both personal like a gear ratio, steady within one person yet different between people. Understand why this coupling halves the brain's control problem for near viewing, and how the fine fusion system trims whatever small error remains. Made for optometry students and practising optometrists who want the normal physiology of near vision explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1805.1,
+  "duration_min": 30.09,
+  "files": [
+    "S09E08-accommodation-and-vergence-relationship.wav",
+    "S09E08-accommodation-and-vergence-relationship.mp3"
+  ]
+}

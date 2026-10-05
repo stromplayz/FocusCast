@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E02-physiological-basis-of-binocular-vision.txt",
+  "stem": "S09E02-physiological-basis-of-binocular-vision",
+  "words": 4295,
+  "generated_at_utc": "2026-10-05T01:05:10.451258+00:00",
+  "title": "Physiological Basis of Binocular Vision",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Binocular and Oculomotor Physiology",
+  "season_no": "9",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "binocular vision basis",
+    "single vision",
+    "corresponding points",
+    "Panum area",
+    "binocular cooperation",
+    "fusion requirements",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Two eyes deliver two pictures, yet you see one world, and this episode of Focus Cast by focuslinks explains what single vision actually requires. Learn the three requirements in order: a matched pair of retinal maps aligned point for point, two foveas aimed at the same target within minutes of arc, and two images similar enough in size, brightness and clarity for the brain to merge. Meet the fusional tolerance zone, the small generous window around the fixated point where small mismatches are forgiven, and discover why that same generosity is the raw material of depth. Climb the grades of cooperation from seeing with both eyes, to merging the pictures, to reading depth from difference. Made for optometry students and practising optometrists who want the physiology of binocular vision explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1731.7,
+  "duration_min": 28.86,
+  "files": [
+    "S09E02-physiological-basis-of-binocular-vision.wav",
+    "S09E02-physiological-basis-of-binocular-vision.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E06-motor-fusion.txt",
+  "stem": "S09E06-motor-fusion",
+  "words": 4433,
+  "generated_at_utc": "2026-10-05T01:13:12.707941+00:00",
+  "title": "Motor Fusion",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Binocular and Oculomotor Physiology",
+  "season_no": "9",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "motor fusion",
+    "fusional vergence",
+    "eye alignment effort",
+    "convergence reserve",
+    "divergence reserve",
+    "sustained near work",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Motor fusion is the muscular half of single vision, and this episode of Focus Cast by focuslinks teaches how the eyes hold their two pictures inside the combining window by muscular force whenever their aim drifts. Learn what corrective vergence is, how the brain reads a tiny mismatch between the two images and answers with a perfectly scaled command, and how the inward and outward reserves form a physiological budget. Hear why every minute of sustained near work spends that budget continuously, why reading is a sustained muscular negotiation rather than a still posture, and why the effort you feel after a long study session is normal physiology at work. Made for optometry students, optical teams and curious listeners who want the working machinery of binocular vision explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1795.2,
+  "duration_min": 29.92,
+  "files": [
+    "S09E06-motor-fusion.wav",
+    "S09E06-motor-fusion.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E09-oculomotor-control.txt",
+  "stem": "S09E09-oculomotor-control",
+  "words": 4286,
+  "generated_at_utc": "2026-10-05T01:19:25.496475+00:00",
+  "title": "Oculomotor Control",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Binocular and Oculomotor Physiology",
+  "season_no": "9",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "oculomotor control",
+    "saccades",
+    "smooth pursuit",
+    "gaze holding",
+    "vestibulo ocular reflex",
+    "eye movement control",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Deep in the brain sits a control room that decides where your eyes point, and this episode of Focus Cast by focuslinks opens it room by room. Meet the four specialist systems of eye movement: saccades, the ballistic flicks that reposition the fovea in a few hundredths of a second; smooth pursuit, the tracking system that matches a moving target's velocity and is the only movement that needs one; vergence, the near and far teaming of the two eyes; and gaze holding, the inner-ear stabiliser that drives the eyes against every head movement. Then climb the hierarchy: cortical decisions choose the targets, brainstem networks execute the patterns, and the cerebellum calibrates the accuracy, so that every glance is a committee decision executed in milliseconds. The muscles and their nerves are recalled briefly with back-references, and the whole story stays inside normal function. Made for optometry students and practising optometrists who want eye movement control explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1693.1,
+  "duration_min": 28.22,
+  "files": [
+    "S09E09-oculomotor-control.wav",
+    "S09E09-oculomotor-control.mp3"
+  ]
+}

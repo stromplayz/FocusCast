@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E05-sensory-fusion.txt",
+  "stem": "S09E05-sensory-fusion",
+  "words": 4226,
+  "generated_at_utc": "2026-10-05T01:11:11.911833+00:00",
+  "title": "Sensory Fusion",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Binocular and Oculomotor Physiology",
+  "season_no": "9",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "sensory fusion",
+    "Panum area",
+    "physiological diplopia",
+    "binocular locking",
+    "image combining",
+    "rivalry",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Two eyes deliver two slightly different pictures, and the brain turns them into one: this episode of Focus Cast by focuslinks teaches sensory fusion, the sensory half of the binocular merge. Learn how a small tolerance window around each matched point keeps tiny eye drifts from ever doubling the world, and how the differences that survive inside that same window are read as depth rather than doubling. Hear the classic finger demonstration of physiological diplopia, why the brain normally ignores the doubling that surrounds every fixation, and what vertical lines shown to one eye against horizontal lines shown to the other reveal about the competition behind single vision. Made for optometry students and practising optometrists who want binocular physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1725.9,
+  "duration_min": 28.76,
+  "files": [
+    "S09E05-sensory-fusion.wav",
+    "S09E05-sensory-fusion.mp3"
+  ]
+}

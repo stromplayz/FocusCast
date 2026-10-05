@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S09E03-retinal-correspondence.txt",
+  "stem": "S09E03-retinal-correspondence",
+  "words": 4236,
+  "generated_at_utc": "2026-10-05T01:07:10.943020+00:00",
+  "title": "Retinal Correspondence",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Binocular and Oculomotor Physiology",
+  "season_no": "9",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "retinal correspondence",
+    "horopter",
+    "corresponding points",
+    "visual direction",
+    "stereoscopic disparity",
+    "binocular geometry",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Two flat retinal images become one solid world, and this episode of Focus Cast by focuslinks teaches the geometry that makes it happen. Learn how corresponding points pair locations across the two retinas by shared visual direction, why the two foveas are the founding pair, and how the horopter marks the surface of perfect matching at each fixation. Then follow the objects that fall off that surface, where the mismatch called disparity is measured by the brain and read as depth. Hear also why correspondence is fixed hardware set early in life while the horopter moves with every glance. Made for optometry students and practising optometrists who want binocular vision explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1673.6,
+  "duration_min": 27.89,
+  "files": [
+    "S09E03-retinal-correspondence.wav",
+    "S09E03-retinal-correspondence.mp3"
+  ]
+}
