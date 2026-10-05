@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-05T00:14:55.316381+00:00",
-  "episode_count": 280,
+  "updated_at": "2026-10-05T00:45:08.405144+00:00",
+  "episode_count": 290,
   "episodes": [
     {
       "id": "S01-S01E01",
@@ -10788,6 +10788,397 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-05T00:12:06.870449+00:00"
+    },
+    {
+      "id": "S03-S08E01",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 8,
+      "season": "Colour and Contrast Vision",
+      "episode_no": 1,
+      "title": "Physiology of Colour Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "colour vision physiology",
+        "colour perception",
+        "wavelength",
+        "cone comparison",
+        "colour construction",
+        "trichromacy",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Season eight of Series 3, Ocular Physiology, opens here, after the visual physiology season handed the retina's edited report to the brain. This episode of Focus Cast by focuslinks draws the season's founding line: wavelengths are physics, colour is physiology, and the redness of red is the brain's construction from neural comparisons rather than a property riding on the light. Learn why a single photoreceptor type cannot tell a dim red from a bright green when both produce the same response, why colour begins where sensors of different tunings are compared, and how ten episodes climb from the three cone types through matching, opponent wiring and cortical processing to the measured world of contrast. Made for optometry students and practising optometrists who want colour and contrast vision taught as physiology, framed from the first minute of the season.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-08/S08E01-physiology-of-colour-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-01-physiology-of-colour-vision/S08E01-physiology-of-colour-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-01-physiology-of-colour-vision/S08E01-physiology-of-colour-vision.mp3",
+        "bytes": 21620781,
+        "duration_sec": 1801.7,
+        "duration_min": 30.03,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:23:44.223072+00:00"
+    },
+    {
+      "id": "S03-S08E02",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 8,
+      "season": "Colour and Contrast Vision",
+      "episode_no": 2,
+      "title": "Cone Types and Colour Detection",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "cone types",
+        "L M S cones",
+        "spectral sensitivity",
+        "univariance",
+        "colour detection",
+        "cone pigments",
+        "photopigments",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The cone mosaic carries three classes of light sensor, and this episode of Focus Cast by focuslinks reads them spec by spec. Learn the tuning of each class: long-wavelength cones peaking near five hundred and sixty nanometres, middle-wavelength cones near five hundred and thirty, and short-wavelength cones near four hundred and twenty. Hear the census of the short-wave class, roughly one in twelve cones or fewer and absent from the foveal centre, and the two design quirks that make colour possible: broad overlap, where any wavelength lights all three sensors in three different proportions, and univariance, where one cone alone reports only how much light it caught, never which kind. Then follow the resolution that colour lives in the ratios between the three catches, so the cones act not as colour meters but as three differently biased witnesses whose disagreement is the evidence. Made for optometry students and practising optometrists who want the sensors of colour explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-08/S08E02-cone-types-and-colour-detection.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-02-cone-types-and-colour-detection/S08E02-cone-types-and-colour-detection.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-02-cone-types-and-colour-detection/S08E02-cone-types-and-colour-detection.mp3",
+        "bytes": 22756365,
+        "duration_sec": 1896.3,
+        "duration_min": 31.61,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:26:14.663445+00:00"
+    },
+    {
+      "id": "S03-S08E03",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 8,
+      "season": "Colour and Contrast Vision",
+      "episode_no": 3,
+      "title": "Trichromatic Vision",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "trichromatic vision",
+        "three primaries",
+        "metamerism",
+        "Young Helmholtz",
+        "colour matching",
+        "colour space",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "This episode of Focus Cast by focuslinks tells the three-number story of colour as a discovery: how a bench with three adjustable lamps revealed that any visible colour can be matched by mixing three primaries in the right proportions, exactly what you would expect if the eye summed the world into three cone catches. Learn why the eye is a three-number instrument, what metamerism means when physically different light mixtures land the same three catches and look identical, and how spectral yellow and a red plus green mixture become twins to the retina. Hear how colour space works as a catalogue of three-number addresses, why screens can imitate any colour from three lamp types, and where the matching proof must stop before the puzzle of colour impressions. Made for optometry students and practising optometrists who want colour vision explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-08/S08E03-trichromatic-vision.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-03-trichromatic-vision/S08E03-trichromatic-vision.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-03-trichromatic-vision/S08E03-trichromatic-vision.mp3",
+        "bytes": 21116493,
+        "duration_sec": 1759.7,
+        "duration_min": 29.33,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:28:16.745123+00:00"
+    },
+    {
+      "id": "S03-S08E04",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 8,
+      "season": "Colour and Contrast Vision",
+      "episode_no": 4,
+      "title": "Opponent-Process Mechanisms",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "opponent process",
+        "red green channel",
+        "blue yellow channel",
+        "colour opponency",
+        "afterimages",
+        "colour neurons",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Three cones hand the eye three numbers, and this episode of Focus Cast by focuslinks teaches the rewiring that turns those numbers into the colours you actually see. Learn why nobody has ever seen reddish green or bluish yellow, and how the cone catches are immediately recombined into a red-green channel, a blue-yellow channel and a light-dark channel of signed differences. Meet the retinal circuits and ganglion families that carry each comparison, from the fine-detail midget lines to the small-fibre blue-yellow channel. Watch a staring afterimage bloom in the opposite colour and learn why it is opponent fatigue, normal physiology and nothing more. Made for optometry students and practising optometrists who want the second edit of colour explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-08/S08E04-opponent-process-mechanisms.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-04-opponent-process-mechanisms/S08E04-opponent-process-mechanisms.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-04-opponent-process-mechanisms/S08E04-opponent-process-mechanisms.mp3",
+        "bytes": 21449421,
+        "duration_sec": 1787.4,
+        "duration_min": 29.79,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:30:12.664960+00:00"
+    },
+    {
+      "id": "S03-S08E05",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 8,
+      "season": "Colour and Contrast Vision",
+      "episode_no": 5,
+      "title": "Colour Information Processing",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "colour processing",
+        "colour constancy",
+        "colour cortex",
+        "opponent channels brain",
+        "colour perception",
+        "illuminant",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "How does a colour signal travel from the eye to the brain, and how does the brain keep colours steady when the light itself keeps changing. This episode of Focus Cast by focuslinks follows the opponent channels out of the retina, through the sorting gateway and into the cortical areas where colour comparisons are computed over wide neighbourhoods. Then it takes up colour constancy, the correction that keeps a banana yellow through morning blue, candle gold and fluorescent green, and shows how the brain infers and discounts the illuminant. It also names the honest cost of that achievement, and why the same grey patch can look two different colours against different backgrounds. Made for optometry students and practising optometrists who want the physiology of seeing explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-08/S08E05-colour-information-processing.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-05-colour-information-processing/S08E05-colour-information-processing.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-05-colour-information-processing/S08E05-colour-information-processing.mp3",
+        "bytes": 20814957,
+        "duration_sec": 1734.5,
+        "duration_min": 28.91,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:32:10.808248+00:00"
+    },
+    {
+      "id": "S03-S08E06",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 8,
+      "season": "Colour and Contrast Vision",
+      "episode_no": 6,
+      "title": "Contrast Sensitivity",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "contrast sensitivity",
+        "contrast sensitivity function",
+        "stripe patterns",
+        "sensitivity curve",
+        "contrast threshold",
+        "visual performance",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Contrast sensitivity is the eye's faintness meter, and this episode of Focus Cast by focuslinks charts the curve that measures it. Learn the measuring game: stripe patterns of every fineness, each faded until it just vanishes, with the faintest visible difference recorded as the threshold and its reciprocal, sensitivity, gathered across all widths into one signature curve. Hear why the curve rises to a peak at middling stripe widths, a few stripes filling the width of your thumb at arm's length, and falls away for very fine and very broad stripes as the comparison machinery of retina and cortex meets its limits. Follow the curve as brighter light lifts it, as adaptation re-zeroes it, and as normal aging drifts it slowly, then watch acuity shrink into place as a single point on its steep right-hand edge. Made for optometry students and practising optometrists who want visual physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-08/S08E06-contrast-sensitivity.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-06-contrast-sensitivity/S08E06-contrast-sensitivity.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-06-contrast-sensitivity/S08E06-contrast-sensitivity.mp3",
+        "bytes": 20643885,
+        "duration_sec": 1720.3,
+        "duration_min": 28.67,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:34:06.130817+00:00"
+    },
+    {
+      "id": "S03-S08E07",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 8,
+      "season": "Colour and Contrast Vision",
+      "episode_no": 7,
+      "title": "Spatial Frequency",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "spatial frequency",
+        "cycles per degree",
+        "stripe analysis",
+        "visual channels",
+        "frequency channels",
+        "detail scale",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Spatial frequency is the ruler vision measures with, and this episode of Focus Cast by focuslinks teaches it for the ear. Learn how stripes of light and dark, counted in cycles per degree, give every scene a scale from broad and coarse to tight and fine, with your thumbnail at arm's length marking one degree of view. Hear how any picture, however complex, can be built by adding stripe patterns of different finenesses and strengths together, and how a family of neural channels in the visual system reads that stripe recipe out of every image you see. The episode also shows why the contrast sensitivity curve has its humped shape, and why the acuity chart asks about only one rung of the scale ladder. Made for optometry students and practising optometrists who want the physiology of detail and scale explained in plain words.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-08/S08E07-spatial-frequency.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-07-spatial-frequency/S08E07-spatial-frequency.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-07-spatial-frequency/S08E07-spatial-frequency.mp3",
+        "bytes": 19943757,
+        "duration_sec": 1661.9,
+        "duration_min": 27.7,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:36:00.905994+00:00"
+    },
+    {
+      "id": "S03-S08E08",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 8,
+      "season": "Colour and Contrast Vision",
+      "episode_no": 8,
+      "title": "Contrast Detection",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "contrast detection",
+        "detection threshold",
+        "spatial summation",
+        "temporal summation",
+        "just noticeable",
+        "sensitivity limits",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "At the edge of seeing there is a line, and this episode of Focus Cast by focuslinks teaches how that line is drawn and how the visual system lowers it. Learn what a detection threshold really is, why detection and discrimination are two different jobs with two different limits, and how spatial summation lets a patch of retina pool faint light until the signal clears the noise. Hear the same trick played out in time, where a brief flash must be brighter than a steady light because evidence is gathered over a short window before the system reports. Then follow the dividends into daily life, from the faint star that appears when you look slightly beside it to the dim desk objects that pop once the lamp steadies. Made for optometry students, optical teams, and curious listeners who want visual physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-08/S08E08-contrast-detection.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-08-contrast-detection/S08E08-contrast-detection.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-08-contrast-detection/S08E08-contrast-detection.mp3",
+        "bytes": 20440557,
+        "duration_sec": 1703.3,
+        "duration_min": 28.39,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:37:52.157993+00:00"
+    },
+    {
+      "id": "S03-S08E09",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 8,
+      "season": "Colour and Contrast Vision",
+      "episode_no": 9,
+      "title": "Luminance and Brightness",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "luminance",
+        "brightness",
+        "lightness constancy",
+        "Purkinje shift",
+        "mesopic vision",
+        "perceived brightness",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Luminance is what a light meter measures, and brightness is what the brain builds from it, and this episode of Focus Cast by focuslinks walks that gap one careful step at a time. Learn how the eye weights the light a surface sends to it, why middle greens count most while deep reds and violets count least, and how the measured quantity becomes a constructed percept shaped by context, contrast and adaptation. Travel the three lighting regimes, photopic, scotopic and mesopic, and hear the twilight signature of the Purkinje shift, when red flowers dim before blue ones as dusk falls. Watch lightness constancy hold a white shirt white in shade and a coal black in sunlight, because the brain reports surface reflectance rather than raw arrival. Made for optometry students and practising clinicians who want visual physiology explained clearly for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-08/S08E09-luminance-and-brightness.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-09-luminance-and-brightness/S08E09-luminance-and-brightness.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-09-luminance-and-brightness/S08E09-luminance-and-brightness.mp3",
+        "bytes": 21168909,
+        "duration_sec": 1764.0,
+        "duration_min": 29.4,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:39:46.296970+00:00"
+    },
+    {
+      "id": "S03-S08E10",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 8,
+      "season": "Colour and Contrast Vision",
+      "episode_no": 10,
+      "title": "Physiological Basis of Colour and Contrast",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "colour and contrast",
+        "physiological basis",
+        "visual synthesis",
+        "colour dusk",
+        "contrast fog",
+        "perception mechanisms",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "This season finale of Focus Cast by focuslinks closes Series 3, Season 8, Colour and Contrast Vision, with the synthesis the season was built for: one pipeline in which three cone witnesses become opponent comparisons, ride parallel routes to the cortex, and meet the same difference-detecting machinery that serves contrast. Hear the pipeline prove itself on three everyday scenes, why dusk drains colour when the rods take the shift, why shadows read grey rather than black, and why fog washes the world by stealing contrast instead of brightness. Then revisit all nine episodes of the season by title, from Physiology of Colour Vision to Luminance and Brightness, and hear the doorway open to Season 9, Binocular and Oculomotor Physiology. Made for optometry students and practising optometrists who want colour and contrast vision synthesised for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-08/S08E10-physiological-basis-of-colour-and-contrast.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-10-physiological-basis-of-colour-and-contrast/S08E10-physiological-basis-of-colour-and-contrast.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-10-physiological-basis-of-colour-and-contrast/S08E10-physiological-basis-of-colour-and-contrast.mp3",
+        "bytes": 21324717,
+        "duration_sec": 1777.0,
+        "duration_min": 29.62,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:41:43.097630+00:00"
     },
     {
       "id": "S03-S10E01",

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E01-physiology-of-colour-vision.txt",
+  "stem": "S08E01-physiology-of-colour-vision",
+  "words": 4271,
+  "generated_at_utc": "2026-10-05T00:23:44.223072+00:00",
+  "title": "Physiology of Colour Vision",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Colour and Contrast Vision",
+  "season_no": "8",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "colour vision physiology",
+    "colour perception",
+    "wavelength",
+    "cone comparison",
+    "colour construction",
+    "trichromacy",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Season eight of Series 3, Ocular Physiology, opens here, after the visual physiology season handed the retina's edited report to the brain. This episode of Focus Cast by focuslinks draws the season's founding line: wavelengths are physics, colour is physiology, and the redness of red is the brain's construction from neural comparisons rather than a property riding on the light. Learn why a single photoreceptor type cannot tell a dim red from a bright green when both produce the same response, why colour begins where sensors of different tunings are compared, and how ten episodes climb from the three cone types through matching, opponent wiring and cortical processing to the measured world of contrast. Made for optometry students and practising optometrists who want colour and contrast vision taught as physiology, framed from the first minute of the season.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1801.7,
+  "duration_min": 30.03,
+  "files": [
+    "S08E01-physiology-of-colour-vision.wav",
+    "S08E01-physiology-of-colour-vision.mp3"
+  ]
+}

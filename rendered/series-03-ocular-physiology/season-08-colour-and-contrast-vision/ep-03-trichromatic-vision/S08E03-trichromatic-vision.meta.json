@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E03-trichromatic-vision.txt",
+  "stem": "S08E03-trichromatic-vision",
+  "words": 4318,
+  "generated_at_utc": "2026-10-05T00:28:16.745123+00:00",
+  "title": "Trichromatic Vision",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Colour and Contrast Vision",
+  "season_no": "8",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "trichromatic vision",
+    "three primaries",
+    "metamerism",
+    "Young Helmholtz",
+    "colour matching",
+    "colour space",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "This episode of Focus Cast by focuslinks tells the three-number story of colour as a discovery: how a bench with three adjustable lamps revealed that any visible colour can be matched by mixing three primaries in the right proportions, exactly what you would expect if the eye summed the world into three cone catches. Learn why the eye is a three-number instrument, what metamerism means when physically different light mixtures land the same three catches and look identical, and how spectral yellow and a red plus green mixture become twins to the retina. Hear how colour space works as a catalogue of three-number addresses, why screens can imitate any colour from three lamp types, and where the matching proof must stop before the puzzle of colour impressions. Made for optometry students and practising optometrists who want colour vision explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1759.7,
+  "duration_min": 29.33,
+  "files": [
+    "S08E03-trichromatic-vision.wav",
+    "S08E03-trichromatic-vision.mp3"
+  ]
+}

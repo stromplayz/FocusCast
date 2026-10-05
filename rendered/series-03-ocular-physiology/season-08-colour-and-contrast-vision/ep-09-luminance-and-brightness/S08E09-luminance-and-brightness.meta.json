@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E09-luminance-and-brightness.txt",
+  "stem": "S08E09-luminance-and-brightness",
+  "words": 4218,
+  "generated_at_utc": "2026-10-05T00:39:46.296970+00:00",
+  "title": "Luminance and Brightness",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Colour and Contrast Vision",
+  "season_no": "8",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "luminance",
+    "brightness",
+    "lightness constancy",
+    "Purkinje shift",
+    "mesopic vision",
+    "perceived brightness",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Luminance is what a light meter measures, and brightness is what the brain builds from it, and this episode of Focus Cast by focuslinks walks that gap one careful step at a time. Learn how the eye weights the light a surface sends to it, why middle greens count most while deep reds and violets count least, and how the measured quantity becomes a constructed percept shaped by context, contrast and adaptation. Travel the three lighting regimes, photopic, scotopic and mesopic, and hear the twilight signature of the Purkinje shift, when red flowers dim before blue ones as dusk falls. Watch lightness constancy hold a white shirt white in shade and a coal black in sunlight, because the brain reports surface reflectance rather than raw arrival. Made for optometry students and practising clinicians who want visual physiology explained clearly for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1764.0,
+  "duration_min": 29.4,
+  "files": [
+    "S08E09-luminance-and-brightness.wav",
+    "S08E09-luminance-and-brightness.mp3"
+  ]
+}

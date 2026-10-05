@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E07-spatial-frequency.txt",
+  "stem": "S08E07-spatial-frequency",
+  "words": 4315,
+  "generated_at_utc": "2026-10-05T00:36:00.905994+00:00",
+  "title": "Spatial Frequency",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Colour and Contrast Vision",
+  "season_no": "8",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "spatial frequency",
+    "cycles per degree",
+    "stripe analysis",
+    "visual channels",
+    "frequency channels",
+    "detail scale",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Spatial frequency is the ruler vision measures with, and this episode of Focus Cast by focuslinks teaches it for the ear. Learn how stripes of light and dark, counted in cycles per degree, give every scene a scale from broad and coarse to tight and fine, with your thumbnail at arm's length marking one degree of view. Hear how any picture, however complex, can be built by adding stripe patterns of different finenesses and strengths together, and how a family of neural channels in the visual system reads that stripe recipe out of every image you see. The episode also shows why the contrast sensitivity curve has its humped shape, and why the acuity chart asks about only one rung of the scale ladder. Made for optometry students and practising optometrists who want the physiology of detail and scale explained in plain words.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1661.9,
+  "duration_min": 27.7,
+  "files": [
+    "S08E07-spatial-frequency.wav",
+    "S08E07-spatial-frequency.mp3"
+  ]
+}

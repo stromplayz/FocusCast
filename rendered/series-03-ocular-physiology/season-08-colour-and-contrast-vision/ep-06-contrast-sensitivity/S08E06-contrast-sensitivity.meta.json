@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E06-contrast-sensitivity.txt",
+  "stem": "S08E06-contrast-sensitivity",
+  "words": 4404,
+  "generated_at_utc": "2026-10-05T00:34:06.130817+00:00",
+  "title": "Contrast Sensitivity",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Colour and Contrast Vision",
+  "season_no": "8",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "contrast sensitivity",
+    "contrast sensitivity function",
+    "stripe patterns",
+    "sensitivity curve",
+    "contrast threshold",
+    "visual performance",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Contrast sensitivity is the eye's faintness meter, and this episode of Focus Cast by focuslinks charts the curve that measures it. Learn the measuring game: stripe patterns of every fineness, each faded until it just vanishes, with the faintest visible difference recorded as the threshold and its reciprocal, sensitivity, gathered across all widths into one signature curve. Hear why the curve rises to a peak at middling stripe widths, a few stripes filling the width of your thumb at arm's length, and falls away for very fine and very broad stripes as the comparison machinery of retina and cortex meets its limits. Follow the curve as brighter light lifts it, as adaptation re-zeroes it, and as normal aging drifts it slowly, then watch acuity shrink into place as a single point on its steep right-hand edge. Made for optometry students and practising optometrists who want visual physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1720.3,
+  "duration_min": 28.67,
+  "files": [
+    "S08E06-contrast-sensitivity.wav",
+    "S08E06-contrast-sensitivity.mp3"
+  ]
+}

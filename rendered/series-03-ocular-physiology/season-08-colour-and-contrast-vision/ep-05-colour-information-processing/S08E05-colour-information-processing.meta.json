@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E05-colour-information-processing.txt",
+  "stem": "S08E05-colour-information-processing",
+  "words": 4195,
+  "generated_at_utc": "2026-10-05T00:32:10.808248+00:00",
+  "title": "Colour Information Processing",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Colour and Contrast Vision",
+  "season_no": "8",
+  "episode_no": "5",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "colour processing",
+    "colour constancy",
+    "colour cortex",
+    "opponent channels brain",
+    "colour perception",
+    "illuminant",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "How does a colour signal travel from the eye to the brain, and how does the brain keep colours steady when the light itself keeps changing. This episode of Focus Cast by focuslinks follows the opponent channels out of the retina, through the sorting gateway and into the cortical areas where colour comparisons are computed over wide neighbourhoods. Then it takes up colour constancy, the correction that keeps a banana yellow through morning blue, candle gold and fluorescent green, and shows how the brain infers and discounts the illuminant. It also names the honest cost of that achievement, and why the same grey patch can look two different colours against different backgrounds. Made for optometry students and practising optometrists who want the physiology of seeing explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1734.5,
+  "duration_min": 28.91,
+  "files": [
+    "S08E05-colour-information-processing.wav",
+    "S08E05-colour-information-processing.mp3"
+  ]
+}

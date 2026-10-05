@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E10-physiological-basis-of-colour-and-contrast.txt",
+  "stem": "S08E10-physiological-basis-of-colour-and-contrast",
+  "words": 4229,
+  "generated_at_utc": "2026-10-05T00:41:43.097630+00:00",
+  "title": "Physiological Basis of Colour and Contrast",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Colour and Contrast Vision",
+  "season_no": "8",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "colour and contrast",
+    "physiological basis",
+    "visual synthesis",
+    "colour dusk",
+    "contrast fog",
+    "perception mechanisms",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "This season finale of Focus Cast by focuslinks closes Series 3, Season 8, Colour and Contrast Vision, with the synthesis the season was built for: one pipeline in which three cone witnesses become opponent comparisons, ride parallel routes to the cortex, and meet the same difference-detecting machinery that serves contrast. Hear the pipeline prove itself on three everyday scenes, why dusk drains colour when the rods take the shift, why shadows read grey rather than black, and why fog washes the world by stealing contrast instead of brightness. Then revisit all nine episodes of the season by title, from Physiology of Colour Vision to Luminance and Brightness, and hear the doorway open to Season 9, Binocular and Oculomotor Physiology. Made for optometry students and practising optometrists who want colour and contrast vision synthesised for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1777.0,
+  "duration_min": 29.62,
+  "files": [
+    "S08E10-physiological-basis-of-colour-and-contrast.wav",
+    "S08E10-physiological-basis-of-colour-and-contrast.mp3"
+  ]
+}

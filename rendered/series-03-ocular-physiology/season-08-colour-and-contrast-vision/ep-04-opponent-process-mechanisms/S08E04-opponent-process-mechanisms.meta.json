@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E04-opponent-process-mechanisms.txt",
+  "stem": "S08E04-opponent-process-mechanisms",
+  "words": 4266,
+  "generated_at_utc": "2026-10-05T00:30:12.664960+00:00",
+  "title": "Opponent-Process Mechanisms",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Colour and Contrast Vision",
+  "season_no": "8",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "opponent process",
+    "red green channel",
+    "blue yellow channel",
+    "colour opponency",
+    "afterimages",
+    "colour neurons",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Three cones hand the eye three numbers, and this episode of Focus Cast by focuslinks teaches the rewiring that turns those numbers into the colours you actually see. Learn why nobody has ever seen reddish green or bluish yellow, and how the cone catches are immediately recombined into a red-green channel, a blue-yellow channel and a light-dark channel of signed differences. Meet the retinal circuits and ganglion families that carry each comparison, from the fine-detail midget lines to the small-fibre blue-yellow channel. Watch a staring afterimage bloom in the opposite colour and learn why it is opponent fatigue, normal physiology and nothing more. Made for optometry students and practising optometrists who want the second edit of colour explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1787.4,
+  "duration_min": 29.79,
+  "files": [
+    "S08E04-opponent-process-mechanisms.wav",
+    "S08E04-opponent-process-mechanisms.mp3"
+  ]
+}

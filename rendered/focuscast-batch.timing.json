@@ -1,21 +1,21 @@
 {
   "episodes": 10,
-  "words_total": 43133,
-  "eta_render_min": 24.3,
-  "actual_push_to_complete_min": 21.9,
-  "actual_total_min": 22.3,
+  "words_total": 42957,
+  "eta_render_min": 24.2,
+  "actual_push_to_complete_min": 22.0,
+  "actual_total_min": 22.6,
   "kernel": "phantoz/focuscast-batch",
   "delivered": [
-    "series-03-ocular-physiology/season-07-visual-physiology/ep-01-from-photoreceptor-to-brain/S07E01-from-photoreceptor-to-brain.mp3",
-    "series-03-ocular-physiology/season-07-visual-physiology/ep-02-retinal-neural-circuits/S07E02-retinal-neural-circuits.mp3",
-    "series-03-ocular-physiology/season-07-visual-physiology/ep-03-centre-surround-processing/S07E03-centre-surround-processing.mp3",
-    "series-03-ocular-physiology/season-07-visual-physiology/ep-04-spatial-resolution/S07E04-spatial-resolution.mp3",
-    "series-03-ocular-physiology/season-07-visual-physiology/ep-05-temporal-resolution/S07E05-temporal-resolution.mp3",
-    "series-03-ocular-physiology/season-07-visual-physiology/ep-06-contrast-processing/S07E06-contrast-processing.mp3",
-    "series-03-ocular-physiology/season-07-visual-physiology/ep-07-motion-detection/S07E07-motion-detection.mp3",
-    "series-03-ocular-physiology/season-07-visual-physiology/ep-08-edge-detection/S07E08-edge-detection.mp3",
-    "series-03-ocular-physiology/season-07-visual-physiology/ep-09-visual-information-processing/S07E09-visual-information-processing.mp3",
-    "series-03-ocular-physiology/season-07-visual-physiology/ep-10-how-the-retina-builds-a-visual-signal/S07E10-how-the-retina-builds-a-visual-signal.mp3"
+    "series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-01-physiology-of-colour-vision/S08E01-physiology-of-colour-vision.mp3",
+    "series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-02-cone-types-and-colour-detection/S08E02-cone-types-and-colour-detection.mp3",
+    "series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-03-trichromatic-vision/S08E03-trichromatic-vision.mp3",
+    "series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-04-opponent-process-mechanisms/S08E04-opponent-process-mechanisms.mp3",
+    "series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-05-colour-information-processing/S08E05-colour-information-processing.mp3",
+    "series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-06-contrast-sensitivity/S08E06-contrast-sensitivity.mp3",
+    "series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-07-spatial-frequency/S08E07-spatial-frequency.mp3",
+    "series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-08-contrast-detection/S08E08-contrast-detection.mp3",
+    "series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-09-luminance-and-brightness/S08E09-luminance-and-brightness.mp3",
+    "series-03-ocular-physiology/season-08-colour-and-contrast-vision/ep-10-physiological-basis-of-colour-and-contrast/S08E10-physiological-basis-of-colour-and-contrast.mp3"
   ],
-  "started_at_utc": "2026-10-05T00:14:55.203585+00:00"
+  "started_at_utc": "2026-10-05T00:45:08.255268+00:00"
 }

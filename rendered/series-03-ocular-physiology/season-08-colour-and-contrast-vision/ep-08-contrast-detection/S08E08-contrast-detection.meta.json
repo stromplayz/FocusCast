@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S08E08-contrast-detection.txt",
+  "stem": "S08E08-contrast-detection",
+  "words": 4220,
+  "generated_at_utc": "2026-10-05T00:37:52.157993+00:00",
+  "title": "Contrast Detection",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Colour and Contrast Vision",
+  "season_no": "8",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "contrast detection",
+    "detection threshold",
+    "spatial summation",
+    "temporal summation",
+    "just noticeable",
+    "sensitivity limits",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "At the edge of seeing there is a line, and this episode of Focus Cast by focuslinks teaches how that line is drawn and how the visual system lowers it. Learn what a detection threshold really is, why detection and discrimination are two different jobs with two different limits, and how spatial summation lets a patch of retina pool faint light until the signal clears the noise. Hear the same trick played out in time, where a brief flash must be brighter than a steady light because evidence is gathered over a short window before the system reports. Then follow the dividends into daily life, from the faint star that appears when you look slightly beside it to the dim desk objects that pop once the lamp steadies. Made for optometry students, optical teams, and curious listeners who want visual physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1703.3,
+  "duration_min": 28.39,
+  "files": [
+    "S08E08-contrast-detection.wav",
+    "S08E08-contrast-detection.mp3"
+  ]
+}
