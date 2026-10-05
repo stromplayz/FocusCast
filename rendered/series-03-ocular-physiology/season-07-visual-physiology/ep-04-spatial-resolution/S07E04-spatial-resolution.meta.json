@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E04-spatial-resolution.txt",
+  "stem": "S07E04-spatial-resolution",
+  "words": 4452,
+  "generated_at_utc": "2026-10-05T00:00:22.316357+00:00",
+  "title": "Spatial Resolution",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Physiology",
+  "season_no": "7",
+  "episode_no": "4",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "spatial resolution",
+    "visual acuity physiology",
+    "cone sampling",
+    "hyperacuity",
+    "foveal resolution",
+    "eye movements",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Why can the eye resolve the detail it resolves? This episode of Focus Cast by focuslinks tells the sampling story behind the acuity chart, from the foveal floor, where cones sit close enough to match the eye's own optical sharpness, to the tiny involuntary eye movements that keep a still world from fading, to the brain's oversized map of the centre, and on to hyperacuity, the alignment skill that judges positions finer than a single cone's width. It shows that sharp vision is a collaboration of sampling pitch, movement and comparison, not one camera spec. Made for optometry students and practising optometrists who want the physiology under every acuity number.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1835.5,
+  "duration_min": 30.59,
+  "files": [
+    "S07E04-spatial-resolution.wav",
+    "S07E04-spatial-resolution.mp3"
+  ]
+}

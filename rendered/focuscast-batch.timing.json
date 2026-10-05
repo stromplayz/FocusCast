@@ -1,21 +1,21 @@
 {
   "episodes": 10,
-  "words_total": 42970,
-  "eta_render_min": 24.2,
-  "actual_push_to_complete_min": 23.5,
-  "actual_total_min": 23.8,
+  "words_total": 43133,
+  "eta_render_min": 24.3,
+  "actual_push_to_complete_min": 21.9,
+  "actual_total_min": 22.3,
   "kernel": "phantoz/focuscast-batch",
   "delivered": [
-    "series-03-ocular-physiology/season-06-retina-physiology/ep-01-why-the-retina-is-a-neural-tissue/S06E01-why-the-retina-is-a-neural-tissue.mp3",
-    "series-03-ocular-physiology/season-06-retina-physiology/ep-02-photoreceptors/S06E02-photoreceptors.mp3",
-    "series-03-ocular-physiology/season-06-retina-physiology/ep-03-rod-physiology/S06E03-rod-physiology.mp3",
-    "series-03-ocular-physiology/season-06-retina-physiology/ep-04-cone-physiology/S06E04-cone-physiology.mp3",
-    "series-03-ocular-physiology/season-06-retina-physiology/ep-05-phototransduction/S06E05-phototransduction.mp3",
-    "series-03-ocular-physiology/season-06-retina-physiology/ep-06-dark-adaptation/S06E06-dark-adaptation.mp3",
-    "series-03-ocular-physiology/season-06-retina-physiology/ep-07-light-adaptation/S06E07-light-adaptation.mp3",
-    "series-03-ocular-physiology/season-06-retina-physiology/ep-08-retinal-signal-processing/S06E08-retinal-signal-processing.mp3",
-    "series-03-ocular-physiology/season-06-retina-physiology/ep-09-retinal-ganglion-cells/S06E09-retinal-ganglion-cells.mp3",
-    "series-03-ocular-physiology/season-06-retina-physiology/ep-10-retinal-information-coding/S06E10-retinal-information-coding.mp3"
+    "series-03-ocular-physiology/season-07-visual-physiology/ep-01-from-photoreceptor-to-brain/S07E01-from-photoreceptor-to-brain.mp3",
+    "series-03-ocular-physiology/season-07-visual-physiology/ep-02-retinal-neural-circuits/S07E02-retinal-neural-circuits.mp3",
+    "series-03-ocular-physiology/season-07-visual-physiology/ep-03-centre-surround-processing/S07E03-centre-surround-processing.mp3",
+    "series-03-ocular-physiology/season-07-visual-physiology/ep-04-spatial-resolution/S07E04-spatial-resolution.mp3",
+    "series-03-ocular-physiology/season-07-visual-physiology/ep-05-temporal-resolution/S07E05-temporal-resolution.mp3",
+    "series-03-ocular-physiology/season-07-visual-physiology/ep-06-contrast-processing/S07E06-contrast-processing.mp3",
+    "series-03-ocular-physiology/season-07-visual-physiology/ep-07-motion-detection/S07E07-motion-detection.mp3",
+    "series-03-ocular-physiology/season-07-visual-physiology/ep-08-edge-detection/S07E08-edge-detection.mp3",
+    "series-03-ocular-physiology/season-07-visual-physiology/ep-09-visual-information-processing/S07E09-visual-information-processing.mp3",
+    "series-03-ocular-physiology/season-07-visual-physiology/ep-10-how-the-retina-builds-a-visual-signal/S07E10-how-the-retina-builds-a-visual-signal.mp3"
   ],
-  "started_at_utc": "2026-10-04T23:45:50.888066+00:00"
+  "started_at_utc": "2026-10-05T00:14:55.203585+00:00"
 }

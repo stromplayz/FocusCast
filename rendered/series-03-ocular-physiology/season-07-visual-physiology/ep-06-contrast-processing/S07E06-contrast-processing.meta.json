@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E06-contrast-processing.txt",
+  "stem": "S07E06-contrast-processing",
+  "words": 4248,
+  "generated_at_utc": "2026-10-05T00:04:21.082947+00:00",
+  "title": "Contrast Processing",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Physiology",
+  "season_no": "7",
+  "episode_no": "6",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "contrast processing",
+    "contrast sensitivity",
+    "contrast function",
+    "visual differences",
+    "contrast adaptation",
+    "neural contrast",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Contrast is the visual system's native language, and this episode of Focus Cast by focuslinks teaches what contrast really is and what the machinery of sight does with it. Learn why a candle that vanishes at noon can dazzle in a cave, how centre-surround wiring turns local differences into neural activity, and why the brain's picture of the world is a difference map rather than a light meter reading. Hear how the system re-zeroes itself against a recent diet of contrast, so that minutes among bold stripes leave mid-level contrasts briefly washed out. Then follow contrast to work in everyday life: reading print, recognising a face at dusk, and judging a kerb in fog. Made for optometry students and practising optometrists who want visual physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1709.0,
+  "duration_min": 28.48,
+  "files": [
+    "S07E06-contrast-processing.wav",
+    "S07E06-contrast-processing.mp3"
+  ]
+}

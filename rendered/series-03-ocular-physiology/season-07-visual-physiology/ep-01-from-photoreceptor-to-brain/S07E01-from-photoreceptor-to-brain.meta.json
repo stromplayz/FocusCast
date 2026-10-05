@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E01-from-photoreceptor-to-brain.txt",
+  "stem": "S07E01-from-photoreceptor-to-brain",
+  "words": 4446,
+  "generated_at_utc": "2026-10-04T23:53:52.071537+00:00",
+  "title": "From Photoreceptor to Brain",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Physiology",
+  "season_no": "7",
+  "episode_no": "1",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "visual pathway physiology",
+    "optic nerve signal",
+    "lateral geniculate",
+    "visual cortex",
+    "signal transformation",
+    "visual processing",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Season seven of Series 3 opens with the journey of sight itself, and this episode of Focus Cast by focuslinks follows the retina's edited report out of the eye and into the brain, station by station. The million-plus ganglion axons leave as the optic nerve, the chiasm re-sorts the two eyes' reports into halves of the world, the lateral geniculate body acts as a regulating gateway rather than a passive relay, and the radiations fan the signal back to the visual cortex, where the map of the scene is rebuilt and edges, motion and colour begin to be assembled. Along the way we revisit last season's departure, when the retina shipped its curated, parallel, difference-based dispatch, and we set the theme of the season: every station transforms rather than copies. Made for optometry students, optical teams and curious listeners who want the visual pathway taught as physiology, not just anatomy.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1819.3,
+  "duration_min": 30.32,
+  "files": [
+    "S07E01-from-photoreceptor-to-brain.wav",
+    "S07E01-from-photoreceptor-to-brain.mp3"
+  ]
+}

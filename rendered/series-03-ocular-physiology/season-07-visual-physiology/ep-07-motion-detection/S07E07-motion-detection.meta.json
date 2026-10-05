@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E07-motion-detection.txt",
+  "stem": "S07E07-motion-detection",
+  "words": 4404,
+  "generated_at_utc": "2026-10-05T00:06:15.467256+00:00",
+  "title": "Motion Detection",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Physiology",
+  "season_no": "7",
+  "episode_no": "7",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "motion detection",
+    "direction selectivity",
+    "optic flow",
+    "motion vision",
+    "movement perception",
+    "parasol cells",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Motion is not simply seen; it is computed, and this episode of Focus Cast by focuslinks opens the machinery that catches movement inside the retina. Meet the direction-selective ganglion cells, wired with help from a star-shaped amacrine interneuron to fire hard for an edge sweeping one way and stay silent for the opposite sweep. Learn the two great uses of that machinery: reading optic flow, the outward stream of the whole scene that reports your own speed and heading, and reading events, as the rod-rich, parasol-rich periphery acts as a tripwire that summons the fovea to anything that moves. Understand why motion is the retina's oldest news service and the fovea's spotter. Made for optometry students, practising optometrists and curious listeners who want movement perception explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1783.3,
+  "duration_min": 29.72,
+  "files": [
+    "S07E07-motion-detection.wav",
+    "S07E07-motion-detection.mp3"
+  ]
+}

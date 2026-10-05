@@ -1,8 +1,8 @@
 {
   "library": "FocusLinks Listen \u00b7 Focus Cast",
   "repo": "stromplayz/FocusCast",
-  "updated_at": "2026-10-04T23:45:51.000096+00:00",
-  "episode_count": 270,
+  "updated_at": "2026-10-05T00:14:55.316381+00:00",
+  "episode_count": 280,
   "episodes": [
     {
       "id": "S01-S01E01",
@@ -10397,6 +10397,397 @@
         "sample_rate": 24000
       },
       "generated_at_utc": "2026-10-04T23:42:25.783262+00:00"
+    },
+    {
+      "id": "S03-S07E01",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 7,
+      "season": "Visual Physiology",
+      "episode_no": 1,
+      "title": "From Photoreceptor to Brain",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "visual pathway physiology",
+        "optic nerve signal",
+        "lateral geniculate",
+        "visual cortex",
+        "signal transformation",
+        "visual processing",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Season seven of Series 3 opens with the journey of sight itself, and this episode of Focus Cast by focuslinks follows the retina's edited report out of the eye and into the brain, station by station. The million-plus ganglion axons leave as the optic nerve, the chiasm re-sorts the two eyes' reports into halves of the world, the lateral geniculate body acts as a regulating gateway rather than a passive relay, and the radiations fan the signal back to the visual cortex, where the map of the scene is rebuilt and edges, motion and colour begin to be assembled. Along the way we revisit last season's departure, when the retina shipped its curated, parallel, difference-based dispatch, and we set the theme of the season: every station transforms rather than copies. Made for optometry students, optical teams and curious listeners who want the visual pathway taught as physiology, not just anatomy.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-07/S07E01-from-photoreceptor-to-brain.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-01-from-photoreceptor-to-brain/S07E01-from-photoreceptor-to-brain.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-01-from-photoreceptor-to-brain/S07E01-from-photoreceptor-to-brain.mp3",
+        "bytes": 21832173,
+        "duration_sec": 1819.3,
+        "duration_min": 30.32,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T23:53:52.071537+00:00"
+    },
+    {
+      "id": "S03-S07E02",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 7,
+      "season": "Visual Physiology",
+      "episode_no": 2,
+      "title": "Retinal Neural Circuits",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "retinal circuits",
+        "bipolar divergence",
+        "rod pathway",
+        "amacrine relay",
+        "feedback circuits",
+        "neural computation",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The retina does not simply pass light along; it computes, and this episode of Focus Cast by focuslinks opens the wiring diagrams to show how. Learn the foveal private line, where a single cone feeds its own bipolar cell and its own ganglion cell so that exact position is preserved all the way to the brain. Follow the rod detour in full, where a specialized amacrine cell hands night whispers into the cone bipolar system so that two sensor fleets share one output highway. Meet the feedback loops, horizontal cells feeding back onto photoreceptor terminals and amacrine cells onto bipolar terminals, the retina editing its own editing. Made for optometry students, practising optometrists and curious listeners who want the retina's circuits explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-07/S07E02-retinal-neural-circuits.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-02-retinal-neural-circuits/S07E02-retinal-neural-circuits.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-02-retinal-neural-circuits/S07E02-retinal-neural-circuits.mp3",
+        "bytes": 22129965,
+        "duration_sec": 1844.1,
+        "duration_min": 30.73,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T23:56:25.608972+00:00"
+    },
+    {
+      "id": "S03-S07E03",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 7,
+      "season": "Visual Physiology",
+      "episode_no": 3,
+      "title": "Centre-Surround Processing",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "centre surround",
+        "lateral inhibition",
+        "receptive fields",
+        "edge enhancement",
+        "contrast detection",
+        "ganglion receptive field",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Every ganglion cell in your retina watches a small circle of the world and an antagonistic ring around it, and this episode of Focus Cast by focuslinks teaches the computation that arrangement performs. Learn how horizontal cells pool neighbouring photoreceptors to build the surround, how lateral inhibition lets every cell ask how its own patch differs from its neighbourhood, and why edges are exaggerated while uniform fields fade. Hear the two payoffs of centre-surround design, edge enhancement and contrast detection, and follow the same template onward to the lateral geniculate body and the visual cortex. Made for optometry students and practising optometrists who want the retina's signature computation explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-07/S07E03-centre-surround-processing.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-03-centre-surround-processing/S07E03-centre-surround-processing.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-03-centre-surround-processing/S07E03-centre-surround-processing.mp3",
+        "bytes": 21313773,
+        "duration_sec": 1776.1,
+        "duration_min": 29.6,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-04T23:58:25.277170+00:00"
+    },
+    {
+      "id": "S03-S07E04",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 7,
+      "season": "Visual Physiology",
+      "episode_no": 4,
+      "title": "Spatial Resolution",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "spatial resolution",
+        "visual acuity physiology",
+        "cone sampling",
+        "hyperacuity",
+        "foveal resolution",
+        "eye movements",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Why can the eye resolve the detail it resolves? This episode of Focus Cast by focuslinks tells the sampling story behind the acuity chart, from the foveal floor, where cones sit close enough to match the eye's own optical sharpness, to the tiny involuntary eye movements that keep a still world from fading, to the brain's oversized map of the centre, and on to hyperacuity, the alignment skill that judges positions finer than a single cone's width. It shows that sharp vision is a collaboration of sampling pitch, movement and comparison, not one camera spec. Made for optometry students and practising optometrists who want the physiology under every acuity number.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-07/S07E04-spatial-resolution.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-04-spatial-resolution/S07E04-spatial-resolution.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-04-spatial-resolution/S07E04-spatial-resolution.mp3",
+        "bytes": 22026285,
+        "duration_sec": 1835.5,
+        "duration_min": 30.59,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:00:22.316357+00:00"
+    },
+    {
+      "id": "S03-S07E05",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 7,
+      "season": "Visual Physiology",
+      "episode_no": 5,
+      "title": "Temporal Resolution",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "temporal resolution",
+        "flicker fusion",
+        "critical flicker",
+        "cone speed",
+        "rod speed",
+        "visual timing",
+        "flicker perception",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "The eye has a clock speed, and this episode of Focus Cast by focuslinks teaches how fast vision samples the world and why. Learn what happens when a light flashes on and off faster and faster, why the separate flashes fuse into a steady glow, and where the crossover called the critical flicker rate sits for a bright foveal view, near fifty to sixty switches per second, sliding lower in dim light. Meet the sensor trades behind the number, with cones built for speed and rods built for sensitivity, and the three modifiers that move it: brightness, flickering area, and the periphery's eerie talent for catching flicker you are not looking at. Hear why displays running faster than the fusion point settle into comfortable stillness. Made for optometry students, optical teams, and curious listeners who want visual physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-07/S07E05-temporal-resolution.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-05-temporal-resolution/S07E05-temporal-resolution.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-05-temporal-resolution/S07E05-temporal-resolution.mp3",
+        "bytes": 21046221,
+        "duration_sec": 1753.8,
+        "duration_min": 29.23,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:02:23.321016+00:00"
+    },
+    {
+      "id": "S03-S07E06",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 7,
+      "season": "Visual Physiology",
+      "episode_no": 6,
+      "title": "Contrast Processing",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "contrast processing",
+        "contrast sensitivity",
+        "contrast function",
+        "visual differences",
+        "contrast adaptation",
+        "neural contrast",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Contrast is the visual system's native language, and this episode of Focus Cast by focuslinks teaches what contrast really is and what the machinery of sight does with it. Learn why a candle that vanishes at noon can dazzle in a cave, how centre-surround wiring turns local differences into neural activity, and why the brain's picture of the world is a difference map rather than a light meter reading. Hear how the system re-zeroes itself against a recent diet of contrast, so that minutes among bold stripes leave mid-level contrasts briefly washed out. Then follow contrast to work in everyday life: reading print, recognising a face at dusk, and judging a kerb in fog. Made for optometry students and practising optometrists who want visual physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-07/S07E06-contrast-processing.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-06-contrast-processing/S07E06-contrast-processing.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-06-contrast-processing/S07E06-contrast-processing.mp3",
+        "bytes": 20508525,
+        "duration_sec": 1709.0,
+        "duration_min": 28.48,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:04:21.082947+00:00"
+    },
+    {
+      "id": "S03-S07E07",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 7,
+      "season": "Visual Physiology",
+      "episode_no": 7,
+      "title": "Motion Detection",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "motion detection",
+        "direction selectivity",
+        "optic flow",
+        "motion vision",
+        "movement perception",
+        "parasol cells",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Motion is not simply seen; it is computed, and this episode of Focus Cast by focuslinks opens the machinery that catches movement inside the retina. Meet the direction-selective ganglion cells, wired with help from a star-shaped amacrine interneuron to fire hard for an edge sweeping one way and stay silent for the opposite sweep. Learn the two great uses of that machinery: reading optic flow, the outward stream of the whole scene that reports your own speed and heading, and reading events, as the rod-rich, parasol-rich periphery acts as a tripwire that summons the fovea to anything that moves. Understand why motion is the retina's oldest news service and the fovea's spotter. Made for optometry students, practising optometrists and curious listeners who want movement perception explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-07/S07E07-motion-detection.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-07-motion-detection/S07E07-motion-detection.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-07-motion-detection/S07E07-motion-detection.mp3",
+        "bytes": 21399885,
+        "duration_sec": 1783.3,
+        "duration_min": 29.72,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:06:15.467256+00:00"
+    },
+    {
+      "id": "S03-S07E08",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 7,
+      "season": "Visual Physiology",
+      "episode_no": 8,
+      "title": "Edge Detection",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "edge detection",
+        "luminance edges",
+        "lateral inhibition sharpening",
+        "visual sketch",
+        "object boundaries",
+        "edge perception",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "Wherever one brightness, hue or grain meets a different one, the visual system finds a line, and this episode of Focus Cast by focuslinks, from Season 7, Visual Physiology, teaches how the line is found and why the retina cares. Learn the three families of edges the machinery compares: luminance edges of light against dark, colour edges that share brightness but differ in hue, and texture edges that differ only in grain. Hear how lateral inhibition at every centre-surround unit, the mechanism taught earlier this season, exaggerates the response jump at a boundary, so the edge you see is crisper than the light that made it. Discover why a scene's identity lives mostly in its edges, why a line drawing reads instantly while a uniform fill does not, and why the retina ships a sketch for the brain to paint. Made for optometry students and practising optometrists who want visual physiology explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-07/S07E08-edge-detection.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-08-edge-detection/S07E08-edge-detection.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-08-edge-detection/S07E08-edge-detection.mp3",
+        "bytes": 20703213,
+        "duration_sec": 1725.2,
+        "duration_min": 28.75,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:08:14.585251+00:00"
+    },
+    {
+      "id": "S03-S07E09",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 7,
+      "season": "Visual Physiology",
+      "episode_no": 9,
+      "title": "Visual Information Processing",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "visual information processing",
+        "visual cortex",
+        "ventral stream",
+        "dorsal stream",
+        "hierarchical processing",
+        "feature extraction",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "This episode of Focus Cast by focuslinks follows the visual signal out of the eye and into the brain's visual workroom at the very back of the head. Learn how cells in the first cortical map grow fussy about the orientation of edges, and how that fussiness becomes the raw material of shape. Follow the two great streams out of that map: a what pathway running downward toward the temporal lobe that assembles identity, and a where and how pathway running upward toward the parietal lobe that assembles location, motion and guided action. Then watch the hierarchy climb, as receptive fields grow larger and fussier from edges to corners to whole objects, inheriting every difference map the retina already drew. Made for optometry students and practising optometrists who want the physiology of seeing explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-07/S07E09-visual-information-processing.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-09-visual-information-processing/S07E09-visual-information-processing.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-09-visual-information-processing/S07E09-visual-information-processing.mp3",
+        "bytes": 20776941,
+        "duration_sec": 1731.3,
+        "duration_min": 28.86,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:10:11.211864+00:00"
+    },
+    {
+      "id": "S03-S07E10",
+      "series_no": 3,
+      "series": "Ocular Physiology",
+      "season_no": 7,
+      "season": "Visual Physiology",
+      "episode_no": 10,
+      "title": "How the Retina Builds a Visual Signal",
+      "keywords": [
+        "focus cast",
+        "focuslinks",
+        "visual signal",
+        "retina to brain",
+        "signal construction",
+        "visual synthesis",
+        "photon to perception",
+        "visual pipeline",
+        "optometry education",
+        "focus cast series 3"
+      ],
+      "description": "This season finale of Focus Cast by focuslinks follows a single glance on its complete journey, from the moment photons enter the eye to the moment the brain recognises a friend's face across the room. Trace the whole pipeline in one continuous story: the photoreceptor mosaic catching light, the transduction cascade turning that catch into a quieting, bipolar and horizontal circuits comparing and classifying, amacrine circuits timing and gating, ganglion cells compressing the scene into parallel difference-coded streams, and the gateway and cortex rebuilding position, orientation, motion and identity. The episode distils the season's three great themes, that vision is differences, vision is parallel, and vision is constructed, then recaps all nine earlier episodes by title and honours the Series 1 episode where this journey was first sketched. Along the way it teases the next season, Colour and Contrast Vision, and its opener, Physiology of Colour Vision. Made for optometry students and practising optometrists who want the physiology behind every glance, explained for the ear.",
+      "language": "en",
+      "narration": "dual",
+      "engine": "kokoro",
+      "voices": {
+        "Host": "af_heart",
+        "Guide": "am_michael"
+      },
+      "script": "library/series/series-03-ocular-physiology/season-07/S07E10-how-the-retina-builds-a-visual-signal.txt",
+      "audio": {
+        "mp3": "rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-10-how-the-retina-builds-a-visual-signal/S07E10-how-the-retina-builds-a-visual-signal.mp3",
+        "raw_url": "https://raw.githubusercontent.com/stromplayz/FocusCast/main/rendered/series-03-ocular-physiology/season-07-visual-physiology/ep-10-how-the-retina-builds-a-visual-signal/S07E10-how-the-retina-builds-a-visual-signal.mp3",
+        "bytes": 21139245,
+        "duration_sec": 1761.5,
+        "duration_min": 29.36,
+        "sample_rate": 24000
+      },
+      "generated_at_utc": "2026-10-05T00:12:06.870449+00:00"
     },
     {
       "id": "S03-S10E01",

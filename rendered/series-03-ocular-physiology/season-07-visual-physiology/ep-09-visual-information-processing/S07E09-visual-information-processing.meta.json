@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E09-visual-information-processing.txt",
+  "stem": "S07E09-visual-information-processing",
+  "words": 4225,
+  "generated_at_utc": "2026-10-05T00:10:11.211864+00:00",
+  "title": "Visual Information Processing",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Physiology",
+  "season_no": "7",
+  "episode_no": "9",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "visual information processing",
+    "visual cortex",
+    "ventral stream",
+    "dorsal stream",
+    "hierarchical processing",
+    "feature extraction",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "This episode of Focus Cast by focuslinks follows the visual signal out of the eye and into the brain's visual workroom at the very back of the head. Learn how cells in the first cortical map grow fussy about the orientation of edges, and how that fussiness becomes the raw material of shape. Follow the two great streams out of that map: a what pathway running downward toward the temporal lobe that assembles identity, and a where and how pathway running upward toward the parietal lobe that assembles location, motion and guided action. Then watch the hierarchy climb, as receptive fields grow larger and fussier from edges to corners to whole objects, inheriting every difference map the retina already drew. Made for optometry students and practising optometrists who want the physiology of seeing explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1731.3,
+  "duration_min": 28.86,
+  "files": [
+    "S07E09-visual-information-processing.wav",
+    "S07E09-visual-information-processing.mp3"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E10-how-the-retina-builds-a-visual-signal.txt",
+  "stem": "S07E10-how-the-retina-builds-a-visual-signal",
+  "words": 4238,
+  "generated_at_utc": "2026-10-05T00:12:06.870449+00:00",
+  "title": "How the Retina Builds a Visual Signal",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Physiology",
+  "season_no": "7",
+  "episode_no": "10",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "visual signal",
+    "retina to brain",
+    "signal construction",
+    "visual synthesis",
+    "photon to perception",
+    "visual pipeline",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "This season finale of Focus Cast by focuslinks follows a single glance on its complete journey, from the moment photons enter the eye to the moment the brain recognises a friend's face across the room. Trace the whole pipeline in one continuous story: the photoreceptor mosaic catching light, the transduction cascade turning that catch into a quieting, bipolar and horizontal circuits comparing and classifying, amacrine circuits timing and gating, ganglion cells compressing the scene into parallel difference-coded streams, and the gateway and cortex rebuilding position, orientation, motion and identity. The episode distils the season's three great themes, that vision is differences, vision is parallel, and vision is constructed, then recaps all nine earlier episodes by title and honours the Series 1 episode where this journey was first sketched. Along the way it teases the next season, Colour and Contrast Vision, and its opener, Physiology of Colour Vision. Made for optometry students and practising optometrists who want the physiology behind every glance, explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1761.5,
+  "duration_min": 29.36,
+  "files": [
+    "S07E10-how-the-retina-builds-a-visual-signal.wav",
+    "S07E10-how-the-retina-builds-a-visual-signal.mp3"
+  ]
+}

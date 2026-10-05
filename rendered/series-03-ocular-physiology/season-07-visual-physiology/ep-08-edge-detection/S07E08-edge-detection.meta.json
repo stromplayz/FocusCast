@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E08-edge-detection.txt",
+  "stem": "S07E08-edge-detection",
+  "words": 4259,
+  "generated_at_utc": "2026-10-05T00:08:14.585251+00:00",
+  "title": "Edge Detection",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Physiology",
+  "season_no": "7",
+  "episode_no": "8",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "edge detection",
+    "luminance edges",
+    "lateral inhibition sharpening",
+    "visual sketch",
+    "object boundaries",
+    "edge perception",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Wherever one brightness, hue or grain meets a different one, the visual system finds a line, and this episode of Focus Cast by focuslinks, from Season 7, Visual Physiology, teaches how the line is found and why the retina cares. Learn the three families of edges the machinery compares: luminance edges of light against dark, colour edges that share brightness but differ in hue, and texture edges that differ only in grain. Hear how lateral inhibition at every centre-surround unit, the mechanism taught earlier this season, exaggerates the response jump at a boundary, so the edge you see is crisper than the light that made it. Discover why a scene's identity lives mostly in its edges, why a line drawing reads instantly while a uniform fill does not, and why the retina ships a sketch for the brain to paint. Made for optometry students and practising optometrists who want visual physiology explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1725.2,
+  "duration_min": 28.75,
+  "files": [
+    "S07E08-edge-detection.wav",
+    "S07E08-edge-detection.mp3"
+  ]
+}

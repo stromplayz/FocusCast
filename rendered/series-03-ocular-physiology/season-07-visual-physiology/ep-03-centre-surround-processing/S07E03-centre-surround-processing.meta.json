@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E03-centre-surround-processing.txt",
+  "stem": "S07E03-centre-surround-processing",
+  "words": 4241,
+  "generated_at_utc": "2026-10-04T23:58:25.277170+00:00",
+  "title": "Centre-Surround Processing",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Physiology",
+  "season_no": "7",
+  "episode_no": "3",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "centre surround",
+    "lateral inhibition",
+    "receptive fields",
+    "edge enhancement",
+    "contrast detection",
+    "ganglion receptive field",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "Every ganglion cell in your retina watches a small circle of the world and an antagonistic ring around it, and this episode of Focus Cast by focuslinks teaches the computation that arrangement performs. Learn how horizontal cells pool neighbouring photoreceptors to build the surround, how lateral inhibition lets every cell ask how its own patch differs from its neighbourhood, and why edges are exaggerated while uniform fields fade. Hear the two payoffs of centre-surround design, edge enhancement and contrast detection, and follow the same template onward to the lateral geniculate body and the visual cortex. Made for optometry students and practising optometrists who want the retina's signature computation explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1776.1,
+  "duration_min": 29.6,
+  "files": [
+    "S07E03-centre-surround-processing.wav",
+    "S07E03-centre-surround-processing.mp3"
+  ]
+}

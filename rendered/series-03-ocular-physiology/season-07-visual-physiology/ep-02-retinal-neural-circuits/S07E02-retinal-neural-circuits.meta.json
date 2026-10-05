@@ -1,0 +1,40 @@
+{
+  "episode_file": "episode/S07E02-retinal-neural-circuits.txt",
+  "stem": "S07E02-retinal-neural-circuits",
+  "words": 4276,
+  "generated_at_utc": "2026-10-04T23:56:25.608972+00:00",
+  "title": "Retinal Neural Circuits",
+  "series": "Ocular Physiology",
+  "series_no": "3",
+  "season": "Visual Physiology",
+  "season_no": "7",
+  "episode_no": "2",
+  "engine": "kokoro",
+  "narration": "dual",
+  "language": "en",
+  "keywords": [
+    "focus cast",
+    "focuslinks",
+    "retinal circuits",
+    "bipolar divergence",
+    "rod pathway",
+    "amacrine relay",
+    "feedback circuits",
+    "neural computation",
+    "optometry education",
+    "focus cast series 3"
+  ],
+  "description": "The retina does not simply pass light along; it computes, and this episode of Focus Cast by focuslinks opens the wiring diagrams to show how. Learn the foveal private line, where a single cone feeds its own bipolar cell and its own ganglion cell so that exact position is preserved all the way to the brain. Follow the rod detour in full, where a specialized amacrine cell hands night whispers into the cone bipolar system so that two sensor fleets share one output highway. Meet the feedback loops, horizontal cells feeding back onto photoreceptor terminals and amacrine cells onto bipolar terminals, the retina editing its own editing. Made for optometry students, practising optometrists and curious listeners who want the retina's circuits explained for the ear.",
+  "model_id": "hexgrad/Kokoro-82M",
+  "voices": {
+    "Host": "af_heart",
+    "Guide": "am_michael"
+  },
+  "sample_rate": 24000,
+  "duration_sec": 1844.1,
+  "duration_min": 30.73,
+  "files": [
+    "S07E02-retinal-neural-circuits.wav",
+    "S07E02-retinal-neural-circuits.mp3"
+  ]
+}
